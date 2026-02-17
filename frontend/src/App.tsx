@@ -58,7 +58,7 @@ function App() {
     setLoading(true);
 
     try {
-      const res = await fetch("/words");
+      const res = await fetch("/words?group=" + localStorage.getItem("vocab-level"));
       const jsonData: Word[] = await res.json();
 
       // Alle IDs aus DB holen
@@ -158,10 +158,10 @@ function App() {
             saveSettings(srcLang, targetLang, e.target.value);
           }}
         >
-          <option value="1">Level 1</option>
-          <option value="2">Level 2</option>
-          <option value="3">Level 3</option>
-          <option value="4">Level 4</option>
+          <option value="g1">Level 1</option>
+          <option value="g2">Level 2</option>
+          <option value="g3">Level 3</option>
+          <option value="g4">Level 4</option>
         </select>
       </div>
 
