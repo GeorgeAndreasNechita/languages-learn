@@ -1,17 +1,34 @@
 import express from "express";
-import cors from "cors";
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 
 const app = express();
-app.use(cors());
-app.use(express.json());
+const PORT = 5000;
 
+// __dirname in ES Modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// /words Route liest die JSON-Datei
 app.get("/words", (req, res) => {
-  res.json([
-  {"es":"de", "en":"of", "de":"von", "it":"di", "ro":"de", "level": "1", "read": false}
-])
+  const filePath = path.join(__dirname, "data", "words.json");
+
+  fs.readFile(filePath, "utf8", (err, data) => {
+    if (err) {
+      console.error("Fehler beim Lesen der Datei:", err);
+      return res.status(500).json({ error: "Datei konnte nicht gelesen werden" });
+    }
+    try {
+      const words = JSON.parse(data);
+      res.json(words);
+    } catch (parseErr) {
+      console.error("JSON konnte nicht geparst werden:", parseErr);
+      res.status(500).json({ error: "Ungültiges JSON" });
+    }
+  });
 });
 
-const PORT = 5000;
 app.listen(PORT, () => {
-  console.log(`Server läuft auf Port ${PORT}`);
+  console.log(`Server läuft auf http://localhost:${PORT}`);
 });
