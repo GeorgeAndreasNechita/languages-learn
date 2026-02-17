@@ -1,4 +1,5 @@
-{
+[
+  {
     "es": "el gato está aquí",
     "en": "the cat is here",
     "de": "die Katze ist hier",
@@ -1590,3 +1591,4 @@
     "ro": "soarele apune acum",
     "group": "4"
   }
+]
