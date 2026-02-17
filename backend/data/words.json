@@ -1,11 +1,32 @@
 [
   {
+    "id": 1,
     "es": "de",
     "en": "of",
     "de": "von",
     "it": "di",
     "ro": "de",
-    "level": "1",
+    "group": "1",
+    "read": false
+  },
+  {
+    "id": 2,
+    "es": "2",
+    "en": "2",
+    "de": "2",
+    "it": "2",
+    "ro": "2",
+    "group": "1",
+    "read": false
+  },
+  {
+    "id": 3,
+    "es": "2",
+    "en": "2",
+    "de": "2",
+    "it": "2",
+    "ro": "2",
+    "group": "1",
     "read": false
   }
 ]
