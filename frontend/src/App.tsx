@@ -23,7 +23,7 @@ class VocabularyDB extends Dexie {
   constructor() {
     super("VocabularyDB");
     this.version(1).stores({
-      phrases: "++id, es, en, de, it, ro, level",
+      phrases: "id, es, en, de, it, ro, level",
     });
   }
 }
@@ -57,22 +57,36 @@ function App() {
     localStorage.setItem("vocab-theme", theme);
   }, [theme]);
 
-  async function initDB() {
-    const count = await db.phrases.count();
-    if (count === 0) {
-      setLoading(true);
-      try {
-        const res = await fetch(JSON_URL);
-        const data = await res.json();
-        await db.phrases.bulkAdd(data);
-      } catch (e) {
-        console.error("Fehler beim Laden", e);
-      } finally {
-        setLoading(false);
-      }
+async function initDB() {
+  setLoading(true);
+
+  try {
+    const res = await fetch(JSON_URL);
+    const jsonData: Word[] = await res.json();
+
+    // Alle IDs aus DB holen
+    const existingIds = await db.phrases
+      .toCollection()
+      .primaryKeys();
+
+    // Nur neue Wörter filtern
+    const newWords = jsonData.filter(
+      (word) => !existingIds.includes(word.id!)
+    );
+
+    if (newWords.length > 0) {
+      await db.phrases.bulkAdd(newWords);
+      console.log("Neue Wörter hinzugefügt:", newWords.length);
     }
-    loadFromDB();
+
+  } catch (e) {
+    console.error("Fehler beim Sync", e);
+  } finally {
+    setLoading(false);
   }
+
+  loadFromDB();
+}
 
   async function loadFromDB() {
     const data = await db.phrases.toArray();
