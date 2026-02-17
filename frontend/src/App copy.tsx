@@ -1,4 +1,6 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
+import Dexie from "dexie";
+import type { Table } from "dexie";
 import "./App.css";
 
 interface Word {
@@ -11,6 +13,19 @@ interface Word {
   group: string;
   read: boolean;
 }
+
+class VocabularyDB extends Dexie {
+  phrases!: Table<Word>;
+
+  constructor() {
+    super("VocabularyDB");
+    this.version(1).stores({
+      phrases: "id, es, en, de, it, ro, group, read",
+    });
+  }
+}
+
+const db = new VocabularyDB();
 
 function App() {
   const [words, setWords] = useState<Word[]>([]);
@@ -26,38 +41,60 @@ function App() {
     localStorage.getItem("vocab-target") || "de",
   );
   const [levelFilter, setLevelFilter] = useState(
-    localStorage.getItem("vocab-level") || "1",
+    localStorage.getItem("vocab-level") || "all",
   );
 
-  // Fetch when level changes
+  // Init DB
   useEffect(() => {
-    fetchData();
-  }, [levelFilter]);
+    initDB();
+  }, []);
 
   useEffect(() => {
     document.documentElement.setAttribute("data-theme", theme);
     localStorage.setItem("vocab-theme", theme);
   }, [theme]);
 
-  async function fetchData() {
+  async function initDB() {
+    setLoading(true);
+
     try {
-      setLoading(true);
+      const res = await fetch("/words?group=" + localStorage.getItem("vocab-level"));
+      const jsonData: Word[] = await res.json();
 
-      const res = await fetch(`/words?group=${levelFilter}`);
-      const data = await res.json();
+      // Alle IDs aus DB holen
+      const existingIds = await db.phrases.toCollection().primaryKeys();
+      
+      // Nur neue Wörter filtern
+      const newWords = jsonData.filter(
+        (word) => !existingIds.includes(word.id!),
+      );
 
-      setWords(data);
-    } catch (err) {
-      console.error("Fehler beim Laden:", err);
+      if (newWords.length > 0) {
+        await db.phrases.bulkAdd(newWords);
+        console.log("Neue Wörter hinzugefügt:", newWords.length);
+      }
+    } catch (e) {
+      console.error("Fehler beim Sync", e);
     } finally {
       setLoading(false);
     }
+    loadFromDB();
   }
+
+  async function loadFromDB() {
+    const data = await db.phrases.toArray();
+    setWords(data);
+  }
+
+  const filteredWords = useMemo(() => {
+    return words.filter((word) => String(word.group) === levelFilter && word.read == false);
+  }, [words, levelFilter]);
 
   function saveSettings(src: string, target: string, level: string) {
     localStorage.setItem("vocab-src", src);
     localStorage.setItem("vocab-target", target);
     localStorage.setItem("vocab-level", level);
+    initDB();
   }
 
   function swapLanguages() {
@@ -68,17 +105,10 @@ function App() {
     saveSettings(newSrc, newTarget, levelFilter);
   }
 
-  function removeWord(id: number) {
-    setWords((prev) => {
-      const updated = prev.filter((word) => word.id !== id);
-
-      // Wenn keine Wörter mehr da sind → neu laden
-      if (updated.length === 0) {
-        fetchData();
-      }
-
-      return updated;
-    });
+  async function markAsRead(id?: number) {
+    if (!id) return;
+    await db.phrases.update(id, { read: true });
+    await loadFromDB();
   }
 
   return (
@@ -128,22 +158,26 @@ function App() {
             saveSettings(srcLang, targetLang, e.target.value);
           }}
         >
-          <option value="1">1 Word</option>
-          <option value="2">2 Words</option>
-          <option value="3">3 Words</option>
-          <option value="4">4 Words</option>
+          <option value="1">Level 1</option>
+          <option value="2">Level 2</option>
+          <option value="3">Level 3</option>
+          <option value="4">Level 4</option>
         </select>
       </div>
 
       {loading && <div className="status">Lade Daten...</div>}
 
-      {words.map((item) => (
+      {filteredWords.length === 0 && !loading && (
+        <p className="status">Keine Einträge gefunden.</p>
+      )}
+
+      {filteredWords.map((item) => (
         <div key={item.id} className="table-row">
           <div className="word-src">{(item as any)[srcLang] || "---"}</div>
           <div className="word-target">
             {(item as any)[targetLang] || "---"}
           </div>
-          <button onClick={() => removeWord(item.id)}>🗑️</button>
+          <button onClick={() => markAsRead(item.id)}>🗑️</button>
         </div>
       ))}
     </div>
