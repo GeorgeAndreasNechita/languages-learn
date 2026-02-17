@@ -13,7 +13,7 @@ const __dirname = path.dirname(__filename);
 // /words Route liest die JSON-Datei
 app.get("/words", (req, res) => {
   const group = req.query.group;
-  const filePath = path.join(__dirname, "data", `${group}.json`);
+  const filePath = path.join(__dirname, "data", `g${group}.json`);
 
   fs.readFile(filePath, "utf8", (err, data) => {
     if (err) {

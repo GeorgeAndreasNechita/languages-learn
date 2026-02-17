@@ -63,7 +63,7 @@ function App() {
 
       // Alle IDs aus DB holen
       const existingIds = await db.phrases.toCollection().primaryKeys();
-
+      
       // Nur neue Wörter filtern
       const newWords = jsonData.filter(
         (word) => !existingIds.includes(word.id!),
@@ -78,7 +78,6 @@ function App() {
     } finally {
       setLoading(false);
     }
-
     loadFromDB();
   }
 
@@ -158,10 +157,10 @@ function App() {
             saveSettings(srcLang, targetLang, e.target.value);
           }}
         >
-          <option value="g1">Level 1</option>
-          <option value="g2">Level 2</option>
-          <option value="g3">Level 3</option>
-          <option value="g4">Level 4</option>
+          <option value="1">Level 1</option>
+          <option value="2">Level 2</option>
+          <option value="3">Level 3</option>
+          <option value="4">Level 4</option>
         </select>
       </div>
 
