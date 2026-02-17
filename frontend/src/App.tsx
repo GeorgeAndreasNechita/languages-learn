@@ -3,18 +3,15 @@ import Dexie from "dexie";
 import type { Table } from "dexie";
 import "./App.css";
 
-const JSON_URL =
-  "/words";
-
 interface Word {
-  id?: number;
+  id: number;
   es: string;
   en: string;
   de: string;
   it: string;
   ro: string;
-  level: string;
-  read?: boolean;
+  group: string;
+  read: boolean;
 }
 
 class VocabularyDB extends Dexie {
@@ -23,7 +20,7 @@ class VocabularyDB extends Dexie {
   constructor() {
     super("VocabularyDB");
     this.version(1).stores({
-      phrases: "id, es, en, de, it, ro, level",
+      phrases: "id, es, en, de, it, ro, group, read",
     });
   }
 }
@@ -57,36 +54,33 @@ function App() {
     localStorage.setItem("vocab-theme", theme);
   }, [theme]);
 
-async function initDB() {
-  setLoading(true);
+  async function initDB() {
+    setLoading(true);
 
-  try {
-    const res = await fetch(JSON_URL);
-    const jsonData: Word[] = await res.json();
+    try {
+      const res = await fetch("/words");
+      const jsonData: Word[] = await res.json();
 
-    // Alle IDs aus DB holen
-    const existingIds = await db.phrases
-      .toCollection()
-      .primaryKeys();
+      // Alle IDs aus DB holen
+      const existingIds = await db.phrases.toCollection().primaryKeys();
 
-    // Nur neue Wörter filtern
-    const newWords = jsonData.filter(
-      (word) => !existingIds.includes(word.id!)
-    );
+      // Nur neue Wörter filtern
+      const newWords = jsonData.filter(
+        (word) => !existingIds.includes(word.id!),
+      );
 
-    if (newWords.length > 0) {
-      await db.phrases.bulkAdd(newWords);
-      console.log("Neue Wörter hinzugefügt:", newWords.length);
+      if (newWords.length > 0) {
+        await db.phrases.bulkAdd(newWords);
+        console.log("Neue Wörter hinzugefügt:", newWords.length);
+      }
+    } catch (e) {
+      console.error("Fehler beim Sync", e);
+    } finally {
+      setLoading(false);
     }
 
-  } catch (e) {
-    console.error("Fehler beim Sync", e);
-  } finally {
-    setLoading(false);
+    loadFromDB();
   }
-
-  loadFromDB();
-}
 
   async function loadFromDB() {
     const data = await db.phrases.toArray();
@@ -95,7 +89,8 @@ async function initDB() {
 
   const filteredWords = useMemo(() => {
     if (levelFilter === "all") return words;
-    return words.filter((w) => String(w.level) === levelFilter);
+    console.log(filteredWords)
+    return words.filter((word) => String(word.group) === levelFilter);
   }, [words, levelFilter]);
 
   function saveSettings(src: string, target: string, level: string) {
@@ -112,14 +107,10 @@ async function initDB() {
     saveSettings(newSrc, newTarget, levelFilter);
   }
 
-  async function deleteEntry(id?: number) {
+  async function markAsRead(id?: number) {
     if (!id) return;
-    await db.phrases.delete(id);
+    await db.phrases.update(id, { read: true });
     await loadFromDB();
-
-    if ((await db.phrases.count()) === 0) {
-      initDB();
-    }
   }
 
   return (
@@ -189,7 +180,7 @@ async function initDB() {
           <div className="word-target">
             {(item as any)[targetLang] || "---"}
           </div>
-          <button onClick={() => deleteEntry(item.id)}>🗑️</button>
+          <button onClick={() => markAsRead(item.id)}>🗑️</button>
         </div>
       ))}
     </div>
