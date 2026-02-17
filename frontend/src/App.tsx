@@ -88,9 +88,7 @@ function App() {
   }
 
   const filteredWords = useMemo(() => {
-    if (levelFilter === "all") return words;
-    console.log(filteredWords)
-    return words.filter((word) => String(word.group) === levelFilter);
+    return words.filter((word) => String(word.group) === levelFilter && word.read == false);
   }, [words, levelFilter]);
 
   function saveSettings(src: string, target: string, level: string) {
@@ -160,7 +158,6 @@ function App() {
             saveSettings(srcLang, targetLang, e.target.value);
           }}
         >
-          <option value="all">Alle Levels</option>
           <option value="1">Level 1</option>
           <option value="2">Level 2</option>
           <option value="3">Level 3</option>
