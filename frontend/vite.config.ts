@@ -16,6 +16,12 @@ export default defineConfig({
     watch: {
       usePolling: true,
       interval: 100
+    },
+    proxy: {
+    '/words': {
+      target: 'http://backend:5000',
+      changeOrigin: true
     }
+  }
   }
 })

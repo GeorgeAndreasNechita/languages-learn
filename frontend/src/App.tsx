@@ -1,35 +1,185 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useEffect, useState, useMemo } from "react";
+import Dexie from "dexie";
+import type { Table } from "dexie";
+import "./App.css";
 
-function App() {
-  const [count, setCount] = useState(0)
+const JSON_URL =
+  "/words";
 
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+interface Word {
+  id?: number;
+  es: string;
+  en: string;
+  de: string;
+  it: string;
+  ro: string;
+  level: string;
+  read?: boolean;
 }
 
-export default App
+class VocabularyDB extends Dexie {
+  phrases!: Table<Word>;
+
+  constructor() {
+    super("VocabularyDB");
+    this.version(1).stores({
+      phrases: "++id, es, en, de, it, ro, level",
+    });
+  }
+}
+
+const db = new VocabularyDB();
+
+function App() {
+  const [words, setWords] = useState<Word[]>([]);
+  const [loading, setLoading] = useState(false);
+
+  const [theme, setTheme] = useState(
+    localStorage.getItem("vocab-theme") || "dark",
+  );
+  const [srcLang, setSrcLang] = useState(
+    localStorage.getItem("vocab-src") || "es",
+  );
+  const [targetLang, setTargetLang] = useState(
+    localStorage.getItem("vocab-target") || "de",
+  );
+  const [levelFilter, setLevelFilter] = useState(
+    localStorage.getItem("vocab-level") || "all",
+  );
+
+  // Init DB
+  useEffect(() => {
+    initDB();
+  }, []);
+
+  useEffect(() => {
+    document.documentElement.setAttribute("data-theme", theme);
+    localStorage.setItem("vocab-theme", theme);
+  }, [theme]);
+
+  async function initDB() {
+    const count = await db.phrases.count();
+    if (count === 0) {
+      setLoading(true);
+      try {
+        const res = await fetch(JSON_URL);
+        const data = await res.json();
+        await db.phrases.bulkAdd(data);
+      } catch (e) {
+        console.error("Fehler beim Laden", e);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadFromDB();
+  }
+
+  async function loadFromDB() {
+    const data = await db.phrases.toArray();
+    setWords(data);
+  }
+
+  const filteredWords = useMemo(() => {
+    if (levelFilter === "all") return words;
+    return words.filter((w) => String(w.level) === levelFilter);
+  }, [words, levelFilter]);
+
+  function saveSettings(src: string, target: string, level: string) {
+    localStorage.setItem("vocab-src", src);
+    localStorage.setItem("vocab-target", target);
+    localStorage.setItem("vocab-level", level);
+  }
+
+  function swapLanguages() {
+    const newSrc = targetLang;
+    const newTarget = srcLang;
+    setSrcLang(newSrc);
+    setTargetLang(newTarget);
+    saveSettings(newSrc, newTarget, levelFilter);
+  }
+
+  async function deleteEntry(id?: number) {
+    if (!id) return;
+    await db.phrases.delete(id);
+    await loadFromDB();
+
+    if ((await db.phrases.count()) === 0) {
+      initDB();
+    }
+  }
+
+  return (
+    <div className="container">
+      <div className="header-flex">
+        <h2>Vocab Trainer</h2>
+        <button onClick={() => setTheme(theme === "dark" ? "light" : "dark")}>
+          🌓
+        </button>
+      </div>
+
+      <div className="controls">
+        <select
+          value={srcLang}
+          onChange={(e) => {
+            setSrcLang(e.target.value);
+            saveSettings(e.target.value, targetLang, levelFilter);
+          }}
+        >
+          <option value="es">🇪🇸 Spanish</option>
+          <option value="de">🇩🇪 German</option>
+          <option value="en">🇬🇧 English</option>
+          <option value="it">🇮🇹 Italian</option>
+          <option value="ro">🇷🇴 Romanian</option>
+        </select>
+
+        <button onClick={swapLanguages}>⇄</button>
+
+        <select
+          value={targetLang}
+          onChange={(e) => {
+            setTargetLang(e.target.value);
+            saveSettings(srcLang, e.target.value, levelFilter);
+          }}
+        >
+          <option value="es">🇪🇸 Spanish</option>
+          <option value="de">🇩🇪 German</option>
+          <option value="en">🇬🇧 English</option>
+          <option value="it">🇮🇹 Italian</option>
+          <option value="ro">🇷🇴 Romanian</option>
+        </select>
+
+        <select
+          value={levelFilter}
+          onChange={(e) => {
+            setLevelFilter(e.target.value);
+            saveSettings(srcLang, targetLang, e.target.value);
+          }}
+        >
+          <option value="all">Alle Levels</option>
+          <option value="1">Level 1</option>
+          <option value="2">Level 2</option>
+          <option value="3">Level 3</option>
+          <option value="4">Level 4</option>
+        </select>
+      </div>
+
+      {loading && <div className="status">Lade Daten...</div>}
+
+      {filteredWords.length === 0 && !loading && (
+        <p className="status">Keine Einträge gefunden.</p>
+      )}
+
+      {filteredWords.map((item) => (
+        <div key={item.id} className="table-row">
+          <div className="word-src">{(item as any)[srcLang] || "---"}</div>
+          <div className="word-target">
+            {(item as any)[targetLang] || "---"}
+          </div>
+          <button onClick={() => deleteEntry(item.id)}>🗑️</button>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export default App;
