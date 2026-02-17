@@ -1,0 +1,2801 @@
+[
+  {
+    "es": "buenos días",
+    "en": "good morning",
+    "de": "guten Morgen",
+    "it": "buongiorno",
+    "ro": "bună dimineața",
+    "group": "2"
+  },
+  {
+    "es": "muchas gracias",
+    "en": "many thanks",
+    "de": "vielen Dank",
+    "it": "molte grazie",
+    "ro": "mulțumesc mult",
+    "group": "2"
+  },
+  {
+    "es": "por favor",
+    "en": "please",
+    "de": "bitte sehr",
+    "it": "per favore",
+    "ro": "vă rog",
+    "group": "2"
+  },
+  {
+    "es": "de nada",
+    "en": "you're welcome",
+    "de": "bitte sehr",
+    "it": "prego",
+    "ro": "cu plăcere",
+    "group": "2"
+  },
+  {
+    "es": "lo siento",
+    "en": "I'm sorry",
+    "de": "tut mir leid",
+    "it": "mi dispiace",
+    "ro": "îmi pare rău",
+    "group": "2"
+  },
+  {
+    "es": "buenas noches",
+    "en": "good night",
+    "de": "gute Nacht",
+    "it": "buonanotte",
+    "ro": "noapte bună",
+    "group": "2"
+  },
+  {
+    "es": "muy bien",
+    "en": "very well",
+    "de": "sehr gut",
+    "it": "molto bene",
+    "ro": "foarte bine",
+    "group": "2"
+  },
+  {
+    "es": "hasta luego",
+    "en": "see you later",
+    "de": "bis später",
+    "it": "a dopo",
+    "ro": "pe curând",
+    "group": "2"
+  },
+  {
+    "es": "qué tal",
+    "en": "how's it going",
+    "de": "wie geht's",
+    "it": "come va",
+    "ro": "ce mai faci",
+    "group": "2"
+  },
+  {
+    "es": "claro que sí",
+    "en": "of course",
+    "de": "natürlich ja",
+    "it": "certo che sì",
+    "ro": "desigur că da",
+    "group": "2"
+  },
+  {
+    "es": "en serio",
+    "en": "seriously",
+    "de": "im Ernst",
+    "it": "sul serio",
+    "ro": "serios",
+    "group": "2"
+  },
+  {
+    "es": "con permiso",
+    "en": "excuse me",
+    "de": "mit Erlaubnis",
+    "it": "con permesso",
+    "ro": "cu permisiune",
+    "group": "2"
+  },
+  {
+    "es": "buen viaje",
+    "en": "have a good trip",
+    "de": "gute Reise",
+    "it": "buon viaggio",
+    "ro": "călătorie plăcută",
+    "group": "2"
+  },
+  {
+    "es": "tengo hambre",
+    "en": "I am hungry",
+    "de": "ich habe Hunger",
+    "it": "ho fame",
+    "ro": "mi-e foame",
+    "group": "2"
+  },
+  {
+    "es": "tengo sed",
+    "en": "I am thirsty",
+    "de": "ich habe Durst",
+    "it": "ho sete",
+    "ro": "mi-e sete",
+    "group": "2"
+  },
+  {
+    "es": "hace frío",
+    "en": "it is cold",
+    "de": "es ist kalt",
+    "it": "fa freddo",
+    "ro": "este frig",
+    "group": "2"
+  },
+  {
+    "es": "hace calor",
+    "en": "it is hot",
+    "de": "es ist heiß",
+    "it": "fa caldo",
+    "ro": "este cald",
+    "group": "2"
+  },
+  {
+    "es": "qué hora",
+    "en": "what time",
+    "de": "wie viel Uhr",
+    "it": "che ora",
+    "ro": "ce oră",
+    "group": "2"
+  },
+  {
+    "es": "mi amigo",
+    "en": "my friend",
+    "de": "mein Freund",
+    "it": "mio amico",
+    "ro": "prietenul meu",
+    "group": "2"
+  },
+  {
+    "es": "esta casa",
+    "en": "this house",
+    "de": "dieses Haus",
+    "it": "questa casa",
+    "ro": "această casă",
+    "group": "2"
+  },
+  {
+    "es": "cada día",
+    "en": "every day",
+    "de": "jeden Tag",
+    "it": "ogni giorno",
+    "ro": "în fiecare zi",
+    "group": "2"
+  },
+  {
+    "es": "todo bien",
+    "en": "all good",
+    "de": "alles gut",
+    "it": "tutto bene",
+    "ro": "totul bine",
+    "group": "2"
+  },
+  {
+    "es": "buena suerte",
+    "en": "good luck",
+    "de": "viel Glück",
+    "it": "buona fortuna",
+    "ro": "mult noroc",
+    "group": "2"
+  },
+  {
+    "es": "a veces",
+    "en": "sometimes",
+    "de": "manchmal",
+    "it": "a volte",
+    "ro": "uneori",
+    "group": "2"
+  },
+  {
+    "es": "poco tiempo",
+    "en": "little time",
+    "de": "wenig Zeit",
+    "it": "poco tempo",
+    "ro": "puțin timp",
+    "group": "2"
+  },
+  {
+    "es": "más tarde",
+    "en": "later on",
+    "de": "später",
+    "it": "più tardi",
+    "ro": "mai târziu",
+    "group": "2"
+  },
+  {
+    "es": "ahora mismo",
+    "en": "right now",
+    "de": "jetzt sofort",
+    "it": "proprio ora",
+    "ro": "chiar acum",
+    "group": "2"
+  },
+  {
+    "es": "sin duda",
+    "en": "without doubt",
+    "de": "ohne Zweifel",
+    "it": "senza dubbio",
+    "ro": "fără îndoială",
+    "group": "2"
+  },
+  {
+    "es": "por eso",
+    "en": "therefore",
+    "de": "deswegen",
+    "it": "per questo",
+    "ro": "de aceea",
+    "group": "2"
+  },
+  {
+    "es": "demasiado tarde",
+    "en": "too late",
+    "de": "zu spät",
+    "it": "troppo tardi",
+    "ro": "prea târziu",
+    "group": "2"
+  },
+  {
+    "es": "hace tiempo",
+    "en": "long ago",
+    "de": "vor langer Zeit",
+    "it": "molto tempo fa",
+    "ro": "cu mult timp în urmă",
+    "group": "2"
+  },
+  {
+    "es": "un poco",
+    "en": "a little",
+    "de": "ein bisschen",
+    "it": "un po'",
+    "ro": "un pic",
+    "group": "2"
+  },
+  {
+    "es": "otra vez",
+    "en": "again",
+    "de": "noch einmal",
+    "it": "un'altra volta",
+    "ro": "încă o dată",
+    "group": "2"
+  },
+  {
+    "es": "estoy listo",
+    "en": "I am ready",
+    "de": "ich bin bereit",
+    "it": "sono pronto",
+    "ro": "sunt gata",
+    "group": "2"
+  },
+  {
+    "es": "buena idea",
+    "en": "good idea",
+    "de": "gute Idee",
+    "it": "buona idea",
+    "ro": "bună idee",
+    "group": "2"
+  },
+  {
+    "es": "dame eso",
+    "en": "give me that",
+    "de": "gib mir das",
+    "it": "dammi quello",
+    "ro": "dă-mi asta",
+    "group": "2"
+  },
+  {
+    "es": "ven aquí",
+    "en": "come here",
+    "de": "komm her",
+    "it": "vieni qui",
+    "ro": "vino aici",
+    "group": "2"
+  },
+  {
+    "es": "está lejos",
+    "en": "it is far",
+    "de": "es ist weit",
+    "it": "è lontano",
+    "ro": "este departe",
+    "group": "2"
+  },
+  {
+    "es": "está cerca",
+    "en": "it is near",
+    "de": "es ist nah",
+    "it": "è vicino",
+    "ro": "este aproape",
+    "group": "2"
+  },
+  {
+    "es": "mucha gente",
+    "en": "many people",
+    "de": "viele Leute",
+    "it": "molta gente",
+    "ro": "multă lume",
+    "group": "2"
+  },
+  {
+    "es": "nadie sabe",
+    "en": "nobody knows",
+    "de": "niemand weiß",
+    "it": "nessuno sa",
+    "ro": "nimeni nu știe",
+    "group": "2"
+  },
+  {
+    "es": "todos juntos",
+    "en": "all together",
+    "de": "alle zusammen",
+    "it": "tutti insieme",
+    "ro": "toți împreună",
+    "group": "2"
+  },
+  {
+    "es": "buen trabajo",
+    "en": "good job",
+    "de": "gute Arbeit",
+    "it": "buon lavoro",
+    "ro": "bună treabă",
+    "group": "2"
+  },
+  {
+    "es": "más comida",
+    "en": "more food",
+    "de": "mehr Essen",
+    "it": "più cibo",
+    "ro": "mai multă mâncare",
+    "group": "2"
+  },
+  {
+    "es": "agua fría",
+    "en": "cold water",
+    "de": "kaltes Wasser",
+    "it": "acqua fredda",
+    "ro": "apă rece",
+    "group": "2"
+  },
+  {
+    "es": "pan fresco",
+    "en": "fresh bread",
+    "de": "frisches Brot",
+    "it": "pane fresco",
+    "ro": "pâine proaspătă",
+    "group": "2"
+  },
+  {
+    "es": "cierra puerta",
+    "en": "close door",
+    "de": "Tür schließen",
+    "it": "chiudi porta",
+    "ro": "închide ușa",
+    "group": "2"
+  },
+  {
+    "es": "abre ventana",
+    "en": "open window",
+    "de": "Fenster öffnen",
+    "it": "apri finestra",
+    "ro": "deschide fereastra",
+    "group": "2"
+  },
+  {
+    "es": "tengo miedo",
+    "en": "I am afraid",
+    "de": "ich habe Angst",
+    "it": "ho paura",
+    "ro": "mi-e frică",
+    "group": "2"
+  },
+  {
+    "es": "estoy cansado",
+    "en": "I am tired",
+    "de": "ich bin müde",
+    "it": "sono stanco",
+    "ro": "sunt obosit",
+    "group": "2"
+  },
+  {
+    "es": "buen libro",
+    "en": "good book",
+    "de": "gutes Buch",
+    "it": "buon libro",
+    "ro": "carte bună",
+    "group": "2"
+  },
+  {
+    "es": "coche nuevo",
+    "en": "new car",
+    "de": "neues Auto",
+    "it": "auto nuova",
+    "ro": "mașină nouă",
+    "group": "2"
+  },
+  {
+    "es": "casa grande",
+    "en": "big house",
+    "de": "großes Haus",
+    "it": "casa grande",
+    "ro": "casă mare",
+    "group": "2"
+  },
+  {
+    "es": "perro pequeño",
+    "en": "small dog",
+    "de": "kleiner Hund",
+    "it": "cane piccolo",
+    "ro": "câine mic",
+    "group": "2"
+  },
+  {
+    "es": "hace sol",
+    "en": "it's sunny",
+    "de": "es ist sonnig",
+    "it": "c'è sole",
+    "ro": "este soare",
+    "group": "2"
+  },
+  {
+    "es": "mucha agua",
+    "en": "much water",
+    "de": "viel Wasser",
+    "it": "molta acqua",
+    "ro": "multă apă",
+    "group": "2"
+  },
+  {
+    "es": "café solo",
+    "en": "black coffee",
+    "de": "schwarzer Kaffee",
+    "it": "caffè nero",
+    "ro": "cafea neagră",
+    "group": "2"
+  },
+  {
+    "es": "leche fría",
+    "en": "cold milk",
+    "de": "kalte Milch",
+    "it": "latte freddo",
+    "ro": "lapte rece",
+    "group": "2"
+  },
+  {
+    "es": "té caliente",
+    "en": "hot tea",
+    "de": "heißer Tee",
+    "it": "tè caldo",
+    "ro": "ceai cald",
+    "group": "2"
+  },
+  {
+    "es": "pan blanco",
+    "en": "white bread",
+    "de": "weißes Brot",
+    "it": "pane bianco",
+    "ro": "pâine albă",
+    "group": "2"
+  },
+  {
+    "es": "vino tinto",
+    "en": "red wine",
+    "de": "Rotwein",
+    "it": "vino rosso",
+    "ro": "vin roșu",
+    "group": "2"
+  },
+  {
+    "es": "fruta fresca",
+    "en": "fresh fruit",
+    "de": "frisches Obst",
+    "it": "frutta fresca",
+    "ro": "fructe proaspete",
+    "group": "2"
+  },
+  {
+    "es": "ciudad vieja",
+    "en": "old city",
+    "de": "alte Stadt",
+    "it": "città vecchia",
+    "ro": "oraș vechi",
+    "group": "2"
+  },
+  {
+    "es": "calle larga",
+    "en": "long street",
+    "de": "lange Straße",
+    "it": "via lunga",
+    "ro": "stradă lungă",
+    "group": "2"
+  },
+  {
+    "es": "mar azul",
+    "en": "blue sea",
+    "de": "blaues Meer",
+    "it": "mare azzurro",
+    "ro": "mare albastră",
+    "group": "2"
+  },
+  {
+    "es": "cielo claro",
+    "en": "clear sky",
+    "de": "klarer Himmel",
+    "it": "cielo chiaro",
+    "ro": "cer senin",
+    "group": "2"
+  },
+  {
+    "es": "película buena",
+    "en": "good movie",
+    "de": "guter Film",
+    "it": "bel film",
+    "ro": "film bun",
+    "group": "2"
+  },
+  {
+    "es": "música alta",
+    "en": "loud music",
+    "de": "laute Musik",
+    "it": "musica alta",
+    "ro": "muzică tare",
+    "group": "2"
+  },
+  {
+    "es": "trabajo duro",
+    "en": "hard work",
+    "de": "harte Arbeit",
+    "it": "lavoro duro",
+    "ro": "muncă grea",
+    "group": "2"
+  },
+  {
+    "es": "estudiante joven",
+    "en": "young student",
+    "de": "junger Student",
+    "it": "studente giovane",
+    "ro": "student tânăr",
+    "group": "2"
+  },
+  {
+    "es": "profesor sabio",
+    "en": "wise teacher",
+    "de": "weiser Lehrer",
+    "it": "professore saggio",
+    "ro": "profesor înțelept",
+    "group": "2"
+  },
+  {
+    "es": "niño feliz",
+    "en": "happy child",
+    "de": "glückliches Kind",
+    "it": "bambino felice",
+    "ro": "copil fericit"
+  },
+  {
+    "es": "mujer guapa",
+    "en": "pretty woman",
+    "de": "hübsche Frau",
+    "it": "bella donna",
+    "ro": "femeie frumoasă",
+    "group": "2"
+  },
+  {
+    "es": "hombre fuerte",
+    "en": "strong man",
+    "de": "starker Mann",
+    "it": "uomo forte",
+    "ro": "bărbat puternic",
+    "group": "2"
+  },
+  {
+    "es": "comida rápida",
+    "en": "fast food",
+    "de": "Fast Food",
+    "it": "cibo veloce",
+    "ro": "mâncare rapidă",
+    "group": "2"
+  },
+  {
+    "es": "noche oscura",
+    "en": "dark night",
+    "de": "dunkle Nacht",
+    "it": "notte oscura",
+    "ro": "noapte întunecată",
+    "group": "2"
+  },
+  {
+    "es": "día libre",
+    "en": "day off",
+    "de": "freier Tag",
+    "it": "giorno libero",
+    "ro": "zi liberă",
+    "group": "2"
+  },
+  {
+    "es": "fin semana",
+    "en": "week end",
+    "de": "Wochenende",
+    "it": "fine settimana",
+    "ro": "sfârșit săptămână",
+    "group": "2"
+  },
+  {
+    "es": "clase aburrida",
+    "en": "boring class",
+    "de": "langweiliger Kurs",
+    "it": "classe noiosa",
+    "ro": "curs plictisitor",
+    "group": "2"
+  },
+  {
+    "es": "idioma difícil",
+    "en": "difficult language",
+    "de": "schwere Sprache",
+    "it": "lingua difficile",
+    "ro": "limbă dificilă",
+    "group": "2"
+  },
+  {
+    "es": "pregunta fácil",
+    "en": "easy question",
+    "de": "einfache Frage",
+    "it": "domanda facile",
+    "ro": "întrebare ușoară",
+    "group": "2"
+  },
+  {
+    "es": "respuesta corta",
+    "en": "short answer",
+    "de": "kurze Antwort",
+    "it": "risposta breve",
+    "ro": "răspuns scurt",
+    "group": "2"
+  },
+  {
+    "es": "camino corto",
+    "en": "short path",
+    "de": "kurzer Weg",
+    "it": "strada corta",
+    "ro": "drum scurt",
+    "group": "2"
+  },
+  {
+    "es": "ropa limpia",
+    "en": "clean clothes",
+    "de": "saubere Kleidung",
+    "it": "vestiti puliti",
+    "ro": "haine curate",
+    "group": "2"
+  },
+  {
+    "es": "manos sucias",
+    "en": "dirty hands",
+    "de": "schmutzige Hände",
+    "it": "mani sporche",
+    "ro": "mâini murdare",
+    "group": "2"
+  },
+  {
+    "es": "reloj caro",
+    "en": "expensive watch",
+    "de": "teure Uhr",
+    "it": "orologio caro",
+    "ro": "ceas scump",
+    "group": "2"
+  },
+  {
+    "es": "bolso barato",
+    "en": "cheap bag",
+    "de": "billige Tasche",
+    "it": "borsa economica",
+    "ro": "geantă ieftină",
+    "group": "2"
+  },
+  {
+    "es": "llave perdida",
+    "en": "lost key",
+    "de": "verlorener Schlüssel",
+    "it": "chiave persa",
+    "ro": "cheie pierdută",
+    "group": "2"
+  },
+  {
+    "es": "puerta abierta",
+    "en": "open door",
+    "de": "offene Tür",
+    "it": "porta aperta",
+    "ro": "ușă deschisă",
+    "group": "2"
+  },
+  {
+    "es": "ventana cerrada",
+    "en": "closed window",
+    "de": "geschlossenes Fenster",
+    "it": "finestra chiusa",
+    "ro": "fereastră închisă",
+    "group": "2"
+  },
+  {
+    "es": "luz encendida",
+    "en": "light on",
+    "de": "Licht an",
+    "it": "luce accesa",
+    "ro": "lumină aprinsă",
+    "group": "2"
+  },
+  {
+    "es": "fuego apagado",
+    "en": "fire out",
+    "de": "Feuer aus",
+    "it": "fuoco spento",
+    "ro": "foc stins",
+    "group": "2"
+  },
+  {
+    "es": "corazón roto",
+    "en": "broken heart",
+    "de": "gebrochenes Herz",
+    "it": "cuore infranto",
+    "ro": "inimă frântă",
+    "group": "2"
+  },
+  {
+    "es": "mente abierta",
+    "en": "open mind",
+    "de": "offener Geist",
+    "it": "mente aperta",
+    "ro": "minte deschisă",
+    "group": "2"
+  },
+  {
+    "es": "tiempo libre",
+    "en": "spare time",
+    "de": "Freizeit",
+    "it": "tempo libero",
+    "ro": "timp liber",
+    "group": "2"
+  },
+  {
+    "es": "vida sana",
+    "en": "healthy life",
+    "de": "gesundes Leben",
+    "it": "vita sana",
+    "ro": "viață sănătoasă",
+    "group": "2"
+  },
+  {
+    "es": "mal tiempo",
+    "en": "bad weather",
+    "de": "schlechtes Wetter",
+    "it": "brutto tempo",
+    "ro": "vreme rea",
+    "group": "2"
+  },
+  {
+    "es": "bajo control",
+    "en": "under control",
+    "de": "unter Kontrolle",
+    "it": "sotto controllo",
+    "ro": "sub control",
+    "group": "2"
+  },
+  {
+    "es": "sin miedo",
+    "en": "without fear",
+    "de": "ohne Angst",
+    "it": "senza paura",
+    "ro": "fără frică",
+    "group": "2"
+  },
+  {
+    "es": "con cuidado",
+    "en": "with care",
+    "de": "mit Vorsicht",
+    "it": "con cura",
+    "ro": "cu grijă",
+    "group": "2"
+  },
+  {
+    "es": "muy rápido",
+    "en": "very fast",
+    "de": "sehr schnell",
+    "it": "molto veloce",
+    "ro": "foarte repede",
+    "group": "2"
+  },
+  {
+    "es": "bastante lento",
+    "en": "quite slow",
+    "de": "ziemlich langsam",
+    "it": "piuttosto lento",
+    "ro": "destul de lent",
+    "group": "2"
+  },
+  {
+    "es": "demasiado pronto",
+    "en": "too early",
+    "de": "zu früh",
+    "it": "troppo presto",
+    "ro": "prea devreme",
+    "group": "2"
+  },
+  {
+    "es": "por fin",
+    "en": "at last",
+    "de": "endlich",
+    "it": "alla fine",
+    "ro": "în sfârșit",
+    "group": "2"
+  },
+  {
+    "es": "de repente",
+    "en": "suddenly",
+    "de": "plötzlich",
+    "it": "all'improvviso",
+    "ro": "deodată",
+    "group": "2"
+  },
+  {
+    "es": "en medio",
+    "en": "in middle",
+    "de": "in der Mitte",
+    "it": "nel mezzo",
+    "ro": "în mijloc",
+    "group": "2"
+  },
+  {
+    "es": "al lado",
+    "en": "beside",
+    "de": "nebenan",
+    "it": "accanto",
+    "ro": "alături",
+    "group": "2"
+  },
+  {
+    "es": "hacia arriba",
+    "en": "upwards",
+    "de": "nach oben",
+    "it": "verso l'alto",
+    "ro": "în sus",
+    "group": "2"
+  },
+  {
+    "es": "hacia abajo",
+    "en": "downwards",
+    "de": "nach unten",
+    "it": "verso il basso",
+    "ro": "în jos",
+    "group": "2"
+  },
+  {
+    "es": "dentro de",
+    "en": "inside of",
+    "de": "innerhalb von",
+    "it": "dentro di",
+    "ro": "în interior",
+    "group": "2"
+  },
+  {
+    "es": "fuera de",
+    "en": "outside of",
+    "de": "außerhalb von",
+    "it": "fuori da",
+    "ro": "în afară",
+    "group": "2"
+  },
+  {
+    "es": "antes de",
+    "en": "before",
+    "de": "vor (zeitlich)",
+    "it": "prima di",
+    "ro": "înainte de",
+    "group": "2"
+  },
+  {
+    "es": "después de",
+    "en": "after",
+    "de": "nach (zeitlich)",
+    "it": "dopo di",
+    "ro": "după",
+    "group": "2"
+  },
+  {
+    "es": "sobre todo",
+    "en": "above all",
+    "de": "vor allem",
+    "it": "soprattutto",
+    "ro": "mai ales",
+    "group": "2"
+  },
+  {
+    "es": "tal vez",
+    "en": "maybe",
+    "de": "vielleicht",
+    "it": "forse",
+    "ro": "poate",
+    "group": "2"
+  },
+  {
+    "es": "casi siempre",
+    "en": "almost always",
+    "de": "fast immer",
+    "it": "quasi sempre",
+    "ro": "aproape mereu",
+    "group": "2"
+  },
+  {
+    "es": "rara vez",
+    "en": "rarely",
+    "de": "selten",
+    "it": "raramente",
+    "ro": "rareori",
+    "group": "2"
+  },
+  {
+    "es": "nunca jamás",
+    "en": "never ever",
+    "de": "nie und nimmer",
+    "it": "mai e poi mai",
+    "ro": "niciodată",
+    "group": "2"
+  },
+  {
+    "es": "poco a poco",
+    "en": "step by step",
+    "de": "Schritt für Schritt",
+    "it": "a poco a poco",
+    "ro": "puțin câte puțin",
+    "group": "2"
+  },
+  {
+    "es": "paso a paso",
+    "en": "step by step",
+    "de": "Schritt für Schritt",
+    "it": "passo dopo passo",
+    "ro": "pas cu pas",
+    "group": "2"
+  },
+  {
+    "es": "cara a cara",
+    "en": "face to face",
+    "de": "Angesicht zu Angesicht",
+    "it": "faccia a faccia",
+    "ro": "față în față",
+    "group": "2"
+  },
+  {
+    "es": "mano a mano",
+    "en": "hand in hand",
+    "de": "Hand in Hand",
+    "it": "mano nella mano",
+    "ro": "mână în mână",
+    "group": "2"
+  },
+  {
+    "es": "de nuevo",
+    "en": "again",
+    "de": "von neuem",
+    "it": "di nuovo",
+    "ro": "din nou",
+    "group": "2"
+  },
+  {
+    "es": "por suerte",
+    "en": "luckily",
+    "de": "zum Glück",
+    "it": "per fortuna",
+    "ro": "din fericire",
+    "group": "2"
+  },
+  {
+    "es": "por desgracia",
+    "en": "unfortunately",
+    "de": "leider",
+    "it": "purtroppo",
+    "ro": "din păcate",
+    "group": "2"
+  },
+  {
+    "es": "en cambio",
+    "en": "instead",
+    "de": "stattdessen",
+    "it": "invece",
+    "ro": "în schimb",
+    "group": "2"
+  },
+  {
+    "es": "sin embargo",
+    "en": "however",
+    "de": "jedoch",
+    "it": "tuttavia",
+    "ro": "totuși",
+    "group": "2"
+  },
+  {
+    "es": "al menos",
+    "en": "at least",
+    "de": "wenigstens",
+    "it": "almeno",
+    "ro": "cel puțin",
+    "group": "2"
+  },
+  {
+    "es": "por ejemplo",
+    "en": "for example",
+    "de": "zum Beispiel",
+    "it": "per esempio",
+    "ro": "de exemplu",
+    "group": "2"
+  },
+  {
+    "es": "en total",
+    "en": "in total",
+    "de": "insgesamt",
+    "it": "in totale",
+    "ro": "în total",
+    "group": "2"
+  },
+  {
+    "es": "de verdad",
+    "en": "really",
+    "de": "wirklich",
+    "it": "davvero",
+    "ro": "într-adevăr",
+    "group": "2"
+  },
+  {
+    "es": "lo mismo",
+    "en": "the same",
+    "de": "dasselbe",
+    "it": "lo stesso",
+    "ro": "la fel",
+    "group": "2"
+  },
+  {
+    "es": "un momento",
+    "en": "one moment",
+    "de": "einen Moment",
+    "it": "un momento",
+    "ro": "un moment",
+    "group": "2"
+  },
+  {
+    "es": "mucha paz",
+    "en": "much peace",
+    "de": "viel Frieden",
+    "it": "molta pace",
+    "ro": "multă pace",
+    "group": "2"
+  },
+  {
+    "es": "primer paso",
+    "en": "first step",
+    "de": "erster Schritt",
+    "it": "primo passo",
+    "ro": "primul pas",
+    "group": "2"
+  },
+  {
+    "es": "última vez",
+    "en": "last time",
+    "de": "letztes Mal",
+    "it": "ultima volta",
+    "ro": "ultima dată",
+    "group": "2"
+  },
+  {
+    "es": "siguiente página",
+    "en": "next page",
+    "de": "nächste Seite",
+    "it": "prossima pagina",
+    "ro": "pagina următoare",
+    "group": "2"
+  },
+  {
+    "es": "buen olor",
+    "en": "good smell",
+    "de": "guter Geruch",
+    "it": "buon odore",
+    "ro": "miros bun",
+    "group": "2"
+  },
+  {
+    "es": "mal sabor",
+    "en": "bad taste",
+    "de": "schlechter Geschmack",
+    "it": "cattivo gusto",
+    "ro": "gust rău",
+    "group": "2"
+  },
+  {
+    "es": "voz baja",
+    "en": "low voice",
+    "de": "leise Stimme",
+    "it": "voce bassa",
+    "ro": "voce joasă",
+    "group": "2"
+  },
+  {
+    "es": "brazo derecho",
+    "en": "right arm",
+    "de": "rechter Arm",
+    "it": "braccio destro",
+    "ro": "braț drept",
+    "group": "2"
+  },
+  {
+    "es": "ojo izquierdo",
+    "en": "left eye",
+    "de": "linkes Auge",
+    "it": "occhio sinistro",
+    "ro": "ochi stâng",
+    "group": "2"
+  },
+  {
+    "es": "pelo largo",
+    "en": "long hair",
+    "de": "lange Haare",
+    "it": "capelli lunghi",
+    "ro": "păr lung",
+    "group": "2"
+  },
+  {
+    "es": "barba corta",
+    "en": "short beard",
+    "de": "kurzer Bart",
+    "it": "barba corta",
+    "ro": "barbă scurtă",
+    "group": "2"
+  },
+  {
+    "es": "cuerpo sano",
+    "en": "healthy body",
+    "de": "gesunder Körper",
+    "it": "corpo sano",
+    "ro": "corp sănătos",
+    "group": "2"
+  },
+  {
+    "es": "mente clara",
+    "en": "clear mind",
+    "de": "klarer Geist",
+    "it": "mente chiara",
+    "ro": "minte clară",
+    "group": "2"
+  },
+  {
+    "es": "amor eterno",
+    "en": "eternal love",
+    "de": "ewige Liebe",
+    "it": "amore eterno",
+    "ro": "iubire eternă",
+    "group": "2"
+  },
+  {
+    "es": "odio puro",
+    "en": "pure hate",
+    "de": "reiner Hass",
+    "it": "odio puro",
+    "ro": "ură pură",
+    "group": "2"
+  },
+  {
+    "es": "gran éxito",
+    "en": "great success",
+    "de": "großer Erfolg",
+    "it": "grande successo",
+    "ro": "mare succes",
+    "group": "2"
+  },
+  {
+    "es": "error grave",
+    "en": "serious mistake",
+    "de": "schwerer Fehler",
+    "it": "errore grave",
+    "ro": "greșeală gravă",
+    "group": "2"
+  },
+  {
+    "es": "vía libre",
+    "en": "clear way",
+    "de": "freier Weg",
+    "it": "via libera",
+    "ro": "cale liberă",
+    "group": "2"
+  },
+  {
+    "es": "pan diario",
+    "en": "daily bread",
+    "de": "tägliches Brot",
+    "it": "pane quotidiano",
+    "ro": "pâine zilnică",
+    "group": "2"
+  },
+  {
+    "es": "agua dulce",
+    "en": "fresh water",
+    "de": "Süßwasser",
+    "it": "acqua dolce",
+    "ro": "apă dulce",
+    "group": "2"
+  },
+  {
+    "es": "mar salado",
+    "en": "salty sea",
+    "de": "salziges Meer",
+    "it": "mare salato",
+    "ro": "mare sărată",
+    "group": "2"
+  },
+  {
+    "es": "viento fuerte",
+    "en": "strong wind",
+    "de": "starker Wind",
+    "it": "vento forte",
+    "ro": "vânt puternic",
+    "group": "2"
+  },
+  {
+    "es": "tierra firme",
+    "en": "solid ground",
+    "de": "festes Land",
+    "it": "terra ferma",
+    "ro": "pământ stabil",
+    "group": "2"
+  },
+  {
+    "es": "fuego vivo",
+    "en": "bright fire",
+    "de": "lebendiges Feuer",
+    "it": "fuoco vivo",
+    "ro": "foc viu",
+    "group": "2"
+  },
+  {
+    "es": "aire puro",
+    "en": "pure air",
+    "de": "reine Luft",
+    "it": "aria pura",
+    "ro": "aer curat",
+    "group": "2"
+  },
+  {
+    "es": "sol poniente",
+    "en": "setting sun",
+    "de": "sinkende Sonne",
+    "it": "sole calante",
+    "ro": "soare la apus",
+    "group": "2"
+  },
+  {
+    "es": "luna llena",
+    "en": "full moon",
+    "de": "Vollmond",
+    "it": "luna piena",
+    "ro": "lună plină",
+    "group": "2"
+  },
+  {
+    "es": "noche blanca",
+    "en": "white night",
+    "de": "weiße Nacht",
+    "it": "notte bianca",
+    "ro": "noapte albă",
+    "group": "2"
+  },
+  {
+    "es": "invierno frío",
+    "en": "cold winter",
+    "de": "kalter Winter",
+    "it": "inverno freddo",
+    "ro": "iarnă grea",
+    "group": "2"
+  },
+  {
+    "es": "verano largo",
+    "en": "long summer",
+    "de": "langer Sommer",
+    "it": "estate lunga",
+    "ro": "vară lungă",
+    "group": "2"
+  },
+  {
+    "es": "otoño gris",
+    "en": "grey autumn",
+    "de": "grauer Herbst",
+    "it": "autunno grigio",
+    "ro": "toamnă gri",
+    "group": "2"
+  },
+  {
+    "es": "flor bella",
+    "en": "beautiful flower",
+    "de": "schöne Blume",
+    "it": "fiore bello",
+    "ro": "floare frumoasă",
+    "group": "2"
+  },
+  {
+    "es": "bosque verde",
+    "en": "green forest",
+    "de": "grüner Wald",
+    "it": "bosco verde",
+    "ro": "pădure verde",
+    "group": "2"
+  },
+  {
+    "es": "montaña alta",
+    "en": "high mountain",
+    "de": "hoher Berg",
+    "it": "montagna alta",
+    "ro": "munte înalt",
+    "group": "2"
+  },
+  {
+    "es": "río rápido",
+    "en": "fast river",
+    "de": "schneller Fluss",
+    "it": "fiume rapido",
+    "ro": "râu rapid",
+    "group": "2"
+  },
+  {
+    "es": "puente viejo",
+    "en": "old bridge",
+    "de": "alte Brücke",
+    "it": "ponte vecchio",
+    "ro": "pod vechi",
+    "group": "2"
+  },
+  {
+    "es": "camino largo",
+    "en": "long road",
+    "de": "langer Weg",
+    "it": "cammino lungo",
+    "ro": "drum lung",
+    "group": "2"
+  },
+  {
+    "es": "pueblo pequeño",
+    "en": "small village",
+    "de": "kleines Dorf",
+    "it": "piccolo borgo",
+    "ro": "sat mic",
+    "group": "2"
+  },
+  {
+    "es": "capital grande",
+    "en": "large capital",
+    "de": "große Hauptstadt",
+    "it": "grande capitale",
+    "ro": "capitală mare",
+    "group": "2"
+  },
+  {
+    "es": "país libre",
+    "en": "free country",
+    "de": "freies Land",
+    "it": "paese libero",
+    "ro": "țară liberă",
+    "group": "2"
+  },
+  {
+    "es": "mundo loco",
+    "en": "crazy world",
+    "de": "verrückte Welt",
+    "it": "mondo pazzo",
+    "ro": "lume nebună",
+    "group": "2"
+  },
+  {
+    "es": "gente amable",
+    "en": "kind people",
+    "de": "nette Leute",
+    "it": "gente gentile",
+    "ro": "oameni amabili",
+    "group": "2"
+  },
+  {
+    "es": "niña buena",
+    "en": "good girl",
+    "de": "gutes Mädchen",
+    "it": "brava ragazza",
+    "ro": "fată bună",
+    "group": "2"
+  },
+  {
+    "es": "padre joven",
+    "en": "young father",
+    "de": "junger Vater",
+    "it": "padre giovane",
+    "ro": "tată tânăr",
+    "group": "2"
+  },
+  {
+    "es": "madre cariñosa",
+    "en": "loving mother",
+    "de": "liebevolle Mutter",
+    "it": "madre affettuosa",
+    "ro": "mamă iubitoare",
+    "group": "2"
+  },
+  {
+    "es": "hermano mayor",
+    "en": "older brother",
+    "de": "älterer Bruder",
+    "it": "fratello maggiore",
+    "ro": "frate mai mare",
+    "group": "2"
+  },
+  {
+    "es": "hermana menor",
+    "en": "younger sister",
+    "de": "jüngere Schwester",
+    "it": "sorella minore",
+    "ro": "soră mai mică",
+    "group": "2"
+  },
+  {
+    "es": "familia unida",
+    "en": "united family",
+    "de": "vereinte Familie",
+    "it": "famiglia unita",
+    "ro": "familie unită",
+    "group": "2"
+  },
+  {
+    "es": "abuelo sabio",
+    "en": "wise grandfather",
+    "de": "weiser Opa",
+    "it": "nonno saggio",
+    "ro": "bunic înțelept",
+    "group": "2"
+  },
+  {
+    "es": "amigo fiel",
+    "en": "faithful friend",
+    "de": "treuer Freund",
+    "it": "amico fedele",
+    "ro": "prieten fidel",
+    "group": "2"
+  },
+  {
+    "es": "vecino ruidoso",
+    "en": "noisy neighbor",
+    "de": "lauter Nachbar",
+    "it": "vicino rumoroso",
+    "ro": "vecin zgomotos",
+    "group": "2"
+  },
+  {
+    "es": "médico experto",
+    "en": "expert doctor",
+    "de": "erfahrener Arzt",
+    "it": "medico esperto",
+    "ro": "medic expert",
+    "group": "2"
+  },
+  {
+    "es": "policía atento",
+    "en": "attentive police",
+    "de": "wachsame Polizei",
+    "it": "polizia attenta",
+    "ro": "polițist atent",
+    "group": "2"
+  },
+  {
+    "es": "clase magistral",
+    "en": "master class",
+    "de": "Meisterklasse",
+    "it": "lezione magistrale",
+    "ro": "lecție magistrală",
+    "group": "2"
+  },
+  {
+    "es": "examen final",
+    "en": "final exam",
+    "de": "Abschlussprüfung",
+    "it": "esame finale",
+    "ro": "examen final",
+    "group": "2"
+  },
+  {
+    "es": "tarea difícil",
+    "en": "difficult task",
+    "de": "schwere Aufgabe",
+    "it": "compito difficile",
+    "ro": "sarcină dificilă",
+    "group": "2"
+  },
+  {
+    "es": "libro abierto",
+    "en": "open book",
+    "de": "offenes Buch",
+    "it": "libro aperto",
+    "ro": "carte deschisă",
+    "group": "2"
+  },
+  {
+    "es": "página escrita",
+    "en": "written page",
+    "de": "beschriebene Seite",
+    "it": "pagina scritta",
+    "ro": "pagină scrisă",
+    "group": "2"
+  },
+  {
+    "es": "pluma negra",
+    "en": "black pen",
+    "de": "schwarze Feder",
+    "it": "penna nera",
+    "ro": "stilou negru",
+    "group": "2"
+  },
+  {
+    "es": "papel blanco",
+    "en": "white paper",
+    "de": "weißes Papier",
+    "it": "carta bianca",
+    "ro": "hârtie albă",
+    "group": "2"
+  },
+  {
+    "es": "mesa redonda",
+    "en": "round table",
+    "de": "runder Tisch",
+    "it": "tavola rotonda",
+    "ro": "masă rotundă",
+    "group": "2"
+  },
+  {
+    "es": "silla cómoda",
+    "en": "comfortable chair",
+    "de": "bequemer Stuhl",
+    "it": "sedia comoda",
+    "ro": "scaun confortabil",
+    "group": "2"
+  },
+  {
+    "es": "cama suave",
+    "en": "soft bed",
+    "de": "weiches Bett",
+    "it": "letto morbido",
+    "ro": "pat moale",
+    "group": "2"
+  },
+  {
+    "es": "ropa sucia",
+    "en": "dirty laundry",
+    "de": "schmutzige Wäsche",
+    "it": "panni sporchi",
+    "ro": "haine murdare",
+    "group": "2"
+  },
+  {
+    "es": "zapatos nuevos",
+    "en": "new shoes",
+    "de": "neue Schuhe",
+    "it": "scarpe nuove",
+    "ro": "pantofi noi",
+    "group": "2"
+  },
+  {
+    "es": "gafas oscuras",
+    "en": "dark glasses",
+    "de": "dunkle Brille",
+    "it": "occhiali scuri",
+    "ro": "ochelari de soare",
+    "group": "2"
+  },
+  {
+    "es": "bolsa llena",
+    "en": "full bag",
+    "de": "volle Tasche",
+    "it": "borsa piena",
+    "ro": "geantă plină",
+    "group": "2"
+  },
+  {
+    "es": "dinero rápido",
+    "en": "fast money",
+    "de": "schnelles Geld",
+    "it": "soldi veloci",
+    "ro": "bani rapizi",
+    "group": "2"
+  },
+  {
+    "es": "precio alto",
+    "en": "high price",
+    "de": "hoher Preis",
+    "it": "prezzo alto",
+    "ro": "preț mare",
+    "group": "2"
+  },
+  {
+    "es": "oferta especial",
+    "en": "special offer",
+    "de": "Sonderangebot",
+    "it": "offerta speciale",
+    "ro": "ofertă specială",
+    "group": "2"
+  },
+  {
+    "es": "tarjeta crédito",
+    "en": "credit card",
+    "de": "Kreditkarte",
+    "it": "carta credito",
+    "ro": "card credit",
+    "group": "2"
+  },
+  {
+    "es": "cuenta bancaria",
+    "en": "bank account",
+    "de": "Bankkonto",
+    "it": "conto bancario",
+    "ro": "cont bancar",
+    "group": "2"
+  },
+  {
+    "es": "tienda pequeña",
+    "en": "small shop",
+    "de": "kleiner Laden",
+    "it": "negozio piccolo",
+    "ro": "magazin mic",
+    "group": "2"
+  },
+  {
+    "es": "mercado libre",
+    "en": "free market",
+    "de": "freier Markt",
+    "it": "mercato libero",
+    "ro": "piață liberă",
+    "group": "2"
+  },
+  {
+    "es": "negocio propio",
+    "en": "own business",
+    "de": "eigenes Geschäft",
+    "it": "proprio affare",
+    "ro": "afacere proprie",
+    "group": "2"
+  },
+  {
+    "es": "empresa grande",
+    "en": "big company",
+    "de": "große Firma",
+    "it": "grande azienda",
+    "ro": "companie mare",
+    "group": "2"
+  },
+  {
+    "es": "jefe malo",
+    "en": "bad boss",
+    "de": "böser Chef",
+    "it": "capo cattivo",
+    "ro": "șef rău",
+    "group": "2"
+  },
+  {
+    "es": "colega amable",
+    "en": "kind colleague",
+    "de": "netter Kollege",
+    "it": "collega gentile",
+    "ro": "coleg amabil",
+    "group": "2"
+  },
+  {
+    "es": "reunión larga",
+    "en": "long meeting",
+    "de": "lange Sitzung",
+    "it": "riunione lunga",
+    "ro": "ședință lungă",
+    "group": "2"
+  },
+  {
+    "es": "correo urgente",
+    "en": "urgent mail",
+    "de": "eilige Mail",
+    "it": "posta urgente",
+    "ro": "mesaj urgent",
+    "group": "2"
+  },
+  {
+    "es": "llamada perdida",
+    "en": "missed call",
+    "de": "entgangener Anruf",
+    "it": "chiamata persa",
+    "ro": "apel pierdut",
+    "group": "2"
+  },
+  {
+    "es": "computadora lenta",
+    "en": "slow computer",
+    "de": "langsamer Computer",
+    "it": "computer lento",
+    "ro": "calculator lent",
+    "group": "2"
+  },
+  {
+    "es": "teclado nuevo",
+    "en": "new keyboard",
+    "de": "neue Tastatur",
+    "it": "tastiera nuova",
+    "ro": "tastatură nouă",
+    "group": "2"
+  },
+  {
+    "es": "pantalla brillante",
+    "en": "bright screen",
+    "de": "heller Bildschirm",
+    "it": "schermo lucido",
+    "ro": "ecran luminos",
+    "group": "2"
+  },
+  {
+    "es": "red social",
+    "en": "social network",
+    "de": "soziales Netz",
+    "it": "rete sociale",
+    "ro": "rețea socială",
+    "group": "2"
+  },
+  {
+    "es": "sitio web",
+    "en": "web site",
+    "de": "Webseite",
+    "it": "sito web",
+    "ro": "site web",
+    "group": "2"
+  },
+  {
+    "es": "clave secreta",
+    "en": "secret key",
+    "de": "Geheimschlüssel",
+    "it": "chiave segreta",
+    "ro": "cheie secretă",
+    "group": "2"
+  },
+  {
+    "es": "viaje corto",
+    "en": "short trip",
+    "de": "kurze Reise",
+    "it": "viaggio breve",
+    "ro": "călătorie scurtă",
+    "group": "2"
+  },
+  {
+    "es": "avión rápido",
+    "en": "fast plane",
+    "de": "schnelles Flugzeug",
+    "it": "aereo veloce",
+    "ro": "avion rapid",
+    "group": "2"
+  },
+  {
+    "es": "tren puntual",
+    "en": "punctual train",
+    "de": "pünktlicher Zug",
+    "it": "treno puntuale",
+    "ro": "tren punctual",
+    "group": "2"
+  },
+  {
+    "es": "hotel caro",
+    "en": "expensive hotel",
+    "de": "teures Hotel",
+    "it": "hotel caro",
+    "ro": "hotel scump",
+    "group": "2"
+  },
+  {
+    "es": "habitación doble",
+    "en": "double room",
+    "de": "Doppelzimmer",
+    "it": "camera doppia",
+    "ro": "cameră dublă",
+    "group": "2"
+  },
+  {
+    "es": "desayuno rico",
+    "en": "tasty breakfast",
+    "de": "leckeres Frühstück",
+    "it": "colazione ricca",
+    "ro": "mic dejun gustos",
+    "group": "2"
+  },
+  {
+    "es": "cena romántica",
+    "en": "romantic dinner",
+    "de": "romantisches Abendessen",
+    "it": "cena romantica",
+    "ro": "cină romantică",
+    "group": "2"
+  },
+  {
+    "es": "comida casera",
+    "en": "homemade food",
+    "de": "Hausmannskost",
+    "it": "cibo casalingo",
+    "ro": "mâncare de casă",
+    "group": "2"
+  },
+  {
+    "es": "fruta dulce",
+    "en": "sweet fruit",
+    "de": "süße Frucht",
+    "it": "frutta dolce",
+    "ro": "fruct dulce",
+    "group": "2"
+  },
+  {
+    "es": "carne asada",
+    "en": "roasted meat",
+    "de": "gebratenes Fleisch",
+    "it": "carne arrosto",
+    "ro": "carne friptă",
+    "group": "2"
+  },
+  {
+    "es": "pescado fresco",
+    "en": "fresh fish",
+    "de": "frischer Fisch",
+    "it": "pesce fresco",
+    "ro": "pește proaspăt",
+    "group": "2"
+  },
+  {
+    "es": "ensalada verde",
+    "en": "green salad",
+    "de": "grüner Salat",
+    "it": "insalata verde",
+    "ro": "salată verde",
+    "group": "2"
+  },
+  {
+    "es": "bebida fría",
+    "en": "cold drink",
+    "de": "kaltes Getränk",
+    "it": "bevanda fredda",
+    "ro": "băutură rece",
+    "group": "2"
+  },
+  {
+    "es": "vaso vacío",
+    "en": "empty glass",
+    "de": "leeres Glas",
+    "it": "bicchiere vuoto",
+    "ro": "pahar gol",
+    "group": "2"
+  },
+  {
+    "es": "plato hondo",
+    "en": "deep plate",
+    "de": "tiefer Teller",
+    "it": "piatto fondo",
+    "ro": "farfurie adâncă",
+    "group": "2"
+  },
+  {
+    "es": "cuchillo afilado",
+    "en": "sharp knife",
+    "de": "scharfes Messer",
+    "it": "coltello affilato",
+    "ro": "cuțit ascuțit",
+    "group": "2"
+  },
+  {
+    "es": "cuchara grande",
+    "en": "big spoon",
+    "de": "großer Löffel",
+    "it": "cucchiaio grande",
+    "ro": "lingură mare",
+    "group": "2"
+  },
+  {
+    "es": "servilleta blanca",
+    "en": "white napkin",
+    "de": "weiße Serviette",
+    "it": "tovagliolo bianco",
+    "ro": "șervețel alb",
+    "group": "2"
+  },
+  {
+    "es": "cuerpo joven",
+    "en": "young body",
+    "de": "junger Körper",
+    "it": "corpo giovane",
+    "ro": "corp tânăr",
+    "group": "2"
+  },
+  {
+    "es": "sangre roja",
+    "en": "red blood",
+    "de": "rotes Blut",
+    "it": "sangue rosso",
+    "ro": "sânge roșu",
+    "group": "2"
+  },
+  {
+    "es": "dolor fuerte",
+    "en": "strong pain",
+    "de": "starker Schmerz",
+    "it": "dolore forte",
+    "ro": "durere puternică",
+    "group": "2"
+  },
+  {
+    "es": "salud buena",
+    "en": "good health",
+    "de": "gute Gesundheit",
+    "it": "buona salute",
+    "ro": "sănătate bună",
+    "group": "2"
+  },
+  {
+    "es": "sueño profundo",
+    "en": "deep sleep",
+    "de": "tiefer Schlaf",
+    "it": "sonno profondo",
+    "ro": "somn profund",
+    "group": "2"
+  },
+  {
+    "es": "alma libre",
+    "en": "free soul",
+    "de": "freie Seele",
+    "it": "anima libera",
+    "ro": "suflet liber",
+    "group": "2"
+  },
+  {
+    "es": "verdad pura",
+    "en": "pure truth",
+    "de": "reine Wahrheit",
+    "it": "verità pura",
+    "ro": "adevăr pur",
+    "group": "2"
+  },
+  {
+    "es": "mentira piadosa",
+    "en": "white lie",
+    "de": "Notlüge",
+    "it": "bugia pietosa",
+    "ro": "minciună nevinovată",
+    "group": "2"
+  },
+  {
+    "es": "beso largo",
+    "en": "long kiss",
+    "de": "langer Kuss",
+    "it": "bacio lungo",
+    "ro": "sărut lung",
+    "group": "2"
+  },
+  {
+    "es": "abrazo fuerte",
+    "en": "strong hug",
+    "de": "feste Umarmung",
+    "it": "abbraccio forte",
+    "ro": "îmbrățișare strânsă",
+    "group": "2"
+  },
+  {
+    "es": "mirada triste",
+    "en": "sad look",
+    "de": "trauriger Blick",
+    "it": "sguardo triste",
+    "ro": "privire tristă",
+    "group": "2"
+  },
+  {
+    "es": "sonrisa bella",
+    "en": "beautiful smile",
+    "de": "schönes Lächeln",
+    "it": "sorriso bello",
+    "ro": "zâmbet frumos",
+    "group": "2"
+  },
+  {
+    "es": "viento suave",
+    "en": "soft wind",
+    "de": "sanfter Wind",
+    "it": "vento leggero",
+    "ro": "vânt ușor",
+    "group": "2"
+  },
+  {
+    "es": "lluvia fuerte",
+    "en": "heavy rain",
+    "de": "starker Regen",
+    "it": "pioggia forte",
+    "ro": "ploaie torențială",
+    "group": "2"
+  },
+  {
+    "es": "nieve blanca",
+    "en": "white snow",
+    "de": "weißer Schnee",
+    "it": "neve bianca",
+    "ro": "zăpadă albă",
+    "group": "2"
+  },
+  {
+    "es": "hielo frío",
+    "en": "cold ice",
+    "de": "kaltes Eis",
+    "it": "ghiaccio freddo",
+    "ro": "gheață rece",
+    "group": "2"
+  },
+  {
+    "es": "bosque oscuro",
+    "en": "dark forest",
+    "de": "dunkler Wald",
+    "it": "bosco oscuro",
+    "ro": "pădure întunecată",
+    "group": "2"
+  },
+  {
+    "es": "árbol alto",
+    "en": "tall tree",
+    "de": "hoher Baum",
+    "it": "albero alto",
+    "ro": "copac înalt",
+    "group": "2"
+  },
+  {
+    "es": "pájaro pequeño",
+    "en": "small bird",
+    "de": "kleiner Vogel",
+    "it": "uccello piccolo",
+    "ro": "pasăre mică",
+    "group": "2"
+  },
+  {
+    "es": "gato negro",
+    "en": "black cat",
+    "de": "schwarze Katze",
+    "it": "gatto nero",
+    "ro": "pisică neagră",
+    "group": "2"
+  },
+  {
+    "es": "perro fiel",
+    "en": "faithful dog",
+    "de": "treuer Hund",
+    "it": "cane fedele",
+    "ro": "câine fidel",
+    "group": "2"
+  },
+  {
+    "es": "caballo rápido",
+    "en": "fast horse",
+    "de": "schnelles Pferd",
+    "it": "cavallo veloce",
+    "ro": "cal rapid",
+    "group": "2"
+  },
+  {
+    "es": "pez azul",
+    "en": "blue fish",
+    "de": "blauer Fisch",
+    "it": "pesce azzurro",
+    "ro": "pește albastru",
+    "group": "2"
+  },
+  {
+    "es": "león fuerte",
+    "en": "strong lion",
+    "de": "starker Löwe",
+    "it": "leone forte",
+    "ro": "leu puternic",
+    "group": "2"
+  },
+  {
+    "es": "mar profundo",
+    "en": "deep sea",
+    "de": "tiefes Meer",
+    "it": "mare profondo",
+    "ro": "mare adâncă",
+    "group": "2"
+  },
+  {
+    "es": "ola grande",
+    "en": "big wave",
+    "de": "große Welle",
+    "it": "onda grande",
+    "ro": "val mare",
+    "group": "2"
+  },
+  {
+    "es": "arena caliente",
+    "en": "hot sand",
+    "de": "heißer Sand",
+    "it": "sabbia calda",
+    "ro": "nisip fierbinte",
+    "group": "2"
+  },
+  {
+    "es": "piedra dura",
+    "en": "hard stone",
+    "de": "harter Stein",
+    "it": "pietra dura",
+    "ro": "piatră dură",
+    "group": "2"
+  },
+  {
+    "es": "oro puro",
+    "en": "pure gold",
+    "de": "reines Gold",
+    "it": "oro puro",
+    "ro": "aur pur",
+    "group": "2"
+  },
+  {
+    "es": "plata vieja",
+    "en": "old silver",
+    "de": "altes Silber",
+    "it": "argento vecchio",
+    "ro": "argint vechi",
+    "group": "2"
+  },
+  {
+    "es": "hierro pesado",
+    "en": "heavy iron",
+    "de": "schweres Eisen",
+    "it": "ferro pesante",
+    "ro": "fier greu",
+    "group": "2"
+  },
+  {
+    "es": "madera seca",
+    "en": "dry wood",
+    "de": "trockenes Holz",
+    "it": "legno secco",
+    "ro": "lemn uscat",
+    "group": "2"
+  },
+  {
+    "es": "vidrio roto",
+    "en": "broken glass",
+    "de": "kaputtes Glas",
+    "it": "vetro rotto",
+    "ro": "sticlă spartă",
+    "group": "2"
+  },
+  {
+    "es": "papel reciclado",
+    "en": "recycled paper",
+    "de": "Recyclingpapier",
+    "it": "carta riciclata",
+    "ro": "hârtie reciclată",
+    "group": "2"
+  },
+  {
+    "es": "plástico azul",
+    "en": "blue plastic",
+    "de": "blauer Kunststoff",
+    "it": "plastica blu",
+    "ro": "plastic albastru",
+    "group": "2"
+  },
+  {
+    "es": "tela suave",
+    "en": "soft fabric",
+    "de": "weicher Stoff",
+    "it": "tessuto morbido",
+    "ro": "material moale",
+    "group": "2"
+  },
+  {
+    "es": "lana caliente",
+    "en": "warm wool",
+    "de": "warme Wolle",
+    "it": "lana calda",
+    "ro": "lână călduroasă",
+    "group": "2"
+  },
+  {
+    "es": "seda fina",
+    "en": "fine silk",
+    "de": "feine Seide",
+    "it": "seta fine",
+    "ro": "mătase fină",
+    "group": "2"
+  },
+  {
+    "es": "cuero negro",
+    "en": "black leather",
+    "de": "schwarzes Leder",
+    "it": "pelle nera",
+    "ro": "piele neagră",
+    "group": "2"
+  },
+  {
+    "es": "color rojo",
+    "en": "red color",
+    "de": "rote Farbe",
+    "it": "colore rosso",
+    "ro": "culoare roșie",
+    "group": "2"
+  },
+  {
+    "es": "verde claro",
+    "en": "light green",
+    "de": "hellgrün",
+    "it": "verde chiaro",
+    "ro": "verde deschis",
+    "group": "2"
+  },
+  {
+    "es": "azul oscuro",
+    "en": "dark blue",
+    "de": "dunkelblau",
+    "it": "blu scuro",
+    "ro": "albastru închis",
+    "group": "2"
+  },
+  {
+    "es": "amarillo sol",
+    "en": "sun yellow",
+    "de": "sonnengelb",
+    "it": "giallo sole",
+    "ro": "galben solar",
+    "group": "2"
+  },
+  {
+    "es": "blanco puro",
+    "en": "pure white",
+    "de": "reinweiß",
+    "it": "bianco puro",
+    "ro": "alb pur",
+    "group": "2"
+  },
+  {
+    "es": "negro total",
+    "en": "total black",
+    "de": "tiefschwarz",
+    "it": "nero totale",
+    "ro": "negru total",
+    "group": "2"
+  },
+  {
+    "es": "gris plata",
+    "en": "silver grey",
+    "de": "silbergrau",
+    "it": "grigio argento",
+    "ro": "gri argintiu",
+    "group": "2"
+  },
+  {
+    "es": "marrón tierra",
+    "en": "earth brown",
+    "de": "erdbraun",
+    "it": "marrone terra",
+    "ro": "maro pământiu",
+    "group": "2"
+  },
+  {
+    "es": "rosa pastel",
+    "en": "pastel pink",
+    "de": "pastellrosa",
+    "it": "rosa pastello",
+    "ro": "roz pastel",
+    "group": "2"
+  },
+  {
+    "es": "naranja brillante",
+    "en": "bright orange",
+    "de": "leuchtendes Orange",
+    "it": "arancione brillante",
+    "ro": "portocaliu aprins",
+    "group": "2"
+  },
+  {
+    "es": "violeta suave",
+    "en": "soft violet",
+    "de": "sanftes Violett",
+    "it": "viola tenue",
+    "ro": "violet suav",
+    "group": "2"
+  },
+  {
+    "es": "mucho trabajo",
+    "en": "much work",
+    "de": "viel Arbeit",
+    "it": "molto lavoro",
+    "ro": "multă muncă",
+    "group": "2"
+  },
+  {
+    "es": "poca gente",
+    "en": "few people",
+    "de": "wenig Leute",
+    "it": "poca gente",
+    "ro": "puțini oameni",
+    "group": "2"
+  },
+  {
+    "es": "varias veces",
+    "en": "several times",
+    "de": "mehrmals",
+    "it": "varie volte",
+    "ro": "de mai multe ori",
+    "group": "2"
+  },
+  {
+    "es": "algunos días",
+    "en": "some days",
+    "de": "einige Tage",
+    "it": "alcuni giorni",
+    "ro": "unele zile",
+    "group": "2"
+  },
+  {
+    "es": "ninguna parte",
+    "en": "nowhere",
+    "de": "nirgendwo",
+    "it": "nessuna parte",
+    "ro": "nicio parte",
+    "group": "2"
+  },
+  {
+    "es": "cualquier cosa",
+    "en": "anything",
+    "de": "irgendetwas",
+    "it": "qualsiasi cosa",
+    "ro": "orice",
+    "group": "2"
+  },
+  {
+    "es": "todo mundo",
+    "en": "everyone",
+    "de": "jeder",
+    "it": "tutti quanti",
+    "ro": "toată lumea",
+    "group": "2"
+  },
+  {
+    "es": "cada uno",
+    "en": "each one",
+    "de": "jeder Einzelne",
+    "it": "ognuno",
+    "ro": "fiecare",
+    "group": "2"
+  },
+  {
+    "es": "mismo lugar",
+    "en": "same place",
+    "de": "gleicher Ort",
+    "it": "stesso posto",
+    "ro": "același loc",
+    "group": "2"
+  },
+  {
+    "es": "otro camino",
+    "en": "another way",
+    "de": "ein anderer Weg",
+    "it": "un'altra via",
+    "ro": "alt drum",
+    "group": "2"
+  },
+  {
+    "es": "mitad precio",
+    "en": "half price",
+    "de": "halber Preis",
+    "it": "metà prezzo",
+    "ro": "jumătate de preț",
+    "group": "2"
+  },
+  {
+    "es": "doble ración",
+    "en": "double portion",
+    "de": "doppelte Portion",
+    "it": "doppia razione",
+    "ro": "porție dublă",
+    "group": "2"
+  },
+  {
+    "es": "triple salto",
+    "en": "triple jump",
+    "de": "Dreisprung",
+    "it": "salto triplo",
+    "ro": "triplu salt",
+    "group": "2"
+  },
+  {
+    "es": "primer amor",
+    "en": "first love",
+    "de": "erste Liebe",
+    "it": "primo amore",
+    "ro": "prima iubire",
+    "group": "2"
+  },
+  {
+    "es": "segunda mano",
+    "en": "second hand",
+    "de": "aus zweiter Hand",
+    "it": "seconda mano",
+    "ro": "la mâna a doua",
+    "group": "2"
+  },
+  {
+    "es": "tercer piso",
+    "en": "third floor",
+    "de": "dritter Stock",
+    "it": "terzo piano",
+    "ro": "etajul trei",
+    "group": "2"
+  },
+  {
+    "es": "cuarta pared",
+    "en": "fourth wall",
+    "de": "vierte Wand",
+    "it": "quarta parete",
+    "ro": "al patrulea perete",
+    "group": "2"
+  },
+  {
+    "es": "quinto elemento",
+    "en": "fifth element",
+    "de": "fünftes Element",
+    "it": "quinto elemento",
+    "ro": "al cincilea element",
+    "group": "2"
+  },
+  {
+    "es": "último aviso",
+    "en": "last warning",
+    "de": "letzte Warnung",
+    "it": "ultimo avviso",
+    "ro": "ultimul avertisment",
+    "group": "2"
+  },
+  {
+    "es": "siglo veinte",
+    "en": "twentieth century",
+    "de": "zwanzigstes Jahrhundert",
+    "it": "ventesimo secolo",
+    "ro": "secolul douăzeci",
+    "group": "2"
+  },
+  {
+    "es": "año bisiesto",
+    "en": "leap year",
+    "de": "Schaltjahr",
+    "it": "anno bisestile",
+    "ro": "an bisect",
+    "group": "2"
+  },
+  {
+    "es": "semana santa",
+    "en": "holy week",
+    "de": "Karwoche",
+    "it": "settimana santa",
+    "ro": "săptămâna mare",
+    "group": "2"
+  },
+  {
+    "es": "lunes mañana",
+    "en": "Monday morning",
+    "de": "Montagmorgen",
+    "it": "lunedì mattina",
+    "ro": "luni dimineața",
+    "group": "2"
+  },
+  {
+    "es": "viernes noche",
+    "en": "Friday night",
+    "de": "Freitagabend",
+    "it": "venerdì notte",
+    "ro": "vineri noapte",
+    "group": "2"
+  },
+  {
+    "es": "fin ciclo",
+    "en": "end cycle",
+    "de": "Zyklusende",
+    "it": "fine ciclo",
+    "ro": "sfârșit de ciclu",
+    "group": "2"
+  },
+  {
+    "es": "clima tropical",
+    "en": "tropical climate",
+    "de": "tropisches Klima",
+    "it": "clima tropicale",
+    "ro": "climat tropical",
+    "group": "2"
+  },
+  {
+    "es": "tormenta eléctrica",
+    "en": "thunderstorm",
+    "de": "Gewitter",
+    "it": "temporale",
+    "ro": "furtună electrică",
+    "group": "2"
+  },
+  {
+    "es": "viento norte",
+    "en": "north wind",
+    "de": "Nordwind",
+    "it": "tramontana",
+    "ro": "vânt de nord",
+    "group": "2"
+  },
+  {
+    "es": "calor sofocante",
+    "en": "stifling heat",
+    "de": "drückende Hitze",
+    "it": "caldo soffocante",
+    "ro": "căldură sufocantă",
+    "group": "2"
+  },
+  {
+    "es": "frio polar",
+    "en": "polar cold",
+    "de": "Polarkälte",
+    "it": "freddo polare",
+    "ro": "frig polar",
+    "group": "2"
+  },
+  {
+    "es": "niebla espesa",
+    "en": "thick fog",
+    "de": "dichter Nebel",
+    "it": "nebbia fitta",
+    "ro": "ceață deasă",
+    "group": "2"
+  },
+  {
+    "es": "luz solar",
+    "en": "sunlight",
+    "de": "Sonnenlicht",
+    "it": "luce solare",
+    "ro": "lumină solară",
+    "group": "2"
+  },
+  {
+    "es": "sombra larga",
+    "en": "long shadow",
+    "de": "langer Schatten",
+    "it": "ombra lunga",
+    "ro": "umbră lungă",
+    "group": "2"
+  },
+  {
+    "es": "ruido blanco",
+    "en": "white noise",
+    "de": "weißes Rauschen",
+    "it": "rumore bianco",
+    "ro": "zgomot alb",
+    "group": "2"
+  },
+  {
+    "es": "silencio absoluto",
+    "en": "absolute silence",
+    "de": "absolute Stille",
+    "it": "silenzio assoluto",
+    "ro": "liniște absolută",
+    "group": "2"
+  },
+  {
+    "es": "voz dulce",
+    "en": "sweet voice",
+    "de": "süße Stimme",
+    "it": "voce dolce",
+    "ro": "voce dulce",
+    "group": "2"
+  },
+  {
+    "es": "grito fuerte",
+    "en": "loud scream",
+    "de": "lauter Schrei",
+    "it": "grido forte",
+    "ro": "strigăt puternic",
+    "group": "2"
+  },
+  {
+    "es": "paso ligero",
+    "en": "light step",
+    "de": "leichter Schritt",
+    "it": "passo leggero",
+    "ro": "pas ușor",
+    "group": "2"
+  },
+  {
+    "es": "salto alto",
+    "en": "high jump",
+    "de": "Hochsprung",
+    "it": "salto in alto",
+    "ro": "săritură în înălțime",
+    "group": "2"
+  },
+  {
+    "es": "carrera rápida",
+    "en": "fast race",
+    "de": "schnelles Rennen",
+    "it": "corsa veloce",
+    "ro": "cursă rapidă",
+    "group": "2"
+  },
+  {
+    "es": "lucha libre",
+    "en": "wrestling",
+    "de": "Freistilringen",
+    "it": "lotta libera",
+    "ro": "lupte libere",
+    "group": "2"
+  },
+  {
+    "es": "juego limpio",
+    "en": "fair play",
+    "de": "faires Spiel",
+    "it": "gioco pulito",
+    "ro": "joc curat",
+    "group": "2"
+  },
+  {
+    "es": "pelota roja",
+    "en": "red ball",
+    "de": "roter Ball",
+    "it": "palla rossa",
+    "ro": "minge roșie",
+    "group": "2"
+  },
+  {
+    "es": "equipo ganador",
+    "en": "winning team",
+    "de": "Siegermannschaft",
+    "it": "squadra vincente",
+    "ro": "echipă câștigătoare",
+    "group": "2"
+  },
+  {
+    "es": "premio mayor",
+    "en": "grand prize",
+    "de": "Hauptgewinn",
+    "it": "primo premio",
+    "ro": "marele premiu",
+    "group": "2"
+  },
+  {
+    "es": "derrota amarga",
+    "en": "bitter defeat",
+    "de": "bittere Niederlage",
+    "it": "sconfitta amara",
+    "ro": "înfrângere amară",
+    "group": "2"
+  },
+  {
+    "es": "esfuerzo máximo",
+    "en": "maximum effort",
+    "de": "maximaler Aufwand",
+    "it": "massimo sforzo",
+    "ro": "efort maxim",
+    "group": "2"
+  },
+  {
+    "es": "meta clara",
+    "en": "clear goal",
+    "de": "klares Ziel",
+    "it": "meta chiara",
+    "ro": "țel clar",
+    "group": "2"
+  },
+  {
+    "es": "sueño cumplido",
+    "en": "dream fulfilled",
+    "de": "erfüllter Traum",
+    "it": "sogno avverato",
+    "ro": "vis împlinit",
+    "group": "2"
+  },
+  {
+    "es": "camino difícil",
+    "en": "difficult road",
+    "de": "schwieriger Weg",
+    "it": "strada difficile",
+    "ro": "drum dificil",
+    "group": "2"
+  },
+  {
+    "es": "ayuda mutua",
+    "en": "mutual aid",
+    "de": "gegenseitige Hilfe",
+    "it": "aiuto reciproco",
+    "ro": "ajutor reciproc",
+    "group": "2"
+  },
+  {
+    "es": "unión fuerte",
+    "en": "strong union",
+    "de": "starke Verbindung",
+    "it": "unione forte",
+    "ro": "uniune puternică",
+    "group": "2"
+  },
+  {
+    "es": "paz interior",
+    "en": "inner peace",
+    "de": "innerer Frieden",
+    "it": "pace interiore",
+    "ro": "liniște interioară",
+    "group": "2"
+  },
+  {
+    "es": "odio eterno",
+    "en": "eternal hate",
+    "de": "ewiger Hass",
+    "it": "odio eterno",
+    "ro": "ură eternă",
+    "group": "2"
+  },
+  {
+    "es": "duda razonable",
+    "en": "reasonable doubt",
+    "de": "berechtigter Zweifel",
+    "it": "dubbio ragionevole",
+    "ro": "dubiu rezonabil",
+    "group": "2"
+  },
+  {
+    "es": "fe ciega",
+    "en": "blind faith",
+    "de": "blindes Vertrauen",
+    "it": "fede cieca",
+    "ro": "credință oarbă",
+    "group": "2"
+  },
+  {
+    "es": "esperanza viva",
+    "en": "living hope",
+    "de": "lebendige Hoffnung",
+    "it": "speranza viva",
+    "ro": "speranță vie",
+    "group": "2"
+  },
+  {
+    "es": "miedo profundo",
+    "en": "deep fear",
+    "de": "tiefe Angst",
+    "it": "paura profonda",
+    "ro": "frică profundă",
+    "group": "2"
+  },
+  {
+    "es": "valor real",
+    "en": "real value",
+    "de": "echter Wert",
+    "it": "valore reale",
+    "ro": "valoare reală",
+    "group": "2"
+  },
+  {
+    "es": "justicia social",
+    "en": "social justice",
+    "de": "soziale Gerechtigkeit",
+    "it": "giustizia sociale",
+    "ro": "justiție socială",
+    "group": "2"
+  },
+  {
+    "es": "ley seca",
+    "en": "prohibition",
+    "de": "Alkoholverbot",
+    "it": "proibizionismo",
+    "ro": "prohibiție",
+    "group": "2"
+  },
+  {
+    "es": "orden público",
+    "en": "public order",
+    "de": "öffentliche Ordnung",
+    "it": "ordine pubblico",
+    "ro": "ordine publică",
+    "group": "2"
+  }
+]
