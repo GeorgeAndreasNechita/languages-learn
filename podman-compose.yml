@@ -9,7 +9,7 @@ services:
     volumes:
       - ./backend:/app
       - backend_node_modules:/app/node_modules
-    command: npx nodemon server.js
+    command: npx nodemon --legacy-watch server.js
 
   frontend:
     container_name: llfe

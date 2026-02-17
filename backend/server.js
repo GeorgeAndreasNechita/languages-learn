@@ -5,8 +5,8 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.get("/api/message", (req, res) => {
-  res.json({ message: "Hallo vom Backend!" });
+app.get("/words", (req, res) => {
+  res.json({"es":"de", "en":"of", "de":"von", "it":"di", "ro":"de", "level": "1", "read": false});
 });
 
 const PORT = 5000;
