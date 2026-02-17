@@ -5,7 +5,9 @@
     "de": "guten Morgen",
     "it": "buongiorno",
     "ro": "bună dimineața",
-    "group": "2"
+    "group": "2",
+    "id": 1,
+    "read": false
   },
   {
     "es": "muchas gracias",
@@ -13,7 +15,9 @@
     "de": "vielen Dank",
     "it": "molte grazie",
     "ro": "mulțumesc mult",
-    "group": "2"
+    "group": "2",
+    "id": 2,
+    "read": false
   },
   {
     "es": "por favor",
@@ -21,7 +25,9 @@
     "de": "bitte sehr",
     "it": "per favore",
     "ro": "vă rog",
-    "group": "2"
+    "group": "2",
+    "id": 3,
+    "read": false
   },
   {
     "es": "de nada",
@@ -29,7 +35,9 @@
     "de": "bitte sehr",
     "it": "prego",
     "ro": "cu plăcere",
-    "group": "2"
+    "group": "2",
+    "id": 4,
+    "read": false
   },
   {
     "es": "lo siento",
@@ -37,7 +45,9 @@
     "de": "tut mir leid",
     "it": "mi dispiace",
     "ro": "îmi pare rău",
-    "group": "2"
+    "group": "2",
+    "id": 5,
+    "read": false
   },
   {
     "es": "buenas noches",
@@ -45,7 +55,9 @@
     "de": "gute Nacht",
     "it": "buonanotte",
     "ro": "noapte bună",
-    "group": "2"
+    "group": "2",
+    "id": 6,
+    "read": false
   },
   {
     "es": "muy bien",
@@ -53,7 +65,9 @@
     "de": "sehr gut",
     "it": "molto bene",
     "ro": "foarte bine",
-    "group": "2"
+    "group": "2",
+    "id": 7,
+    "read": false
   },
   {
     "es": "hasta luego",
@@ -61,7 +75,9 @@
     "de": "bis später",
     "it": "a dopo",
     "ro": "pe curând",
-    "group": "2"
+    "group": "2",
+    "id": 8,
+    "read": false
   },
   {
     "es": "qué tal",
@@ -69,7 +85,9 @@
     "de": "wie geht's",
     "it": "come va",
     "ro": "ce mai faci",
-    "group": "2"
+    "group": "2",
+    "id": 9,
+    "read": false
   },
   {
     "es": "claro que sí",
@@ -77,7 +95,9 @@
     "de": "natürlich ja",
     "it": "certo che sì",
     "ro": "desigur că da",
-    "group": "2"
+    "group": "2",
+    "id": 10,
+    "read": false
   },
   {
     "es": "en serio",
@@ -85,7 +105,9 @@
     "de": "im Ernst",
     "it": "sul serio",
     "ro": "serios",
-    "group": "2"
+    "group": "2",
+    "id": 11,
+    "read": false
   },
   {
     "es": "con permiso",
@@ -93,7 +115,9 @@
     "de": "mit Erlaubnis",
     "it": "con permesso",
     "ro": "cu permisiune",
-    "group": "2"
+    "group": "2",
+    "id": 12,
+    "read": false
   },
   {
     "es": "buen viaje",
@@ -101,7 +125,9 @@
     "de": "gute Reise",
     "it": "buon viaggio",
     "ro": "călătorie plăcută",
-    "group": "2"
+    "group": "2",
+    "id": 13,
+    "read": false
   },
   {
     "es": "tengo hambre",
@@ -109,7 +135,9 @@
     "de": "ich habe Hunger",
     "it": "ho fame",
     "ro": "mi-e foame",
-    "group": "2"
+    "group": "2",
+    "id": 14,
+    "read": false
   },
   {
     "es": "tengo sed",
@@ -117,7 +145,9 @@
     "de": "ich habe Durst",
     "it": "ho sete",
     "ro": "mi-e sete",
-    "group": "2"
+    "group": "2",
+    "id": 15,
+    "read": false
   },
   {
     "es": "hace frío",
@@ -125,7 +155,9 @@
     "de": "es ist kalt",
     "it": "fa freddo",
     "ro": "este frig",
-    "group": "2"
+    "group": "2",
+    "id": 16,
+    "read": false
   },
   {
     "es": "hace calor",
@@ -133,7 +165,9 @@
     "de": "es ist heiß",
     "it": "fa caldo",
     "ro": "este cald",
-    "group": "2"
+    "group": "2",
+    "id": 17,
+    "read": false
   },
   {
     "es": "qué hora",
@@ -141,7 +175,9 @@
     "de": "wie viel Uhr",
     "it": "che ora",
     "ro": "ce oră",
-    "group": "2"
+    "group": "2",
+    "id": 18,
+    "read": false
   },
   {
     "es": "mi amigo",
@@ -149,7 +185,9 @@
     "de": "mein Freund",
     "it": "mio amico",
     "ro": "prietenul meu",
-    "group": "2"
+    "group": "2",
+    "id": 19,
+    "read": false
   },
   {
     "es": "esta casa",
@@ -157,7 +195,9 @@
     "de": "dieses Haus",
     "it": "questa casa",
     "ro": "această casă",
-    "group": "2"
+    "group": "2",
+    "id": 20,
+    "read": false
   },
   {
     "es": "cada día",
@@ -165,7 +205,9 @@
     "de": "jeden Tag",
     "it": "ogni giorno",
     "ro": "în fiecare zi",
-    "group": "2"
+    "group": "2",
+    "id": 21,
+    "read": false
   },
   {
     "es": "todo bien",
@@ -173,7 +215,9 @@
     "de": "alles gut",
     "it": "tutto bene",
     "ro": "totul bine",
-    "group": "2"
+    "group": "2",
+    "id": 22,
+    "read": false
   },
   {
     "es": "buena suerte",
@@ -181,7 +225,9 @@
     "de": "viel Glück",
     "it": "buona fortuna",
     "ro": "mult noroc",
-    "group": "2"
+    "group": "2",
+    "id": 23,
+    "read": false
   },
   {
     "es": "a veces",
@@ -189,7 +235,9 @@
     "de": "manchmal",
     "it": "a volte",
     "ro": "uneori",
-    "group": "2"
+    "group": "2",
+    "id": 24,
+    "read": false
   },
   {
     "es": "poco tiempo",
@@ -197,7 +245,9 @@
     "de": "wenig Zeit",
     "it": "poco tempo",
     "ro": "puțin timp",
-    "group": "2"
+    "group": "2",
+    "id": 25,
+    "read": false
   },
   {
     "es": "más tarde",
@@ -205,7 +255,9 @@
     "de": "später",
     "it": "più tardi",
     "ro": "mai târziu",
-    "group": "2"
+    "group": "2",
+    "id": 26,
+    "read": false
   },
   {
     "es": "ahora mismo",
@@ -213,7 +265,9 @@
     "de": "jetzt sofort",
     "it": "proprio ora",
     "ro": "chiar acum",
-    "group": "2"
+    "group": "2",
+    "id": 27,
+    "read": false
   },
   {
     "es": "sin duda",
@@ -221,7 +275,9 @@
     "de": "ohne Zweifel",
     "it": "senza dubbio",
     "ro": "fără îndoială",
-    "group": "2"
+    "group": "2",
+    "id": 28,
+    "read": false
   },
   {
     "es": "por eso",
@@ -229,7 +285,9 @@
     "de": "deswegen",
     "it": "per questo",
     "ro": "de aceea",
-    "group": "2"
+    "group": "2",
+    "id": 29,
+    "read": false
   },
   {
     "es": "demasiado tarde",
@@ -237,7 +295,9 @@
     "de": "zu spät",
     "it": "troppo tardi",
     "ro": "prea târziu",
-    "group": "2"
+    "group": "2",
+    "id": 30,
+    "read": false
   },
   {
     "es": "hace tiempo",
@@ -245,7 +305,9 @@
     "de": "vor langer Zeit",
     "it": "molto tempo fa",
     "ro": "cu mult timp în urmă",
-    "group": "2"
+    "group": "2",
+    "id": 31,
+    "read": false
   },
   {
     "es": "un poco",
@@ -253,7 +315,9 @@
     "de": "ein bisschen",
     "it": "un po'",
     "ro": "un pic",
-    "group": "2"
+    "group": "2",
+    "id": 32,
+    "read": false
   },
   {
     "es": "otra vez",
@@ -261,7 +325,9 @@
     "de": "noch einmal",
     "it": "un'altra volta",
     "ro": "încă o dată",
-    "group": "2"
+    "group": "2",
+    "id": 33,
+    "read": false
   },
   {
     "es": "estoy listo",
@@ -269,7 +335,9 @@
     "de": "ich bin bereit",
     "it": "sono pronto",
     "ro": "sunt gata",
-    "group": "2"
+    "group": "2",
+    "id": 34,
+    "read": false
   },
   {
     "es": "buena idea",
@@ -277,7 +345,9 @@
     "de": "gute Idee",
     "it": "buona idea",
     "ro": "bună idee",
-    "group": "2"
+    "group": "2",
+    "id": 35,
+    "read": false
   },
   {
     "es": "dame eso",
@@ -285,7 +355,9 @@
     "de": "gib mir das",
     "it": "dammi quello",
     "ro": "dă-mi asta",
-    "group": "2"
+    "group": "2",
+    "id": 36,
+    "read": false
   },
   {
     "es": "ven aquí",
@@ -293,7 +365,9 @@
     "de": "komm her",
     "it": "vieni qui",
     "ro": "vino aici",
-    "group": "2"
+    "group": "2",
+    "id": 37,
+    "read": false
   },
   {
     "es": "está lejos",
@@ -301,7 +375,9 @@
     "de": "es ist weit",
     "it": "è lontano",
     "ro": "este departe",
-    "group": "2"
+    "group": "2",
+    "id": 38,
+    "read": false
   },
   {
     "es": "está cerca",
@@ -309,7 +385,9 @@
     "de": "es ist nah",
     "it": "è vicino",
     "ro": "este aproape",
-    "group": "2"
+    "group": "2",
+    "id": 39,
+    "read": false
   },
   {
     "es": "mucha gente",
@@ -317,7 +395,9 @@
     "de": "viele Leute",
     "it": "molta gente",
     "ro": "multă lume",
-    "group": "2"
+    "group": "2",
+    "id": 40,
+    "read": false
   },
   {
     "es": "nadie sabe",
@@ -325,7 +405,9 @@
     "de": "niemand weiß",
     "it": "nessuno sa",
     "ro": "nimeni nu știe",
-    "group": "2"
+    "group": "2",
+    "id": 41,
+    "read": false
   },
   {
     "es": "todos juntos",
@@ -333,7 +415,9 @@
     "de": "alle zusammen",
     "it": "tutti insieme",
     "ro": "toți împreună",
-    "group": "2"
+    "group": "2",
+    "id": 42,
+    "read": false
   },
   {
     "es": "buen trabajo",
@@ -341,7 +425,9 @@
     "de": "gute Arbeit",
     "it": "buon lavoro",
     "ro": "bună treabă",
-    "group": "2"
+    "group": "2",
+    "id": 43,
+    "read": false
   },
   {
     "es": "más comida",
@@ -349,7 +435,9 @@
     "de": "mehr Essen",
     "it": "più cibo",
     "ro": "mai multă mâncare",
-    "group": "2"
+    "group": "2",
+    "id": 44,
+    "read": false
   },
   {
     "es": "agua fría",
@@ -357,7 +445,9 @@
     "de": "kaltes Wasser",
     "it": "acqua fredda",
     "ro": "apă rece",
-    "group": "2"
+    "group": "2",
+    "id": 45,
+    "read": false
   },
   {
     "es": "pan fresco",
@@ -365,7 +455,9 @@
     "de": "frisches Brot",
     "it": "pane fresco",
     "ro": "pâine proaspătă",
-    "group": "2"
+    "group": "2",
+    "id": 46,
+    "read": false
   },
   {
     "es": "cierra puerta",
@@ -373,7 +465,9 @@
     "de": "Tür schließen",
     "it": "chiudi porta",
     "ro": "închide ușa",
-    "group": "2"
+    "group": "2",
+    "id": 47,
+    "read": false
   },
   {
     "es": "abre ventana",
@@ -381,7 +475,9 @@
     "de": "Fenster öffnen",
     "it": "apri finestra",
     "ro": "deschide fereastra",
-    "group": "2"
+    "group": "2",
+    "id": 48,
+    "read": false
   },
   {
     "es": "tengo miedo",
@@ -389,7 +485,9 @@
     "de": "ich habe Angst",
     "it": "ho paura",
     "ro": "mi-e frică",
-    "group": "2"
+    "group": "2",
+    "id": 49,
+    "read": false
   },
   {
     "es": "estoy cansado",
@@ -397,7 +495,9 @@
     "de": "ich bin müde",
     "it": "sono stanco",
     "ro": "sunt obosit",
-    "group": "2"
+    "group": "2",
+    "id": 50,
+    "read": false
   },
   {
     "es": "buen libro",
@@ -405,7 +505,9 @@
     "de": "gutes Buch",
     "it": "buon libro",
     "ro": "carte bună",
-    "group": "2"
+    "group": "2",
+    "id": 51,
+    "read": false
   },
   {
     "es": "coche nuevo",
@@ -413,7 +515,9 @@
     "de": "neues Auto",
     "it": "auto nuova",
     "ro": "mașină nouă",
-    "group": "2"
+    "group": "2",
+    "id": 52,
+    "read": false
   },
   {
     "es": "casa grande",
@@ -421,7 +525,9 @@
     "de": "großes Haus",
     "it": "casa grande",
     "ro": "casă mare",
-    "group": "2"
+    "group": "2",
+    "id": 53,
+    "read": false
   },
   {
     "es": "perro pequeño",
@@ -429,7 +535,9 @@
     "de": "kleiner Hund",
     "it": "cane piccolo",
     "ro": "câine mic",
-    "group": "2"
+    "group": "2",
+    "id": 54,
+    "read": false
   },
   {
     "es": "hace sol",
@@ -437,7 +545,9 @@
     "de": "es ist sonnig",
     "it": "c'è sole",
     "ro": "este soare",
-    "group": "2"
+    "group": "2",
+    "id": 55,
+    "read": false
   },
   {
     "es": "mucha agua",
@@ -445,7 +555,9 @@
     "de": "viel Wasser",
     "it": "molta acqua",
     "ro": "multă apă",
-    "group": "2"
+    "group": "2",
+    "id": 56,
+    "read": false
   },
   {
     "es": "café solo",
@@ -453,7 +565,9 @@
     "de": "schwarzer Kaffee",
     "it": "caffè nero",
     "ro": "cafea neagră",
-    "group": "2"
+    "group": "2",
+    "id": 57,
+    "read": false
   },
   {
     "es": "leche fría",
@@ -461,7 +575,9 @@
     "de": "kalte Milch",
     "it": "latte freddo",
     "ro": "lapte rece",
-    "group": "2"
+    "group": "2",
+    "id": 58,
+    "read": false
   },
   {
     "es": "té caliente",
@@ -469,7 +585,9 @@
     "de": "heißer Tee",
     "it": "tè caldo",
     "ro": "ceai cald",
-    "group": "2"
+    "group": "2",
+    "id": 59,
+    "read": false
   },
   {
     "es": "pan blanco",
@@ -477,7 +595,9 @@
     "de": "weißes Brot",
     "it": "pane bianco",
     "ro": "pâine albă",
-    "group": "2"
+    "group": "2",
+    "id": 60,
+    "read": false
   },
   {
     "es": "vino tinto",
@@ -485,7 +605,9 @@
     "de": "Rotwein",
     "it": "vino rosso",
     "ro": "vin roșu",
-    "group": "2"
+    "group": "2",
+    "id": 61,
+    "read": false
   },
   {
     "es": "fruta fresca",
@@ -493,7 +615,9 @@
     "de": "frisches Obst",
     "it": "frutta fresca",
     "ro": "fructe proaspete",
-    "group": "2"
+    "group": "2",
+    "id": 62,
+    "read": false
   },
   {
     "es": "ciudad vieja",
@@ -501,7 +625,9 @@
     "de": "alte Stadt",
     "it": "città vecchia",
     "ro": "oraș vechi",
-    "group": "2"
+    "group": "2",
+    "id": 63,
+    "read": false
   },
   {
     "es": "calle larga",
@@ -509,7 +635,9 @@
     "de": "lange Straße",
     "it": "via lunga",
     "ro": "stradă lungă",
-    "group": "2"
+    "group": "2",
+    "id": 64,
+    "read": false
   },
   {
     "es": "mar azul",
@@ -517,7 +645,9 @@
     "de": "blaues Meer",
     "it": "mare azzurro",
     "ro": "mare albastră",
-    "group": "2"
+    "group": "2",
+    "id": 65,
+    "read": false
   },
   {
     "es": "cielo claro",
@@ -525,7 +655,9 @@
     "de": "klarer Himmel",
     "it": "cielo chiaro",
     "ro": "cer senin",
-    "group": "2"
+    "group": "2",
+    "id": 66,
+    "read": false
   },
   {
     "es": "película buena",
@@ -533,7 +665,9 @@
     "de": "guter Film",
     "it": "bel film",
     "ro": "film bun",
-    "group": "2"
+    "group": "2",
+    "id": 67,
+    "read": false
   },
   {
     "es": "música alta",
@@ -541,7 +675,9 @@
     "de": "laute Musik",
     "it": "musica alta",
     "ro": "muzică tare",
-    "group": "2"
+    "group": "2",
+    "id": 68,
+    "read": false
   },
   {
     "es": "trabajo duro",
@@ -549,7 +685,9 @@
     "de": "harte Arbeit",
     "it": "lavoro duro",
     "ro": "muncă grea",
-    "group": "2"
+    "group": "2",
+    "id": 69,
+    "read": false
   },
   {
     "es": "estudiante joven",
@@ -557,7 +695,9 @@
     "de": "junger Student",
     "it": "studente giovane",
     "ro": "student tânăr",
-    "group": "2"
+    "group": "2",
+    "id": 70,
+    "read": false
   },
   {
     "es": "profesor sabio",
@@ -565,14 +705,18 @@
     "de": "weiser Lehrer",
     "it": "professore saggio",
     "ro": "profesor înțelept",
-    "group": "2"
+    "group": "2",
+    "id": 71,
+    "read": false
   },
   {
     "es": "niño feliz",
     "en": "happy child",
     "de": "glückliches Kind",
     "it": "bambino felice",
-    "ro": "copil fericit"
+    "ro": "copil fericit",
+    "id": 72,
+    "read": false
   },
   {
     "es": "mujer guapa",
@@ -580,7 +724,9 @@
     "de": "hübsche Frau",
     "it": "bella donna",
     "ro": "femeie frumoasă",
-    "group": "2"
+    "group": "2",
+    "id": 73,
+    "read": false
   },
   {
     "es": "hombre fuerte",
@@ -588,7 +734,9 @@
     "de": "starker Mann",
     "it": "uomo forte",
     "ro": "bărbat puternic",
-    "group": "2"
+    "group": "2",
+    "id": 74,
+    "read": false
   },
   {
     "es": "comida rápida",
@@ -596,7 +744,9 @@
     "de": "Fast Food",
     "it": "cibo veloce",
     "ro": "mâncare rapidă",
-    "group": "2"
+    "group": "2",
+    "id": 75,
+    "read": false
   },
   {
     "es": "noche oscura",
@@ -604,7 +754,9 @@
     "de": "dunkle Nacht",
     "it": "notte oscura",
     "ro": "noapte întunecată",
-    "group": "2"
+    "group": "2",
+    "id": 76,
+    "read": false
   },
   {
     "es": "día libre",
@@ -612,7 +764,9 @@
     "de": "freier Tag",
     "it": "giorno libero",
     "ro": "zi liberă",
-    "group": "2"
+    "group": "2",
+    "id": 77,
+    "read": false
   },
   {
     "es": "fin semana",
@@ -620,7 +774,9 @@
     "de": "Wochenende",
     "it": "fine settimana",
     "ro": "sfârșit săptămână",
-    "group": "2"
+    "group": "2",
+    "id": 78,
+    "read": false
   },
   {
     "es": "clase aburrida",
@@ -628,7 +784,9 @@
     "de": "langweiliger Kurs",
     "it": "classe noiosa",
     "ro": "curs plictisitor",
-    "group": "2"
+    "group": "2",
+    "id": 79,
+    "read": false
   },
   {
     "es": "idioma difícil",
@@ -636,7 +794,9 @@
     "de": "schwere Sprache",
     "it": "lingua difficile",
     "ro": "limbă dificilă",
-    "group": "2"
+    "group": "2",
+    "id": 80,
+    "read": false
   },
   {
     "es": "pregunta fácil",
@@ -644,7 +804,9 @@
     "de": "einfache Frage",
     "it": "domanda facile",
     "ro": "întrebare ușoară",
-    "group": "2"
+    "group": "2",
+    "id": 81,
+    "read": false
   },
   {
     "es": "respuesta corta",
@@ -652,7 +814,9 @@
     "de": "kurze Antwort",
     "it": "risposta breve",
     "ro": "răspuns scurt",
-    "group": "2"
+    "group": "2",
+    "id": 82,
+    "read": false
   },
   {
     "es": "camino corto",
@@ -660,7 +824,9 @@
     "de": "kurzer Weg",
     "it": "strada corta",
     "ro": "drum scurt",
-    "group": "2"
+    "group": "2",
+    "id": 83,
+    "read": false
   },
   {
     "es": "ropa limpia",
@@ -668,7 +834,9 @@
     "de": "saubere Kleidung",
     "it": "vestiti puliti",
     "ro": "haine curate",
-    "group": "2"
+    "group": "2",
+    "id": 84,
+    "read": false
   },
   {
     "es": "manos sucias",
@@ -676,7 +844,9 @@
     "de": "schmutzige Hände",
     "it": "mani sporche",
     "ro": "mâini murdare",
-    "group": "2"
+    "group": "2",
+    "id": 85,
+    "read": false
   },
   {
     "es": "reloj caro",
@@ -684,7 +854,9 @@
     "de": "teure Uhr",
     "it": "orologio caro",
     "ro": "ceas scump",
-    "group": "2"
+    "group": "2",
+    "id": 86,
+    "read": false
   },
   {
     "es": "bolso barato",
@@ -692,7 +864,9 @@
     "de": "billige Tasche",
     "it": "borsa economica",
     "ro": "geantă ieftină",
-    "group": "2"
+    "group": "2",
+    "id": 87,
+    "read": false
   },
   {
     "es": "llave perdida",
@@ -700,7 +874,9 @@
     "de": "verlorener Schlüssel",
     "it": "chiave persa",
     "ro": "cheie pierdută",
-    "group": "2"
+    "group": "2",
+    "id": 88,
+    "read": false
   },
   {
     "es": "puerta abierta",
@@ -708,7 +884,9 @@
     "de": "offene Tür",
     "it": "porta aperta",
     "ro": "ușă deschisă",
-    "group": "2"
+    "group": "2",
+    "id": 89,
+    "read": false
   },
   {
     "es": "ventana cerrada",
@@ -716,7 +894,9 @@
     "de": "geschlossenes Fenster",
     "it": "finestra chiusa",
     "ro": "fereastră închisă",
-    "group": "2"
+    "group": "2",
+    "id": 90,
+    "read": false
   },
   {
     "es": "luz encendida",
@@ -724,7 +904,9 @@
     "de": "Licht an",
     "it": "luce accesa",
     "ro": "lumină aprinsă",
-    "group": "2"
+    "group": "2",
+    "id": 91,
+    "read": false
   },
   {
     "es": "fuego apagado",
@@ -732,7 +914,9 @@
     "de": "Feuer aus",
     "it": "fuoco spento",
     "ro": "foc stins",
-    "group": "2"
+    "group": "2",
+    "id": 92,
+    "read": false
   },
   {
     "es": "corazón roto",
@@ -740,7 +924,9 @@
     "de": "gebrochenes Herz",
     "it": "cuore infranto",
     "ro": "inimă frântă",
-    "group": "2"
+    "group": "2",
+    "id": 93,
+    "read": false
   },
   {
     "es": "mente abierta",
@@ -748,7 +934,9 @@
     "de": "offener Geist",
     "it": "mente aperta",
     "ro": "minte deschisă",
-    "group": "2"
+    "group": "2",
+    "id": 94,
+    "read": false
   },
   {
     "es": "tiempo libre",
@@ -756,7 +944,9 @@
     "de": "Freizeit",
     "it": "tempo libero",
     "ro": "timp liber",
-    "group": "2"
+    "group": "2",
+    "id": 95,
+    "read": false
   },
   {
     "es": "vida sana",
@@ -764,7 +954,9 @@
     "de": "gesundes Leben",
     "it": "vita sana",
     "ro": "viață sănătoasă",
-    "group": "2"
+    "group": "2",
+    "id": 96,
+    "read": false
   },
   {
     "es": "mal tiempo",
@@ -772,7 +964,9 @@
     "de": "schlechtes Wetter",
     "it": "brutto tempo",
     "ro": "vreme rea",
-    "group": "2"
+    "group": "2",
+    "id": 97,
+    "read": false
   },
   {
     "es": "bajo control",
@@ -780,7 +974,9 @@
     "de": "unter Kontrolle",
     "it": "sotto controllo",
     "ro": "sub control",
-    "group": "2"
+    "group": "2",
+    "id": 98,
+    "read": false
   },
   {
     "es": "sin miedo",
@@ -788,7 +984,9 @@
     "de": "ohne Angst",
     "it": "senza paura",
     "ro": "fără frică",
-    "group": "2"
+    "group": "2",
+    "id": 99,
+    "read": false
   },
   {
     "es": "con cuidado",
@@ -796,7 +994,9 @@
     "de": "mit Vorsicht",
     "it": "con cura",
     "ro": "cu grijă",
-    "group": "2"
+    "group": "2",
+    "id": 100,
+    "read": false
   },
   {
     "es": "muy rápido",
@@ -804,7 +1004,9 @@
     "de": "sehr schnell",
     "it": "molto veloce",
     "ro": "foarte repede",
-    "group": "2"
+    "group": "2",
+    "id": 101,
+    "read": false
   },
   {
     "es": "bastante lento",
@@ -812,7 +1014,9 @@
     "de": "ziemlich langsam",
     "it": "piuttosto lento",
     "ro": "destul de lent",
-    "group": "2"
+    "group": "2",
+    "id": 102,
+    "read": false
   },
   {
     "es": "demasiado pronto",
@@ -820,7 +1024,9 @@
     "de": "zu früh",
     "it": "troppo presto",
     "ro": "prea devreme",
-    "group": "2"
+    "group": "2",
+    "id": 103,
+    "read": false
   },
   {
     "es": "por fin",
@@ -828,7 +1034,9 @@
     "de": "endlich",
     "it": "alla fine",
     "ro": "în sfârșit",
-    "group": "2"
+    "group": "2",
+    "id": 104,
+    "read": false
   },
   {
     "es": "de repente",
@@ -836,7 +1044,9 @@
     "de": "plötzlich",
     "it": "all'improvviso",
     "ro": "deodată",
-    "group": "2"
+    "group": "2",
+    "id": 105,
+    "read": false
   },
   {
     "es": "en medio",
@@ -844,7 +1054,9 @@
     "de": "in der Mitte",
     "it": "nel mezzo",
     "ro": "în mijloc",
-    "group": "2"
+    "group": "2",
+    "id": 106,
+    "read": false
   },
   {
     "es": "al lado",
@@ -852,7 +1064,9 @@
     "de": "nebenan",
     "it": "accanto",
     "ro": "alături",
-    "group": "2"
+    "group": "2",
+    "id": 107,
+    "read": false
   },
   {
     "es": "hacia arriba",
@@ -860,7 +1074,9 @@
     "de": "nach oben",
     "it": "verso l'alto",
     "ro": "în sus",
-    "group": "2"
+    "group": "2",
+    "id": 108,
+    "read": false
   },
   {
     "es": "hacia abajo",
@@ -868,7 +1084,9 @@
     "de": "nach unten",
     "it": "verso il basso",
     "ro": "în jos",
-    "group": "2"
+    "group": "2",
+    "id": 109,
+    "read": false
   },
   {
     "es": "dentro de",
@@ -876,7 +1094,9 @@
     "de": "innerhalb von",
     "it": "dentro di",
     "ro": "în interior",
-    "group": "2"
+    "group": "2",
+    "id": 110,
+    "read": false
   },
   {
     "es": "fuera de",
@@ -884,7 +1104,9 @@
     "de": "außerhalb von",
     "it": "fuori da",
     "ro": "în afară",
-    "group": "2"
+    "group": "2",
+    "id": 111,
+    "read": false
   },
   {
     "es": "antes de",
@@ -892,7 +1114,9 @@
     "de": "vor (zeitlich)",
     "it": "prima di",
     "ro": "înainte de",
-    "group": "2"
+    "group": "2",
+    "id": 112,
+    "read": false
   },
   {
     "es": "después de",
@@ -900,7 +1124,9 @@
     "de": "nach (zeitlich)",
     "it": "dopo di",
     "ro": "după",
-    "group": "2"
+    "group": "2",
+    "id": 113,
+    "read": false
   },
   {
     "es": "sobre todo",
@@ -908,7 +1134,9 @@
     "de": "vor allem",
     "it": "soprattutto",
     "ro": "mai ales",
-    "group": "2"
+    "group": "2",
+    "id": 114,
+    "read": false
   },
   {
     "es": "tal vez",
@@ -916,7 +1144,9 @@
     "de": "vielleicht",
     "it": "forse",
     "ro": "poate",
-    "group": "2"
+    "group": "2",
+    "id": 115,
+    "read": false
   },
   {
     "es": "casi siempre",
@@ -924,7 +1154,9 @@
     "de": "fast immer",
     "it": "quasi sempre",
     "ro": "aproape mereu",
-    "group": "2"
+    "group": "2",
+    "id": 116,
+    "read": false
   },
   {
     "es": "rara vez",
@@ -932,7 +1164,9 @@
     "de": "selten",
     "it": "raramente",
     "ro": "rareori",
-    "group": "2"
+    "group": "2",
+    "id": 117,
+    "read": false
   },
   {
     "es": "nunca jamás",
@@ -940,7 +1174,9 @@
     "de": "nie und nimmer",
     "it": "mai e poi mai",
     "ro": "niciodată",
-    "group": "2"
+    "group": "2",
+    "id": 118,
+    "read": false
   },
   {
     "es": "poco a poco",
@@ -948,7 +1184,9 @@
     "de": "Schritt für Schritt",
     "it": "a poco a poco",
     "ro": "puțin câte puțin",
-    "group": "2"
+    "group": "2",
+    "id": 119,
+    "read": false
   },
   {
     "es": "paso a paso",
@@ -956,7 +1194,9 @@
     "de": "Schritt für Schritt",
     "it": "passo dopo passo",
     "ro": "pas cu pas",
-    "group": "2"
+    "group": "2",
+    "id": 120,
+    "read": false
   },
   {
     "es": "cara a cara",
@@ -964,7 +1204,9 @@
     "de": "Angesicht zu Angesicht",
     "it": "faccia a faccia",
     "ro": "față în față",
-    "group": "2"
+    "group": "2",
+    "id": 121,
+    "read": false
   },
   {
     "es": "mano a mano",
@@ -972,7 +1214,9 @@
     "de": "Hand in Hand",
     "it": "mano nella mano",
     "ro": "mână în mână",
-    "group": "2"
+    "group": "2",
+    "id": 122,
+    "read": false
   },
   {
     "es": "de nuevo",
@@ -980,7 +1224,9 @@
     "de": "von neuem",
     "it": "di nuovo",
     "ro": "din nou",
-    "group": "2"
+    "group": "2",
+    "id": 123,
+    "read": false
   },
   {
     "es": "por suerte",
@@ -988,7 +1234,9 @@
     "de": "zum Glück",
     "it": "per fortuna",
     "ro": "din fericire",
-    "group": "2"
+    "group": "2",
+    "id": 124,
+    "read": false
   },
   {
     "es": "por desgracia",
@@ -996,7 +1244,9 @@
     "de": "leider",
     "it": "purtroppo",
     "ro": "din păcate",
-    "group": "2"
+    "group": "2",
+    "id": 125,
+    "read": false
   },
   {
     "es": "en cambio",
@@ -1004,7 +1254,9 @@
     "de": "stattdessen",
     "it": "invece",
     "ro": "în schimb",
-    "group": "2"
+    "group": "2",
+    "id": 126,
+    "read": false
   },
   {
     "es": "sin embargo",
@@ -1012,7 +1264,9 @@
     "de": "jedoch",
     "it": "tuttavia",
     "ro": "totuși",
-    "group": "2"
+    "group": "2",
+    "id": 127,
+    "read": false
   },
   {
     "es": "al menos",
@@ -1020,7 +1274,9 @@
     "de": "wenigstens",
     "it": "almeno",
     "ro": "cel puțin",
-    "group": "2"
+    "group": "2",
+    "id": 128,
+    "read": false
   },
   {
     "es": "por ejemplo",
@@ -1028,7 +1284,9 @@
     "de": "zum Beispiel",
     "it": "per esempio",
     "ro": "de exemplu",
-    "group": "2"
+    "group": "2",
+    "id": 129,
+    "read": false
   },
   {
     "es": "en total",
@@ -1036,7 +1294,9 @@
     "de": "insgesamt",
     "it": "in totale",
     "ro": "în total",
-    "group": "2"
+    "group": "2",
+    "id": 130,
+    "read": false
   },
   {
     "es": "de verdad",
@@ -1044,7 +1304,9 @@
     "de": "wirklich",
     "it": "davvero",
     "ro": "într-adevăr",
-    "group": "2"
+    "group": "2",
+    "id": 131,
+    "read": false
   },
   {
     "es": "lo mismo",
@@ -1052,7 +1314,9 @@
     "de": "dasselbe",
     "it": "lo stesso",
     "ro": "la fel",
-    "group": "2"
+    "group": "2",
+    "id": 132,
+    "read": false
   },
   {
     "es": "un momento",
@@ -1060,7 +1324,9 @@
     "de": "einen Moment",
     "it": "un momento",
     "ro": "un moment",
-    "group": "2"
+    "group": "2",
+    "id": 133,
+    "read": false
   },
   {
     "es": "mucha paz",
@@ -1068,7 +1334,9 @@
     "de": "viel Frieden",
     "it": "molta pace",
     "ro": "multă pace",
-    "group": "2"
+    "group": "2",
+    "id": 134,
+    "read": false
   },
   {
     "es": "primer paso",
@@ -1076,7 +1344,9 @@
     "de": "erster Schritt",
     "it": "primo passo",
     "ro": "primul pas",
-    "group": "2"
+    "group": "2",
+    "id": 135,
+    "read": false
   },
   {
     "es": "última vez",
@@ -1084,7 +1354,9 @@
     "de": "letztes Mal",
     "it": "ultima volta",
     "ro": "ultima dată",
-    "group": "2"
+    "group": "2",
+    "id": 136,
+    "read": false
   },
   {
     "es": "siguiente página",
@@ -1092,7 +1364,9 @@
     "de": "nächste Seite",
     "it": "prossima pagina",
     "ro": "pagina următoare",
-    "group": "2"
+    "group": "2",
+    "id": 137,
+    "read": false
   },
   {
     "es": "buen olor",
@@ -1100,7 +1374,9 @@
     "de": "guter Geruch",
     "it": "buon odore",
     "ro": "miros bun",
-    "group": "2"
+    "group": "2",
+    "id": 138,
+    "read": false
   },
   {
     "es": "mal sabor",
@@ -1108,7 +1384,9 @@
     "de": "schlechter Geschmack",
     "it": "cattivo gusto",
     "ro": "gust rău",
-    "group": "2"
+    "group": "2",
+    "id": 139,
+    "read": false
   },
   {
     "es": "voz baja",
@@ -1116,7 +1394,9 @@
     "de": "leise Stimme",
     "it": "voce bassa",
     "ro": "voce joasă",
-    "group": "2"
+    "group": "2",
+    "id": 140,
+    "read": false
   },
   {
     "es": "brazo derecho",
@@ -1124,7 +1404,9 @@
     "de": "rechter Arm",
     "it": "braccio destro",
     "ro": "braț drept",
-    "group": "2"
+    "group": "2",
+    "id": 141,
+    "read": false
   },
   {
     "es": "ojo izquierdo",
@@ -1132,7 +1414,9 @@
     "de": "linkes Auge",
     "it": "occhio sinistro",
     "ro": "ochi stâng",
-    "group": "2"
+    "group": "2",
+    "id": 142,
+    "read": false
   },
   {
     "es": "pelo largo",
@@ -1140,7 +1424,9 @@
     "de": "lange Haare",
     "it": "capelli lunghi",
     "ro": "păr lung",
-    "group": "2"
+    "group": "2",
+    "id": 143,
+    "read": false
   },
   {
     "es": "barba corta",
@@ -1148,7 +1434,9 @@
     "de": "kurzer Bart",
     "it": "barba corta",
     "ro": "barbă scurtă",
-    "group": "2"
+    "group": "2",
+    "id": 144,
+    "read": false
   },
   {
     "es": "cuerpo sano",
@@ -1156,7 +1444,9 @@
     "de": "gesunder Körper",
     "it": "corpo sano",
     "ro": "corp sănătos",
-    "group": "2"
+    "group": "2",
+    "id": 145,
+    "read": false
   },
   {
     "es": "mente clara",
@@ -1164,7 +1454,9 @@
     "de": "klarer Geist",
     "it": "mente chiara",
     "ro": "minte clară",
-    "group": "2"
+    "group": "2",
+    "id": 146,
+    "read": false
   },
   {
     "es": "amor eterno",
@@ -1172,7 +1464,9 @@
     "de": "ewige Liebe",
     "it": "amore eterno",
     "ro": "iubire eternă",
-    "group": "2"
+    "group": "2",
+    "id": 147,
+    "read": false
   },
   {
     "es": "odio puro",
@@ -1180,7 +1474,9 @@
     "de": "reiner Hass",
     "it": "odio puro",
     "ro": "ură pură",
-    "group": "2"
+    "group": "2",
+    "id": 148,
+    "read": false
   },
   {
     "es": "gran éxito",
@@ -1188,7 +1484,9 @@
     "de": "großer Erfolg",
     "it": "grande successo",
     "ro": "mare succes",
-    "group": "2"
+    "group": "2",
+    "id": 149,
+    "read": false
   },
   {
     "es": "error grave",
@@ -1196,7 +1494,9 @@
     "de": "schwerer Fehler",
     "it": "errore grave",
     "ro": "greșeală gravă",
-    "group": "2"
+    "group": "2",
+    "id": 150,
+    "read": false
   },
   {
     "es": "vía libre",
@@ -1204,7 +1504,9 @@
     "de": "freier Weg",
     "it": "via libera",
     "ro": "cale liberă",
-    "group": "2"
+    "group": "2",
+    "id": 151,
+    "read": false
   },
   {
     "es": "pan diario",
@@ -1212,7 +1514,9 @@
     "de": "tägliches Brot",
     "it": "pane quotidiano",
     "ro": "pâine zilnică",
-    "group": "2"
+    "group": "2",
+    "id": 152,
+    "read": false
   },
   {
     "es": "agua dulce",
@@ -1220,7 +1524,9 @@
     "de": "Süßwasser",
     "it": "acqua dolce",
     "ro": "apă dulce",
-    "group": "2"
+    "group": "2",
+    "id": 153,
+    "read": false
   },
   {
     "es": "mar salado",
@@ -1228,7 +1534,9 @@
     "de": "salziges Meer",
     "it": "mare salato",
     "ro": "mare sărată",
-    "group": "2"
+    "group": "2",
+    "id": 154,
+    "read": false
   },
   {
     "es": "viento fuerte",
@@ -1236,7 +1544,9 @@
     "de": "starker Wind",
     "it": "vento forte",
     "ro": "vânt puternic",
-    "group": "2"
+    "group": "2",
+    "id": 155,
+    "read": false
   },
   {
     "es": "tierra firme",
@@ -1244,7 +1554,9 @@
     "de": "festes Land",
     "it": "terra ferma",
     "ro": "pământ stabil",
-    "group": "2"
+    "group": "2",
+    "id": 156,
+    "read": false
   },
   {
     "es": "fuego vivo",
@@ -1252,7 +1564,9 @@
     "de": "lebendiges Feuer",
     "it": "fuoco vivo",
     "ro": "foc viu",
-    "group": "2"
+    "group": "2",
+    "id": 157,
+    "read": false
   },
   {
     "es": "aire puro",
@@ -1260,7 +1574,9 @@
     "de": "reine Luft",
     "it": "aria pura",
     "ro": "aer curat",
-    "group": "2"
+    "group": "2",
+    "id": 158,
+    "read": false
   },
   {
     "es": "sol poniente",
@@ -1268,7 +1584,9 @@
     "de": "sinkende Sonne",
     "it": "sole calante",
     "ro": "soare la apus",
-    "group": "2"
+    "group": "2",
+    "id": 159,
+    "read": false
   },
   {
     "es": "luna llena",
@@ -1276,7 +1594,9 @@
     "de": "Vollmond",
     "it": "luna piena",
     "ro": "lună plină",
-    "group": "2"
+    "group": "2",
+    "id": 160,
+    "read": false
   },
   {
     "es": "noche blanca",
@@ -1284,7 +1604,9 @@
     "de": "weiße Nacht",
     "it": "notte bianca",
     "ro": "noapte albă",
-    "group": "2"
+    "group": "2",
+    "id": 161,
+    "read": false
   },
   {
     "es": "invierno frío",
@@ -1292,7 +1614,9 @@
     "de": "kalter Winter",
     "it": "inverno freddo",
     "ro": "iarnă grea",
-    "group": "2"
+    "group": "2",
+    "id": 162,
+    "read": false
   },
   {
     "es": "verano largo",
@@ -1300,7 +1624,9 @@
     "de": "langer Sommer",
     "it": "estate lunga",
     "ro": "vară lungă",
-    "group": "2"
+    "group": "2",
+    "id": 163,
+    "read": false
   },
   {
     "es": "otoño gris",
@@ -1308,7 +1634,9 @@
     "de": "grauer Herbst",
     "it": "autunno grigio",
     "ro": "toamnă gri",
-    "group": "2"
+    "group": "2",
+    "id": 164,
+    "read": false
   },
   {
     "es": "flor bella",
@@ -1316,7 +1644,9 @@
     "de": "schöne Blume",
     "it": "fiore bello",
     "ro": "floare frumoasă",
-    "group": "2"
+    "group": "2",
+    "id": 165,
+    "read": false
   },
   {
     "es": "bosque verde",
@@ -1324,7 +1654,9 @@
     "de": "grüner Wald",
     "it": "bosco verde",
     "ro": "pădure verde",
-    "group": "2"
+    "group": "2",
+    "id": 166,
+    "read": false
   },
   {
     "es": "montaña alta",
@@ -1332,7 +1664,9 @@
     "de": "hoher Berg",
     "it": "montagna alta",
     "ro": "munte înalt",
-    "group": "2"
+    "group": "2",
+    "id": 167,
+    "read": false
   },
   {
     "es": "río rápido",
@@ -1340,7 +1674,9 @@
     "de": "schneller Fluss",
     "it": "fiume rapido",
     "ro": "râu rapid",
-    "group": "2"
+    "group": "2",
+    "id": 168,
+    "read": false
   },
   {
     "es": "puente viejo",
@@ -1348,7 +1684,9 @@
     "de": "alte Brücke",
     "it": "ponte vecchio",
     "ro": "pod vechi",
-    "group": "2"
+    "group": "2",
+    "id": 169,
+    "read": false
   },
   {
     "es": "camino largo",
@@ -1356,7 +1694,9 @@
     "de": "langer Weg",
     "it": "cammino lungo",
     "ro": "drum lung",
-    "group": "2"
+    "group": "2",
+    "id": 170,
+    "read": false
   },
   {
     "es": "pueblo pequeño",
@@ -1364,7 +1704,9 @@
     "de": "kleines Dorf",
     "it": "piccolo borgo",
     "ro": "sat mic",
-    "group": "2"
+    "group": "2",
+    "id": 171,
+    "read": false
   },
   {
     "es": "capital grande",
@@ -1372,7 +1714,9 @@
     "de": "große Hauptstadt",
     "it": "grande capitale",
     "ro": "capitală mare",
-    "group": "2"
+    "group": "2",
+    "id": 172,
+    "read": false
   },
   {
     "es": "país libre",
@@ -1380,7 +1724,9 @@
     "de": "freies Land",
     "it": "paese libero",
     "ro": "țară liberă",
-    "group": "2"
+    "group": "2",
+    "id": 173,
+    "read": false
   },
   {
     "es": "mundo loco",
@@ -1388,7 +1734,9 @@
     "de": "verrückte Welt",
     "it": "mondo pazzo",
     "ro": "lume nebună",
-    "group": "2"
+    "group": "2",
+    "id": 174,
+    "read": false
   },
   {
     "es": "gente amable",
@@ -1396,7 +1744,9 @@
     "de": "nette Leute",
     "it": "gente gentile",
     "ro": "oameni amabili",
-    "group": "2"
+    "group": "2",
+    "id": 175,
+    "read": false
   },
   {
     "es": "niña buena",
@@ -1404,7 +1754,9 @@
     "de": "gutes Mädchen",
     "it": "brava ragazza",
     "ro": "fată bună",
-    "group": "2"
+    "group": "2",
+    "id": 176,
+    "read": false
   },
   {
     "es": "padre joven",
@@ -1412,7 +1764,9 @@
     "de": "junger Vater",
     "it": "padre giovane",
     "ro": "tată tânăr",
-    "group": "2"
+    "group": "2",
+    "id": 177,
+    "read": false
   },
   {
     "es": "madre cariñosa",
@@ -1420,7 +1774,9 @@
     "de": "liebevolle Mutter",
     "it": "madre affettuosa",
     "ro": "mamă iubitoare",
-    "group": "2"
+    "group": "2",
+    "id": 178,
+    "read": false
   },
   {
     "es": "hermano mayor",
@@ -1428,7 +1784,9 @@
     "de": "älterer Bruder",
     "it": "fratello maggiore",
     "ro": "frate mai mare",
-    "group": "2"
+    "group": "2",
+    "id": 179,
+    "read": false
   },
   {
     "es": "hermana menor",
@@ -1436,7 +1794,9 @@
     "de": "jüngere Schwester",
     "it": "sorella minore",
     "ro": "soră mai mică",
-    "group": "2"
+    "group": "2",
+    "id": 180,
+    "read": false
   },
   {
     "es": "familia unida",
@@ -1444,7 +1804,9 @@
     "de": "vereinte Familie",
     "it": "famiglia unita",
     "ro": "familie unită",
-    "group": "2"
+    "group": "2",
+    "id": 181,
+    "read": false
   },
   {
     "es": "abuelo sabio",
@@ -1452,7 +1814,9 @@
     "de": "weiser Opa",
     "it": "nonno saggio",
     "ro": "bunic înțelept",
-    "group": "2"
+    "group": "2",
+    "id": 182,
+    "read": false
   },
   {
     "es": "amigo fiel",
@@ -1460,7 +1824,9 @@
     "de": "treuer Freund",
     "it": "amico fedele",
     "ro": "prieten fidel",
-    "group": "2"
+    "group": "2",
+    "id": 183,
+    "read": false
   },
   {
     "es": "vecino ruidoso",
@@ -1468,7 +1834,9 @@
     "de": "lauter Nachbar",
     "it": "vicino rumoroso",
     "ro": "vecin zgomotos",
-    "group": "2"
+    "group": "2",
+    "id": 184,
+    "read": false
   },
   {
     "es": "médico experto",
@@ -1476,7 +1844,9 @@
     "de": "erfahrener Arzt",
     "it": "medico esperto",
     "ro": "medic expert",
-    "group": "2"
+    "group": "2",
+    "id": 185,
+    "read": false
   },
   {
     "es": "policía atento",
@@ -1484,7 +1854,9 @@
     "de": "wachsame Polizei",
     "it": "polizia attenta",
     "ro": "polițist atent",
-    "group": "2"
+    "group": "2",
+    "id": 186,
+    "read": false
   },
   {
     "es": "clase magistral",
@@ -1492,7 +1864,9 @@
     "de": "Meisterklasse",
     "it": "lezione magistrale",
     "ro": "lecție magistrală",
-    "group": "2"
+    "group": "2",
+    "id": 187,
+    "read": false
   },
   {
     "es": "examen final",
@@ -1500,7 +1874,9 @@
     "de": "Abschlussprüfung",
     "it": "esame finale",
     "ro": "examen final",
-    "group": "2"
+    "group": "2",
+    "id": 188,
+    "read": false
   },
   {
     "es": "tarea difícil",
@@ -1508,7 +1884,9 @@
     "de": "schwere Aufgabe",
     "it": "compito difficile",
     "ro": "sarcină dificilă",
-    "group": "2"
+    "group": "2",
+    "id": 189,
+    "read": false
   },
   {
     "es": "libro abierto",
@@ -1516,7 +1894,9 @@
     "de": "offenes Buch",
     "it": "libro aperto",
     "ro": "carte deschisă",
-    "group": "2"
+    "group": "2",
+    "id": 190,
+    "read": false
   },
   {
     "es": "página escrita",
@@ -1524,7 +1904,9 @@
     "de": "beschriebene Seite",
     "it": "pagina scritta",
     "ro": "pagină scrisă",
-    "group": "2"
+    "group": "2",
+    "id": 191,
+    "read": false
   },
   {
     "es": "pluma negra",
@@ -1532,7 +1914,9 @@
     "de": "schwarze Feder",
     "it": "penna nera",
     "ro": "stilou negru",
-    "group": "2"
+    "group": "2",
+    "id": 192,
+    "read": false
   },
   {
     "es": "papel blanco",
@@ -1540,7 +1924,9 @@
     "de": "weißes Papier",
     "it": "carta bianca",
     "ro": "hârtie albă",
-    "group": "2"
+    "group": "2",
+    "id": 193,
+    "read": false
   },
   {
     "es": "mesa redonda",
@@ -1548,7 +1934,9 @@
     "de": "runder Tisch",
     "it": "tavola rotonda",
     "ro": "masă rotundă",
-    "group": "2"
+    "group": "2",
+    "id": 194,
+    "read": false
   },
   {
     "es": "silla cómoda",
@@ -1556,7 +1944,9 @@
     "de": "bequemer Stuhl",
     "it": "sedia comoda",
     "ro": "scaun confortabil",
-    "group": "2"
+    "group": "2",
+    "id": 195,
+    "read": false
   },
   {
     "es": "cama suave",
@@ -1564,7 +1954,9 @@
     "de": "weiches Bett",
     "it": "letto morbido",
     "ro": "pat moale",
-    "group": "2"
+    "group": "2",
+    "id": 196,
+    "read": false
   },
   {
     "es": "ropa sucia",
@@ -1572,7 +1964,9 @@
     "de": "schmutzige Wäsche",
     "it": "panni sporchi",
     "ro": "haine murdare",
-    "group": "2"
+    "group": "2",
+    "id": 197,
+    "read": false
   },
   {
     "es": "zapatos nuevos",
@@ -1580,7 +1974,9 @@
     "de": "neue Schuhe",
     "it": "scarpe nuove",
     "ro": "pantofi noi",
-    "group": "2"
+    "group": "2",
+    "id": 198,
+    "read": false
   },
   {
     "es": "gafas oscuras",
@@ -1588,7 +1984,9 @@
     "de": "dunkle Brille",
     "it": "occhiali scuri",
     "ro": "ochelari de soare",
-    "group": "2"
+    "group": "2",
+    "id": 199,
+    "read": false
   },
   {
     "es": "bolsa llena",
@@ -1596,7 +1994,9 @@
     "de": "volle Tasche",
     "it": "borsa piena",
     "ro": "geantă plină",
-    "group": "2"
+    "group": "2",
+    "id": 200,
+    "read": false
   },
   {
     "es": "dinero rápido",
@@ -1604,7 +2004,9 @@
     "de": "schnelles Geld",
     "it": "soldi veloci",
     "ro": "bani rapizi",
-    "group": "2"
+    "group": "2",
+    "id": 201,
+    "read": false
   },
   {
     "es": "precio alto",
@@ -1612,7 +2014,9 @@
     "de": "hoher Preis",
     "it": "prezzo alto",
     "ro": "preț mare",
-    "group": "2"
+    "group": "2",
+    "id": 202,
+    "read": false
   },
   {
     "es": "oferta especial",
@@ -1620,7 +2024,9 @@
     "de": "Sonderangebot",
     "it": "offerta speciale",
     "ro": "ofertă specială",
-    "group": "2"
+    "group": "2",
+    "id": 203,
+    "read": false
   },
   {
     "es": "tarjeta crédito",
@@ -1628,7 +2034,9 @@
     "de": "Kreditkarte",
     "it": "carta credito",
     "ro": "card credit",
-    "group": "2"
+    "group": "2",
+    "id": 204,
+    "read": false
   },
   {
     "es": "cuenta bancaria",
@@ -1636,7 +2044,9 @@
     "de": "Bankkonto",
     "it": "conto bancario",
     "ro": "cont bancar",
-    "group": "2"
+    "group": "2",
+    "id": 205,
+    "read": false
   },
   {
     "es": "tienda pequeña",
@@ -1644,7 +2054,9 @@
     "de": "kleiner Laden",
     "it": "negozio piccolo",
     "ro": "magazin mic",
-    "group": "2"
+    "group": "2",
+    "id": 206,
+    "read": false
   },
   {
     "es": "mercado libre",
@@ -1652,7 +2064,9 @@
     "de": "freier Markt",
     "it": "mercato libero",
     "ro": "piață liberă",
-    "group": "2"
+    "group": "2",
+    "id": 207,
+    "read": false
   },
   {
     "es": "negocio propio",
@@ -1660,7 +2074,9 @@
     "de": "eigenes Geschäft",
     "it": "proprio affare",
     "ro": "afacere proprie",
-    "group": "2"
+    "group": "2",
+    "id": 208,
+    "read": false
   },
   {
     "es": "empresa grande",
@@ -1668,7 +2084,9 @@
     "de": "große Firma",
     "it": "grande azienda",
     "ro": "companie mare",
-    "group": "2"
+    "group": "2",
+    "id": 209,
+    "read": false
   },
   {
     "es": "jefe malo",
@@ -1676,7 +2094,9 @@
     "de": "böser Chef",
     "it": "capo cattivo",
     "ro": "șef rău",
-    "group": "2"
+    "group": "2",
+    "id": 210,
+    "read": false
   },
   {
     "es": "colega amable",
@@ -1684,7 +2104,9 @@
     "de": "netter Kollege",
     "it": "collega gentile",
     "ro": "coleg amabil",
-    "group": "2"
+    "group": "2",
+    "id": 211,
+    "read": false
   },
   {
     "es": "reunión larga",
@@ -1692,7 +2114,9 @@
     "de": "lange Sitzung",
     "it": "riunione lunga",
     "ro": "ședință lungă",
-    "group": "2"
+    "group": "2",
+    "id": 212,
+    "read": false
   },
   {
     "es": "correo urgente",
@@ -1700,7 +2124,9 @@
     "de": "eilige Mail",
     "it": "posta urgente",
     "ro": "mesaj urgent",
-    "group": "2"
+    "group": "2",
+    "id": 213,
+    "read": false
   },
   {
     "es": "llamada perdida",
@@ -1708,7 +2134,9 @@
     "de": "entgangener Anruf",
     "it": "chiamata persa",
     "ro": "apel pierdut",
-    "group": "2"
+    "group": "2",
+    "id": 214,
+    "read": false
   },
   {
     "es": "computadora lenta",
@@ -1716,7 +2144,9 @@
     "de": "langsamer Computer",
     "it": "computer lento",
     "ro": "calculator lent",
-    "group": "2"
+    "group": "2",
+    "id": 215,
+    "read": false
   },
   {
     "es": "teclado nuevo",
@@ -1724,7 +2154,9 @@
     "de": "neue Tastatur",
     "it": "tastiera nuova",
     "ro": "tastatură nouă",
-    "group": "2"
+    "group": "2",
+    "id": 216,
+    "read": false
   },
   {
     "es": "pantalla brillante",
@@ -1732,7 +2164,9 @@
     "de": "heller Bildschirm",
     "it": "schermo lucido",
     "ro": "ecran luminos",
-    "group": "2"
+    "group": "2",
+    "id": 217,
+    "read": false
   },
   {
     "es": "red social",
@@ -1740,7 +2174,9 @@
     "de": "soziales Netz",
     "it": "rete sociale",
     "ro": "rețea socială",
-    "group": "2"
+    "group": "2",
+    "id": 218,
+    "read": false
   },
   {
     "es": "sitio web",
@@ -1748,7 +2184,9 @@
     "de": "Webseite",
     "it": "sito web",
     "ro": "site web",
-    "group": "2"
+    "group": "2",
+    "id": 219,
+    "read": false
   },
   {
     "es": "clave secreta",
@@ -1756,7 +2194,9 @@
     "de": "Geheimschlüssel",
     "it": "chiave segreta",
     "ro": "cheie secretă",
-    "group": "2"
+    "group": "2",
+    "id": 220,
+    "read": false
   },
   {
     "es": "viaje corto",
@@ -1764,7 +2204,9 @@
     "de": "kurze Reise",
     "it": "viaggio breve",
     "ro": "călătorie scurtă",
-    "group": "2"
+    "group": "2",
+    "id": 221,
+    "read": false
   },
   {
     "es": "avión rápido",
@@ -1772,7 +2214,9 @@
     "de": "schnelles Flugzeug",
     "it": "aereo veloce",
     "ro": "avion rapid",
-    "group": "2"
+    "group": "2",
+    "id": 222,
+    "read": false
   },
   {
     "es": "tren puntual",
@@ -1780,7 +2224,9 @@
     "de": "pünktlicher Zug",
     "it": "treno puntuale",
     "ro": "tren punctual",
-    "group": "2"
+    "group": "2",
+    "id": 223,
+    "read": false
   },
   {
     "es": "hotel caro",
@@ -1788,7 +2234,9 @@
     "de": "teures Hotel",
     "it": "hotel caro",
     "ro": "hotel scump",
-    "group": "2"
+    "group": "2",
+    "id": 224,
+    "read": false
   },
   {
     "es": "habitación doble",
@@ -1796,7 +2244,9 @@
     "de": "Doppelzimmer",
     "it": "camera doppia",
     "ro": "cameră dublă",
-    "group": "2"
+    "group": "2",
+    "id": 225,
+    "read": false
   },
   {
     "es": "desayuno rico",
@@ -1804,7 +2254,9 @@
     "de": "leckeres Frühstück",
     "it": "colazione ricca",
     "ro": "mic dejun gustos",
-    "group": "2"
+    "group": "2",
+    "id": 226,
+    "read": false
   },
   {
     "es": "cena romántica",
@@ -1812,7 +2264,9 @@
     "de": "romantisches Abendessen",
     "it": "cena romantica",
     "ro": "cină romantică",
-    "group": "2"
+    "group": "2",
+    "id": 227,
+    "read": false
   },
   {
     "es": "comida casera",
@@ -1820,7 +2274,9 @@
     "de": "Hausmannskost",
     "it": "cibo casalingo",
     "ro": "mâncare de casă",
-    "group": "2"
+    "group": "2",
+    "id": 228,
+    "read": false
   },
   {
     "es": "fruta dulce",
@@ -1828,7 +2284,9 @@
     "de": "süße Frucht",
     "it": "frutta dolce",
     "ro": "fruct dulce",
-    "group": "2"
+    "group": "2",
+    "id": 229,
+    "read": false
   },
   {
     "es": "carne asada",
@@ -1836,7 +2294,9 @@
     "de": "gebratenes Fleisch",
     "it": "carne arrosto",
     "ro": "carne friptă",
-    "group": "2"
+    "group": "2",
+    "id": 230,
+    "read": false
   },
   {
     "es": "pescado fresco",
@@ -1844,7 +2304,9 @@
     "de": "frischer Fisch",
     "it": "pesce fresco",
     "ro": "pește proaspăt",
-    "group": "2"
+    "group": "2",
+    "id": 231,
+    "read": false
   },
   {
     "es": "ensalada verde",
@@ -1852,7 +2314,9 @@
     "de": "grüner Salat",
     "it": "insalata verde",
     "ro": "salată verde",
-    "group": "2"
+    "group": "2",
+    "id": 232,
+    "read": false
   },
   {
     "es": "bebida fría",
@@ -1860,7 +2324,9 @@
     "de": "kaltes Getränk",
     "it": "bevanda fredda",
     "ro": "băutură rece",
-    "group": "2"
+    "group": "2",
+    "id": 233,
+    "read": false
   },
   {
     "es": "vaso vacío",
@@ -1868,7 +2334,9 @@
     "de": "leeres Glas",
     "it": "bicchiere vuoto",
     "ro": "pahar gol",
-    "group": "2"
+    "group": "2",
+    "id": 234,
+    "read": false
   },
   {
     "es": "plato hondo",
@@ -1876,7 +2344,9 @@
     "de": "tiefer Teller",
     "it": "piatto fondo",
     "ro": "farfurie adâncă",
-    "group": "2"
+    "group": "2",
+    "id": 235,
+    "read": false
   },
   {
     "es": "cuchillo afilado",
@@ -1884,7 +2354,9 @@
     "de": "scharfes Messer",
     "it": "coltello affilato",
     "ro": "cuțit ascuțit",
-    "group": "2"
+    "group": "2",
+    "id": 236,
+    "read": false
   },
   {
     "es": "cuchara grande",
@@ -1892,7 +2364,9 @@
     "de": "großer Löffel",
     "it": "cucchiaio grande",
     "ro": "lingură mare",
-    "group": "2"
+    "group": "2",
+    "id": 237,
+    "read": false
   },
   {
     "es": "servilleta blanca",
@@ -1900,7 +2374,9 @@
     "de": "weiße Serviette",
     "it": "tovagliolo bianco",
     "ro": "șervețel alb",
-    "group": "2"
+    "group": "2",
+    "id": 238,
+    "read": false
   },
   {
     "es": "cuerpo joven",
@@ -1908,7 +2384,9 @@
     "de": "junger Körper",
     "it": "corpo giovane",
     "ro": "corp tânăr",
-    "group": "2"
+    "group": "2",
+    "id": 239,
+    "read": false
   },
   {
     "es": "sangre roja",
@@ -1916,7 +2394,9 @@
     "de": "rotes Blut",
     "it": "sangue rosso",
     "ro": "sânge roșu",
-    "group": "2"
+    "group": "2",
+    "id": 240,
+    "read": false
   },
   {
     "es": "dolor fuerte",
@@ -1924,7 +2404,9 @@
     "de": "starker Schmerz",
     "it": "dolore forte",
     "ro": "durere puternică",
-    "group": "2"
+    "group": "2",
+    "id": 241,
+    "read": false
   },
   {
     "es": "salud buena",
@@ -1932,7 +2414,9 @@
     "de": "gute Gesundheit",
     "it": "buona salute",
     "ro": "sănătate bună",
-    "group": "2"
+    "group": "2",
+    "id": 242,
+    "read": false
   },
   {
     "es": "sueño profundo",
@@ -1940,7 +2424,9 @@
     "de": "tiefer Schlaf",
     "it": "sonno profondo",
     "ro": "somn profund",
-    "group": "2"
+    "group": "2",
+    "id": 243,
+    "read": false
   },
   {
     "es": "alma libre",
@@ -1948,7 +2434,9 @@
     "de": "freie Seele",
     "it": "anima libera",
     "ro": "suflet liber",
-    "group": "2"
+    "group": "2",
+    "id": 244,
+    "read": false
   },
   {
     "es": "verdad pura",
@@ -1956,7 +2444,9 @@
     "de": "reine Wahrheit",
     "it": "verità pura",
     "ro": "adevăr pur",
-    "group": "2"
+    "group": "2",
+    "id": 245,
+    "read": false
   },
   {
     "es": "mentira piadosa",
@@ -1964,7 +2454,9 @@
     "de": "Notlüge",
     "it": "bugia pietosa",
     "ro": "minciună nevinovată",
-    "group": "2"
+    "group": "2",
+    "id": 246,
+    "read": false
   },
   {
     "es": "beso largo",
@@ -1972,7 +2464,9 @@
     "de": "langer Kuss",
     "it": "bacio lungo",
     "ro": "sărut lung",
-    "group": "2"
+    "group": "2",
+    "id": 247,
+    "read": false
   },
   {
     "es": "abrazo fuerte",
@@ -1980,7 +2474,9 @@
     "de": "feste Umarmung",
     "it": "abbraccio forte",
     "ro": "îmbrățișare strânsă",
-    "group": "2"
+    "group": "2",
+    "id": 248,
+    "read": false
   },
   {
     "es": "mirada triste",
@@ -1988,7 +2484,9 @@
     "de": "trauriger Blick",
     "it": "sguardo triste",
     "ro": "privire tristă",
-    "group": "2"
+    "group": "2",
+    "id": 249,
+    "read": false
   },
   {
     "es": "sonrisa bella",
@@ -1996,7 +2494,9 @@
     "de": "schönes Lächeln",
     "it": "sorriso bello",
     "ro": "zâmbet frumos",
-    "group": "2"
+    "group": "2",
+    "id": 250,
+    "read": false
   },
   {
     "es": "viento suave",
@@ -2004,7 +2504,9 @@
     "de": "sanfter Wind",
     "it": "vento leggero",
     "ro": "vânt ușor",
-    "group": "2"
+    "group": "2",
+    "id": 251,
+    "read": false
   },
   {
     "es": "lluvia fuerte",
@@ -2012,7 +2514,9 @@
     "de": "starker Regen",
     "it": "pioggia forte",
     "ro": "ploaie torențială",
-    "group": "2"
+    "group": "2",
+    "id": 252,
+    "read": false
   },
   {
     "es": "nieve blanca",
@@ -2020,7 +2524,9 @@
     "de": "weißer Schnee",
     "it": "neve bianca",
     "ro": "zăpadă albă",
-    "group": "2"
+    "group": "2",
+    "id": 253,
+    "read": false
   },
   {
     "es": "hielo frío",
@@ -2028,7 +2534,9 @@
     "de": "kaltes Eis",
     "it": "ghiaccio freddo",
     "ro": "gheață rece",
-    "group": "2"
+    "group": "2",
+    "id": 254,
+    "read": false
   },
   {
     "es": "bosque oscuro",
@@ -2036,7 +2544,9 @@
     "de": "dunkler Wald",
     "it": "bosco oscuro",
     "ro": "pădure întunecată",
-    "group": "2"
+    "group": "2",
+    "id": 255,
+    "read": false
   },
   {
     "es": "árbol alto",
@@ -2044,7 +2554,9 @@
     "de": "hoher Baum",
     "it": "albero alto",
     "ro": "copac înalt",
-    "group": "2"
+    "group": "2",
+    "id": 256,
+    "read": false
   },
   {
     "es": "pájaro pequeño",
@@ -2052,7 +2564,9 @@
     "de": "kleiner Vogel",
     "it": "uccello piccolo",
     "ro": "pasăre mică",
-    "group": "2"
+    "group": "2",
+    "id": 257,
+    "read": false
   },
   {
     "es": "gato negro",
@@ -2060,7 +2574,9 @@
     "de": "schwarze Katze",
     "it": "gatto nero",
     "ro": "pisică neagră",
-    "group": "2"
+    "group": "2",
+    "id": 258,
+    "read": false
   },
   {
     "es": "perro fiel",
@@ -2068,7 +2584,9 @@
     "de": "treuer Hund",
     "it": "cane fedele",
     "ro": "câine fidel",
-    "group": "2"
+    "group": "2",
+    "id": 259,
+    "read": false
   },
   {
     "es": "caballo rápido",
@@ -2076,7 +2594,9 @@
     "de": "schnelles Pferd",
     "it": "cavallo veloce",
     "ro": "cal rapid",
-    "group": "2"
+    "group": "2",
+    "id": 260,
+    "read": false
   },
   {
     "es": "pez azul",
@@ -2084,7 +2604,9 @@
     "de": "blauer Fisch",
     "it": "pesce azzurro",
     "ro": "pește albastru",
-    "group": "2"
+    "group": "2",
+    "id": 261,
+    "read": false
   },
   {
     "es": "león fuerte",
@@ -2092,7 +2614,9 @@
     "de": "starker Löwe",
     "it": "leone forte",
     "ro": "leu puternic",
-    "group": "2"
+    "group": "2",
+    "id": 262,
+    "read": false
   },
   {
     "es": "mar profundo",
@@ -2100,7 +2624,9 @@
     "de": "tiefes Meer",
     "it": "mare profondo",
     "ro": "mare adâncă",
-    "group": "2"
+    "group": "2",
+    "id": 263,
+    "read": false
   },
   {
     "es": "ola grande",
@@ -2108,7 +2634,9 @@
     "de": "große Welle",
     "it": "onda grande",
     "ro": "val mare",
-    "group": "2"
+    "group": "2",
+    "id": 264,
+    "read": false
   },
   {
     "es": "arena caliente",
@@ -2116,7 +2644,9 @@
     "de": "heißer Sand",
     "it": "sabbia calda",
     "ro": "nisip fierbinte",
-    "group": "2"
+    "group": "2",
+    "id": 265,
+    "read": false
   },
   {
     "es": "piedra dura",
@@ -2124,7 +2654,9 @@
     "de": "harter Stein",
     "it": "pietra dura",
     "ro": "piatră dură",
-    "group": "2"
+    "group": "2",
+    "id": 266,
+    "read": false
   },
   {
     "es": "oro puro",
@@ -2132,7 +2664,9 @@
     "de": "reines Gold",
     "it": "oro puro",
     "ro": "aur pur",
-    "group": "2"
+    "group": "2",
+    "id": 267,
+    "read": false
   },
   {
     "es": "plata vieja",
@@ -2140,7 +2674,9 @@
     "de": "altes Silber",
     "it": "argento vecchio",
     "ro": "argint vechi",
-    "group": "2"
+    "group": "2",
+    "id": 268,
+    "read": false
   },
   {
     "es": "hierro pesado",
@@ -2148,7 +2684,9 @@
     "de": "schweres Eisen",
     "it": "ferro pesante",
     "ro": "fier greu",
-    "group": "2"
+    "group": "2",
+    "id": 269,
+    "read": false
   },
   {
     "es": "madera seca",
@@ -2156,7 +2694,9 @@
     "de": "trockenes Holz",
     "it": "legno secco",
     "ro": "lemn uscat",
-    "group": "2"
+    "group": "2",
+    "id": 270,
+    "read": false
   },
   {
     "es": "vidrio roto",
@@ -2164,7 +2704,9 @@
     "de": "kaputtes Glas",
     "it": "vetro rotto",
     "ro": "sticlă spartă",
-    "group": "2"
+    "group": "2",
+    "id": 271,
+    "read": false
   },
   {
     "es": "papel reciclado",
@@ -2172,7 +2714,9 @@
     "de": "Recyclingpapier",
     "it": "carta riciclata",
     "ro": "hârtie reciclată",
-    "group": "2"
+    "group": "2",
+    "id": 272,
+    "read": false
   },
   {
     "es": "plástico azul",
@@ -2180,7 +2724,9 @@
     "de": "blauer Kunststoff",
     "it": "plastica blu",
     "ro": "plastic albastru",
-    "group": "2"
+    "group": "2",
+    "id": 273,
+    "read": false
   },
   {
     "es": "tela suave",
@@ -2188,7 +2734,9 @@
     "de": "weicher Stoff",
     "it": "tessuto morbido",
     "ro": "material moale",
-    "group": "2"
+    "group": "2",
+    "id": 274,
+    "read": false
   },
   {
     "es": "lana caliente",
@@ -2196,7 +2744,9 @@
     "de": "warme Wolle",
     "it": "lana calda",
     "ro": "lână călduroasă",
-    "group": "2"
+    "group": "2",
+    "id": 275,
+    "read": false
   },
   {
     "es": "seda fina",
@@ -2204,7 +2754,9 @@
     "de": "feine Seide",
     "it": "seta fine",
     "ro": "mătase fină",
-    "group": "2"
+    "group": "2",
+    "id": 276,
+    "read": false
   },
   {
     "es": "cuero negro",
@@ -2212,7 +2764,9 @@
     "de": "schwarzes Leder",
     "it": "pelle nera",
     "ro": "piele neagră",
-    "group": "2"
+    "group": "2",
+    "id": 277,
+    "read": false
   },
   {
     "es": "color rojo",
@@ -2220,7 +2774,9 @@
     "de": "rote Farbe",
     "it": "colore rosso",
     "ro": "culoare roșie",
-    "group": "2"
+    "group": "2",
+    "id": 278,
+    "read": false
   },
   {
     "es": "verde claro",
@@ -2228,7 +2784,9 @@
     "de": "hellgrün",
     "it": "verde chiaro",
     "ro": "verde deschis",
-    "group": "2"
+    "group": "2",
+    "id": 279,
+    "read": false
   },
   {
     "es": "azul oscuro",
@@ -2236,7 +2794,9 @@
     "de": "dunkelblau",
     "it": "blu scuro",
     "ro": "albastru închis",
-    "group": "2"
+    "group": "2",
+    "id": 280,
+    "read": false
   },
   {
     "es": "amarillo sol",
@@ -2244,7 +2804,9 @@
     "de": "sonnengelb",
     "it": "giallo sole",
     "ro": "galben solar",
-    "group": "2"
+    "group": "2",
+    "id": 281,
+    "read": false
   },
   {
     "es": "blanco puro",
@@ -2252,7 +2814,9 @@
     "de": "reinweiß",
     "it": "bianco puro",
     "ro": "alb pur",
-    "group": "2"
+    "group": "2",
+    "id": 282,
+    "read": false
   },
   {
     "es": "negro total",
@@ -2260,7 +2824,9 @@
     "de": "tiefschwarz",
     "it": "nero totale",
     "ro": "negru total",
-    "group": "2"
+    "group": "2",
+    "id": 283,
+    "read": false
   },
   {
     "es": "gris plata",
@@ -2268,7 +2834,9 @@
     "de": "silbergrau",
     "it": "grigio argento",
     "ro": "gri argintiu",
-    "group": "2"
+    "group": "2",
+    "id": 284,
+    "read": false
   },
   {
     "es": "marrón tierra",
@@ -2276,7 +2844,9 @@
     "de": "erdbraun",
     "it": "marrone terra",
     "ro": "maro pământiu",
-    "group": "2"
+    "group": "2",
+    "id": 285,
+    "read": false
   },
   {
     "es": "rosa pastel",
@@ -2284,7 +2854,9 @@
     "de": "pastellrosa",
     "it": "rosa pastello",
     "ro": "roz pastel",
-    "group": "2"
+    "group": "2",
+    "id": 286,
+    "read": false
   },
   {
     "es": "naranja brillante",
@@ -2292,7 +2864,9 @@
     "de": "leuchtendes Orange",
     "it": "arancione brillante",
     "ro": "portocaliu aprins",
-    "group": "2"
+    "group": "2",
+    "id": 287,
+    "read": false
   },
   {
     "es": "violeta suave",
@@ -2300,7 +2874,9 @@
     "de": "sanftes Violett",
     "it": "viola tenue",
     "ro": "violet suav",
-    "group": "2"
+    "group": "2",
+    "id": 288,
+    "read": false
   },
   {
     "es": "mucho trabajo",
@@ -2308,7 +2884,9 @@
     "de": "viel Arbeit",
     "it": "molto lavoro",
     "ro": "multă muncă",
-    "group": "2"
+    "group": "2",
+    "id": 289,
+    "read": false
   },
   {
     "es": "poca gente",
@@ -2316,7 +2894,9 @@
     "de": "wenig Leute",
     "it": "poca gente",
     "ro": "puțini oameni",
-    "group": "2"
+    "group": "2",
+    "id": 290,
+    "read": false
   },
   {
     "es": "varias veces",
@@ -2324,7 +2904,9 @@
     "de": "mehrmals",
     "it": "varie volte",
     "ro": "de mai multe ori",
-    "group": "2"
+    "group": "2",
+    "id": 291,
+    "read": false
   },
   {
     "es": "algunos días",
@@ -2332,7 +2914,9 @@
     "de": "einige Tage",
     "it": "alcuni giorni",
     "ro": "unele zile",
-    "group": "2"
+    "group": "2",
+    "id": 292,
+    "read": false
   },
   {
     "es": "ninguna parte",
@@ -2340,7 +2924,9 @@
     "de": "nirgendwo",
     "it": "nessuna parte",
     "ro": "nicio parte",
-    "group": "2"
+    "group": "2",
+    "id": 293,
+    "read": false
   },
   {
     "es": "cualquier cosa",
@@ -2348,7 +2934,9 @@
     "de": "irgendetwas",
     "it": "qualsiasi cosa",
     "ro": "orice",
-    "group": "2"
+    "group": "2",
+    "id": 294,
+    "read": false
   },
   {
     "es": "todo mundo",
@@ -2356,7 +2944,9 @@
     "de": "jeder",
     "it": "tutti quanti",
     "ro": "toată lumea",
-    "group": "2"
+    "group": "2",
+    "id": 295,
+    "read": false
   },
   {
     "es": "cada uno",
@@ -2364,7 +2954,9 @@
     "de": "jeder Einzelne",
     "it": "ognuno",
     "ro": "fiecare",
-    "group": "2"
+    "group": "2",
+    "id": 296,
+    "read": false
   },
   {
     "es": "mismo lugar",
@@ -2372,7 +2964,9 @@
     "de": "gleicher Ort",
     "it": "stesso posto",
     "ro": "același loc",
-    "group": "2"
+    "group": "2",
+    "id": 297,
+    "read": false
   },
   {
     "es": "otro camino",
@@ -2380,7 +2974,9 @@
     "de": "ein anderer Weg",
     "it": "un'altra via",
     "ro": "alt drum",
-    "group": "2"
+    "group": "2",
+    "id": 298,
+    "read": false
   },
   {
     "es": "mitad precio",
@@ -2388,7 +2984,9 @@
     "de": "halber Preis",
     "it": "metà prezzo",
     "ro": "jumătate de preț",
-    "group": "2"
+    "group": "2",
+    "id": 299,
+    "read": false
   },
   {
     "es": "doble ración",
@@ -2396,7 +2994,9 @@
     "de": "doppelte Portion",
     "it": "doppia razione",
     "ro": "porție dublă",
-    "group": "2"
+    "group": "2",
+    "id": 300,
+    "read": false
   },
   {
     "es": "triple salto",
@@ -2404,7 +3004,9 @@
     "de": "Dreisprung",
     "it": "salto triplo",
     "ro": "triplu salt",
-    "group": "2"
+    "group": "2",
+    "id": 301,
+    "read": false
   },
   {
     "es": "primer amor",
@@ -2412,7 +3014,9 @@
     "de": "erste Liebe",
     "it": "primo amore",
     "ro": "prima iubire",
-    "group": "2"
+    "group": "2",
+    "id": 302,
+    "read": false
   },
   {
     "es": "segunda mano",
@@ -2420,7 +3024,9 @@
     "de": "aus zweiter Hand",
     "it": "seconda mano",
     "ro": "la mâna a doua",
-    "group": "2"
+    "group": "2",
+    "id": 303,
+    "read": false
   },
   {
     "es": "tercer piso",
@@ -2428,7 +3034,9 @@
     "de": "dritter Stock",
     "it": "terzo piano",
     "ro": "etajul trei",
-    "group": "2"
+    "group": "2",
+    "id": 304,
+    "read": false
   },
   {
     "es": "cuarta pared",
@@ -2436,7 +3044,9 @@
     "de": "vierte Wand",
     "it": "quarta parete",
     "ro": "al patrulea perete",
-    "group": "2"
+    "group": "2",
+    "id": 305,
+    "read": false
   },
   {
     "es": "quinto elemento",
@@ -2444,7 +3054,9 @@
     "de": "fünftes Element",
     "it": "quinto elemento",
     "ro": "al cincilea element",
-    "group": "2"
+    "group": "2",
+    "id": 306,
+    "read": false
   },
   {
     "es": "último aviso",
@@ -2452,7 +3064,9 @@
     "de": "letzte Warnung",
     "it": "ultimo avviso",
     "ro": "ultimul avertisment",
-    "group": "2"
+    "group": "2",
+    "id": 307,
+    "read": false
   },
   {
     "es": "siglo veinte",
@@ -2460,7 +3074,9 @@
     "de": "zwanzigstes Jahrhundert",
     "it": "ventesimo secolo",
     "ro": "secolul douăzeci",
-    "group": "2"
+    "group": "2",
+    "id": 308,
+    "read": false
   },
   {
     "es": "año bisiesto",
@@ -2468,7 +3084,9 @@
     "de": "Schaltjahr",
     "it": "anno bisestile",
     "ro": "an bisect",
-    "group": "2"
+    "group": "2",
+    "id": 309,
+    "read": false
   },
   {
     "es": "semana santa",
@@ -2476,7 +3094,9 @@
     "de": "Karwoche",
     "it": "settimana santa",
     "ro": "săptămâna mare",
-    "group": "2"
+    "group": "2",
+    "id": 310,
+    "read": false
   },
   {
     "es": "lunes mañana",
@@ -2484,7 +3104,9 @@
     "de": "Montagmorgen",
     "it": "lunedì mattina",
     "ro": "luni dimineața",
-    "group": "2"
+    "group": "2",
+    "id": 311,
+    "read": false
   },
   {
     "es": "viernes noche",
@@ -2492,7 +3114,9 @@
     "de": "Freitagabend",
     "it": "venerdì notte",
     "ro": "vineri noapte",
-    "group": "2"
+    "group": "2",
+    "id": 312,
+    "read": false
   },
   {
     "es": "fin ciclo",
@@ -2500,7 +3124,9 @@
     "de": "Zyklusende",
     "it": "fine ciclo",
     "ro": "sfârșit de ciclu",
-    "group": "2"
+    "group": "2",
+    "id": 313,
+    "read": false
   },
   {
     "es": "clima tropical",
@@ -2508,7 +3134,9 @@
     "de": "tropisches Klima",
     "it": "clima tropicale",
     "ro": "climat tropical",
-    "group": "2"
+    "group": "2",
+    "id": 314,
+    "read": false
   },
   {
     "es": "tormenta eléctrica",
@@ -2516,7 +3144,9 @@
     "de": "Gewitter",
     "it": "temporale",
     "ro": "furtună electrică",
-    "group": "2"
+    "group": "2",
+    "id": 315,
+    "read": false
   },
   {
     "es": "viento norte",
@@ -2524,7 +3154,9 @@
     "de": "Nordwind",
     "it": "tramontana",
     "ro": "vânt de nord",
-    "group": "2"
+    "group": "2",
+    "id": 316,
+    "read": false
   },
   {
     "es": "calor sofocante",
@@ -2532,7 +3164,9 @@
     "de": "drückende Hitze",
     "it": "caldo soffocante",
     "ro": "căldură sufocantă",
-    "group": "2"
+    "group": "2",
+    "id": 317,
+    "read": false
   },
   {
     "es": "frio polar",
@@ -2540,7 +3174,9 @@
     "de": "Polarkälte",
     "it": "freddo polare",
     "ro": "frig polar",
-    "group": "2"
+    "group": "2",
+    "id": 318,
+    "read": false
   },
   {
     "es": "niebla espesa",
@@ -2548,7 +3184,9 @@
     "de": "dichter Nebel",
     "it": "nebbia fitta",
     "ro": "ceață deasă",
-    "group": "2"
+    "group": "2",
+    "id": 319,
+    "read": false
   },
   {
     "es": "luz solar",
@@ -2556,7 +3194,9 @@
     "de": "Sonnenlicht",
     "it": "luce solare",
     "ro": "lumină solară",
-    "group": "2"
+    "group": "2",
+    "id": 320,
+    "read": false
   },
   {
     "es": "sombra larga",
@@ -2564,7 +3204,9 @@
     "de": "langer Schatten",
     "it": "ombra lunga",
     "ro": "umbră lungă",
-    "group": "2"
+    "group": "2",
+    "id": 321,
+    "read": false
   },
   {
     "es": "ruido blanco",
@@ -2572,7 +3214,9 @@
     "de": "weißes Rauschen",
     "it": "rumore bianco",
     "ro": "zgomot alb",
-    "group": "2"
+    "group": "2",
+    "id": 322,
+    "read": false
   },
   {
     "es": "silencio absoluto",
@@ -2580,7 +3224,9 @@
     "de": "absolute Stille",
     "it": "silenzio assoluto",
     "ro": "liniște absolută",
-    "group": "2"
+    "group": "2",
+    "id": 323,
+    "read": false
   },
   {
     "es": "voz dulce",
@@ -2588,7 +3234,9 @@
     "de": "süße Stimme",
     "it": "voce dolce",
     "ro": "voce dulce",
-    "group": "2"
+    "group": "2",
+    "id": 324,
+    "read": false
   },
   {
     "es": "grito fuerte",
@@ -2596,7 +3244,9 @@
     "de": "lauter Schrei",
     "it": "grido forte",
     "ro": "strigăt puternic",
-    "group": "2"
+    "group": "2",
+    "id": 325,
+    "read": false
   },
   {
     "es": "paso ligero",
@@ -2604,7 +3254,9 @@
     "de": "leichter Schritt",
     "it": "passo leggero",
     "ro": "pas ușor",
-    "group": "2"
+    "group": "2",
+    "id": 326,
+    "read": false
   },
   {
     "es": "salto alto",
@@ -2612,7 +3264,9 @@
     "de": "Hochsprung",
     "it": "salto in alto",
     "ro": "săritură în înălțime",
-    "group": "2"
+    "group": "2",
+    "id": 327,
+    "read": false
   },
   {
     "es": "carrera rápida",
@@ -2620,7 +3274,9 @@
     "de": "schnelles Rennen",
     "it": "corsa veloce",
     "ro": "cursă rapidă",
-    "group": "2"
+    "group": "2",
+    "id": 328,
+    "read": false
   },
   {
     "es": "lucha libre",
@@ -2628,7 +3284,9 @@
     "de": "Freistilringen",
     "it": "lotta libera",
     "ro": "lupte libere",
-    "group": "2"
+    "group": "2",
+    "id": 329,
+    "read": false
   },
   {
     "es": "juego limpio",
@@ -2636,7 +3294,9 @@
     "de": "faires Spiel",
     "it": "gioco pulito",
     "ro": "joc curat",
-    "group": "2"
+    "group": "2",
+    "id": 330,
+    "read": false
   },
   {
     "es": "pelota roja",
@@ -2644,7 +3304,9 @@
     "de": "roter Ball",
     "it": "palla rossa",
     "ro": "minge roșie",
-    "group": "2"
+    "group": "2",
+    "id": 331,
+    "read": false
   },
   {
     "es": "equipo ganador",
@@ -2652,7 +3314,9 @@
     "de": "Siegermannschaft",
     "it": "squadra vincente",
     "ro": "echipă câștigătoare",
-    "group": "2"
+    "group": "2",
+    "id": 332,
+    "read": false
   },
   {
     "es": "premio mayor",
@@ -2660,7 +3324,9 @@
     "de": "Hauptgewinn",
     "it": "primo premio",
     "ro": "marele premiu",
-    "group": "2"
+    "group": "2",
+    "id": 333,
+    "read": false
   },
   {
     "es": "derrota amarga",
@@ -2668,7 +3334,9 @@
     "de": "bittere Niederlage",
     "it": "sconfitta amara",
     "ro": "înfrângere amară",
-    "group": "2"
+    "group": "2",
+    "id": 334,
+    "read": false
   },
   {
     "es": "esfuerzo máximo",
@@ -2676,7 +3344,9 @@
     "de": "maximaler Aufwand",
     "it": "massimo sforzo",
     "ro": "efort maxim",
-    "group": "2"
+    "group": "2",
+    "id": 335,
+    "read": false
   },
   {
     "es": "meta clara",
@@ -2684,7 +3354,9 @@
     "de": "klares Ziel",
     "it": "meta chiara",
     "ro": "țel clar",
-    "group": "2"
+    "group": "2",
+    "id": 336,
+    "read": false
   },
   {
     "es": "sueño cumplido",
@@ -2692,7 +3364,9 @@
     "de": "erfüllter Traum",
     "it": "sogno avverato",
     "ro": "vis împlinit",
-    "group": "2"
+    "group": "2",
+    "id": 337,
+    "read": false
   },
   {
     "es": "camino difícil",
@@ -2700,7 +3374,9 @@
     "de": "schwieriger Weg",
     "it": "strada difficile",
     "ro": "drum dificil",
-    "group": "2"
+    "group": "2",
+    "id": 338,
+    "read": false
   },
   {
     "es": "ayuda mutua",
@@ -2708,7 +3384,9 @@
     "de": "gegenseitige Hilfe",
     "it": "aiuto reciproco",
     "ro": "ajutor reciproc",
-    "group": "2"
+    "group": "2",
+    "id": 339,
+    "read": false
   },
   {
     "es": "unión fuerte",
@@ -2716,7 +3394,9 @@
     "de": "starke Verbindung",
     "it": "unione forte",
     "ro": "uniune puternică",
-    "group": "2"
+    "group": "2",
+    "id": 340,
+    "read": false
   },
   {
     "es": "paz interior",
@@ -2724,7 +3404,9 @@
     "de": "innerer Frieden",
     "it": "pace interiore",
     "ro": "liniște interioară",
-    "group": "2"
+    "group": "2",
+    "id": 341,
+    "read": false
   },
   {
     "es": "odio eterno",
@@ -2732,7 +3414,9 @@
     "de": "ewiger Hass",
     "it": "odio eterno",
     "ro": "ură eternă",
-    "group": "2"
+    "group": "2",
+    "id": 342,
+    "read": false
   },
   {
     "es": "duda razonable",
@@ -2740,7 +3424,9 @@
     "de": "berechtigter Zweifel",
     "it": "dubbio ragionevole",
     "ro": "dubiu rezonabil",
-    "group": "2"
+    "group": "2",
+    "id": 343,
+    "read": false
   },
   {
     "es": "fe ciega",
@@ -2748,7 +3434,9 @@
     "de": "blindes Vertrauen",
     "it": "fede cieca",
     "ro": "credință oarbă",
-    "group": "2"
+    "group": "2",
+    "id": 344,
+    "read": false
   },
   {
     "es": "esperanza viva",
@@ -2756,7 +3444,9 @@
     "de": "lebendige Hoffnung",
     "it": "speranza viva",
     "ro": "speranță vie",
-    "group": "2"
+    "group": "2",
+    "id": 345,
+    "read": false
   },
   {
     "es": "miedo profundo",
@@ -2764,7 +3454,9 @@
     "de": "tiefe Angst",
     "it": "paura profonda",
     "ro": "frică profundă",
-    "group": "2"
+    "group": "2",
+    "id": 346,
+    "read": false
   },
   {
     "es": "valor real",
@@ -2772,7 +3464,9 @@
     "de": "echter Wert",
     "it": "valore reale",
     "ro": "valoare reală",
-    "group": "2"
+    "group": "2",
+    "id": 347,
+    "read": false
   },
   {
     "es": "justicia social",
@@ -2780,7 +3474,9 @@
     "de": "soziale Gerechtigkeit",
     "it": "giustizia sociale",
     "ro": "justiție socială",
-    "group": "2"
+    "group": "2",
+    "id": 348,
+    "read": false
   },
   {
     "es": "ley seca",
@@ -2788,7 +3484,9 @@
     "de": "Alkoholverbot",
     "it": "proibizionismo",
     "ro": "prohibiție",
-    "group": "2"
+    "group": "2",
+    "id": 349,
+    "read": false
   },
   {
     "es": "orden público",
@@ -2796,6 +3494,8 @@
     "de": "öffentliche Ordnung",
     "it": "ordine pubblico",
     "ro": "ordine publică",
-    "group": "2"
+    "group": "2",
+    "id": 350,
+    "read": false
   }
 ]

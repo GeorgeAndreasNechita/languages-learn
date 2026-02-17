@@ -1,12 +1,23 @@
 [
-  { "es": "de", "en": "of", "de": "von", "it": "di", "ro": "de", "group": "1" },
+  {
+    "es": "de",
+    "en": "of",
+    "de": "von",
+    "it": "di",
+    "ro": "de",
+    "group": "1",
+    "id": 1,
+    "read": false
+  },
   {
     "es": "que",
     "en": "that",
     "de": "dass",
     "it": "che",
     "ro": "că",
-    "group": "1"
+    "group": "1",
+    "id": 2,
+    "read": false
   },
   {
     "es": "no",
@@ -14,16 +25,29 @@
     "de": "nein",
     "it": "no",
     "ro": "nu",
-    "group": "1"
+    "group": "1",
+    "id": 3,
+    "read": false
   },
-  { "es": "a", "en": "to", "de": "zu", "it": "a", "ro": "la", "group": "1" },
+  {
+    "es": "a",
+    "en": "to",
+    "de": "zu",
+    "it": "a",
+    "ro": "la",
+    "group": "1",
+    "id": 4,
+    "read": false
+  },
   {
     "es": "la",
     "en": "the",
     "de": "die",
     "it": "la",
     "ro": "la",
-    "group": "1"
+    "group": "1",
+    "id": 5,
+    "read": false
   },
   {
     "es": "el",
@@ -31,7 +55,9 @@
     "de": "der",
     "it": "il",
     "ro": "el",
-    "group": "1"
+    "group": "1",
+    "id": 6,
+    "read": false
   },
   {
     "es": "ser",
@@ -39,19 +65,59 @@
     "de": "sein",
     "it": "essere",
     "ro": "a fi",
-    "group": "1"
+    "group": "1",
+    "id": 7,
+    "read": false
   },
-  { "es": "y", "en": "and", "de": "und", "it": "e", "ro": "și", "group": "1" },
-  { "es": "en", "en": "in", "de": "in", "it": "in", "ro": "în", "group": "1" },
-  { "es": "lo", "en": "it", "de": "es", "it": "lo", "ro": "îl", "group": "1" },
-  { "es": "un", "en": "a", "de": "ein", "it": "un", "ro": "un", "group": "1" },
+  {
+    "es": "y",
+    "en": "and",
+    "de": "und",
+    "it": "e",
+    "ro": "și",
+    "group": "1",
+    "id": 8,
+    "read": false
+  },
+  {
+    "es": "en",
+    "en": "in",
+    "de": "in",
+    "it": "in",
+    "ro": "în",
+    "group": "1",
+    "id": 9,
+    "read": false
+  },
+  {
+    "es": "lo",
+    "en": "it",
+    "de": "es",
+    "it": "lo",
+    "ro": "îl",
+    "group": "1",
+    "id": 10,
+    "read": false
+  },
+  {
+    "es": "un",
+    "en": "a",
+    "de": "ein",
+    "it": "un",
+    "ro": "un",
+    "group": "1",
+    "id": 11,
+    "read": false
+  },
   {
     "es": "por",
     "en": "for",
     "de": "für",
     "it": "per",
     "ro": "pentru",
-    "group": "1"
+    "group": "1",
+    "id": 12,
+    "read": false
   },
   {
     "es": "me",
@@ -59,7 +125,9 @@
     "de": "mich",
     "it": "mi",
     "ro": "mă",
-    "group": "1"
+    "group": "1",
+    "id": 13,
+    "read": false
   },
   {
     "es": "qué",
@@ -67,7 +135,9 @@
     "de": "was",
     "it": "cosa",
     "ro": "ce",
-    "group": "1"
+    "group": "1",
+    "id": 14,
+    "read": false
   },
   {
     "es": "te",
@@ -75,7 +145,9 @@
     "de": "dich",
     "it": "ti",
     "ro": "te",
-    "group": "1"
+    "group": "1",
+    "id": 15,
+    "read": false
   },
   {
     "es": "se",
@@ -83,7 +155,9 @@
     "de": "sich",
     "it": "si",
     "ro": "se",
-    "group": "1"
+    "group": "1",
+    "id": 16,
+    "read": false
   },
   {
     "es": "con",
@@ -91,7 +165,9 @@
     "de": "mit",
     "it": "con",
     "ro": "cu",
-    "group": "1"
+    "group": "1",
+    "id": 17,
+    "read": false
   },
   {
     "es": "para",
@@ -99,7 +175,9 @@
     "de": "für",
     "it": "per",
     "ro": "pentru",
-    "group": "1"
+    "group": "1",
+    "id": 18,
+    "read": false
   },
   {
     "es": "mi",
@@ -107,7 +185,9 @@
     "de": "mein",
     "it": "mio",
     "ro": "meu",
-    "group": "1"
+    "group": "1",
+    "id": 19,
+    "read": false
   },
   {
     "es": "estar",
@@ -115,7 +195,9 @@
     "de": "sein/befinden",
     "it": "stare",
     "ro": "a fi",
-    "group": "1"
+    "group": "1",
+    "id": 20,
+    "read": false
   },
   {
     "es": "si",
@@ -123,7 +205,9 @@
     "de": "wenn",
     "it": "se",
     "ro": "dacă",
-    "group": "1"
+    "group": "1",
+    "id": 21,
+    "read": false
   },
   {
     "es": "pero",
@@ -131,7 +215,9 @@
     "de": "aber",
     "it": "ma",
     "ro": "dar",
-    "group": "1"
+    "group": "1",
+    "id": 22,
+    "read": false
   },
   {
     "es": "su",
@@ -139,16 +225,29 @@
     "de": "sein/ihr",
     "it": "suo",
     "ro": "său",
-    "group": "1"
+    "group": "1",
+    "id": 23,
+    "read": false
   },
-  { "es": "yo", "en": "I", "de": "ich", "it": "io", "ro": "eu", "group": "1" },
+  {
+    "es": "yo",
+    "en": "I",
+    "de": "ich",
+    "it": "io",
+    "ro": "eu",
+    "group": "1",
+    "id": 24,
+    "read": false
+  },
   {
     "es": "tu",
     "en": "your",
     "de": "dein",
     "it": "tuo",
     "ro": "tău",
-    "group": "1"
+    "group": "1",
+    "id": 25,
+    "read": false
   },
   {
     "es": "del",
@@ -156,7 +255,9 @@
     "de": "vom",
     "it": "del",
     "ro": "de la",
-    "group": "1"
+    "group": "1",
+    "id": 26,
+    "read": false
   },
   {
     "es": "al",
@@ -164,7 +265,9 @@
     "de": "zum",
     "it": "al",
     "ro": "la",
-    "group": "1"
+    "group": "1",
+    "id": 27,
+    "read": false
   },
   {
     "es": "como",
@@ -172,7 +275,9 @@
     "de": "wie",
     "it": "come",
     "ro": "ca",
-    "group": "1"
+    "group": "1",
+    "id": 28,
+    "read": false
   },
   {
     "es": "le",
@@ -180,7 +285,9 @@
     "de": "ihm/ihr",
     "it": "gli",
     "ro": "îi",
-    "group": "1"
+    "group": "1",
+    "id": 29,
+    "read": false
   },
   {
     "es": "eso",
@@ -188,16 +295,29 @@
     "de": "das",
     "it": "quello",
     "ro": "asta",
-    "group": "1"
+    "group": "1",
+    "id": 30,
+    "read": false
   },
-  { "es": "sí", "en": "yes", "de": "ja", "it": "sì", "ro": "da", "group": "1" },
+  {
+    "es": "sí",
+    "en": "yes",
+    "de": "ja",
+    "it": "sì",
+    "ro": "da",
+    "group": "1",
+    "id": 31,
+    "read": false
+  },
   {
     "es": "este",
     "en": "this",
     "de": "dieser",
     "it": "questo",
     "ro": "acest",
-    "group": "1"
+    "group": "1",
+    "id": 32,
+    "read": false
   },
   {
     "es": "ya",
@@ -205,7 +325,9 @@
     "de": "schon",
     "it": "già",
     "ro": "deja",
-    "group": "1"
+    "group": "1",
+    "id": 33,
+    "read": false
   },
   {
     "es": "más",
@@ -213,7 +335,9 @@
     "de": "mehr",
     "it": "più",
     "ro": "mai mult",
-    "group": "1"
+    "group": "1",
+    "id": 34,
+    "read": false
   },
   {
     "es": "muy",
@@ -221,7 +345,9 @@
     "de": "sehr",
     "it": "molto",
     "ro": "foarte",
-    "group": "1"
+    "group": "1",
+    "id": 35,
+    "read": false
   },
   {
     "es": "haber",
@@ -229,7 +355,9 @@
     "de": "haben",
     "it": "avere",
     "ro": "a avea",
-    "group": "1"
+    "group": "1",
+    "id": 36,
+    "read": false
   },
   {
     "es": "bien",
@@ -237,7 +365,9 @@
     "de": "gut",
     "it": "bene",
     "ro": "bine",
-    "group": "1"
+    "group": "1",
+    "id": 37,
+    "read": false
   },
   {
     "es": "todo",
@@ -245,7 +375,9 @@
     "de": "alles",
     "it": "tutto",
     "ro": "tot",
-    "group": "1"
+    "group": "1",
+    "id": 38,
+    "read": false
   },
   {
     "es": "nos",
@@ -253,7 +385,9 @@
     "de": "uns",
     "it": "ci",
     "ro": "ne",
-    "group": "1"
+    "group": "1",
+    "id": 39,
+    "read": false
   },
   {
     "es": "tener",
@@ -261,7 +395,9 @@
     "de": "haben",
     "it": "avere",
     "ro": "a avea",
-    "group": "1"
+    "group": "1",
+    "id": 40,
+    "read": false
   },
   {
     "es": "cuando",
@@ -269,7 +405,9 @@
     "de": "wenn/als",
     "it": "quando",
     "ro": "când",
-    "group": "1"
+    "group": "1",
+    "id": 41,
+    "read": false
   },
   {
     "es": "solo",
@@ -277,7 +415,9 @@
     "de": "nur",
     "it": "solo",
     "ro": "doar",
-    "group": "1"
+    "group": "1",
+    "id": 42,
+    "read": false
   },
   {
     "es": "ir",
@@ -285,16 +425,29 @@
     "de": "gehen",
     "it": "andare",
     "ro": "a merge",
-    "group": "1"
+    "group": "1",
+    "id": 43,
+    "read": false
   },
-  { "es": "o", "en": "or", "de": "oder", "it": "o", "ro": "sau", "group": "1" },
+  {
+    "es": "o",
+    "en": "or",
+    "de": "oder",
+    "it": "o",
+    "ro": "sau",
+    "group": "1",
+    "id": 44,
+    "read": false
+  },
   {
     "es": "poder",
     "en": "can",
     "de": "können",
     "it": "potere",
     "ro": "a putea",
-    "group": "1"
+    "group": "1",
+    "id": 45,
+    "read": false
   },
   {
     "es": "esto",
@@ -302,7 +455,9 @@
     "de": "dieses",
     "it": "questo",
     "ro": "aceasta",
-    "group": "1"
+    "group": "1",
+    "id": 46,
+    "read": false
   },
   {
     "es": "querer",
@@ -310,7 +465,9 @@
     "de": "wollen",
     "it": "volere",
     "ro": "a vrea",
-    "group": "1"
+    "group": "1",
+    "id": 47,
+    "read": false
   },
   {
     "es": "aquí",
@@ -318,16 +475,29 @@
     "de": "hier",
     "it": "qui",
     "ro": "aici",
-    "group": "1"
+    "group": "1",
+    "id": 48,
+    "read": false
   },
-  { "es": "tú", "en": "you", "de": "du", "it": "tu", "ro": "tu", "group": "1" },
+  {
+    "es": "tú",
+    "en": "you",
+    "de": "du",
+    "it": "tu",
+    "ro": "tu",
+    "group": "1",
+    "id": 49,
+    "read": false
+  },
   {
     "es": "ahora",
     "en": "now",
     "de": "jetzt",
     "it": "ora",
     "ro": "acum",
-    "group": "1"
+    "group": "1",
+    "id": 50,
+    "read": false
   },
   {
     "es": "algo",
@@ -335,7 +505,9 @@
     "de": "etwas",
     "it": "qualcosa",
     "ro": "ceva",
-    "group": "1"
+    "group": "1",
+    "id": 51,
+    "read": false
   },
   {
     "es": "así",
@@ -343,7 +515,9 @@
     "de": "so",
     "it": "così",
     "ro": "așa",
-    "group": "1"
+    "group": "1",
+    "id": 52,
+    "read": false
   },
   {
     "es": "saber",
@@ -351,7 +525,9 @@
     "de": "wissen",
     "it": "sapere",
     "ro": "a ști",
-    "group": "1"
+    "group": "1",
+    "id": 53,
+    "read": false
   },
   {
     "es": "ese",
@@ -359,7 +535,9 @@
     "de": "jener",
     "it": "quello",
     "ro": "acela",
-    "group": "1"
+    "group": "1",
+    "id": 54,
+    "read": false
   },
   {
     "es": "bueno",
@@ -367,7 +545,9 @@
     "de": "gut",
     "it": "buono",
     "ro": "bun",
-    "group": "1"
+    "group": "1",
+    "id": 55,
+    "read": false
   },
   {
     "es": "creer",
@@ -375,7 +555,9 @@
     "de": "glauben",
     "it": "credere",
     "ro": "a crede",
-    "group": "1"
+    "group": "1",
+    "id": 56,
+    "read": false
   },
   {
     "es": "tan",
@@ -383,7 +565,9 @@
     "de": "so",
     "it": "così",
     "ro": "atât",
-    "group": "1"
+    "group": "1",
+    "id": 57,
+    "read": false
   },
   {
     "es": "porque",
@@ -391,7 +575,9 @@
     "de": "weil",
     "it": "perché",
     "ro": "pentru că",
-    "group": "1"
+    "group": "1",
+    "id": 58,
+    "read": false
   },
   {
     "es": "donde",
@@ -399,7 +585,9 @@
     "de": "wo",
     "it": "dove",
     "ro": "unde",
-    "group": "1"
+    "group": "1",
+    "id": 59,
+    "read": false
   },
   {
     "es": "hacer",
@@ -407,7 +595,9 @@
     "de": "machen",
     "it": "fare",
     "ro": "a face",
-    "group": "1"
+    "group": "1",
+    "id": 60,
+    "read": false
   },
   {
     "es": "quién",
@@ -415,7 +605,9 @@
     "de": "wer",
     "it": "chi",
     "ro": "cine",
-    "group": "1"
+    "group": "1",
+    "id": 61,
+    "read": false
   },
   {
     "es": "nunca",
@@ -423,7 +615,9 @@
     "de": "nie",
     "it": "mai",
     "ro": "niciodată",
-    "group": "1"
+    "group": "1",
+    "id": 62,
+    "read": false
   },
   {
     "es": "nada",
@@ -431,16 +625,29 @@
     "de": "nichts",
     "it": "niente",
     "ro": "nimic",
-    "group": "1"
+    "group": "1",
+    "id": 63,
+    "read": false
   },
-  { "es": "él", "en": "he", "de": "er", "it": "lui", "ro": "el", "group": "1" },
+  {
+    "es": "él",
+    "en": "he",
+    "de": "er",
+    "it": "lui",
+    "ro": "el",
+    "group": "1",
+    "id": 64,
+    "read": false
+  },
   {
     "es": "vez",
     "en": "time",
     "de": "Mal",
     "it": "volta",
     "ro": "oară",
-    "group": "1"
+    "group": "1",
+    "id": 65,
+    "read": false
   },
   {
     "es": "hace",
@@ -448,7 +655,9 @@
     "de": "vor",
     "it": "fa",
     "ro": "acum",
-    "group": "1"
+    "group": "1",
+    "id": 66,
+    "read": false
   },
   {
     "es": "ella",
@@ -456,7 +665,9 @@
     "de": "sie",
     "it": "lei",
     "ro": "ea",
-    "group": "1"
+    "group": "1",
+    "id": 67,
+    "read": false
   },
   {
     "es": "dos",
@@ -464,7 +675,9 @@
     "de": "zwei",
     "it": "due",
     "ro": "doi",
-    "group": "1"
+    "group": "1",
+    "id": 68,
+    "read": false
   },
   {
     "es": "sin",
@@ -472,7 +685,9 @@
     "de": "ohne",
     "it": "senza",
     "ro": "fără",
-    "group": "1"
+    "group": "1",
+    "id": 69,
+    "read": false
   },
   {
     "es": "hasta",
@@ -480,7 +695,9 @@
     "de": "bis",
     "it": "fino a",
     "ro": "până",
-    "group": "1"
+    "group": "1",
+    "id": 70,
+    "read": false
   },
   {
     "es": "señor",
@@ -488,7 +705,9 @@
     "de": "Herr",
     "it": "signore",
     "ro": "domn",
-    "group": "1"
+    "group": "1",
+    "id": 71,
+    "read": false
   },
   {
     "es": "entonces",
@@ -496,7 +715,9 @@
     "de": "dann",
     "it": "allora",
     "ro": "atunci",
-    "group": "1"
+    "group": "1",
+    "id": 72,
+    "read": false
   },
   {
     "es": "dios",
@@ -504,7 +725,9 @@
     "de": "Gott",
     "it": "dio",
     "ro": "dumnezeu",
-    "group": "1"
+    "group": "1",
+    "id": 73,
+    "read": false
   },
   {
     "es": "sobre",
@@ -512,7 +735,9 @@
     "de": "über",
     "it": "sopra",
     "ro": "peste",
-    "group": "1"
+    "group": "1",
+    "id": 74,
+    "read": false
   },
   {
     "es": "usted",
@@ -520,7 +745,9 @@
     "de": "Sie",
     "it": "lei",
     "ro": "dumneavoastră",
-    "group": "1"
+    "group": "1",
+    "id": 75,
+    "read": false
   },
   {
     "es": "ni",
@@ -528,7 +755,9 @@
     "de": "weder",
     "it": "né",
     "ro": "nici",
-    "group": "1"
+    "group": "1",
+    "id": 76,
+    "read": false
   },
   {
     "es": "mejor",
@@ -536,7 +765,9 @@
     "de": "besser",
     "it": "meglio",
     "ro": "mai bine",
-    "group": "1"
+    "group": "1",
+    "id": 77,
+    "read": false
   },
   {
     "es": "mucho",
@@ -544,7 +775,9 @@
     "de": "viel",
     "it": "molto",
     "ro": "mult",
-    "group": "1"
+    "group": "1",
+    "id": 78,
+    "read": false
   },
   {
     "es": "gracias",
@@ -552,7 +785,9 @@
     "de": "danke",
     "it": "grazie",
     "ro": "mulțumesc",
-    "group": "1"
+    "group": "1",
+    "id": 79,
+    "read": false
   },
   {
     "es": "ver",
@@ -560,7 +795,9 @@
     "de": "sehen",
     "it": "vedere",
     "ro": "a vedea",
-    "group": "1"
+    "group": "1",
+    "id": 80,
+    "read": false
   },
   {
     "es": "hola",
@@ -568,7 +805,9 @@
     "de": "hallo",
     "it": "ciao",
     "ro": "bună",
-    "group": "1"
+    "group": "1",
+    "id": 81,
+    "read": false
   },
   {
     "es": "les",
@@ -576,7 +815,9 @@
     "de": "ihnen",
     "it": "loro",
     "ro": "le",
-    "group": "1"
+    "group": "1",
+    "id": 82,
+    "read": false
   },
   {
     "es": "sentir",
@@ -584,7 +825,9 @@
     "de": "fühlen",
     "it": "sentire",
     "ro": "a simți",
-    "group": "1"
+    "group": "1",
+    "id": 83,
+    "read": false
   },
   {
     "es": "alguien",
@@ -592,7 +835,9 @@
     "de": "jemand",
     "it": "qualcuno",
     "ro": "cineva",
-    "group": "1"
+    "group": "1",
+    "id": 84,
+    "read": false
   },
   {
     "es": "otro",
@@ -600,7 +845,9 @@
     "de": "anderer",
     "it": "altro",
     "ro": "altul",
-    "group": "1"
+    "group": "1",
+    "id": 85,
+    "read": false
   },
   {
     "es": "siempre",
@@ -608,7 +855,9 @@
     "de": "immer",
     "it": "sempre",
     "ro": "mereu",
-    "group": "1"
+    "group": "1",
+    "id": 86,
+    "read": false
   },
   {
     "es": "hombre",
@@ -616,7 +865,9 @@
     "de": "Mann",
     "it": "uomo",
     "ro": "bărbat",
-    "group": "1"
+    "group": "1",
+    "id": 87,
+    "read": false
   },
   {
     "es": "uno",
@@ -624,7 +875,9 @@
     "de": "eins",
     "it": "uno",
     "ro": "unu",
-    "group": "1"
+    "group": "1",
+    "id": 88,
+    "read": false
   },
   {
     "es": "parecer",
@@ -632,7 +885,9 @@
     "de": "scheinen",
     "it": "sembrare",
     "ro": "a părea",
-    "group": "1"
+    "group": "1",
+    "id": 89,
+    "read": false
   },
   {
     "es": "antes",
@@ -640,7 +895,9 @@
     "de": "vorher",
     "it": "prima",
     "ro": "înainte",
-    "group": "1"
+    "group": "1",
+    "id": 90,
+    "read": false
   },
   {
     "es": "mirar",
@@ -648,7 +905,9 @@
     "de": "schauen",
     "it": "guardare",
     "ro": "a privi",
-    "group": "1"
+    "group": "1",
+    "id": 91,
+    "read": false
   },
   {
     "es": "tal",
@@ -656,7 +915,9 @@
     "de": "solch",
     "it": "tale",
     "ro": "astfel",
-    "group": "1"
+    "group": "1",
+    "id": 92,
+    "read": false
   },
   {
     "es": "decir",
@@ -664,7 +925,9 @@
     "de": "sagen",
     "it": "dire",
     "ro": "a spune",
-    "group": "1"
+    "group": "1",
+    "id": 93,
+    "read": false
   },
   {
     "es": "ahí",
@@ -672,7 +935,9 @@
     "de": "dort",
     "it": "lì",
     "ro": "acolo",
-    "group": "1"
+    "group": "1",
+    "id": 94,
+    "read": false
   },
   {
     "es": "poco",
@@ -680,7 +945,9 @@
     "de": "wenig",
     "it": "poco",
     "ro": "puțin",
-    "group": "1"
+    "group": "1",
+    "id": 95,
+    "read": false
   },
   {
     "es": "nadie",
@@ -688,7 +955,9 @@
     "de": "niemand",
     "it": "nessuno",
     "ro": "nimeni",
-    "group": "1"
+    "group": "1",
+    "id": 96,
+    "read": false
   },
   {
     "es": "desde",
@@ -696,7 +965,9 @@
     "de": "seit/von",
     "it": "da",
     "ro": "din",
-    "group": "1"
+    "group": "1",
+    "id": 97,
+    "read": false
   },
   {
     "es": "también",
@@ -704,7 +975,9 @@
     "de": "auch",
     "it": "anche",
     "ro": "de asemenea",
-    "group": "1"
+    "group": "1",
+    "id": 98,
+    "read": false
   },
   {
     "es": "tiempo",
@@ -712,7 +985,9 @@
     "de": "Zeit",
     "it": "tempo",
     "ro": "timp",
-    "group": "1"
+    "group": "1",
+    "id": 99,
+    "read": false
   },
   {
     "es": "grande",
@@ -720,7 +995,9 @@
     "de": "groß",
     "it": "grande",
     "ro": "mare",
-    "group": "1"
+    "group": "1",
+    "id": 100,
+    "read": false
   },
   {
     "es": "favor",
@@ -728,7 +1005,9 @@
     "de": "Gefallen",
     "it": "favore",
     "ro": "favoare",
-    "group": "1"
+    "group": "1",
+    "id": 101,
+    "read": false
   },
   {
     "es": "casa",
@@ -736,7 +1015,9 @@
     "de": "Haus",
     "it": "casa",
     "ro": "casă",
-    "group": "1"
+    "group": "1",
+    "id": 102,
+    "read": false
   },
   {
     "es": "gente",
@@ -744,7 +1025,9 @@
     "de": "Leute",
     "it": "gente",
     "ro": "oameni",
-    "group": "1"
+    "group": "1",
+    "id": 103,
+    "read": false
   },
   {
     "es": "cosa",
@@ -752,7 +1035,9 @@
     "de": "Ding",
     "it": "cosa",
     "ro": "lucru",
-    "group": "1"
+    "group": "1",
+    "id": 104,
+    "read": false
   },
   {
     "es": "día",
@@ -760,7 +1045,9 @@
     "de": "Tag",
     "it": "giorno",
     "ro": "zi",
-    "group": "1"
+    "group": "1",
+    "id": 105,
+    "read": false
   },
   {
     "es": "deber",
@@ -768,7 +1055,9 @@
     "de": "müssen",
     "it": "dovere",
     "ro": "a trebui",
-    "group": "1"
+    "group": "1",
+    "id": 106,
+    "read": false
   },
   {
     "es": "necesitar",
@@ -776,7 +1065,9 @@
     "de": "brauchen",
     "it": "bisognare",
     "ro": "a avea nevoie",
-    "group": "1"
+    "group": "1",
+    "id": 107,
+    "read": false
   },
   {
     "es": "después",
@@ -784,7 +1075,9 @@
     "de": "nachher",
     "it": "dopo",
     "ro": "după",
-    "group": "1"
+    "group": "1",
+    "id": 108,
+    "read": false
   },
   {
     "es": "hecho",
@@ -792,7 +1085,9 @@
     "de": "Tatsache/getan",
     "it": "fatto",
     "ro": "fapt",
-    "group": "1"
+    "group": "1",
+    "id": 109,
+    "read": false
   },
   {
     "es": "nuestro",
@@ -800,7 +1095,9 @@
     "de": "unser",
     "it": "nostro",
     "ro": "nostru",
-    "group": "1"
+    "group": "1",
+    "id": 110,
+    "read": false
   },
   {
     "es": "vida",
@@ -808,7 +1105,9 @@
     "de": "Leben",
     "it": "vita",
     "ro": "viață",
-    "group": "1"
+    "group": "1",
+    "id": 111,
+    "read": false
   },
   {
     "es": "quien",
@@ -816,7 +1115,9 @@
     "de": "wer",
     "it": "chi",
     "ro": "cine",
-    "group": "1"
+    "group": "1",
+    "id": 112,
+    "read": false
   },
   {
     "es": "hablar",
@@ -824,7 +1125,9 @@
     "de": "sprechen",
     "it": "parlare",
     "ro": "a vorbi",
-    "group": "1"
+    "group": "1",
+    "id": 113,
+    "read": false
   },
   {
     "es": "ellos",
@@ -832,7 +1135,9 @@
     "de": "sie",
     "it": "loro",
     "ro": "ei",
-    "group": "1"
+    "group": "1",
+    "id": 114,
+    "read": false
   },
   {
     "es": "tipo",
@@ -840,7 +1145,9 @@
     "de": "Typ",
     "it": "tipo",
     "ro": "tip",
-    "group": "1"
+    "group": "1",
+    "id": 115,
+    "read": false
   },
   {
     "es": "fuera",
@@ -848,7 +1155,9 @@
     "de": "draußen",
     "it": "fuori",
     "ro": "afară",
-    "group": "1"
+    "group": "1",
+    "id": 116,
+    "read": false
   },
   {
     "es": "estado",
@@ -856,7 +1165,9 @@
     "de": "Staat/Zustand",
     "it": "stato",
     "ro": "stat",
-    "group": "1"
+    "group": "1",
+    "id": 117,
+    "read": false
   },
   {
     "es": "menos",
@@ -864,7 +1175,9 @@
     "de": "weniger",
     "it": "meno",
     "ro": "mai puțin",
-    "group": "1"
+    "group": "1",
+    "id": 118,
+    "read": false
   },
   {
     "es": "tres",
@@ -872,7 +1185,9 @@
     "de": "drei",
     "it": "tre",
     "ro": "trei",
-    "group": "1"
+    "group": "1",
+    "id": 119,
+    "read": false
   },
   {
     "es": "cada",
@@ -880,7 +1195,9 @@
     "de": "jeder",
     "it": "ogni",
     "ro": "fiecare",
-    "group": "1"
+    "group": "1",
+    "id": 120,
+    "read": false
   },
   {
     "es": "padre",
@@ -888,7 +1205,9 @@
     "de": "Vater",
     "it": "padre",
     "ro": "tată",
-    "group": "1"
+    "group": "1",
+    "id": 121,
+    "read": false
   },
   {
     "es": "año",
@@ -896,7 +1215,9 @@
     "de": "Jahr",
     "it": "anno",
     "ro": "an",
-    "group": "1"
+    "group": "1",
+    "id": 122,
+    "read": false
   },
   {
     "es": "hijo",
@@ -904,7 +1225,9 @@
     "de": "Sohn",
     "it": "figlio",
     "ro": "fiu",
-    "group": "1"
+    "group": "1",
+    "id": 123,
+    "read": false
   },
   {
     "es": "nosotros",
@@ -912,7 +1235,9 @@
     "de": "wir",
     "it": "noi",
     "ro": "noi",
-    "group": "1"
+    "group": "1",
+    "id": 124,
+    "read": false
   },
   {
     "es": "claro",
@@ -920,7 +1245,9 @@
     "de": "klar",
     "it": "chiaro",
     "ro": "clar",
-    "group": "1"
+    "group": "1",
+    "id": 125,
+    "read": false
   },
   {
     "es": "aún",
@@ -928,7 +1255,9 @@
     "de": "noch",
     "it": "ancora",
     "ro": "încă",
-    "group": "1"
+    "group": "1",
+    "id": 126,
+    "read": false
   },
   {
     "es": "seguro",
@@ -936,7 +1265,9 @@
     "de": "sicher",
     "it": "sicuro",
     "ro": "sigur",
-    "group": "1"
+    "group": "1",
+    "id": 127,
+    "read": false
   },
   {
     "es": "gustar",
@@ -944,7 +1275,9 @@
     "de": "mögen",
     "it": "piacere",
     "ro": "a plăcea",
-    "group": "1"
+    "group": "1",
+    "id": 128,
+    "read": false
   },
   {
     "es": "esperar",
@@ -952,7 +1285,9 @@
     "de": "warten",
     "it": "aspettare",
     "ro": "a aștepta",
-    "group": "1"
+    "group": "1",
+    "id": 129,
+    "read": false
   },
   {
     "es": "trabajo",
@@ -960,7 +1295,9 @@
     "de": "Arbeit",
     "it": "lavoro",
     "ro": "muncă",
-    "group": "1"
+    "group": "1",
+    "id": 130,
+    "read": false
   },
   {
     "es": "lugar",
@@ -968,7 +1305,9 @@
     "de": "Ort",
     "it": "luogo",
     "ro": "loc",
-    "group": "1"
+    "group": "1",
+    "id": 131,
+    "read": false
   },
   {
     "es": "verdad",
@@ -976,7 +1315,9 @@
     "de": "Wahrheit",
     "it": "verità",
     "ro": "adevăr",
-    "group": "1"
+    "group": "1",
+    "id": 132,
+    "read": false
   },
   {
     "es": "pasar",
@@ -984,7 +1325,9 @@
     "de": "passieren/gehen",
     "it": "passare",
     "ro": "a trece",
-    "group": "1"
+    "group": "1",
+    "id": 133,
+    "read": false
   },
   {
     "es": "alguno",
@@ -992,7 +1335,9 @@
     "de": "irgendein",
     "it": "alcuno",
     "ro": "vreun",
-    "group": "1"
+    "group": "1",
+    "id": 134,
+    "read": false
   },
   {
     "es": "unos",
@@ -1000,7 +1345,9 @@
     "de": "einige",
     "it": "alcuni",
     "ro": "niște",
-    "group": "1"
+    "group": "1",
+    "id": 135,
+    "read": false
   },
   {
     "es": "luego",
@@ -1008,7 +1355,9 @@
     "de": "später",
     "it": "dopo",
     "ro": "apoi",
-    "group": "1"
+    "group": "1",
+    "id": 136,
+    "read": false
   },
   {
     "es": "mas",
@@ -1016,7 +1365,9 @@
     "de": "aber (gehoben)",
     "it": "ma",
     "ro": "dar",
-    "group": "1"
+    "group": "1",
+    "id": 137,
+    "read": false
   },
   {
     "es": "oír",
@@ -1024,7 +1375,9 @@
     "de": "hören",
     "it": "sentire",
     "ro": "a auzi",
-    "group": "1"
+    "group": "1",
+    "id": 138,
+    "read": false
   },
   {
     "es": "quizá",
@@ -1032,7 +1385,9 @@
     "de": "vielleicht",
     "it": "forse",
     "ro": "poate",
-    "group": "1"
+    "group": "1",
+    "id": 139,
+    "read": false
   },
   {
     "es": "mí",
@@ -1040,7 +1395,9 @@
     "de": "mir/mich",
     "it": "me",
     "ro": "mine",
-    "group": "1"
+    "group": "1",
+    "id": 140,
+    "read": false
   },
   {
     "es": "ti",
@@ -1048,7 +1405,9 @@
     "de": "dir/dich",
     "it": "te",
     "ro": "tine",
-    "group": "1"
+    "group": "1",
+    "id": 141,
+    "read": false
   },
   {
     "es": "mismo",
@@ -1056,7 +1415,9 @@
     "de": "selbe",
     "it": "stesso",
     "ro": "același",
-    "group": "1"
+    "group": "1",
+    "id": 142,
+    "read": false
   },
   {
     "es": "algún",
@@ -1064,7 +1425,9 @@
     "de": "irgendwelche",
     "it": "qualche",
     "ro": "vreun",
-    "group": "1"
+    "group": "1",
+    "id": 143,
+    "read": false
   },
   {
     "es": "noche",
@@ -1072,7 +1435,9 @@
     "de": "Nacht",
     "it": "notte",
     "ro": "noapte",
-    "group": "1"
+    "group": "1",
+    "id": 144,
+    "read": false
   },
   {
     "es": "mundo",
@@ -1080,7 +1445,9 @@
     "de": "Welt",
     "it": "mondo",
     "ro": "lume",
-    "group": "1"
+    "group": "1",
+    "id": 145,
+    "read": false
   },
   {
     "es": "visto",
@@ -1088,7 +1455,9 @@
     "de": "gesehen",
     "it": "visto",
     "ro": "văzut",
-    "group": "1"
+    "group": "1",
+    "id": 146,
+    "read": false
   },
   {
     "es": "nombre",
@@ -1096,7 +1465,9 @@
     "de": "Name",
     "it": "nome",
     "ro": "nume",
-    "group": "1"
+    "group": "1",
+    "id": 147,
+    "read": false
   },
   {
     "es": "realmente",
@@ -1104,7 +1475,9 @@
     "de": "wirklich",
     "it": "veramente",
     "ro": "cu adevărat",
-    "group": "1"
+    "group": "1",
+    "id": 148,
+    "read": false
   },
   {
     "es": "entre",
@@ -1112,7 +1485,9 @@
     "de": "zwischen",
     "it": "tra",
     "ro": "între",
-    "group": "1"
+    "group": "1",
+    "id": 149,
+    "read": false
   },
   {
     "es": "buenas",
@@ -1120,7 +1495,9 @@
     "de": "Guten (Tag/Abend)",
     "it": "buon (giorno)",
     "ro": "bună",
-    "group": "1"
+    "group": "1",
+    "id": 150,
+    "read": false
   },
   {
     "es": "parte",
@@ -1128,7 +1505,9 @@
     "de": "Teil",
     "it": "parte",
     "ro": "parte",
-    "group": "1"
+    "group": "1",
+    "id": 151,
+    "read": false
   },
   {
     "es": "pues",
@@ -1136,7 +1515,9 @@
     "de": "nun",
     "it": "beh",
     "ro": "păi",
-    "group": "1"
+    "group": "1",
+    "id": 152,
+    "read": false
   },
   {
     "es": "casi",
@@ -1144,7 +1525,9 @@
     "de": "fast",
     "it": "quasi",
     "ro": "aproape",
-    "group": "1"
+    "group": "1",
+    "id": 153,
+    "read": false
   },
   {
     "es": "amigo",
@@ -1152,7 +1535,9 @@
     "de": "Freund",
     "it": "amico",
     "ro": "prieten",
-    "group": "1"
+    "group": "1",
+    "id": 154,
+    "read": false
   },
   {
     "es": "hora",
@@ -1160,7 +1545,9 @@
     "de": "Stunde",
     "it": "ora",
     "ro": "oră",
-    "group": "1"
+    "group": "1",
+    "id": 155,
+    "read": false
   },
   {
     "es": "quizás",
@@ -1168,7 +1555,9 @@
     "de": "vielleicht",
     "it": "forse",
     "ro": "probabil",
-    "group": "1"
+    "group": "1",
+    "id": 156,
+    "read": false
   },
   {
     "es": "dinero",
@@ -1176,7 +1565,9 @@
     "de": "Geld",
     "it": "soldi",
     "ro": "bani",
-    "group": "1"
+    "group": "1",
+    "id": 157,
+    "read": false
   },
   {
     "es": "hacia",
@@ -1184,7 +1575,9 @@
     "de": "gegen/zu",
     "it": "verso",
     "ro": "spre",
-    "group": "1"
+    "group": "1",
+    "id": 158,
+    "read": false
   },
   {
     "es": "demasiado",
@@ -1192,7 +1585,9 @@
     "de": "zu viel",
     "it": "troppo",
     "ro": "prea mult",
-    "group": "1"
+    "group": "1",
+    "id": 159,
+    "read": false
   },
   {
     "es": "pensar",
@@ -1200,7 +1595,9 @@
     "de": "denken",
     "it": "pensare",
     "ro": "a gândi",
-    "group": "1"
+    "group": "1",
+    "id": 160,
+    "read": false
   },
   {
     "es": "madre",
@@ -1208,7 +1605,9 @@
     "de": "Mutter",
     "it": "madre",
     "ro": "mamă",
-    "group": "1"
+    "group": "1",
+    "id": 161,
+    "read": false
   },
   {
     "es": "dejar",
@@ -1216,7 +1615,9 @@
     "de": "lassen",
     "it": "lasciare",
     "ro": "a lăsa",
-    "group": "1"
+    "group": "1",
+    "id": 162,
+    "read": false
   },
   {
     "es": "hoy",
@@ -1224,7 +1625,9 @@
     "de": "heute",
     "it": "oggi",
     "ro": "azi",
-    "group": "1"
+    "group": "1",
+    "id": 163,
+    "read": false
   },
   {
     "es": "contra",
@@ -1232,7 +1635,9 @@
     "de": "gegen",
     "it": "contro",
     "ro": "contra",
-    "group": "1"
+    "group": "1",
+    "id": 164,
+    "read": false
   },
   {
     "es": "primera",
@@ -1240,7 +1645,9 @@
     "de": "erste",
     "it": "prima",
     "ro": "prima",
-    "group": "1"
+    "group": "1",
+    "id": 165,
+    "read": false
   },
   {
     "es": "mientras",
@@ -1248,7 +1655,9 @@
     "de": "während",
     "it": "mentre",
     "ro": "în timp ce",
-    "group": "1"
+    "group": "1",
+    "id": 166,
+    "read": false
   },
   {
     "es": "cualquier",
@@ -1256,7 +1665,9 @@
     "de": "beliebiger",
     "it": "qualsiasi",
     "ro": "orice",
-    "group": "1"
+    "group": "1",
+    "id": 167,
+    "read": false
   },
   {
     "es": "nuevo",
@@ -1264,7 +1675,9 @@
     "de": "neu",
     "it": "nuovo",
     "ro": "nou",
-    "group": "1"
+    "group": "1",
+    "id": 168,
+    "read": false
   },
   {
     "es": "todavía",
@@ -1272,7 +1685,9 @@
     "de": "noch",
     "it": "ancora",
     "ro": "încă",
-    "group": "1"
+    "group": "1",
+    "id": 169,
+    "read": false
   },
   {
     "es": "mal",
@@ -1280,7 +1695,9 @@
     "de": "schlecht",
     "it": "male",
     "ro": "rău",
-    "group": "1"
+    "group": "1",
+    "id": 170,
+    "read": false
   },
   {
     "es": "tanto",
@@ -1288,7 +1705,9 @@
     "de": "so viel",
     "it": "tanto",
     "ro": "atât de mult",
-    "group": "1"
+    "group": "1",
+    "id": 171,
+    "read": false
   },
   {
     "es": "salir",
@@ -1296,7 +1715,9 @@
     "de": "ausgehen",
     "it": "uscire",
     "ro": "a ieși",
-    "group": "1"
+    "group": "1",
+    "id": 172,
+    "read": false
   },
   {
     "es": "mujer",
@@ -1304,7 +1725,9 @@
     "de": "Frau",
     "it": "donna",
     "ro": "femeie",
-    "group": "1"
+    "group": "1",
+    "id": 173,
+    "read": false
   },
   {
     "es": "nueva",
@@ -1312,7 +1735,9 @@
     "de": "neue",
     "it": "nuova",
     "ro": "nouă",
-    "group": "1"
+    "group": "1",
+    "id": 174,
+    "read": false
   },
   {
     "es": "momento",
@@ -1320,7 +1745,9 @@
     "de": "Moment",
     "it": "momento",
     "ro": "moment",
-    "group": "1"
+    "group": "1",
+    "id": 175,
+    "read": false
   },
   {
     "es": "papá",
@@ -1328,7 +1755,9 @@
     "de": "Papa",
     "it": "papà",
     "ro": "tată",
-    "group": "1"
+    "group": "1",
+    "id": 176,
+    "read": false
   },
   {
     "es": "dar",
@@ -1336,7 +1765,9 @@
     "de": "geben",
     "it": "dare",
     "ro": "a da",
-    "group": "1"
+    "group": "1",
+    "id": 177,
+    "read": false
   },
   {
     "es": "importar",
@@ -1344,7 +1775,9 @@
     "de": "wichtig sein",
     "it": "importare",
     "ro": "a conta",
-    "group": "1"
+    "group": "1",
+    "id": 178,
+    "read": false
   },
   {
     "es": "cuánto",
@@ -1352,7 +1785,9 @@
     "de": "wieviel",
     "it": "quanto",
     "ro": "cât",
-    "group": "1"
+    "group": "1",
+    "id": 179,
+    "read": false
   },
   {
     "es": "cuál",
@@ -1360,7 +1795,9 @@
     "de": "welcher",
     "it": "quale",
     "ro": "care",
-    "group": "1"
+    "group": "1",
+    "id": 180,
+    "read": false
   },
   {
     "es": "mañana",
@@ -1368,7 +1805,9 @@
     "de": "morgen",
     "it": "domani",
     "ro": "mâine",
-    "group": "1"
+    "group": "1",
+    "id": 181,
+    "read": false
   },
   {
     "es": "mamá",
@@ -1376,7 +1815,9 @@
     "de": "Mama",
     "it": "mamma",
     "ro": "mamă",
-    "group": "1"
+    "group": "1",
+    "id": 182,
+    "read": false
   },
   {
     "es": "ninguno",
@@ -1384,7 +1825,9 @@
     "de": "keiner",
     "it": "nessuno",
     "ro": "niciunul",
-    "group": "1"
+    "group": "1",
+    "id": 183,
+    "read": false
   },
   {
     "es": "doctor",
@@ -1392,7 +1835,9 @@
     "de": "Arzt",
     "it": "dottore",
     "ro": "doctor",
-    "group": "1"
+    "group": "1",
+    "id": 184,
+    "read": false
   },
   {
     "es": "durante",
@@ -1400,7 +1845,9 @@
     "de": "während",
     "it": "durante",
     "ro": "în timpul",
-    "group": "1"
+    "group": "1",
+    "id": 185,
+    "read": false
   },
   {
     "es": "mierda",
@@ -1408,7 +1855,9 @@
     "de": "Scheiße",
     "it": "merda",
     "ro": "rahat",
-    "group": "1"
+    "group": "1",
+    "id": 186,
+    "read": false
   },
   {
     "es": "forma",
@@ -1416,7 +1865,9 @@
     "de": "Form",
     "it": "forma",
     "ro": "formă",
-    "group": "1"
+    "group": "1",
+    "id": 187,
+    "read": false
   },
   {
     "es": "allí",
@@ -1424,7 +1875,9 @@
     "de": "dort",
     "it": "lì",
     "ro": "acolo",
-    "group": "1"
+    "group": "1",
+    "id": 188,
+    "read": false
   },
   {
     "es": "único",
@@ -1432,7 +1885,9 @@
     "de": "einzigartig",
     "it": "unico",
     "ro": "unic",
-    "group": "1"
+    "group": "1",
+    "id": 189,
+    "read": false
   },
   {
     "es": "seguir",
@@ -1440,7 +1895,9 @@
     "de": "folgen",
     "it": "seguire",
     "ro": "a urma",
-    "group": "1"
+    "group": "1",
+    "id": 190,
+    "read": false
   },
   {
     "es": "bajo",
@@ -1448,7 +1905,9 @@
     "de": "unter",
     "it": "sotto",
     "ro": "sub",
-    "group": "1"
+    "group": "1",
+    "id": 191,
+    "read": false
   },
   {
     "es": "acuerdo",
@@ -1456,7 +1915,9 @@
     "de": "Einverständnis",
     "it": "accordo",
     "ro": "acord",
-    "group": "1"
+    "group": "1",
+    "id": 192,
+    "read": false
   },
   {
     "es": "volver",
@@ -1464,7 +1925,9 @@
     "de": "zurückkehren",
     "it": "tornare",
     "ro": "a se întoarce",
-    "group": "1"
+    "group": "1",
+    "id": 193,
+    "read": false
   },
   {
     "es": "suponer",
@@ -1472,7 +1935,9 @@
     "de": "vermuten",
     "it": "supporre",
     "ro": "a presupune",
-    "group": "1"
+    "group": "1",
+    "id": 194,
+    "read": false
   },
   {
     "es": "toma",
@@ -1480,7 +1945,9 @@
     "de": "nimm",
     "it": "prendi",
     "ro": "ia",
-    "group": "1"
+    "group": "1",
+    "id": 195,
+    "read": false
   },
   {
     "es": "siquiera",
@@ -1488,7 +1955,9 @@
     "de": "sogar",
     "it": "nemmeno",
     "ro": "măcar",
-    "group": "1"
+    "group": "1",
+    "id": 196,
+    "read": false
   },
   {
     "es": "chica",
@@ -1496,7 +1965,9 @@
     "de": "Mädchen",
     "it": "ragazza",
     "ro": "fată",
-    "group": "1"
+    "group": "1",
+    "id": 197,
+    "read": false
   },
   {
     "es": "aunque",
@@ -1504,7 +1975,9 @@
     "de": "obwohl",
     "it": "anche se",
     "ro": "deși",
-    "group": "1"
+    "group": "1",
+    "id": 198,
+    "read": false
   },
   {
     "es": "idea",
@@ -1512,16 +1985,29 @@
     "de": "Idee",
     "it": "idea",
     "ro": "idee",
-    "group": "1"
+    "group": "1",
+    "id": 199,
+    "read": false
   },
-  { "es": "ay", "en": "oh", "de": "au", "it": "ahi", "ro": "au", "group": "1" },
+  {
+    "es": "ay",
+    "en": "oh",
+    "de": "au",
+    "it": "ahi",
+    "ro": "au",
+    "group": "1",
+    "id": 200,
+    "read": false
+  },
   {
     "es": "dicho",
     "en": "said",
     "de": "gesagt",
     "it": "detto",
     "ro": "zis",
-    "group": "1"
+    "group": "1",
+    "id": 201,
+    "read": false
   },
   {
     "es": "venir",
@@ -1529,7 +2015,9 @@
     "de": "kommen",
     "it": "venire",
     "ro": "a veni",
-    "group": "1"
+    "group": "1",
+    "id": 202,
+    "read": false
   },
   {
     "es": "allá",
@@ -1537,7 +2025,9 @@
     "de": "da drüben",
     "it": "laggiù",
     "ro": "acolo",
-    "group": "1"
+    "group": "1",
+    "id": 203,
+    "read": false
   },
   {
     "es": "significar",
@@ -1545,7 +2035,9 @@
     "de": "bedeuten",
     "it": "significare",
     "ro": "a însemna",
-    "group": "1"
+    "group": "1",
+    "id": 204,
+    "read": false
   },
   {
     "es": "tomar",
@@ -1553,7 +2045,9 @@
     "de": "nehmen",
     "it": "prendere",
     "ro": "a lua",
-    "group": "1"
+    "group": "1",
+    "id": 205,
+    "read": false
   },
   {
     "es": "señora",
@@ -1561,7 +2055,9 @@
     "de": "Frau/Dame",
     "it": "signora",
     "ro": "doamnă",
-    "group": "1"
+    "group": "1",
+    "id": 206,
+    "read": false
   },
   {
     "es": "dentro",
@@ -1569,7 +2065,9 @@
     "de": "drinnen",
     "it": "dentro",
     "ro": "înăuntru",
-    "group": "1"
+    "group": "1",
+    "id": 207,
+    "read": false
   },
   {
     "es": "primero",
@@ -1577,7 +2075,9 @@
     "de": "zuerst",
     "it": "primo",
     "ro": "primul",
-    "group": "1"
+    "group": "1",
+    "id": 208,
+    "read": false
   },
   {
     "es": "llamar",
@@ -1585,7 +2085,9 @@
     "de": "anrufen",
     "it": "chiamare",
     "ro": "a suna",
-    "group": "1"
+    "group": "1",
+    "id": 209,
+    "read": false
   },
   {
     "es": "e",
@@ -1593,7 +2095,9 @@
     "de": "und",
     "it": "ed",
     "ro": "și",
-    "group": "1"
+    "group": "1",
+    "id": 210,
+    "read": false
   },
   {
     "es": "diablo",
@@ -1601,7 +2105,9 @@
     "de": "Teufel",
     "it": "diavolo",
     "ro": "diavol",
-    "group": "1"
+    "group": "1",
+    "id": 211,
+    "read": false
   },
   {
     "es": "fin",
@@ -1609,7 +2115,9 @@
     "de": "Ende",
     "it": "fine",
     "ro": "sfârșit",
-    "group": "1"
+    "group": "1",
+    "id": 212,
+    "read": false
   },
   {
     "es": "maldito",
@@ -1617,7 +2125,9 @@
     "de": "verdammt",
     "it": "maledetto",
     "ro": "blestemat",
-    "group": "1"
+    "group": "1",
+    "id": 213,
+    "read": false
   },
   {
     "es": "habla",
@@ -1625,7 +2135,9 @@
     "de": "spricht",
     "it": "parla",
     "ro": "vorbește",
-    "group": "1"
+    "group": "1",
+    "id": 214,
+    "read": false
   },
   {
     "es": "policía",
@@ -1633,7 +2145,9 @@
     "de": "Polizei",
     "it": "polizia",
     "ro": "poliție",
-    "group": "1"
+    "group": "1",
+    "id": 215,
+    "read": false
   },
   {
     "es": "último",
@@ -1641,7 +2155,9 @@
     "de": "letzter",
     "it": "ultimo",
     "ro": "ultimul",
-    "group": "1"
+    "group": "1",
+    "id": 216,
+    "read": false
   },
   {
     "es": "lado",
@@ -1649,7 +2165,9 @@
     "de": "Seite",
     "it": "lato",
     "ro": "parte",
-    "group": "1"
+    "group": "1",
+    "id": 217,
+    "read": false
   },
   {
     "es": "razón",
@@ -1657,7 +2175,9 @@
     "de": "Grund",
     "it": "ragione",
     "ro": "motiv",
-    "group": "1"
+    "group": "1",
+    "id": 218,
+    "read": false
   },
   {
     "es": "cuenta",
@@ -1665,7 +2185,9 @@
     "de": "Rechnung",
     "it": "conto",
     "ro": "cont",
-    "group": "1"
+    "group": "1",
+    "id": 219,
+    "read": false
   },
   {
     "es": "amor",
@@ -1673,7 +2195,9 @@
     "de": "Liebe",
     "it": "amore",
     "ro": "iubire",
-    "group": "1"
+    "group": "1",
+    "id": 220,
+    "read": false
   },
   {
     "es": "justo",
@@ -1681,7 +2205,9 @@
     "de": "gerecht/genau",
     "it": "giusto",
     "ro": "just",
-    "group": "1"
+    "group": "1",
+    "id": 221,
+    "read": false
   },
   {
     "es": "chico",
@@ -1689,7 +2215,9 @@
     "de": "Junge",
     "it": "ragazzo",
     "ro": "băiat",
-    "group": "1"
+    "group": "1",
+    "id": 222,
+    "read": false
   },
   {
     "es": "llegar",
@@ -1697,7 +2225,9 @@
     "de": "ankommen",
     "it": "arrivare",
     "ro": "a ajunge",
-    "group": "1"
+    "group": "1",
+    "id": 223,
+    "read": false
   },
   {
     "es": "cuándo",
@@ -1705,16 +2235,29 @@
     "de": "wann",
     "it": "quando",
     "ro": "când",
-    "group": "1"
+    "group": "1",
+    "id": 224,
+    "read": false
   },
-  { "es": "OK", "en": "OK", "de": "OK", "it": "OK", "ro": "OK", "group": "1" },
+  {
+    "es": "OK",
+    "en": "OK",
+    "de": "OK",
+    "it": "OK",
+    "ro": "OK",
+    "group": "1",
+    "id": 225,
+    "read": false
+  },
   {
     "es": "cinco",
     "en": "five",
     "de": "fünf",
     "it": "cinque",
     "ro": "cinci",
-    "group": "1"
+    "group": "1",
+    "id": 226,
+    "read": false
   },
   {
     "es": "valer",
@@ -1722,7 +2265,9 @@
     "de": "wert sein",
     "it": "valere",
     "ro": "a valora",
-    "group": "1"
+    "group": "1",
+    "id": 227,
+    "read": false
   },
   {
     "es": "problema",
@@ -1730,7 +2275,9 @@
     "de": "Problem",
     "it": "problema",
     "ro": "problemă",
-    "group": "1"
+    "group": "1",
+    "id": 228,
+    "read": false
   },
   {
     "es": "mío",
@@ -1738,7 +2285,9 @@
     "de": "mein",
     "it": "mio",
     "ro": "meu",
-    "group": "1"
+    "group": "1",
+    "id": 229,
+    "read": false
   },
   {
     "es": "familia",
@@ -1746,7 +2295,9 @@
     "de": "Familie",
     "it": "famiglia",
     "ro": "familie",
-    "group": "1"
+    "group": "1",
+    "id": 230,
+    "read": false
   },
   {
     "es": "viejo",
@@ -1754,7 +2305,9 @@
     "de": "alt",
     "it": "vecchio",
     "ro": "vechi",
-    "group": "1"
+    "group": "1",
+    "id": 231,
+    "read": false
   },
   {
     "es": "escuchar",
@@ -1762,7 +2315,9 @@
     "de": "hören",
     "it": "ascoltare",
     "ro": "a asculta",
-    "group": "1"
+    "group": "1",
+    "id": 232,
+    "read": false
   },
   {
     "es": "pasado",
@@ -1770,7 +2325,9 @@
     "de": "Vergangenheit",
     "it": "passato",
     "ro": "trecut",
-    "group": "1"
+    "group": "1",
+    "id": 233,
+    "read": false
   },
   {
     "es": "cuidado",
@@ -1778,7 +2335,9 @@
     "de": "Vorsicht",
     "it": "attenzione",
     "ro": "atenție",
-    "group": "1"
+    "group": "1",
+    "id": 234,
+    "read": false
   },
   {
     "es": "persona",
@@ -1786,7 +2345,9 @@
     "de": "Person",
     "it": "persona",
     "ro": "persoană",
-    "group": "1"
+    "group": "1",
+    "id": 235,
+    "read": false
   },
   {
     "es": "tarde",
@@ -1794,7 +2355,9 @@
     "de": "spät",
     "it": "tardi",
     "ro": "târziu",
-    "group": "1"
+    "group": "1",
+    "id": 236,
+    "read": false
   },
   {
     "es": "caso",
@@ -1802,7 +2365,9 @@
     "de": "Fall",
     "it": "caso",
     "ro": "caz",
-    "group": "1"
+    "group": "1",
+    "id": 237,
+    "read": false
   },
   {
     "es": "adonde",
@@ -1810,7 +2375,9 @@
     "de": "wohin",
     "it": "dove",
     "ro": "încotro",
-    "group": "1"
+    "group": "1",
+    "id": 238,
+    "read": false
   },
   {
     "es": "cuanto",
@@ -1818,7 +2385,9 @@
     "de": "so viel wie",
     "it": "quanto",
     "ro": "cât",
-    "group": "1"
+    "group": "1",
+    "id": 239,
+    "read": false
   },
   {
     "es": "cerca",
@@ -1826,7 +2395,9 @@
     "de": "nah",
     "it": "vicino",
     "ro": "aproape",
-    "group": "1"
+    "group": "1",
+    "id": 240,
+    "read": false
   },
   {
     "es": "pequeño",
@@ -1834,7 +2405,9 @@
     "de": "klein",
     "it": "piccolo",
     "ro": "mic",
-    "group": "1"
+    "group": "1",
+    "id": 241,
+    "read": false
   },
   {
     "es": "mano",
@@ -1842,7 +2415,9 @@
     "de": "Hand",
     "it": "mano",
     "ro": "mână",
-    "group": "1"
+    "group": "1",
+    "id": 242,
+    "read": false
   },
   {
     "es": "encontrar",
@@ -1850,7 +2425,9 @@
     "de": "finden",
     "it": "trovare",
     "ro": "a găsi",
-    "group": "1"
+    "group": "1",
+    "id": 243,
+    "read": false
   },
   {
     "es": "quedar",
@@ -1858,7 +2435,9 @@
     "de": "bleiben",
     "it": "rimanere",
     "ro": "a rămâne",
-    "group": "1"
+    "group": "1",
+    "id": 244,
+    "read": false
   },
   {
     "es": "historia",
@@ -1866,7 +2445,9 @@
     "de": "Geschichte",
     "it": "storia",
     "ro": "istorie",
-    "group": "1"
+    "group": "1",
+    "id": 245,
+    "read": false
   },
   {
     "es": "número",
@@ -1874,7 +2455,9 @@
     "de": "Nummer",
     "it": "numero",
     "ro": "număr",
-    "group": "1"
+    "group": "1",
+    "id": 246,
+    "read": false
   },
   {
     "es": "suerte",
@@ -1882,7 +2465,9 @@
     "de": "Glück",
     "it": "fortuna",
     "ro": "noroc",
-    "group": "1"
+    "group": "1",
+    "id": 247,
+    "read": false
   },
   {
     "es": "cual",
@@ -1890,7 +2475,9 @@
     "de": "welcher",
     "it": "quale",
     "ro": "care",
-    "group": "1"
+    "group": "1",
+    "id": 248,
+    "read": false
   },
   {
     "es": "feliz",
@@ -1898,7 +2485,9 @@
     "de": "glücklich",
     "it": "felice",
     "ro": "fericit",
-    "group": "1"
+    "group": "1",
+    "id": 249,
+    "read": false
   },
   {
     "es": "pronto",
@@ -1906,7 +2495,9 @@
     "de": "bald",
     "it": "presto",
     "ro": "curând",
-    "group": "1"
+    "group": "1",
+    "id": 250,
+    "read": false
   },
   {
     "es": "par",
@@ -1914,7 +2505,9 @@
     "de": "Paar",
     "it": "paio",
     "ro": "pereche",
-    "group": "1"
+    "group": "1",
+    "id": 251,
+    "read": false
   },
   {
     "es": "igual",
@@ -1922,7 +2515,9 @@
     "de": "gleich",
     "it": "uguale",
     "ro": "egal",
-    "group": "1"
+    "group": "1",
+    "id": 252,
+    "read": false
   },
   {
     "es": "cuatro",
@@ -1930,7 +2525,9 @@
     "de": "vier",
     "it": "quattro",
     "ro": "patru",
-    "group": "1"
+    "group": "1",
+    "id": 253,
+    "read": false
   },
   {
     "es": "clase",
@@ -1938,7 +2535,9 @@
     "de": "Klasse",
     "it": "classe",
     "ro": "clasă",
-    "group": "1"
+    "group": "1",
+    "id": 254,
+    "read": false
   },
   {
     "es": "tratar",
@@ -1946,7 +2545,9 @@
     "de": "versuchen",
     "it": "trattare",
     "ro": "a încerca",
-    "group": "1"
+    "group": "1",
+    "id": 255,
+    "read": false
   },
   {
     "es": "capitán",
@@ -1954,7 +2555,9 @@
     "de": "Kapitän",
     "it": "capitano",
     "ro": "căpitan",
-    "group": "1"
+    "group": "1",
+    "id": 256,
+    "read": false
   },
   {
     "es": "cierto",
@@ -1962,7 +2565,9 @@
     "de": "wahr",
     "it": "certo",
     "ro": "adevărat",
-    "group": "1"
+    "group": "1",
+    "id": 257,
+    "read": false
   },
   {
     "es": "señorita",
@@ -1970,7 +2575,9 @@
     "de": "Fräulein",
     "it": "signorina",
     "ro": "domnișoară",
-    "group": "1"
+    "group": "1",
+    "id": 258,
+    "read": false
   },
   {
     "es": "hermano",
@@ -1978,7 +2585,9 @@
     "de": "Bruder",
     "it": "fratello",
     "ro": "frate",
-    "group": "1"
+    "group": "1",
+    "id": 259,
+    "read": false
   },
   {
     "es": "manera",
@@ -1986,7 +2595,9 @@
     "de": "Art und Weise",
     "it": "maniera",
     "ro": "fel",
-    "group": "1"
+    "group": "1",
+    "id": 260,
+    "read": false
   },
   {
     "es": "puerta",
@@ -1994,7 +2605,9 @@
     "de": "Tür",
     "it": "porta",
     "ro": "ușă",
-    "group": "1"
+    "group": "1",
+    "id": 261,
+    "read": false
   },
   {
     "es": "os",
@@ -2002,7 +2615,9 @@
     "de": "euch",
     "it": "vi",
     "ro": "vă",
-    "group": "1"
+    "group": "1",
+    "id": 262,
+    "read": false
   },
   {
     "es": "bastante",
@@ -2010,7 +2625,9 @@
     "de": "genug",
     "it": "abbastanza",
     "ro": "destul",
-    "group": "1"
+    "group": "1",
+    "id": 263,
+    "read": false
   },
   {
     "es": "city",
@@ -2018,7 +2635,9 @@
     "de": "Stadt",
     "it": "città",
     "ro": "oraș",
-    "group": "1"
+    "group": "1",
+    "id": 264,
+    "read": false
   },
   {
     "es": "matar",
@@ -2026,7 +2645,9 @@
     "de": "töten",
     "it": "uccidere",
     "ro": "a ucide",
-    "group": "1"
+    "group": "1",
+    "id": 265,
+    "read": false
   },
   {
     "es": "esposa",
@@ -2034,7 +2655,9 @@
     "de": "Ehefrau",
     "it": "moglie",
     "ro": "soție",
-    "group": "1"
+    "group": "1",
+    "id": 266,
+    "read": false
   },
   {
     "es": "camino",
@@ -2042,7 +2665,9 @@
     "de": "Weg",
     "it": "cammino",
     "ro": "cale",
-    "group": "1"
+    "group": "1",
+    "id": 267,
+    "read": false
   },
   {
     "es": "cabeza",
@@ -2050,7 +2675,9 @@
     "de": "Kopf",
     "it": "testa",
     "ro": "cap",
-    "group": "1"
+    "group": "1",
+    "id": 268,
+    "read": false
   },
   {
     "es": "conocer",
@@ -2058,7 +2685,9 @@
     "de": "kennen",
     "it": "conoscere",
     "ro": "a cunoaște",
-    "group": "1"
+    "group": "1",
+    "id": 269,
+    "read": false
   },
   {
     "es": "niño",
@@ -2066,7 +2695,9 @@
     "de": "Kind",
     "it": "bambino",
     "ro": "copil",
-    "group": "1"
+    "group": "1",
+    "id": 270,
+    "read": false
   },
   {
     "es": "cariño",
@@ -2074,7 +2705,9 @@
     "de": "Liebling",
     "it": "caro",
     "ro": "dragă",
-    "group": "1"
+    "group": "1",
+    "id": 271,
+    "read": false
   },
   {
     "es": "vino",
@@ -2082,7 +2715,9 @@
     "de": "Wein",
     "it": "vino",
     "ro": "vin",
-    "group": "1"
+    "group": "1",
+    "id": 272,
+    "read": false
   },
   {
     "es": "jefe",
@@ -2090,7 +2725,9 @@
     "de": "Chef",
     "it": "capo",
     "ro": "șef",
-    "group": "1"
+    "group": "1",
+    "id": 273,
+    "read": false
   },
   {
     "es": "miedo",
@@ -2098,7 +2735,9 @@
     "de": "Angst",
     "it": "paura",
     "ro": "frică",
-    "group": "1"
+    "group": "1",
+    "id": 274,
+    "read": false
   },
   {
     "es": "medio",
@@ -2106,7 +2745,9 @@
     "de": "halb",
     "it": "mezzo",
     "ro": "mijloc",
-    "group": "1"
+    "group": "1",
+    "id": 275,
+    "read": false
   },
   {
     "es": "equipo",
@@ -2114,7 +2755,9 @@
     "de": "Team",
     "it": "squadra",
     "ro": "echipă",
-    "group": "1"
+    "group": "1",
+    "id": 276,
+    "read": false
   },
   {
     "es": "entrar",
@@ -2122,7 +2765,9 @@
     "de": "eintreten",
     "it": "entrare",
     "ro": "a intra",
-    "group": "1"
+    "group": "1",
+    "id": 277,
+    "read": false
   },
   {
     "es": "muerte",
@@ -2130,7 +2775,9 @@
     "de": "Tod",
     "it": "morte",
     "ro": "moarte",
-    "group": "1"
+    "group": "1",
+    "id": 278,
+    "read": false
   },
   {
     "es": "acerca",
@@ -2138,7 +2785,9 @@
     "de": "über",
     "it": "circa",
     "ro": "despre",
-    "group": "1"
+    "group": "1",
+    "id": 279,
+    "read": false
   },
   {
     "es": "punto",
@@ -2146,7 +2795,9 @@
     "de": "Punkt",
     "it": "punto",
     "ro": "punct",
-    "group": "1"
+    "group": "1",
+    "id": 280,
+    "read": false
   },
   {
     "es": "vivir",
@@ -2154,7 +2805,9 @@
     "de": "leben",
     "it": "vivere",
     "ro": "a trăi",
-    "group": "1"
+    "group": "1",
+    "id": 281,
+    "read": false
   },
   {
     "es": "realidad",
@@ -2162,7 +2815,9 @@
     "de": "Realität",
     "it": "realtà",
     "ro": "realitate",
-    "group": "1"
+    "group": "1",
+    "id": 282,
+    "read": false
   },
   {
     "es": "llevar",
@@ -2170,7 +2825,9 @@
     "de": "tragen",
     "it": "portare",
     "ro": "a duce",
-    "group": "1"
+    "group": "1",
+    "id": 283,
+    "read": false
   },
   {
     "es": "guerra",
@@ -2178,7 +2835,9 @@
     "de": "Krieg",
     "it": "guerra",
     "ro": "război",
-    "group": "1"
+    "group": "1",
+    "id": 284,
+    "read": false
   },
   {
     "es": "sangre",
@@ -2186,7 +2845,9 @@
     "de": "Blut",
     "it": "sangue",
     "ro": "sânge",
-    "group": "1"
+    "group": "1",
+    "id": 285,
+    "read": false
   },
   {
     "es": "conmigo",
@@ -2194,7 +2855,9 @@
     "de": "mit mir",
     "it": "con me",
     "ro": "cu mine",
-    "group": "1"
+    "group": "1",
+    "id": 286,
+    "read": false
   },
   {
     "es": "rápido",
@@ -2202,7 +2865,9 @@
     "de": "schnell",
     "it": "veloce",
     "ro": "rapid",
-    "group": "1"
+    "group": "1",
+    "id": 287,
+    "read": false
   },
   {
     "es": "seis",
@@ -2210,7 +2875,9 @@
     "de": "sechs",
     "it": "sei",
     "ro": "șase",
-    "group": "1"
+    "group": "1",
+    "id": 288,
+    "read": false
   },
   {
     "es": "además",
@@ -2218,7 +2885,9 @@
     "de": "außerdem",
     "it": "inoltre",
     "ro": "în plus",
-    "group": "1"
+    "group": "1",
+    "id": 289,
+    "read": false
   },
   {
     "es": "listo",
@@ -2226,7 +2895,9 @@
     "de": "fertig/schlau",
     "it": "pronto",
     "ro": "gata",
-    "group": "1"
+    "group": "1",
+    "id": 290,
+    "read": false
   },
   {
     "es": "adiós",
@@ -2234,7 +2905,9 @@
     "de": "auf Wiedersehen",
     "it": "addio",
     "ro": "la revedere",
-    "group": "1"
+    "group": "1",
+    "id": 291,
+    "read": false
   },
   {
     "es": "entender",
@@ -2242,7 +2915,9 @@
     "de": "verstehen",
     "it": "capire",
     "ro": "a înțelege",
-    "group": "1"
+    "group": "1",
+    "id": 292,
+    "read": false
   },
   {
     "es": "ojo",
@@ -2250,7 +2925,9 @@
     "de": "Auge",
     "it": "occhio",
     "ro": "ochi",
-    "group": "1"
+    "group": "1",
+    "id": 293,
+    "read": false
   },
   {
     "es": "minuto",
@@ -2258,7 +2935,9 @@
     "de": "Minute",
     "it": "minuto",
     "ro": "minut",
-    "group": "1"
+    "group": "1",
+    "id": 294,
+    "read": false
   },
   {
     "es": "mayor",
@@ -2266,7 +2945,9 @@
     "de": "älter/größer",
     "it": "maggiore",
     "ro": "mai mare",
-    "group": "1"
+    "group": "1",
+    "id": 295,
+    "read": false
   },
   {
     "es": "semana",
@@ -2274,7 +2955,9 @@
     "de": "Woche",
     "it": "settimana",
     "ro": "săptămână",
-    "group": "1"
+    "group": "1",
+    "id": 296,
+    "read": false
   },
   {
     "es": "agua",
@@ -2282,7 +2965,9 @@
     "de": "Wasser",
     "it": "acqua",
     "ro": "apă",
-    "group": "1"
+    "group": "1",
+    "id": 297,
+    "read": false
   },
   {
     "es": "hija",
@@ -2290,7 +2975,9 @@
     "de": "Tochter",
     "it": "figlia",
     "ro": "fiică",
-    "group": "1"
+    "group": "1",
+    "id": 298,
+    "read": false
   },
   {
     "es": "haz",
@@ -2298,7 +2985,9 @@
     "de": "mach",
     "it": "fai",
     "ro": "fă",
-    "group": "1"
+    "group": "1",
+    "id": 299,
+    "read": false
   },
   {
     "es": "ayuda",
@@ -2306,7 +2995,9 @@
     "de": "Hilfe",
     "it": "aiuto",
     "ro": "ajutor",
-    "group": "1"
+    "group": "1",
+    "id": 300,
+    "read": false
   },
   {
     "es": "tío",
@@ -2314,7 +3005,9 @@
     "de": "Onkel",
     "it": "zio",
     "ro": "unchi",
-    "group": "1"
+    "group": "1",
+    "id": 301,
+    "read": false
   },
   {
     "es": "auto",
@@ -2322,7 +3015,9 @@
     "de": "Auto",
     "it": "auto",
     "ro": "mașină",
-    "group": "1"
+    "group": "1",
+    "id": 302,
+    "read": false
   },
   {
     "es": "jamás",
@@ -2330,7 +3025,9 @@
     "de": "jemals/nie",
     "it": "mai",
     "ro": "niciodată",
-    "group": "1"
+    "group": "1",
+    "id": 303,
+    "read": false
   },
   {
     "es": "incluso",
@@ -2338,7 +3035,9 @@
     "de": "sogar",
     "it": "persino",
     "ro": "chiar",
-    "group": "1"
+    "group": "1",
+    "id": 304,
+    "read": false
   },
   {
     "es": "difícil",
@@ -2346,7 +3045,9 @@
     "de": "schwierig",
     "it": "difficile",
     "ro": "dificil",
-    "group": "1"
+    "group": "1",
+    "id": 305,
+    "read": false
   },
   {
     "es": "contigo",
@@ -2354,7 +3055,9 @@
     "de": "mit dir",
     "it": "con te",
     "ro": "cu tine",
-    "group": "1"
+    "group": "1",
+    "id": 306,
+    "read": false
   },
   {
     "es": "paso",
@@ -2362,7 +3065,9 @@
     "de": "Schritt",
     "it": "passo",
     "ro": "pas",
-    "group": "1"
+    "group": "1",
+    "id": 307,
+    "read": false
   },
   {
     "es": "juego",
@@ -2370,7 +3075,9 @@
     "de": "Spiel",
     "it": "gioco",
     "ro": "joc",
-    "group": "1"
+    "group": "1",
+    "id": 308,
+    "read": false
   },
   {
     "es": "cuerpo",
@@ -2378,7 +3085,9 @@
     "de": "Körper",
     "it": "corpo",
     "ro": "corp",
-    "group": "1"
+    "group": "1",
+    "id": 309,
+    "read": false
   },
   {
     "es": "demonio",
@@ -2386,7 +3095,9 @@
     "de": "Dämon",
     "it": "demone",
     "ro": "demon",
-    "group": "1"
+    "group": "1",
+    "id": 310,
+    "read": false
   },
   {
     "es": "agente",
@@ -2394,7 +3105,9 @@
     "de": "Agent",
     "it": "agente",
     "ro": "agent",
-    "group": "1"
+    "group": "1",
+    "id": 311,
+    "read": false
   },
   {
     "es": "comida",
@@ -2402,7 +3115,9 @@
     "de": "Essen",
     "it": "cibo",
     "ro": "mâncare",
-    "group": "1"
+    "group": "1",
+    "id": 312,
+    "read": false
   },
   {
     "es": "buscar",
@@ -2410,7 +3125,9 @@
     "de": "suchen",
     "it": "cercare",
     "ro": "a căuta",
-    "group": "1"
+    "group": "1",
+    "id": 313,
+    "read": false
   },
   {
     "es": "muerto",
@@ -2418,7 +3135,9 @@
     "de": "tot",
     "it": "morto",
     "ro": "mort",
-    "group": "1"
+    "group": "1",
+    "id": 314,
+    "read": false
   },
   {
     "es": "mil",
@@ -2426,7 +3145,9 @@
     "de": "tausend",
     "it": "mille",
     "ro": "mie",
-    "group": "1"
+    "group": "1",
+    "id": 315,
+    "read": false
   },
   {
     "es": "cara",
@@ -2434,7 +3155,9 @@
     "de": "Gesicht",
     "it": "faccia",
     "ro": "față",
-    "group": "1"
+    "group": "1",
+    "id": 316,
+    "read": false
   },
   {
     "es": "falta",
@@ -2442,7 +3165,9 @@
     "de": "Mangel",
     "it": "mancanza",
     "ro": "lipsă",
-    "group": "1"
+    "group": "1",
+    "id": 317,
+    "read": false
   },
   {
     "es": "acabar",
@@ -2450,7 +3175,9 @@
     "de": "beenden",
     "it": "finire",
     "ro": "a termina",
-    "group": "1"
+    "group": "1",
+    "id": 318,
+    "read": false
   },
   {
     "es": "probablemente",
@@ -2458,7 +3185,9 @@
     "de": "wahrscheinlich",
     "it": "probabilmente",
     "ro": "probabil",
-    "group": "1"
+    "group": "1",
+    "id": 319,
+    "read": false
   },
   {
     "es": "detrás",
@@ -2466,7 +3195,9 @@
     "de": "dahinter",
     "it": "dietro",
     "ro": "în spate",
-    "group": "1"
+    "group": "1",
+    "id": 320,
+    "read": false
   },
   {
     "es": "tampoco",
@@ -2474,7 +3205,9 @@
     "de": "auch nicht",
     "it": "neanche",
     "ro": "nici",
-    "group": "1"
+    "group": "1",
+    "id": 321,
+    "read": false
   },
   {
     "es": "pequeña",
@@ -2482,7 +3215,9 @@
     "de": "kleine",
     "it": "piccola",
     "ro": "mică",
-    "group": "1"
+    "group": "1",
+    "id": 322,
+    "read": false
   },
   {
     "es": "sino",
@@ -2490,7 +3225,9 @@
     "de": "sondern",
     "it": "ma",
     "ro": "ci",
-    "group": "1"
+    "group": "1",
+    "id": 323,
+    "read": false
   },
   {
     "es": "comer",
@@ -2498,7 +3235,9 @@
     "de": "essen",
     "it": "mangiare",
     "ro": "a mânca",
-    "group": "1"
+    "group": "1",
+    "id": 324,
+    "read": false
   },
   {
     "es": "recuerdo",
@@ -2506,7 +3245,9 @@
     "de": "Erinnerung",
     "it": "ricordo",
     "ro": "amintire",
-    "group": "1"
+    "group": "1",
+    "id": 325,
+    "read": false
   },
   {
     "es": "malo",
@@ -2514,7 +3255,9 @@
     "de": "schlecht",
     "it": "cattivo",
     "ro": "rău",
-    "group": "1"
+    "group": "1",
+    "id": 326,
+    "read": false
   },
   {
     "es": "trabajar",
@@ -2522,7 +3265,9 @@
     "de": "arbeiten",
     "it": "lavorare",
     "ro": "a lucra",
-    "group": "1"
+    "group": "1",
+    "id": 327,
+    "read": false
   },
   {
     "es": "segundo",
@@ -2530,7 +3275,9 @@
     "de": "Sekunde/Zweiter",
     "it": "secondo",
     "ro": "secundă",
-    "group": "1"
+    "group": "1",
+    "id": 328,
+    "read": false
   },
   {
     "es": "final",
@@ -2538,7 +3285,9 @@
     "de": "Ende/Finale",
     "it": "finale",
     "ro": "final",
-    "group": "1"
+    "group": "1",
+    "id": 329,
+    "read": false
   },
   {
     "es": "jugar",
@@ -2546,7 +3295,9 @@
     "de": "spielen",
     "it": "giocare",
     "ro": "a se juca",
-    "group": "1"
+    "group": "1",
+    "id": 330,
+    "read": false
   },
   {
     "es": "poner",
@@ -2554,7 +3305,9 @@
     "de": "setzen/stellen",
     "it": "mettere",
     "ro": "a pune",
-    "group": "1"
+    "group": "1",
+    "id": 331,
+    "read": false
   },
   {
     "es": "amo",
@@ -2562,7 +3315,9 @@
     "de": "Herr/Besitzer",
     "it": "padrone",
     "ro": "stăpân",
-    "group": "1"
+    "group": "1",
+    "id": 332,
+    "read": false
   },
   {
     "es": "importante",
@@ -2570,7 +3325,9 @@
     "de": "wichtig",
     "it": "importante",
     "ro": "important",
-    "group": "1"
+    "group": "1",
+    "id": 333,
+    "read": false
   },
   {
     "es": "dado",
@@ -2578,7 +3335,9 @@
     "de": "gegeben",
     "it": "dato",
     "ro": "dat",
-    "group": "1"
+    "group": "1",
+    "id": 334,
+    "read": false
   },
   {
     "es": "odio",
@@ -2586,7 +3345,9 @@
     "de": "Hass",
     "it": "odio",
     "ro": "ură",
-    "group": "1"
+    "group": "1",
+    "id": 335,
+    "read": false
   },
   {
     "es": "sonar",
@@ -2594,7 +3355,9 @@
     "de": "klingen",
     "it": "suonare",
     "ro": "a suna",
-    "group": "1"
+    "group": "1",
+    "id": 336,
+    "read": false
   },
   {
     "es": "suficiente",
@@ -2602,7 +3365,9 @@
     "de": "genug",
     "it": "sufficiente",
     "ro": "suficient",
-    "group": "1"
+    "group": "1",
+    "id": 337,
+    "read": false
   },
   {
     "es": "usar",
@@ -2610,7 +3375,9 @@
     "de": "benutzen",
     "it": "usare",
     "ro": "a folosi",
-    "group": "1"
+    "group": "1",
+    "id": 338,
+    "read": false
   },
   {
     "es": "supuesto",
@@ -2618,7 +3385,9 @@
     "de": "vermutlich",
     "it": "supposto",
     "ro": "presupus",
-    "group": "1"
+    "group": "1",
+    "id": 339,
+    "read": false
   },
   {
     "es": "serio",
@@ -2626,7 +3395,9 @@
     "de": "ernst",
     "it": "serio",
     "ro": "serios",
-    "group": "1"
+    "group": "1",
+    "id": 340,
+    "read": false
   },
   {
     "es": "luz",
@@ -2634,7 +3405,9 @@
     "de": "Licht",
     "it": "luce",
     "ro": "lumină",
-    "group": "1"
+    "group": "1",
+    "id": 341,
+    "read": false
   },
   {
     "es": "morir",
@@ -2642,7 +3415,9 @@
     "de": "sterben",
     "it": "morire",
     "ro": "a muri",
-    "group": "1"
+    "group": "1",
+    "id": 342,
+    "read": false
   },
   {
     "es": "loco",
@@ -2650,7 +3425,9 @@
     "de": "verrückt",
     "it": "pazzo",
     "ro": "nebun",
-    "group": "1"
+    "group": "1",
+    "id": 343,
+    "read": false
   },
   {
     "es": "corazón",
@@ -2658,7 +3435,9 @@
     "de": "Herz",
     "it": "cuore",
     "ro": "inimă",
-    "group": "1"
+    "group": "1",
+    "id": 344,
+    "read": false
   },
   {
     "es": "tierra",
@@ -2666,7 +3445,9 @@
     "de": "Erde",
     "it": "terra",
     "ro": "pământ",
-    "group": "1"
+    "group": "1",
+    "id": 345,
+    "read": false
   },
   {
     "es": "diez",
@@ -2674,7 +3455,9 @@
     "de": "zehn",
     "it": "dieci",
     "ro": "zece",
-    "group": "1"
+    "group": "1",
+    "id": 346,
+    "read": false
   },
   {
     "es": "resto",
@@ -2682,7 +3465,9 @@
     "de": "Rest",
     "it": "resto",
     "ro": "rest",
-    "group": "1"
+    "group": "1",
+    "id": 347,
+    "read": false
   },
   {
     "es": "vuelta",
@@ -2690,7 +3475,9 @@
     "de": "Rückkehr/Runde",
     "it": "ritorno",
     "ro": "întoarcere",
-    "group": "1"
+    "group": "1",
+    "id": 348,
+    "read": false
   },
   {
     "es": "tras",
@@ -2698,7 +3485,9 @@
     "de": "nach",
     "it": "dopo",
     "ro": "după",
-    "group": "1"
+    "group": "1",
+    "id": 349,
+    "read": false
   },
   {
     "es": "alto",
@@ -2706,7 +3495,9 @@
     "de": "hoch/groß",
     "it": "alto",
     "ro": "înalt",
-    "group": "1"
+    "group": "1",
+    "id": 350,
+    "read": false
   },
   {
     "es": "culpa",
@@ -2714,7 +3505,9 @@
     "de": "Schuld",
     "it": "colpa",
     "ro": "vină",
-    "group": "1"
+    "group": "1",
+    "id": 351,
+    "read": false
   },
   {
     "es": "lamento",
@@ -2722,7 +3515,9 @@
     "de": "Bedauern",
     "it": "lamento",
     "ro": "regret",
-    "group": "1"
+    "group": "1",
+    "id": 352,
+    "read": false
   },
   {
     "es": "preocupar",
@@ -2730,7 +3525,9 @@
     "de": "beunruhigen",
     "it": "preoccupare",
     "ro": "a îngrijora",
-    "group": "1"
+    "group": "1",
+    "id": 353,
+    "read": false
   },
   {
     "es": "arriba",
@@ -2738,7 +3535,9 @@
     "de": "oben",
     "it": "su",
     "ro": "sus",
-    "group": "1"
+    "group": "1",
+    "id": 354,
+    "read": false
   },
   {
     "es": "fiesta",
@@ -2746,7 +3545,9 @@
     "de": "Feier",
     "it": "festa",
     "ro": "petrecere",
-    "group": "1"
+    "group": "1",
+    "id": 355,
+    "read": false
   },
   {
     "es": "joven",
@@ -2754,7 +3555,9 @@
     "de": "jung",
     "it": "giovane",
     "ro": "tânăr",
-    "group": "1"
+    "group": "1",
+    "id": 356,
+    "read": false
   },
   {
     "es": "cuarto",
@@ -2762,7 +3565,9 @@
     "de": "Viertel/Zimmer",
     "it": "quarto",
     "ro": "cameră",
-    "group": "1"
+    "group": "1",
+    "id": 357,
+    "read": false
   },
   {
     "es": "fácil",
@@ -2770,7 +3575,9 @@
     "de": "einfach",
     "it": "facile",
     "ro": "ușor",
-    "group": "1"
+    "group": "1",
+    "id": 358,
+    "read": false
   },
   {
     "es": "llamado",
@@ -2778,7 +3585,9 @@
     "de": "genannt",
     "it": "chiamato",
     "ro": "numit",
-    "group": "1"
+    "group": "1",
+    "id": 359,
+    "read": false
   },
   {
     "es": "perder",
@@ -2786,7 +3595,9 @@
     "de": "verlieren",
     "it": "perdere",
     "ro": "a pierde",
-    "group": "1"
+    "group": "1",
+    "id": 360,
+    "read": false
   },
   {
     "es": "sal",
@@ -2794,7 +3605,9 @@
     "de": "Salz/geh raus",
     "it": "sale",
     "ro": "sare",
-    "group": "1"
+    "group": "1",
+    "id": 361,
+    "read": false
   },
   {
     "es": "bastar",
@@ -2802,7 +3615,9 @@
     "de": "genügen",
     "it": "bastare",
     "ro": "a fi de ajuns",
-    "group": "1"
+    "group": "1",
+    "id": 362,
+    "read": false
   },
   {
     "es": "pregunta",
@@ -2810,7 +3625,9 @@
     "de": "Frage",
     "it": "domanda",
     "ro": "întrebare",
-    "group": "1"
+    "group": "1",
+    "id": 363,
+    "read": false
   },
   {
     "es": "trato",
@@ -2818,7 +3635,9 @@
     "de": "Abmachung",
     "it": "accordo",
     "ro": "înțelegere",
-    "group": "1"
+    "group": "1",
+    "id": 364,
+    "read": false
   },
   {
     "es": "recordar",
@@ -2826,7 +3645,9 @@
     "de": "erinnern",
     "it": "ricordare",
     "ro": "a-și aminti",
-    "group": "1"
+    "group": "1",
+    "id": 365,
+    "read": false
   },
   {
     "es": "oído",
@@ -2834,7 +3655,9 @@
     "de": "Gehör",
     "it": "orecchio",
     "ro": "auz",
-    "group": "1"
+    "group": "1",
+    "id": 366,
+    "read": false
   },
   {
     "es": "rey",
@@ -2842,7 +3665,9 @@
     "de": "König",
     "it": "re",
     "ro": "rege",
-    "group": "1"
+    "group": "1",
+    "id": 367,
+    "read": false
   },
   {
     "es": "exactamente",
@@ -2850,7 +3675,9 @@
     "de": "genau",
     "it": "esattamente",
     "ro": "exact",
-    "group": "1"
+    "group": "1",
+    "id": 368,
+    "read": false
   },
   {
     "es": "arma",
@@ -2858,7 +3685,9 @@
     "de": "Waffe",
     "it": "arma",
     "ro": "armă",
-    "group": "1"
+    "group": "1",
+    "id": 369,
+    "read": false
   },
   {
     "es": "perro",
@@ -2866,7 +3695,9 @@
     "de": "Hund",
     "it": "cane",
     "ro": "câine",
-    "group": "1"
+    "group": "1",
+    "id": 370,
+    "read": false
   },
   {
     "es": "propio",
@@ -2874,7 +3705,9 @@
     "de": "eigen",
     "it": "proprio",
     "ro": "propriu",
-    "group": "1"
+    "group": "1",
+    "id": 371,
+    "read": false
   },
   {
     "es": "temer",
@@ -2882,7 +3715,9 @@
     "de": "fürchten",
     "it": "temere",
     "ro": "a se teme",
-    "group": "1"
+    "group": "1",
+    "id": 372,
+    "read": false
   },
   {
     "es": "adelante",
@@ -2890,7 +3725,9 @@
     "de": "vorwärts",
     "it": "avanti",
     "ro": "înainte",
-    "group": "1"
+    "group": "1",
+    "id": 373,
+    "read": false
   },
   {
     "es": "lista",
@@ -2898,7 +3735,9 @@
     "de": "Liste/bereit",
     "it": "lista",
     "ro": "listă",
-    "group": "1"
+    "group": "1",
+    "id": 374,
+    "read": false
   },
   {
     "es": "próximo",
@@ -2906,7 +3745,9 @@
     "de": "nächster",
     "it": "prossimo",
     "ro": "următor",
-    "group": "1"
+    "group": "1",
+    "id": 375,
+    "read": false
   },
   {
     "es": "abrir",
@@ -2914,7 +3755,9 @@
     "de": "öffnen",
     "it": "aprire",
     "ro": "a deschide",
-    "group": "1"
+    "group": "1",
+    "id": 376,
+    "read": false
   },
   {
     "es": "fuerte",
@@ -2922,7 +3765,9 @@
     "de": "stark",
     "it": "forte",
     "ro": "puternic",
-    "group": "1"
+    "group": "1",
+    "id": 377,
+    "read": false
   },
   {
     "es": "lejos",
@@ -2930,7 +3775,9 @@
     "de": "weit",
     "it": "lontano",
     "ro": "departe",
-    "group": "1"
+    "group": "1",
+    "id": 378,
+    "read": false
   },
   {
     "es": "puta",
@@ -2938,7 +3785,9 @@
     "de": "Hure",
     "it": "puttana",
     "ro": "curvă",
-    "group": "1"
+    "group": "1",
+    "id": 379,
+    "read": false
   },
   {
     "es": "peor",
@@ -2946,7 +3795,9 @@
     "de": "schlechter",
     "it": "peggio",
     "ro": "mai rău",
-    "group": "1"
+    "group": "1",
+    "id": 380,
+    "read": false
   },
   {
     "es": "general",
@@ -2954,7 +3805,9 @@
     "de": "allgemein/General",
     "it": "generale",
     "ro": "general",
-    "group": "1"
+    "group": "1",
+    "id": 381,
+    "read": false
   },
   {
     "es": "andar",
@@ -2962,7 +3815,9 @@
     "de": "gehen/laufen",
     "it": "camminare",
     "ro": "a merge",
-    "group": "1"
+    "group": "1",
+    "id": 382,
+    "read": false
   },
   {
     "es": "frente",
@@ -2970,7 +3825,9 @@
     "de": "Vorderseite/Stirn",
     "it": "fronte",
     "ro": "față",
-    "group": "1"
+    "group": "1",
+    "id": 383,
+    "read": false
   },
   {
     "es": "mes",
@@ -2978,7 +3835,9 @@
     "de": "Monat",
     "it": "mese",
     "ro": "lună",
-    "group": "1"
+    "group": "1",
+    "id": 384,
+    "read": false
   },
   {
     "es": "gusto",
@@ -2986,7 +3845,9 @@
     "de": "Geschmack/Vergnügen",
     "it": "gusto",
     "ro": "gust",
-    "group": "1"
+    "group": "1",
+    "id": 385,
+    "read": false
   },
   {
     "es": "ustedes",
@@ -2994,7 +3855,9 @@
     "de": "ihr/Sie",
     "it": "voi",
     "ro": "voi",
-    "group": "1"
+    "group": "1",
+    "id": 386,
+    "read": false
   },
   {
     "es": "hermana",
@@ -3002,7 +3865,9 @@
     "de": "Schwester",
     "it": "sorella",
     "ro": "soră",
-    "group": "1"
+    "group": "1",
+    "id": 387,
+    "read": false
   },
   {
     "es": "millón",
@@ -3010,7 +3875,9 @@
     "de": "Million",
     "it": "milione",
     "ro": "milion",
-    "group": "1"
+    "group": "1",
+    "id": 388,
+    "read": false
   },
   {
     "es": "pobre",
@@ -3018,7 +3885,9 @@
     "de": "arm",
     "it": "povero",
     "ro": "sărac",
-    "group": "1"
+    "group": "1",
+    "id": 389,
+    "read": false
   },
   {
     "es": "palabra",
@@ -3026,7 +3895,9 @@
     "de": "Wort",
     "it": "parola",
     "ro": "cuvânt",
-    "group": "1"
+    "group": "1",
+    "id": 390,
+    "read": false
   },
   {
     "es": "escuela",
@@ -3034,7 +3905,9 @@
     "de": "Schule",
     "it": "scuola",
     "ro": "școală",
-    "group": "1"
+    "group": "1",
+    "id": 391,
+    "read": false
   },
   {
     "es": "seguridad",
@@ -3042,7 +3915,9 @@
     "de": "Sicherheit",
     "it": "sicurezza",
     "ro": "securitate",
-    "group": "1"
+    "group": "1",
+    "id": 392,
+    "read": false
   },
   {
     "es": "sistema",
@@ -3050,7 +3925,9 @@
     "de": "System",
     "it": "sistema",
     "ro": "sistem",
-    "group": "1"
+    "group": "1",
+    "id": 393,
+    "read": false
   },
   {
     "es": "disculpar",
@@ -3058,7 +3935,9 @@
     "de": "entschuldigen",
     "it": "scusare",
     "ro": "a scuza",
-    "group": "1"
+    "group": "1",
+    "id": 394,
+    "read": false
   },
   {
     "es": "asunto",
@@ -3066,7 +3945,9 @@
     "de": "Angelegenheit",
     "it": "affare",
     "ro": "chestiune",
-    "group": "1"
+    "group": "1",
+    "id": 395,
+    "read": false
   },
   {
     "es": "nave",
@@ -3074,7 +3955,9 @@
     "de": "Schiff",
     "it": "nave",
     "ro": "navă",
-    "group": "1"
+    "group": "1",
+    "id": 396,
+    "read": false
   },
   {
     "es": "aun",
@@ -3082,7 +3965,9 @@
     "de": "sogar",
     "it": "anche",
     "ro": "chiar",
-    "group": "1"
+    "group": "1",
+    "id": 397,
+    "read": false
   },
   {
     "es": "plan",
@@ -3090,7 +3975,9 @@
     "de": "Plan",
     "it": "piano",
     "ro": "plan",
-    "group": "1"
+    "group": "1",
+    "id": 398,
+    "read": false
   },
   {
     "es": "traje",
@@ -3098,7 +3985,9 @@
     "de": "Anzug",
     "it": "vestito",
     "ro": "costum",
-    "group": "1"
+    "group": "1",
+    "id": 399,
+    "read": false
   },
   {
     "es": "sentido",
@@ -3106,7 +3995,9 @@
     "de": "Sinn",
     "it": "senso",
     "ro": "sens",
-    "group": "1"
+    "group": "1",
+    "id": 400,
+    "read": false
   },
   {
     "es": "control",
@@ -3114,7 +4005,9 @@
     "de": "Kontrolle",
     "it": "controllo",
     "ro": "control",
-    "group": "1"
+    "group": "1",
+    "id": 401,
+    "read": false
   },
   {
     "es": "cambiar",
@@ -3122,7 +4015,9 @@
     "de": "ändern",
     "it": "cambiare",
     "ro": "a schimba",
-    "group": "1"
+    "group": "1",
+    "id": 402,
+    "read": false
   },
   {
     "es": "traer",
@@ -3130,7 +4025,9 @@
     "de": "bringen",
     "it": "portare",
     "ro": "a aduce",
-    "group": "1"
+    "group": "1",
+    "id": 403,
+    "read": false
   },
   {
     "es": "presidente",
@@ -3138,7 +4035,9 @@
     "de": "Präsident",
     "it": "presidente",
     "ro": "președinte",
-    "group": "1"
+    "group": "1",
+    "id": 404,
+    "read": false
   },
   {
     "es": "grupo",
@@ -3146,7 +4045,9 @@
     "de": "Gruppe",
     "it": "gruppo",
     "ro": "grup",
-    "group": "1"
+    "group": "1",
+    "id": 405,
+    "read": false
   },
   {
     "es": "genial",
@@ -3154,7 +4055,9 @@
     "de": "genial",
     "it": "geniale",
     "ro": "genial",
-    "group": "1"
+    "group": "1",
+    "id": 406,
+    "read": false
   },
   {
     "es": "simplemente",
@@ -3162,7 +4065,9 @@
     "de": "einfach",
     "it": "semplicemente",
     "ro": "pur și simplu",
-    "group": "1"
+    "group": "1",
+    "id": 407,
+    "read": false
   },
   {
     "es": "prueba",
@@ -3170,7 +4075,9 @@
     "de": "Test/Beweis",
     "it": "prova",
     "ro": "probă",
-    "group": "1"
+    "group": "1",
+    "id": 408,
+    "read": false
   },
   {
     "es": "junto",
@@ -3178,7 +4085,9 @@
     "de": "zusammen",
     "it": "insieme",
     "ro": "împreună",
-    "group": "1"
+    "group": "1",
+    "id": 409,
+    "read": false
   },
   {
     "es": "perdido",
@@ -3186,7 +4095,9 @@
     "de": "verloren",
     "it": "perduto",
     "ro": "pierdut",
-    "group": "1"
+    "group": "1",
+    "id": 410,
+    "read": false
   },
   {
     "es": "oportunidad",
@@ -3194,7 +4105,9 @@
     "de": "Gelegenheit",
     "it": "opportunità",
     "ro": "oportunitate",
-    "group": "1"
+    "group": "1",
+    "id": 411,
+    "read": false
   },
   {
     "es": "conseguir",
@@ -3202,7 +4115,9 @@
     "de": "erhalten/erreichen",
     "it": "ottenere",
     "ro": "a obține",
-    "group": "1"
+    "group": "1",
+    "id": 412,
+    "read": false
   },
   {
     "es": "pueblo",
@@ -3210,7 +4125,9 @@
     "de": "Dorf/Volk",
     "it": "popolo",
     "ro": "sat/popor",
-    "group": "1"
+    "group": "1",
+    "id": 413,
+    "read": false
   },
   {
     "es": "veras",
@@ -3218,7 +4135,9 @@
     "de": "wirklich",
     "it": "davvero",
     "ro": "adevăr",
-    "group": "1"
+    "group": "1",
+    "id": 414,
+    "read": false
   },
   {
     "es": "puesto",
@@ -3226,7 +4145,9 @@
     "de": "Platz/Stelle",
     "it": "posto",
     "ro": "loc",
-    "group": "1"
+    "group": "1",
+    "id": 415,
+    "read": false
   },
   {
     "es": "orden",
@@ -3234,7 +4155,9 @@
     "de": "Ordnung/Befehl",
     "it": "ordine",
     "ro": "ordine",
-    "group": "1"
+    "group": "1",
+    "id": 416,
+    "read": false
   },
   {
     "es": "cambio",
@@ -3242,7 +4165,9 @@
     "de": "Wechsel",
     "it": "cambio",
     "ro": "schimbare",
-    "group": "1"
+    "group": "1",
+    "id": 417,
+    "read": false
   },
   {
     "es": "perdón",
@@ -3250,7 +4175,9 @@
     "de": "Verzeihung",
     "it": "perdono",
     "ro": "iertare",
-    "group": "1"
+    "group": "1",
+    "id": 418,
+    "read": false
   },
   {
     "es": "atrás",
@@ -3258,7 +4185,9 @@
     "de": "hinten",
     "it": "dietro",
     "ro": "înapoi",
-    "group": "1"
+    "group": "1",
+    "id": 419,
+    "read": false
   },
   {
     "es": "través",
@@ -3266,7 +4195,9 @@
     "de": "durch",
     "it": "attraverso",
     "ro": "prin",
-    "group": "1"
+    "group": "1",
+    "id": 420,
+    "read": false
   },
   {
     "es": "mitad",
@@ -3274,7 +4205,9 @@
     "de": "Hälfte",
     "it": "metà",
     "ro": "jumătate",
-    "group": "1"
+    "group": "1",
+    "id": 421,
+    "read": false
   },
   {
     "es": "fuerza",
@@ -3282,7 +4215,9 @@
     "de": "Kraft",
     "it": "forza",
     "ro": "forță",
-    "group": "1"
+    "group": "1",
+    "id": 422,
+    "read": false
   },
   {
     "es": "ante",
@@ -3290,7 +4225,9 @@
     "de": "vor",
     "it": "davanti",
     "ro": "în fața",
-    "group": "1"
+    "group": "1",
+    "id": 423,
+    "read": false
   },
   {
     "es": "carajo",
@@ -3298,7 +4235,9 @@
     "de": "Verdammt",
     "it": "cavolo",
     "ro": "la naiba",
-    "group": "1"
+    "group": "1",
+    "id": 424,
+    "read": false
   },
   {
     "es": "libro",
@@ -3306,7 +4245,9 @@
     "de": "Buch",
     "it": "libro",
     "ro": "carte",
-    "group": "1"
+    "group": "1",
+    "id": 425,
+    "read": false
   },
   {
     "es": "ropa",
@@ -3314,7 +4255,9 @@
     "de": "Kleidung",
     "it": "vestiti",
     "ro": "haine",
-    "group": "1"
+    "group": "1",
+    "id": 426,
+    "read": false
   },
   {
     "es": "querido",
@@ -3322,7 +4265,9 @@
     "de": "geliebt",
     "it": "caro",
     "ro": "dragă",
-    "group": "1"
+    "group": "1",
+    "id": 427,
+    "read": false
   },
   {
     "es": "abajo",
@@ -3330,7 +4275,9 @@
     "de": "unten",
     "it": "sotto",
     "ro": "jos",
-    "group": "1"
+    "group": "1",
+    "id": 428,
+    "read": false
   },
   {
     "es": "campo",
@@ -3338,7 +4285,9 @@
     "de": "Feld",
     "it": "campo",
     "ro": "câmp",
-    "group": "1"
+    "group": "1",
+    "id": 429,
+    "read": false
   },
   {
     "es": "según",
@@ -3346,7 +4295,9 @@
     "de": "gemäß",
     "it": "secondo",
     "ro": "conform",
-    "group": "1"
+    "group": "1",
+    "id": 430,
+    "read": false
   },
   {
     "es": "derecho",
@@ -3354,7 +4305,9 @@
     "de": "Recht/Rechts",
     "it": "diritto",
     "ro": "drept",
-    "group": "1"
+    "group": "1",
+    "id": 431,
+    "read": false
   },
   {
     "es": "calle",
@@ -3362,7 +4315,9 @@
     "de": "Straße",
     "it": "strada",
     "ro": "stradă",
-    "group": "1"
+    "group": "1",
+    "id": 432,
+    "read": false
   },
   {
     "es": "callar",
@@ -3370,7 +4325,9 @@
     "de": "schweigen",
     "it": "tacere",
     "ro": "a tăcea",
-    "group": "1"
+    "group": "1",
+    "id": 433,
+    "read": false
   },
   {
     "es": "encantar",
@@ -3378,7 +4335,9 @@
     "de": "begeistern",
     "it": "incantare",
     "ro": "a încânta",
-    "group": "1"
+    "group": "1",
+    "id": 434,
+    "read": false
   },
   {
     "es": "ayudar",
@@ -3386,7 +4345,9 @@
     "de": "helfen",
     "it": "aiutare",
     "ro": "a ajuta",
-    "group": "1"
+    "group": "1",
+    "id": 435,
+    "read": false
   },
   {
     "es": "asesino",
@@ -3394,7 +4355,9 @@
     "de": "Mörder",
     "it": "assassino",
     "ro": "criminal",
-    "group": "1"
+    "group": "1",
+    "id": 436,
+    "read": false
   },
   {
     "es": "centro",
@@ -3402,7 +4365,9 @@
     "de": "Zentrum",
     "it": "centro",
     "ro": "centru",
-    "group": "1"
+    "group": "1",
+    "id": 437,
+    "read": false
   },
   {
     "es": "pagar",
@@ -3410,7 +4375,9 @@
     "de": "bezahlen",
     "it": "pagare",
     "ro": "a plăti",
-    "group": "1"
+    "group": "1",
+    "id": 438,
+    "read": false
   },
   {
     "es": "viaje",
@@ -3418,7 +4385,9 @@
     "de": "Reise",
     "it": "viaggio",
     "ro": "călătorie",
-    "group": "1"
+    "group": "1",
+    "id": 439,
+    "read": false
   },
   {
     "es": "porqué",
@@ -3426,7 +4395,9 @@
     "de": "Grund",
     "it": "perché",
     "ro": "motiv",
-    "group": "1"
+    "group": "1",
+    "id": 440,
+    "read": false
   },
   {
     "es": "oficial",
@@ -3434,7 +4405,9 @@
     "de": "offiziell/Offizier",
     "it": "ufficiale",
     "ro": "oficial",
-    "group": "1"
+    "group": "1",
+    "id": 441,
+    "read": false
   },
   {
     "es": "posible",
@@ -3442,7 +4415,9 @@
     "de": "möglich",
     "it": "possibile",
     "ro": "posibil",
-    "group": "1"
+    "group": "1",
+    "id": 442,
+    "read": false
   },
   {
     "es": "acá",
@@ -3450,7 +4425,9 @@
     "de": "hier",
     "it": "qua",
     "ro": "aici",
-    "group": "1"
+    "group": "1",
+    "id": 443,
+    "read": false
   },
   {
     "es": "baja",
@@ -3458,7 +4435,9 @@
     "de": "niedrig",
     "it": "bassa",
     "ro": "mică",
-    "group": "1"
+    "group": "1",
+    "id": 444,
+    "read": false
   },
   {
     "es": "oficina",
@@ -3466,7 +4445,9 @@
     "de": "Büro",
     "it": "ufficio",
     "ro": "birou",
-    "group": "1"
+    "group": "1",
+    "id": 445,
+    "read": false
   },
   {
     "es": "modo",
@@ -3474,7 +4455,9 @@
     "de": "Art/Modus",
     "it": "modo",
     "ro": "mod",
-    "group": "1"
+    "group": "1",
+    "id": 446,
+    "read": false
   },
   {
     "es": "dormir",
@@ -3482,7 +4465,9 @@
     "de": "schlafen",
     "it": "dormire",
     "ro": "a dormi",
-    "group": "1"
+    "group": "1",
+    "id": 447,
+    "read": false
   },
   {
     "es": "media",
@@ -3490,7 +4475,9 @@
     "de": "Durchschnitt/Hälfte",
     "it": "media",
     "ro": "medie",
-    "group": "1"
+    "group": "1",
+    "id": 448,
+    "read": false
   },
   {
     "es": "salvar",
@@ -3498,7 +4485,9 @@
     "de": "retten",
     "it": "salvare",
     "ro": "a salva",
-    "group": "1"
+    "group": "1",
+    "id": 449,
+    "read": false
   },
   {
     "es": "profesor",
@@ -3506,7 +4495,9 @@
     "de": "Lehrer",
     "it": "professore",
     "ro": "profesor",
-    "group": "1"
+    "group": "1",
+    "id": 450,
+    "read": false
   },
   {
     "es": "excepto",
@@ -3514,7 +4505,9 @@
     "de": "außer",
     "it": "eccetto",
     "ro": "cu excepția",
-    "group": "1"
+    "group": "1",
+    "id": 451,
+    "read": false
   },
   {
     "es": "fuego",
@@ -3522,7 +4515,9 @@
     "de": "Feuer",
     "it": "fuoco",
     "ro": "foc",
-    "group": "1"
+    "group": "1",
+    "id": 452,
+    "read": false
   },
   {
     "es": "ojalá",
@@ -3530,7 +4525,9 @@
     "de": "hoffentlich",
     "it": "magari",
     "ro": "sper că",
-    "group": "1"
+    "group": "1",
+    "id": 453,
+    "read": false
   },
   {
     "es": "largo",
@@ -3538,7 +4535,9 @@
     "de": "lang",
     "it": "lungo",
     "ro": "lung",
-    "group": "1"
+    "group": "1",
+    "id": 454,
+    "read": false
   },
   {
     "es": "línea",
@@ -3546,7 +4545,9 @@
     "de": "Linie",
     "it": "linea",
     "ro": "linie",
-    "group": "1"
+    "group": "1",
+    "id": 455,
+    "read": false
   },
   {
     "es": "verdadero",
@@ -3554,7 +4555,9 @@
     "de": "wahr",
     "it": "vero",
     "ro": "adevărat",
-    "group": "1"
+    "group": "1",
+    "id": 456,
+    "read": false
   },
   {
     "es": "siete",
@@ -3562,7 +4565,9 @@
     "de": "sieben",
     "it": "sette",
     "ro": "șapte",
-    "group": "1"
+    "group": "1",
+    "id": 457,
+    "read": false
   },
   {
     "es": "ganar",
@@ -3570,7 +4575,9 @@
     "de": "gewinnen",
     "it": "vincere",
     "ro": "a câștiga",
-    "group": "1"
+    "group": "1",
+    "id": 458,
+    "read": false
   },
   {
     "es": "james",
@@ -3578,7 +4585,9 @@
     "de": "James",
     "it": "Giacomo",
     "ro": "Iacob",
-    "group": "1"
+    "group": "1",
+    "id": 459,
+    "read": false
   },
   {
     "es": "sitio",
@@ -3586,7 +4595,9 @@
     "de": "Stelle/Platz",
     "it": "sito",
     "ro": "loc",
-    "group": "1"
+    "group": "1",
+    "id": 460,
+    "read": false
   },
   {
     "es": "comprar",
@@ -3594,7 +4605,9 @@
     "de": "kaufen",
     "it": "comprare",
     "ro": "a cumpăra",
-    "group": "1"
+    "group": "1",
+    "id": 461,
+    "read": false
   },
   {
     "es": "ejército",
@@ -3602,7 +4615,9 @@
     "de": "Armee",
     "it": "esercito",
     "ro": "armată",
-    "group": "1"
+    "group": "1",
+    "id": 462,
+    "read": false
   },
   {
     "es": "país",
@@ -3610,7 +4625,9 @@
     "de": "Land",
     "it": "paese",
     "ro": "țară",
-    "group": "1"
+    "group": "1",
+    "id": 463,
+    "read": false
   },
   {
     "es": "extraño",
@@ -3618,7 +4635,9 @@
     "de": "seltsam",
     "it": "strano",
     "ro": "straniu",
-    "group": "1"
+    "group": "1",
+    "id": 464,
+    "read": false
   },
   {
     "es": "niña",
@@ -3626,7 +4645,9 @@
     "de": "Mädchen",
     "it": "bambina",
     "ro": "fetiță",
-    "group": "1"
+    "group": "1",
+    "id": 465,
+    "read": false
   },
   {
     "es": "dólar",
@@ -3634,7 +4655,9 @@
     "de": "Dollar",
     "it": "dollaro",
     "ro": "dolar",
-    "group": "1"
+    "group": "1",
+    "id": 466,
+    "read": false
   },
   {
     "es": "placer",
@@ -3642,7 +4665,9 @@
     "de": "Vergnügen",
     "it": "piacere",
     "ro": "plăcere",
-    "group": "1"
+    "group": "1",
+    "id": 467,
+    "read": false
   },
   {
     "es": "dolor",
@@ -3650,7 +4675,9 @@
     "de": "Schmerz",
     "it": "dolore",
     "ro": "durere",
-    "group": "1"
+    "group": "1",
+    "id": 468,
+    "read": false
   },
   {
     "es": "sala",
@@ -3658,7 +4685,9 @@
     "de": "Saal/Zimmer",
     "it": "sala",
     "ro": "sală",
-    "group": "1"
+    "group": "1",
+    "id": 469,
+    "read": false
   },
   {
     "es": "caballero",
@@ -3666,7 +4695,9 @@
     "de": "Gentleman/Ritter",
     "it": "cavaliere",
     "ro": "domn",
-    "group": "1"
+    "group": "1",
+    "id": 470,
+    "read": false
   },
   {
     "es": "sueño",
@@ -3674,7 +4705,9 @@
     "de": "Traum/Schlaf",
     "it": "sogno",
     "ro": "vis",
-    "group": "1"
+    "group": "1",
+    "id": 471,
+    "read": false
   },
   {
     "es": "completamente",
@@ -3682,7 +4715,9 @@
     "de": "völlig",
     "it": "completamente",
     "ro": "complet",
-    "group": "1"
+    "group": "1",
+    "id": 472,
+    "read": false
   },
   {
     "es": "totalmente",
@@ -3690,7 +4725,9 @@
     "de": "total",
     "it": "totalmente",
     "ro": "total",
-    "group": "1"
+    "group": "1",
+    "id": 473,
+    "read": false
   },
   {
     "es": "coche",
@@ -3698,7 +4735,9 @@
     "de": "Auto",
     "it": "macchina",
     "ro": "mașină",
-    "group": "1"
+    "group": "1",
+    "id": 474,
+    "read": false
   },
   {
     "es": "afuera",
@@ -3706,7 +4745,9 @@
     "de": "draußen",
     "it": "fuori",
     "ro": "afară",
-    "group": "1"
+    "group": "1",
+    "id": 475,
+    "read": false
   },
   {
     "es": "encima",
@@ -3714,7 +4755,9 @@
     "de": "obenauf",
     "it": "sopra",
     "ro": "deasupra",
-    "group": "1"
+    "group": "1",
+    "id": 476,
+    "read": false
   },
   {
     "es": "llamada",
@@ -3722,7 +4765,9 @@
     "de": "Anruf",
     "it": "chiamata",
     "ro": "apel",
-    "group": "1"
+    "group": "1",
+    "id": 477,
+    "read": false
   },
   {
     "es": "bebé",
@@ -3730,7 +4775,9 @@
     "de": "Baby",
     "it": "bambino",
     "ro": "bebeluș",
-    "group": "1"
+    "group": "1",
+    "id": 478,
+    "read": false
   },
   {
     "es": "regresar",
@@ -3738,7 +4785,9 @@
     "de": "zurückkehren",
     "it": "ritornare",
     "ro": "a se întoarce",
-    "group": "1"
+    "group": "1",
+    "id": 479,
+    "read": false
   },
   {
     "es": "bienvenido",
@@ -3746,7 +4795,9 @@
     "de": "willkommen",
     "it": "benvenuto",
     "ro": "bine ați venit",
-    "group": "1"
+    "group": "1",
+    "id": 480,
+    "read": false
   },
   {
     "es": "empezar",
@@ -3754,7 +4805,9 @@
     "de": "anfangen",
     "it": "iniziare",
     "ro": "a începe",
-    "group": "1"
+    "group": "1",
+    "id": 481,
+    "read": false
   },
   {
     "es": "terminar",
@@ -3762,7 +4815,9 @@
     "de": "beenden",
     "it": "finire",
     "ro": "a termina",
-    "group": "1"
+    "group": "1",
+    "id": 482,
+    "read": false
   },
   {
     "es": "teléfono",
@@ -3770,7 +4825,9 @@
     "de": "Telefon",
     "it": "telefono",
     "ro": "telefon",
-    "group": "1"
+    "group": "1",
+    "id": 483,
+    "read": false
   },
   {
     "es": "compañía",
@@ -3778,7 +4835,9 @@
     "de": "Gesellschaft",
     "it": "compagnia",
     "ro": "companie",
-    "group": "1"
+    "group": "1",
+    "id": 484,
+    "read": false
   },
   {
     "es": "pena",
@@ -3786,7 +4845,9 @@
     "de": "Mitleid/Schmerz",
     "it": "pena",
     "ro": "păcat",
-    "group": "1"
+    "group": "1",
+    "id": 485,
+    "read": false
   },
   {
     "es": "sacar",
@@ -3794,7 +4855,9 @@
     "de": "herausnehmen",
     "it": "tirare fuori",
     "ro": "a scoate",
-    "group": "1"
+    "group": "1",
+    "id": 486,
+    "read": false
   },
   {
     "es": "ataque",
@@ -3802,7 +4865,9 @@
     "de": "Angriff",
     "it": "attacco",
     "ro": "atac",
-    "group": "1"
+    "group": "1",
+    "id": 487,
+    "read": false
   },
   {
     "es": "apenas",
@@ -3810,7 +4875,9 @@
     "de": "kaum",
     "it": "appena",
     "ro": "abia",
-    "group": "1"
+    "group": "1",
+    "id": 488,
+    "read": false
   },
   {
     "es": "caja",
@@ -3818,7 +4885,9 @@
     "de": "Kiste",
     "it": "scatola",
     "ro": "cutie",
-    "group": "1"
+    "group": "1",
+    "id": 489,
+    "read": false
   },
   {
     "es": "suceder",
@@ -3826,7 +4895,9 @@
     "de": "geschehen",
     "it": "succedere",
     "ro": "a se întâmpla",
-    "group": "1"
+    "group": "1",
+    "id": 490,
+    "read": false
   },
   {
     "es": "cielo",
@@ -3834,7 +4905,9 @@
     "de": "Himmel",
     "it": "cielo",
     "ro": "cer",
-    "group": "1"
+    "group": "1",
+    "id": 491,
+    "read": false
   },
   {
     "es": "información",
@@ -3842,7 +4915,9 @@
     "de": "Information",
     "it": "informazione",
     "ro": "informație",
-    "group": "1"
+    "group": "1",
+    "id": 492,
+    "read": false
   },
   {
     "es": "programa",
@@ -3850,7 +4925,9 @@
     "de": "Programm",
     "it": "programma",
     "ro": "program",
-    "group": "1"
+    "group": "1",
+    "id": 493,
+    "read": false
   },
   {
     "es": "duro",
@@ -3858,7 +4935,9 @@
     "de": "hart",
     "it": "duro",
     "ro": "tare",
-    "group": "1"
+    "group": "1",
+    "id": 494,
+    "read": false
   },
   {
     "es": "negocio",
@@ -3866,7 +4945,9 @@
     "de": "Geschäft",
     "it": "affari",
     "ro": "afacere",
-    "group": "1"
+    "group": "1",
+    "id": 495,
+    "read": false
   },
   {
     "es": "ambos",
@@ -3874,7 +4955,9 @@
     "de": "beide",
     "it": "entrambi",
     "ro": "amândoi",
-    "group": "1"
+    "group": "1",
+    "id": 496,
+    "read": false
   },
   {
     "es": "noticia",
@@ -3882,7 +4965,9 @@
     "de": "Nachricht",
     "it": "notizia",
     "ro": "știre",
-    "group": "1"
+    "group": "1",
+    "id": 497,
+    "read": false
   },
   {
     "es": "foto",
@@ -3890,7 +4975,9 @@
     "de": "Foto",
     "it": "foto",
     "ro": "poză",
-    "group": "1"
+    "group": "1",
+    "id": 498,
+    "read": false
   },
   {
     "es": "cerrar",
@@ -3898,7 +4985,9 @@
     "de": "schließen",
     "it": "chiudere",
     "ro": "a închide",
-    "group": "1"
+    "group": "1",
+    "id": 499,
+    "read": false
   },
   {
     "es": "lindo",
@@ -3906,7 +4995,9 @@
     "de": "hübsch",
     "it": "carino",
     "ro": "drăguț",
-    "group": "1"
+    "group": "1",
+    "id": 500,
+    "read": false
   },
   {
     "es": "paz",
@@ -3914,7 +5005,9 @@
     "de": "Frieden",
     "it": "pace",
     "ro": "pace",
-    "group": "1"
+    "group": "1",
+    "id": 501,
+    "read": false
   },
   {
     "es": "hospital",
@@ -3922,7 +5015,9 @@
     "de": "Krankenhaus",
     "it": "ospedale",
     "ro": "spital",
-    "group": "1"
+    "group": "1",
+    "id": 502,
+    "read": false
   },
   {
     "es": "acaso",
@@ -3930,7 +5025,9 @@
     "de": "etwa",
     "it": "forse",
     "ro": "cumva",
-    "group": "1"
+    "group": "1",
+    "id": 503,
+    "read": false
   },
   {
     "es": "deseo",
@@ -3938,7 +5035,9 @@
     "de": "Wunsch",
     "it": "desiderio",
     "ro": "dorință",
-    "group": "1"
+    "group": "1",
+    "id": 504,
+    "read": false
   },
   {
     "es": "preguntar",
@@ -3946,7 +5045,9 @@
     "de": "fragen",
     "it": "chiedere",
     "ro": "a întreba",
-    "group": "1"
+    "group": "1",
+    "id": 505,
+    "read": false
   },
   {
     "es": "servicio",
@@ -3954,7 +5055,9 @@
     "de": "Dienst/Service",
     "it": "servizio",
     "ro": "serviciu",
-    "group": "1"
+    "group": "1",
+    "id": 506,
+    "read": false
   },
   {
     "es": "aire",
@@ -3962,7 +5065,9 @@
     "de": "Luft",
     "it": "aria",
     "ro": "aer",
-    "group": "1"
+    "group": "1",
+    "id": 507,
+    "read": false
   },
   {
     "es": "tranquilo",
@@ -3970,7 +5075,9 @@
     "de": "ruhig",
     "it": "tranquillo",
     "ro": "liniștit",
-    "group": "1"
+    "group": "1",
+    "id": 508,
+    "read": false
   },
   {
     "es": "avión",
@@ -3978,7 +5085,9 @@
     "de": "Flugzeug",
     "it": "aereo",
     "ro": "avion",
-    "group": "1"
+    "group": "1",
+    "id": 509,
+    "read": false
   },
   {
     "es": "mente",
@@ -3986,7 +5095,9 @@
     "de": "Geist",
     "it": "mente",
     "ro": "minte",
-    "group": "1"
+    "group": "1",
+    "id": 510,
+    "read": false
   },
   {
     "es": "alrededor",
@@ -3994,7 +5105,9 @@
     "de": "um herum",
     "it": "intorno",
     "ro": "în jurul",
-    "group": "1"
+    "group": "1",
+    "id": 511,
+    "read": false
   },
   {
     "es": "voz",
@@ -4002,7 +5115,9 @@
     "de": "Stimme",
     "it": "voce",
     "ro": "voce",
-    "group": "1"
+    "group": "1",
+    "id": 512,
+    "read": false
   },
   {
     "es": "libre",
@@ -4010,7 +5125,9 @@
     "de": "frei",
     "it": "libero",
     "ro": "liber",
-    "group": "1"
+    "group": "1",
+    "id": 513,
+    "read": false
   },
   {
     "es": "muchacho",
@@ -4018,7 +5135,9 @@
     "de": "Junge",
     "it": "ragazzo",
     "ro": "băiat",
-    "group": "1"
+    "group": "1",
+    "id": 514,
+    "read": false
   },
   {
     "es": "apostar",
@@ -4026,7 +5145,9 @@
     "de": "wetten",
     "it": "scommettere",
     "ro": "a paria",
-    "group": "1"
+    "group": "1",
+    "id": 515,
+    "read": false
   },
   {
     "es": "especial",
@@ -4034,7 +5155,9 @@
     "de": "besonders",
     "it": "speciale",
     "ro": "special",
-    "group": "1"
+    "group": "1",
+    "id": 516,
+    "read": false
   },
   {
     "es": "café",
@@ -4042,7 +5165,9 @@
     "de": "Kaffee",
     "it": "caffè",
     "ro": "cafea",
-    "group": "1"
+    "group": "1",
+    "id": 517,
+    "read": false
   },
   {
     "es": "mensaje",
@@ -4050,7 +5175,9 @@
     "de": "Nachricht",
     "it": "messaggio",
     "ro": "mesaj",
-    "group": "1"
+    "group": "1",
+    "id": 518,
+    "read": false
   },
   {
     "es": "anoche",
@@ -4058,7 +5185,9 @@
     "de": "gestern Abend",
     "it": "ieri notte",
     "ro": "aseară",
-    "group": "1"
+    "group": "1",
+    "id": 519,
+    "read": false
   },
   {
     "es": "jurar",
@@ -4066,7 +5195,9 @@
     "de": "schwören",
     "it": "giurare",
     "ro": "a jura",
-    "group": "1"
+    "group": "1",
+    "id": 520,
+    "read": false
   },
   {
     "es": "debajo",
@@ -4074,7 +5205,9 @@
     "de": "darunter",
     "it": "sotto",
     "ro": "dedesubt",
-    "group": "1"
+    "group": "1",
+    "id": 521,
+    "read": false
   },
   {
     "es": "santo",
@@ -4082,7 +5215,9 @@
     "de": "heilig",
     "it": "santo",
     "ro": "sfânt",
-    "group": "1"
+    "group": "1",
+    "id": 522,
+    "read": false
   },
   {
     "es": "maestro",
@@ -4090,7 +5225,9 @@
     "de": "Meister",
     "it": "maestro",
     "ro": "maestru",
-    "group": "1"
+    "group": "1",
+    "id": 523,
+    "read": false
   },
   {
     "es": "habitación",
@@ -4098,7 +5235,9 @@
     "de": "Zimmer",
     "it": "stanza",
     "ro": "cameră",
-    "group": "1"
+    "group": "1",
+    "id": 524,
+    "read": false
   },
   {
     "es": "alegrar",
@@ -4106,7 +5245,9 @@
     "de": "erfreuen",
     "it": "rallegrare",
     "ro": "a bucura",
-    "group": "1"
+    "group": "1",
+    "id": 525,
+    "read": false
   },
   {
     "es": "dejado",
@@ -4114,7 +5255,9 @@
     "de": "gelassen",
     "it": "lasciato",
     "ro": "lăsat",
-    "group": "1"
+    "group": "1",
+    "id": 526,
+    "read": false
   },
   {
     "es": "respuesta",
@@ -4122,7 +5265,9 @@
     "de": "Antwort",
     "it": "risposta",
     "ro": "răspuns",
-    "group": "1"
+    "group": "1",
+    "id": 527,
+    "read": false
   },
   {
     "es": "música",
@@ -4130,7 +5275,9 @@
     "de": "Musik",
     "it": "musica",
     "ro": "muzică",
-    "group": "1"
+    "group": "1",
+    "id": 528,
+    "read": false
   },
   {
     "es": "intento",
@@ -4138,7 +5285,9 @@
     "de": "Versuch",
     "it": "tentativo",
     "ro": "încercare",
-    "group": "1"
+    "group": "1",
+    "id": 529,
+    "read": false
   },
   {
     "es": "sexo",
@@ -4146,7 +5295,9 @@
     "de": "Sex",
     "it": "sesso",
     "ro": "sex",
-    "group": "1"
+    "group": "1",
+    "id": 530,
+    "read": false
   },
   {
     "es": "marido",
@@ -4154,7 +5305,9 @@
     "de": "Ehemann",
     "it": "marito",
     "ro": "soț",
-    "group": "1"
+    "group": "1",
+    "id": 531,
+    "read": false
   },
   {
     "es": "ocurrir",
@@ -4162,7 +5315,9 @@
     "de": "passieren",
     "it": "accadere",
     "ro": "a se întâmpla",
-    "group": "1"
+    "group": "1",
+    "id": 532,
+    "read": false
   },
   {
     "es": "señal",
@@ -4170,7 +5325,9 @@
     "de": "Signal",
     "it": "segnale",
     "ro": "semnal",
-    "group": "1"
+    "group": "1",
+    "id": 533,
+    "read": false
   },
   {
     "es": "futuro",
@@ -4178,7 +5335,9 @@
     "de": "Zukunft",
     "it": "futuro",
     "ro": "viitor",
-    "group": "1"
+    "group": "1",
+    "id": 534,
+    "read": false
   },
   {
     "es": "permiso",
@@ -4186,7 +5345,9 @@
     "de": "Erlaubnis",
     "it": "permesso",
     "ro": "permisiune",
-    "group": "1"
+    "group": "1",
+    "id": 535,
+    "read": false
   },
   {
     "es": "situación",
@@ -4194,7 +5355,9 @@
     "de": "Situation",
     "it": "situazione",
     "ro": "situație",
-    "group": "1"
+    "group": "1",
+    "id": 536,
+    "read": false
   },
   {
     "es": "edad",
@@ -4202,7 +5365,9 @@
     "de": "Alter",
     "it": "età",
     "ro": "vârstă",
-    "group": "1"
+    "group": "1",
+    "id": 537,
+    "read": false
   },
   {
     "es": "atención",
@@ -4210,7 +5375,9 @@
     "de": "Achtung",
     "it": "attenzione",
     "ro": "atenție",
-    "group": "1"
+    "group": "1",
+    "id": 538,
+    "read": false
   },
   {
     "es": "aquel",
@@ -4218,7 +5385,9 @@
     "de": "jener",
     "it": "quello",
     "ro": "acela",
-    "group": "1"
+    "group": "1",
+    "id": 539,
+    "read": false
   },
   {
     "es": "cama",
@@ -4226,7 +5395,9 @@
     "de": "Bett",
     "it": "letto",
     "ro": "pat",
-    "group": "1"
+    "group": "1",
+    "id": 540,
+    "read": false
   },
   {
     "es": "amiga",
@@ -4234,7 +5405,9 @@
     "de": "Freundin",
     "it": "amica",
     "ro": "prietenă",
-    "group": "1"
+    "group": "1",
+    "id": 541,
+    "read": false
   },
   {
     "es": "demás",
@@ -4242,7 +5415,9 @@
     "de": "andere",
     "it": "altri",
     "ro": "ceilalți",
-    "group": "1"
+    "group": "1",
+    "id": 542,
+    "read": false
   },
   {
     "es": "dama",
@@ -4250,7 +5425,9 @@
     "de": "Dame",
     "it": "dama",
     "ro": "doamnă",
-    "group": "1"
+    "group": "1",
+    "id": 543,
+    "read": false
   },
   {
     "es": "club",
@@ -4258,7 +5435,9 @@
     "de": "Klub",
     "it": "club",
     "ro": "club",
-    "group": "1"
+    "group": "1",
+    "id": 544,
+    "read": false
   },
   {
     "es": "nivel",
@@ -4266,7 +5445,9 @@
     "de": "Niveau/group",
     "it": "livello",
     "ro": "nivel",
-    "group": "1"
+    "group": "1",
+    "id": 545,
+    "read": false
   },
   {
     "es": "blanco",
@@ -4274,7 +5455,9 @@
     "de": "weiß",
     "it": "bianco",
     "ro": "alb",
-    "group": "1"
+    "group": "1",
+    "id": 546,
+    "read": false
   },
   {
     "es": "negro",
@@ -4282,7 +5465,9 @@
     "de": "schwarz",
     "it": "nero",
     "ro": "negru",
-    "group": "1"
+    "group": "1",
+    "id": 547,
+    "read": false
   },
   {
     "es": "tonto",
@@ -4290,7 +5475,9 @@
     "de": "dumm",
     "it": "stupido",
     "ro": "prost",
-    "group": "1"
+    "group": "1",
+    "id": 548,
+    "read": false
   },
   {
     "es": "mantener",
@@ -4298,7 +5485,9 @@
     "de": "behalten",
     "it": "mantenere",
     "ro": "a păstra",
-    "group": "1"
+    "group": "1",
+    "id": 549,
+    "read": false
   },
   {
     "es": "causa",
@@ -4306,7 +5495,9 @@
     "de": "Ursache",
     "it": "causa",
     "ro": "cauză",
-    "group": "1"
+    "group": "1",
+    "id": 550,
+    "read": false
   },
   {
     "es": "raro",
@@ -4314,7 +5505,9 @@
     "de": "seltsam",
     "it": "raro",
     "ro": "rar",
-    "group": "1"
+    "group": "1",
+    "id": 551,
+    "read": false
   },
   {
     "es": "boca",
@@ -4322,7 +5515,9 @@
     "de": "Mund",
     "it": "bocca",
     "ro": "gură",
-    "group": "1"
+    "group": "1",
+    "id": 552,
+    "read": false
   },
   {
     "es": "ahi",
@@ -4330,7 +5525,9 @@
     "de": "dort",
     "it": "lì",
     "ro": "acolo",
-    "group": "1"
+    "group": "1",
+    "id": 553,
+    "read": false
   },
   {
     "es": "finalmente",
@@ -4338,7 +5535,9 @@
     "de": "schließlich",
     "it": "finalmente",
     "ro": "în sfârșit",
-    "group": "1"
+    "group": "1",
+    "id": 554,
+    "read": false
   },
   {
     "es": "película",
@@ -4346,7 +5545,9 @@
     "de": "Film",
     "it": "film",
     "ro": "film",
-    "group": "1"
+    "group": "1",
+    "id": 555,
+    "read": false
   },
   {
     "es": "base",
@@ -4354,7 +5555,9 @@
     "de": "Basis",
     "it": "base",
     "ro": "bază",
-    "group": "1"
+    "group": "1",
+    "id": 556,
+    "read": false
   },
   {
     "es": "luna",
@@ -4362,7 +5565,9 @@
     "de": "Mond",
     "it": "luna",
     "ro": "lună",
-    "group": "1"
+    "group": "1",
+    "id": 557,
+    "read": false
   },
   {
     "es": "ocho",
@@ -4370,7 +5575,9 @@
     "de": "acht",
     "it": "otto",
     "ro": "opt",
-    "group": "1"
+    "group": "1",
+    "id": 558,
+    "read": false
   },
   {
     "es": "mayoría",
@@ -4378,7 +5585,9 @@
     "de": "Mehrheit",
     "it": "maggioranza",
     "ro": "majoritate",
-    "group": "1"
+    "group": "1",
+    "id": 559,
+    "read": false
   },
   {
     "es": "pedir",
@@ -4386,7 +5595,9 @@
     "de": "bestellen/bitten",
     "it": "chiedere",
     "ro": "a cere",
-    "group": "1"
+    "group": "1",
+    "id": 560,
+    "read": false
   },
   {
     "es": "soler",
@@ -4394,7 +5605,9 @@
     "de": "pflegen zu",
     "it": "solere",
     "ro": "a obișnui",
-    "group": "1"
+    "group": "1",
+    "id": 561,
+    "read": false
   },
   {
     "es": "daño",
@@ -4402,7 +5615,9 @@
     "de": "Schaden",
     "it": "danno",
     "ro": "daună",
-    "group": "1"
+    "group": "1",
+    "id": 562,
+    "read": false
   },
   {
     "es": "ley",
@@ -4410,7 +5625,9 @@
     "de": "Gesetz",
     "it": "legge",
     "ro": "lege",
-    "group": "1"
+    "group": "1",
+    "id": 563,
+    "read": false
   },
   {
     "es": "doctora",
@@ -4418,7 +5635,9 @@
     "de": "Ärztin",
     "it": "dottoressa",
     "ro": "doctoriță",
-    "group": "1"
+    "group": "1",
+    "id": 564,
+    "read": false
   },
   {
     "es": "pelo",
@@ -4426,7 +5645,9 @@
     "de": "Haar",
     "it": "pelo",
     "ro": "păr",
-    "group": "1"
+    "group": "1",
+    "id": 565,
+    "read": false
   },
   {
     "es": "gobierno",
@@ -4434,7 +5655,9 @@
     "de": "Regierung",
     "it": "governo",
     "ro": "guvern",
-    "group": "1"
+    "group": "1",
+    "id": 566,
+    "read": false
   },
   {
     "es": "pie",
@@ -4442,7 +5665,9 @@
     "de": "Fuß",
     "it": "piede",
     "ro": "picior",
-    "group": "1"
+    "group": "1",
+    "id": 567,
+    "read": false
   },
   {
     "es": "correr",
@@ -4450,7 +5675,9 @@
     "de": "laufen",
     "it": "correre",
     "ro": "a alerga",
-    "group": "1"
+    "group": "1",
+    "id": 568,
+    "read": false
   },
   {
     "es": "siguiente",
@@ -4458,7 +5685,9 @@
     "de": "nächster",
     "it": "seguente",
     "ro": "următor",
-    "group": "1"
+    "group": "1",
+    "id": 569,
+    "read": false
   },
   {
     "es": "misión",
@@ -4466,7 +5695,9 @@
     "de": "Mission",
     "it": "missione",
     "ro": "misiune",
-    "group": "1"
+    "group": "1",
+    "id": 570,
+    "read": false
   },
   {
     "es": "regreso",
@@ -4474,7 +5705,9 @@
     "de": "Rückkehr",
     "it": "ritorno",
     "ro": "întoarcere",
-    "group": "1"
+    "group": "1",
+    "id": 571,
+    "read": false
   },
   {
     "es": "existir",
@@ -4482,7 +5715,9 @@
     "de": "existieren",
     "it": "esistere",
     "ro": "a exista",
-    "group": "1"
+    "group": "1",
+    "id": 572,
+    "read": false
   },
   {
     "es": "secreto",
@@ -4490,7 +5725,9 @@
     "de": "Geheimnis",
     "it": "segreto",
     "ro": "secret",
-    "group": "1"
+    "group": "1",
+    "id": 573,
+    "read": false
   },
   {
     "es": "bonito",
@@ -4498,7 +5735,9 @@
     "de": "hübsch",
     "it": "bello",
     "ro": "frumos",
-    "group": "1"
+    "group": "1",
+    "id": 574,
+    "read": false
   },
   {
     "es": "montón",
@@ -4506,7 +5745,9 @@
     "de": "Haufen",
     "it": "sacco",
     "ro": "grămadă",
-    "group": "1"
+    "group": "1",
+    "id": 575,
+    "read": false
   },
   {
     "es": "barco",
@@ -4514,7 +5755,9 @@
     "de": "Schiff",
     "it": "barca",
     "ro": "barcă",
-    "group": "1"
+    "group": "1",
+    "id": 576,
+    "read": false
   },
   {
     "es": "maldición",
@@ -4522,7 +5765,9 @@
     "de": "Fluch",
     "it": "maledizione",
     "ro": "blestem",
-    "group": "1"
+    "group": "1",
+    "id": 577,
+    "read": false
   },
   {
     "es": "teniente",
@@ -4530,7 +5775,9 @@
     "de": "Leutnant",
     "it": "tenente",
     "ro": "locotenent",
-    "group": "1"
+    "group": "1",
+    "id": 578,
+    "read": false
   },
   {
     "es": "carne",
@@ -4538,7 +5785,9 @@
     "de": "Fleisch",
     "it": "carne",
     "ro": "carne",
-    "group": "1"
+    "group": "1",
+    "id": 579,
+    "read": false
   },
   {
     "es": "real",
@@ -4546,7 +5795,9 @@
     "de": "echt/königlich",
     "it": "reale",
     "ro": "real",
-    "group": "1"
+    "group": "1",
+    "id": 580,
+    "read": false
   },
   {
     "es": "don",
@@ -4554,7 +5805,9 @@
     "de": "Gabe/Don",
     "it": "dono",
     "ro": "har",
-    "group": "1"
+    "group": "1",
+    "id": 581,
+    "read": false
   },
   {
     "es": "regalo",
@@ -4562,7 +5815,9 @@
     "de": "Geschenk",
     "it": "regalo",
     "ro": "cadou",
-    "group": "1"
+    "group": "1",
+    "id": 582,
+    "read": false
   },
   {
     "es": "disculpa",
@@ -4570,7 +5825,9 @@
     "de": "Entschuldigung",
     "it": "scusa",
     "ro": "scuză",
-    "group": "1"
+    "group": "1",
+    "id": 583,
+    "read": false
   },
   {
     "es": "salvo",
@@ -4578,7 +5835,9 @@
     "de": "sicher/außer",
     "it": "salvo",
     "ro": "salvat",
-    "group": "1"
+    "group": "1",
+    "id": 584,
+    "read": false
   },
   {
     "es": "detective",
@@ -4586,7 +5845,9 @@
     "de": "Detektiv",
     "it": "detective",
     "ro": "detectiv",
-    "group": "1"
+    "group": "1",
+    "id": 585,
+    "read": false
   },
   {
     "es": "tocar",
@@ -4594,7 +5855,9 @@
     "de": "berühren/spielen",
     "it": "toccare",
     "ro": "a atinge",
-    "group": "1"
+    "group": "1",
+    "id": 586,
+    "read": false
   },
   {
     "es": "lleno",
@@ -4602,7 +5865,9 @@
     "de": "voll",
     "it": "pieno",
     "ro": "plin",
-    "group": "1"
+    "group": "1",
+    "id": 587,
+    "read": false
   },
   {
     "es": "cualquiera",
@@ -4610,7 +5875,9 @@
     "de": "jeder beliebige",
     "it": "chiunque",
     "ro": "oricine",
-    "group": "1"
+    "group": "1",
+    "id": 588,
+    "read": false
   },
   {
     "es": "zona",
@@ -4618,7 +5885,9 @@
     "de": "Zone",
     "it": "zona",
     "ro": "zonă",
-    "group": "1"
+    "group": "1",
+    "id": 589,
+    "read": false
   },
   {
     "es": "increíble",
@@ -4626,7 +5895,9 @@
     "de": "unglaublich",
     "it": "incredibile",
     "ro": "incredibil",
-    "group": "1"
+    "group": "1",
+    "id": 590,
+    "read": false
   },
   {
     "es": "vuelo",
@@ -4634,7 +5905,9 @@
     "de": "Flug",
     "it": "volo",
     "ro": "zbor",
-    "group": "1"
+    "group": "1",
+    "id": 591,
+    "read": false
   },
   {
     "es": "idiota",
@@ -4642,7 +5915,9 @@
     "de": "Idiot",
     "it": "idiota",
     "ro": "idiot",
-    "group": "1"
+    "group": "1",
+    "id": 592,
+    "read": false
   },
   {
     "es": "pelea",
@@ -4650,7 +5925,9 @@
     "de": "Kampf",
     "it": "lotta",
     "ro": "bătaie",
-    "group": "1"
+    "group": "1",
+    "id": 593,
+    "read": false
   },
   {
     "es": "encuentro",
@@ -4658,7 +5935,9 @@
     "de": "Treffen",
     "it": "incontro",
     "ro": "întâlnire",
-    "group": "1"
+    "group": "1",
+    "id": 594,
+    "read": false
   },
   {
     "es": "hotel",
@@ -4666,16 +5945,29 @@
     "de": "Hotel",
     "it": "hotel",
     "ro": "hotel",
-    "group": "1"
+    "group": "1",
+    "id": 595,
+    "read": false
   },
-  { "es": "uh", "en": "uh", "de": "äh", "it": "uh", "ro": "uh", "group": "1" },
+  {
+    "es": "uh",
+    "en": "uh",
+    "de": "äh",
+    "it": "uh",
+    "ro": "uh",
+    "group": "1",
+    "id": 596,
+    "read": false
+  },
   {
     "es": "trasero",
     "en": "rear/butt",
     "de": "Hinterteil",
     "it": "sedere",
     "ro": "fund",
-    "group": "1"
+    "group": "1",
+    "id": 597,
+    "read": false
   },
   {
     "es": "preferir",
@@ -4683,7 +5975,9 @@
     "de": "bevorzugen",
     "it": "preferire",
     "ro": "a prefera",
-    "group": "1"
+    "group": "1",
+    "id": 598,
+    "read": false
   },
   {
     "es": "ayer",
@@ -4691,7 +5985,9 @@
     "de": "gestern",
     "it": "ieri",
     "ro": "ieri",
-    "group": "1"
+    "group": "1",
+    "id": 599,
+    "read": false
   },
   {
     "es": "perfecto",
@@ -4699,7 +5995,9 @@
     "de": "perfekt",
     "it": "perfetto",
     "ro": "perfec",
-    "group": "1"
+    "group": "1",
+    "id": 600,
+    "read": false
   },
   {
     "es": "coronel",
@@ -4707,7 +6005,9 @@
     "de": "Oberst",
     "it": "colonnello",
     "ro": "colonel",
-    "group": "1"
+    "group": "1",
+    "id": 601,
+    "read": false
   },
   {
     "es": "honor",
@@ -4715,7 +6015,9 @@
     "de": "Ehre",
     "it": "onore",
     "ro": "onoare",
-    "group": "1"
+    "group": "1",
+    "id": 602,
+    "read": false
   },
   {
     "es": "capaz",
@@ -4723,7 +6025,9 @@
     "de": "fähig",
     "it": "capace",
     "ro": "capabil",
-    "group": "1"
+    "group": "1",
+    "id": 603,
+    "read": false
   },
   {
     "es": "contacto",
@@ -4731,7 +6035,9 @@
     "de": "Kontakt",
     "it": "contatto",
     "ro": "contact",
-    "group": "1"
+    "group": "1",
+    "id": 604,
+    "read": false
   },
   {
     "es": "confiar",
@@ -4739,7 +6045,9 @@
     "de": "vertrauen",
     "it": "fidarsi",
     "ro": "a avea încredere",
-    "group": "1"
+    "group": "1",
+    "id": 605,
+    "read": false
   },
   {
     "es": "tren",
@@ -4747,7 +6055,9 @@
     "de": "Zug",
     "it": "treno",
     "ro": "tren",
-    "group": "1"
+    "group": "1",
+    "id": 606,
+    "read": false
   },
   {
     "es": "estación",
@@ -4755,7 +6065,9 @@
     "de": "Station/Bahnhof",
     "it": "stazione",
     "ro": "stație",
-    "group": "1"
+    "group": "1",
+    "id": 607,
+    "read": false
   },
   {
     "es": "correcto",
@@ -4763,7 +6075,9 @@
     "de": "richtig",
     "it": "corretto",
     "ro": "corect",
-    "group": "1"
+    "group": "1",
+    "id": 608,
+    "read": false
   },
   {
     "es": "mister",
@@ -4771,7 +6085,9 @@
     "de": "Herr",
     "it": "mister",
     "ro": "domn",
-    "group": "1"
+    "group": "1",
+    "id": 609,
+    "read": false
   },
   {
     "es": "esposo",
@@ -4779,7 +6095,9 @@
     "de": "Ehemann",
     "it": "marito",
     "ro": "soț",
-    "group": "1"
+    "group": "1",
+    "id": 610,
+    "read": false
   },
   {
     "es": "relación",
@@ -4787,7 +6105,9 @@
     "de": "Beziehung",
     "it": "relazione",
     "ro": "relație",
-    "group": "1"
+    "group": "1",
+    "id": 611,
+    "read": false
   },
   {
     "es": "leer",
@@ -4795,7 +6115,9 @@
     "de": "lesen",
     "it": "leggere",
     "ro": "a citi",
-    "group": "1"
+    "group": "1",
+    "id": 612,
+    "read": false
   },
   {
     "es": "cerebro",
@@ -4803,7 +6125,9 @@
     "de": "Gehirn",
     "it": "cervello",
     "ro": "creier",
-    "group": "1"
+    "group": "1",
+    "id": 613,
+    "read": false
   },
   {
     "es": "sargento",
@@ -4811,7 +6135,9 @@
     "de": "Sergeant",
     "it": "sergente",
     "ro": "sergent",
-    "group": "1"
+    "group": "1",
+    "id": 614,
+    "read": false
   },
   {
     "es": "comandante",
@@ -4819,7 +6145,9 @@
     "de": "Kommandant",
     "it": "comandante",
     "ro": "comandant",
-    "group": "1"
+    "group": "1",
+    "id": 615,
+    "read": false
   },
   {
     "es": "Jesús",
@@ -4827,7 +6155,9 @@
     "de": "Jesus",
     "it": "Gesù",
     "ro": "Iisus",
-    "group": "1"
+    "group": "1",
+    "id": 616,
+    "read": false
   },
   {
     "es": "médico",
@@ -4835,7 +6165,9 @@
     "de": "Arzt",
     "it": "medico",
     "ro": "medic",
-    "group": "1"
+    "group": "1",
+    "id": 617,
+    "read": false
   },
   {
     "es": "dulce",
@@ -4843,7 +6175,9 @@
     "de": "süß",
     "it": "dolce",
     "ro": "dulce",
-    "group": "1"
+    "group": "1",
+    "id": 618,
+    "read": false
   },
   {
     "es": "carta",
@@ -4851,7 +6185,9 @@
     "de": "Brief/Karte",
     "it": "lettera",
     "ro": "scrisoare",
-    "group": "1"
+    "group": "1",
+    "id": 619,
+    "read": false
   },
   {
     "es": "vista",
@@ -4859,7 +6195,9 @@
     "de": "Aussicht/Sicht",
     "it": "vista",
     "ro": "vedere",
-    "group": "1"
+    "group": "1",
+    "id": 620,
+    "read": false
   },
   {
     "es": "piso",
@@ -4867,7 +6205,9 @@
     "de": "Boden/Stockwerk",
     "it": "piano",
     "ro": "etaj",
-    "group": "1"
+    "group": "1",
+    "id": 621,
+    "read": false
   },
   {
     "es": "sentar",
@@ -4875,7 +6215,9 @@
     "de": "sitzen/setzen",
     "it": "sedersi",
     "ro": "a se așeza",
-    "group": "1"
+    "group": "1",
+    "id": 622,
+    "read": false
   },
   {
     "es": "cámara",
@@ -4883,7 +6225,9 @@
     "de": "Kamera",
     "it": "camera",
     "ro": "cameră",
-    "group": "1"
+    "group": "1",
+    "id": 623,
+    "read": false
   },
   {
     "es": "novio",
@@ -4891,7 +6235,9 @@
     "de": "Freund/Bräutigam",
     "it": "fidanzato",
     "ro": "iubit",
-    "group": "1"
+    "group": "1",
+    "id": 624,
+    "read": false
   },
   {
     "es": "rayo",
@@ -4899,7 +6245,9 @@
     "de": "Strahl/Blitz",
     "it": "raggio",
     "ro": "rază",
-    "group": "1"
+    "group": "1",
+    "id": 625,
+    "read": false
   },
   {
     "es": "estúpido",
@@ -4907,7 +6255,9 @@
     "de": "dumm/estupido",
     "it": "stupido",
     "ro": "stupid",
-    "group": "1"
+    "group": "1",
+    "id": 626,
+    "read": false
   },
   {
     "es": "excelente",
@@ -4915,7 +6265,9 @@
     "de": "ausgezeichnet",
     "it": "eccellente",
     "ro": "excelent",
-    "group": "1"
+    "group": "1",
+    "id": 627,
+    "read": false
   },
   {
     "es": "culo",
@@ -4923,7 +6275,9 @@
     "de": "Arsch",
     "it": "culo",
     "ro": "fund",
-    "group": "1"
+    "group": "1",
+    "id": 628,
+    "read": false
   },
   {
     "es": "código",
@@ -4931,7 +6285,9 @@
     "de": "Code",
     "it": "codice",
     "ro": "cod",
-    "group": "1"
+    "group": "1",
+    "id": 629,
+    "read": false
   },
   {
     "es": "error",
@@ -4939,7 +6295,9 @@
     "de": "Fehler",
     "it": "errore",
     "ro": "eroare",
-    "group": "1"
+    "group": "1",
+    "id": 630,
+    "read": false
   },
   {
     "es": "sol",
@@ -4947,7 +6305,9 @@
     "de": "Sonne",
     "it": "sole",
     "ro": "soare",
-    "group": "1"
+    "group": "1",
+    "id": 631,
+    "read": false
   },
   {
     "es": "intentar",
@@ -4955,7 +6315,9 @@
     "de": "versuchen",
     "it": "tentare",
     "ro": "a încerca",
-    "group": "1"
+    "group": "1",
+    "id": 632,
+    "read": false
   },
   {
     "es": "hermoso",
@@ -4963,7 +6325,9 @@
     "de": "schön",
     "it": "bellissimo",
     "ro": "frumos",
-    "group": "1"
+    "group": "1",
+    "id": 633,
+    "read": false
   },
   {
     "es": "departamento",
@@ -4971,7 +6335,9 @@
     "de": "Abteilung/Wohnung",
     "it": "dipartimento",
     "ro": "departament",
-    "group": "1"
+    "group": "1",
+    "id": 634,
+    "read": false
   },
   {
     "es": "funcionar",
@@ -4979,7 +6345,9 @@
     "de": "funktionieren",
     "it": "funzionare",
     "ro": "a funcționa",
-    "group": "1"
+    "group": "1",
+    "id": 635,
+    "read": false
   },
   {
     "es": "tienda",
@@ -4987,7 +6355,9 @@
     "de": "Laden/Zelt",
     "it": "negozio",
     "ro": "magazin",
-    "group": "1"
+    "group": "1",
+    "id": 636,
+    "read": false
   },
   {
     "es": "banco",
@@ -4995,7 +6365,9 @@
     "de": "Bank",
     "it": "banca",
     "ro": "bancă",
-    "group": "1"
+    "group": "1",
+    "id": 637,
+    "read": false
   },
   {
     "es": "depender",
@@ -5003,7 +6375,9 @@
     "de": "abhängen",
     "it": "dipendere",
     "ro": "a depinde",
-    "group": "1"
+    "group": "1",
+    "id": 638,
+    "read": false
   },
   {
     "es": "cita",
@@ -5011,7 +6385,9 @@
     "de": "Termin/Date",
     "it": "appuntamento",
     "ro": "întâlnire",
-    "group": "1"
+    "group": "1",
+    "id": 639,
+    "read": false
   },
   {
     "es": "mesa",
@@ -5019,7 +6395,9 @@
     "de": "Tisch",
     "it": "tavolo",
     "ro": "masă",
-    "group": "1"
+    "group": "1",
+    "id": 640,
+    "read": false
   },
   {
     "es": "unidad",
@@ -5027,7 +6405,9 @@
     "de": "Einheit",
     "it": "unità",
     "ro": "unitate",
-    "group": "1"
+    "group": "1",
+    "id": 641,
+    "read": false
   },
   {
     "es": "seguramente",
@@ -5035,7 +6415,9 @@
     "de": "sicherlich",
     "it": "sicuramente",
     "ro": "sigur",
-    "group": "1"
+    "group": "1",
+    "id": 642,
+    "read": false
   },
   {
     "es": "especie",
@@ -5043,7 +6425,9 @@
     "de": "Art/Spezies",
     "it": "specie",
     "ro": "specie",
-    "group": "1"
+    "group": "1",
+    "id": 643,
+    "read": false
   },
   {
     "es": "embargo",
@@ -5051,7 +6435,9 @@
     "de": "Beschlagnahmung",
     "it": "embargo",
     "ro": "sechestru",
-    "group": "1"
+    "group": "1",
+    "id": 644,
+    "read": false
   },
   {
     "es": "pedazo",
@@ -5059,7 +6445,9 @@
     "de": "Stück",
     "it": "pezzo",
     "ro": "bucată",
-    "group": "1"
+    "group": "1",
+    "id": 645,
+    "read": false
   },
   {
     "es": "abogado",
@@ -5067,7 +6455,9 @@
     "de": "Anwalt",
     "it": "avvocato",
     "ro": "avocat",
-    "group": "1"
+    "group": "1",
+    "id": 646,
+    "read": false
   },
   {
     "es": "contar",
@@ -5075,7 +6465,9 @@
     "de": "zählen/erzählen",
     "it": "contare",
     "ro": "a număra",
-    "group": "1"
+    "group": "1",
+    "id": 647,
+    "read": false
   },
   {
     "es": "cena",
@@ -5083,7 +6475,9 @@
     "de": "Abendessen",
     "it": "cena",
     "ro": "cină",
-    "group": "1"
+    "group": "1",
+    "id": 648,
+    "read": false
   },
   {
     "es": "imposible",
@@ -5091,7 +6485,9 @@
     "de": "unmöglich",
     "it": "impossibile",
     "ro": "imposibil",
-    "group": "1"
+    "group": "1",
+    "id": 649,
+    "read": false
   },
   {
     "es": "reunión",
@@ -5099,7 +6495,9 @@
     "de": "Treffen/Versammlung",
     "it": "riunione",
     "ro": "reuniune",
-    "group": "1"
+    "group": "1",
+    "id": 650,
+    "read": false
   },
   {
     "es": "tía",
@@ -5107,7 +6505,9 @@
     "de": "Tante",
     "it": "zia",
     "ro": "mătușă",
-    "group": "1"
+    "group": "1",
+    "id": 651,
+    "read": false
   },
   {
     "es": "doble",
@@ -5115,7 +6515,9 @@
     "de": "doppelt",
     "it": "doppio",
     "ro": "dublu",
-    "group": "1"
+    "group": "1",
+    "id": 652,
+    "read": false
   },
   {
     "es": "cargo",
@@ -5123,7 +6525,9 @@
     "de": "Amt/Ladung",
     "it": "carica",
     "ro": "funcție",
-    "group": "1"
+    "group": "1",
+    "id": 653,
+    "read": false
   },
   {
     "es": "príncipe",
@@ -5131,7 +6535,9 @@
     "de": "Prinz",
     "it": "principe",
     "ro": "prinț",
-    "group": "1"
+    "group": "1",
+    "id": 654,
+    "read": false
   },
   {
     "es": "personal",
@@ -5139,7 +6545,9 @@
     "de": "persönlich/Personal",
     "it": "personale",
     "ro": "personal",
-    "group": "1"
+    "group": "1",
+    "id": 655,
+    "read": false
   },
   {
     "es": "especialmente",
@@ -5147,7 +6555,9 @@
     "de": "besonders",
     "it": "specialmente",
     "ro": "special",
-    "group": "1"
+    "group": "1",
+    "id": 656,
+    "read": false
   },
   {
     "es": "espíritu",
@@ -5155,7 +6565,9 @@
     "de": "Geist",
     "it": "spirito",
     "ro": "spirit",
-    "group": "1"
+    "group": "1",
+    "id": 657,
+    "read": false
   },
   {
     "es": "papel",
@@ -5163,7 +6575,9 @@
     "de": "Papier/Rolle",
     "it": "carta",
     "ro": "hârtie",
-    "group": "1"
+    "group": "1",
+    "id": 658,
+    "read": false
   },
   {
     "es": "decisión",
@@ -5171,7 +6585,9 @@
     "de": "Entscheidung",
     "it": "decisione",
     "ro": "decizie",
-    "group": "1"
+    "group": "1",
+    "id": 659,
+    "read": false
   },
   {
     "es": "alma",
@@ -5179,7 +6595,9 @@
     "de": "Seele",
     "it": "anima",
     "ro": "suflet",
-    "group": "1"
+    "group": "1",
+    "id": 660,
+    "read": false
   },
   {
     "es": "gato",
@@ -5187,7 +6605,9 @@
     "de": "Katze",
     "it": "gatto",
     "ro": "pisică",
-    "group": "1"
+    "group": "1",
+    "id": 661,
+    "read": false
   },
   {
     "es": "estrella",
@@ -5195,7 +6615,9 @@
     "de": "Stern",
     "it": "stella",
     "ro": "stea",
-    "group": "1"
+    "group": "1",
+    "id": 662,
+    "read": false
   },
   {
     "es": "escribir",
@@ -5203,7 +6625,9 @@
     "de": "schreiben",
     "it": "scrivere",
     "ro": "a scrie",
-    "group": "1"
+    "group": "1",
+    "id": 663,
+    "read": false
   },
   {
     "es": "edificio",
@@ -5211,7 +6635,9 @@
     "de": "Gebäude",
     "it": "edificio",
     "ro": "clădire",
-    "group": "1"
+    "group": "1",
+    "id": 664,
+    "read": false
   },
   {
     "es": "obra",
@@ -5219,7 +6645,9 @@
     "de": "Werk/Bau",
     "it": "opera",
     "ro": "operă",
-    "group": "1"
+    "group": "1",
+    "id": 665,
+    "read": false
   },
   {
     "es": "corte",
@@ -5227,7 +6655,9 @@
     "de": "Gericht/Schnitt",
     "it": "corte",
     "ro": "curte",
-    "group": "1"
+    "group": "1",
+    "id": 666,
+    "read": false
   },
   {
     "es": "accidente",
@@ -5235,7 +6665,9 @@
     "de": "Unfall",
     "it": "incidente",
     "ro": "accident",
-    "group": "1"
+    "group": "1",
+    "id": 667,
+    "read": false
   },
   {
     "es": "delante",
@@ -5243,7 +6675,9 @@
     "de": "vorne",
     "it": "davanti",
     "ro": "în față",
-    "group": "1"
+    "group": "1",
+    "id": 668,
+    "read": false
   },
   {
     "es": "cuestión",
@@ -5251,7 +6685,9 @@
     "de": "Frage/Angelegenheit",
     "it": "questione",
     "ro": "chestiune",
-    "group": "1"
+    "group": "1",
+    "id": 669,
+    "read": false
   },
   {
     "es": "guardia",
@@ -5259,7 +6695,9 @@
     "de": "Wache",
     "it": "guardia",
     "ro": "gardă",
-    "group": "1"
+    "group": "1",
+    "id": 670,
+    "read": false
   },
   {
     "es": "carrera",
@@ -5267,7 +6705,9 @@
     "de": "Karriere/Rennen",
     "it": "carriera",
     "ro": "carieră",
-    "group": "1"
+    "group": "1",
+    "id": 671,
+    "read": false
   },
   {
     "es": "mata",
@@ -5275,7 +6715,9 @@
     "de": "Busch/tötet",
     "it": "cespuglio",
     "ro": "tufiș",
-    "group": "1"
+    "group": "1",
+    "id": 672,
+    "read": false
   },
   {
     "es": "soldado",
@@ -5283,7 +6725,9 @@
     "de": "Soldat",
     "it": "soldato",
     "ro": "soldat",
-    "group": "1"
+    "group": "1",
+    "id": 673,
+    "read": false
   },
   {
     "es": "baño",
@@ -5291,7 +6735,9 @@
     "de": "Bad/Toilette",
     "it": "bagno",
     "ro": "baie",
-    "group": "1"
+    "group": "1",
+    "id": 674,
+    "read": false
   },
   {
     "es": "posición",
@@ -5299,7 +6745,9 @@
     "de": "Position",
     "it": "posizione",
     "ro": "poziție",
-    "group": "1"
+    "group": "1",
+    "id": 675,
+    "read": false
   },
   {
     "es": "probar",
@@ -5307,7 +6755,9 @@
     "de": "probieren/testen",
     "it": "provare",
     "ro": "a încerca",
-    "group": "1"
+    "group": "1",
+    "id": 676,
+    "read": false
   },
   {
     "es": "espada",
@@ -5315,7 +6765,9 @@
     "de": "Schwert",
     "it": "spada",
     "ro": "sabie",
-    "group": "1"
+    "group": "1",
+    "id": 677,
+    "read": false
   },
   {
     "es": "humano",
@@ -5323,7 +6775,9 @@
     "de": "Mensch",
     "it": "umano",
     "ro": "uman",
-    "group": "1"
+    "group": "1",
+    "id": 678,
+    "read": false
   },
   {
     "es": "calma",
@@ -5331,7 +6785,9 @@
     "de": "Ruhe",
     "it": "calma",
     "ro": "calm",
-    "group": "1"
+    "group": "1",
+    "id": 679,
+    "read": false
   },
   {
     "es": "gana",
@@ -5339,7 +6795,9 @@
     "de": "Lust/verdient",
     "it": "voglia",
     "ro": "chef",
-    "group": "1"
+    "group": "1",
+    "id": 680,
+    "read": false
   },
   {
     "es": "doler",
@@ -5347,7 +6805,9 @@
     "de": "weh tun",
     "it": "fare male",
     "ro": "a durea",
-    "group": "1"
+    "group": "1",
+    "id": 681,
+    "read": false
   },
   {
     "es": "libertad",
@@ -5355,7 +6815,9 @@
     "de": "Freiheit",
     "it": "libertà",
     "ro": "libertate",
-    "group": "1"
+    "group": "1",
+    "id": 682,
+    "read": false
   },
   {
     "es": "aprender",
@@ -5363,7 +6825,9 @@
     "de": "lernen",
     "it": "imparare",
     "ro": "a învăța",
-    "group": "1"
+    "group": "1",
+    "id": 683,
+    "read": false
   },
   {
     "es": "varios",
@@ -5371,7 +6835,9 @@
     "de": "mehrere",
     "it": "vari",
     "ro": "mai mulți",
-    "group": "1"
+    "group": "1",
+    "id": 684,
+    "read": false
   },
   {
     "es": "dirección",
@@ -5379,7 +6845,9 @@
     "de": "Richtung/Adresse",
     "it": "direzione",
     "ro": "direcție",
-    "group": "1"
+    "group": "1",
+    "id": 685,
+    "read": false
   },
   {
     "es": "pelear",
@@ -5387,7 +6855,9 @@
     "de": "kämpfen/streiten",
     "it": "lottare",
     "ro": "a se bate",
-    "group": "1"
+    "group": "1",
+    "id": 686,
+    "read": false
   },
   {
     "es": "prometer",
@@ -5395,7 +6865,9 @@
     "de": "versprechen",
     "it": "promettere",
     "ro": "a promite",
-    "group": "1"
+    "group": "1",
+    "id": 687,
+    "read": false
   },
   {
     "es": "director",
@@ -5403,7 +6875,9 @@
     "de": "Direktor",
     "it": "direttore",
     "ro": "director",
-    "group": "1"
+    "group": "1",
+    "id": 688,
+    "read": false
   },
   {
     "es": "subir",
@@ -5411,7 +6885,9 @@
     "de": "hochgehen/einsteigen",
     "it": "salire",
     "ro": "a urca",
-    "group": "1"
+    "group": "1",
+    "id": 689,
+    "read": false
   },
   {
     "es": "cumpleaños",
@@ -5419,7 +6895,9 @@
     "de": "Geburtstag",
     "it": "compleanno",
     "ro": "zi de naștere",
-    "group": "1"
+    "group": "1",
+    "id": 690,
+    "read": false
   },
   {
     "es": "sur",
@@ -5427,7 +6905,9 @@
     "de": "Süden",
     "it": "sud",
     "ro": "sud",
-    "group": "1"
+    "group": "1",
+    "id": 691,
+    "read": false
   },
   {
     "es": "perra",
@@ -5435,7 +6915,9 @@
     "de": "Hündin/Schlampe",
     "it": "cagna",
     "ro": "cățea",
-    "group": "1"
+    "group": "1",
+    "id": 692,
+    "read": false
   },
   {
     "es": "caer",
@@ -5443,7 +6925,9 @@
     "de": "fallen",
     "it": "cadere",
     "ro": "a cădea",
-    "group": "1"
+    "group": "1",
+    "id": 693,
+    "read": false
   },
   {
     "es": "llave",
@@ -5451,7 +6935,9 @@
     "de": "Schlüssel",
     "it": "chiave",
     "ro": "cheie",
-    "group": "1"
+    "group": "1",
+    "id": 694,
+    "read": false
   },
   {
     "es": "simple",
@@ -5459,7 +6945,9 @@
     "de": "einfach",
     "it": "semplice",
     "ro": "simplu",
-    "group": "1"
+    "group": "1",
+    "id": 695,
+    "read": false
   },
   {
     "es": "norte",
@@ -5467,7 +6955,9 @@
     "de": "Norden",
     "it": "nord",
     "ro": "nord",
-    "group": "1"
+    "group": "1",
+    "id": 696,
+    "read": false
   },
   {
     "es": "espacio",
@@ -5475,7 +6965,9 @@
     "de": "Raum",
     "it": "spazio",
     "ro": "spațiu",
-    "group": "1"
+    "group": "1",
+    "id": 697,
+    "read": false
   },
   {
     "es": "papa",
@@ -5483,7 +6975,9 @@
     "de": "Kartoffel/Papst",
     "it": "patata",
     "ro": "cartof",
-    "group": "1"
+    "group": "1",
+    "id": 698,
+    "read": false
   },
   {
     "es": "diferente",
@@ -5491,7 +6985,9 @@
     "de": "unterschiedlich",
     "it": "differente",
     "ro": "diferit",
-    "group": "1"
+    "group": "1",
+    "id": 699,
+    "read": false
   },
   {
     "es": "robot",
@@ -5499,7 +6995,9 @@
     "de": "Robot",
     "it": "robot",
     "ro": "robot",
-    "group": "1"
+    "group": "1",
+    "id": 700,
+    "read": false
   },
   {
     "es": "solamente",
@@ -5507,7 +7005,9 @@
     "de": "nur",
     "it": "solamente",
     "ro": "numai",
-    "group": "1"
+    "group": "1",
+    "id": 701,
+    "read": false
   },
   {
     "es": "color",
@@ -5515,7 +7015,9 @@
     "de": "Farbe",
     "it": "colore",
     "ro": "culoare",
-    "group": "1"
+    "group": "1",
+    "id": 702,
+    "read": false
   },
   {
     "es": "bar",
@@ -5523,7 +7025,9 @@
     "de": "Bar",
     "it": "bar",
     "ro": "bar",
-    "group": "1"
+    "group": "1",
+    "id": 703,
+    "read": false
   },
   {
     "es": "isla",
@@ -5531,7 +7035,9 @@
     "de": "Insel",
     "it": "isola",
     "ro": "insulă",
-    "group": "1"
+    "group": "1",
+    "id": 704,
+    "read": false
   },
   {
     "es": "planeta",
@@ -5539,7 +7045,9 @@
     "de": "Planet",
     "it": "pianeta",
     "ro": "planetă",
-    "group": "1"
+    "group": "1",
+    "id": 705,
+    "read": false
   },
   {
     "es": "parar",
@@ -5547,7 +7055,9 @@
     "de": "stoppen/anhalten",
     "it": "fermare",
     "ro": "a opri",
-    "group": "1"
+    "group": "1",
+    "id": 706,
+    "read": false
   },
   {
     "es": "energía",
@@ -5555,7 +7065,9 @@
     "de": "Energie",
     "it": "energia",
     "ro": "energie",
-    "group": "1"
+    "group": "1",
+    "id": 707,
+    "read": false
   },
   {
     "es": "después",
@@ -5563,7 +7075,9 @@
     "de": "nachher",
     "it": "dopo",
     "ro": "după",
-    "group": "1"
+    "group": "1",
+    "id": 708,
+    "read": false
   },
   {
     "es": "terrible",
@@ -5571,7 +7085,9 @@
     "de": "schrecklich",
     "it": "terribile",
     "ro": "teribil",
-    "group": "1"
+    "group": "1",
+    "id": 709,
+    "read": false
   },
   {
     "es": "río",
@@ -5579,7 +7095,9 @@
     "de": "Fluss",
     "it": "fiume",
     "ro": "râu",
-    "group": "1"
+    "group": "1",
+    "id": 710,
+    "read": false
   },
   {
     "es": "servir",
@@ -5587,7 +7105,9 @@
     "de": "servieren/dienen",
     "it": "servire",
     "ro": "a servi",
-    "group": "1"
+    "group": "1",
+    "id": 711,
+    "read": false
   },
   {
     "es": "llenar",
@@ -5595,7 +7115,9 @@
     "de": "füllen",
     "it": "riempire",
     "ro": "a umple",
-    "group": "1"
+    "group": "1",
+    "id": 712,
+    "read": false
   },
   {
     "es": "reina",
@@ -5603,7 +7125,9 @@
     "de": "Königin",
     "it": "regina",
     "ro": "regină",
-    "group": "1"
+    "group": "1",
+    "id": 713,
+    "read": false
   },
   {
     "es": "oro",
@@ -5611,7 +7135,9 @@
     "de": "Gold",
     "it": "oro",
     "ro": "aur",
-    "group": "1"
+    "group": "1",
+    "id": 714,
+    "read": false
   },
   {
     "es": "consejo",
@@ -5619,7 +7145,9 @@
     "de": "Rat/Ratschlag",
     "it": "consiglio",
     "ro": "sfat",
-    "group": "1"
+    "group": "1",
+    "id": 715,
+    "read": false
   },
   {
     "es": "mar",
@@ -5627,7 +7155,9 @@
     "de": "Meer",
     "it": "mare",
     "ro": "mare",
-    "group": "1"
+    "group": "1",
+    "id": 716,
+    "read": false
   },
   {
     "es": "interesar",
@@ -5635,7 +7165,9 @@
     "de": "interessieren",
     "it": "interessare",
     "ro": "a interesa",
-    "group": "1"
+    "group": "1",
+    "id": 717,
+    "read": false
   },
   {
     "es": "destino",
@@ -5643,7 +7175,9 @@
     "de": "Schicksal/Ziel",
     "it": "destino",
     "ro": "destin",
-    "group": "1"
+    "group": "1",
+    "id": 718,
+    "read": false
   },
   {
     "es": "volar",
@@ -5651,7 +7185,9 @@
     "de": "fliegen",
     "it": "volare",
     "ro": "a zbura",
-    "group": "1"
+    "group": "1",
+    "id": 719,
+    "read": false
   },
   {
     "es": "basura",
@@ -5659,7 +7195,9 @@
     "de": "Müll",
     "it": "spazzatura",
     "ro": "gunoi",
-    "group": "1"
+    "group": "1",
+    "id": 720,
+    "read": false
   },
   {
     "es": "baile",
@@ -5667,7 +7205,9 @@
     "de": "Tanz",
     "it": "ballo",
     "ro": "dans",
-    "group": "1"
+    "group": "1",
+    "id": 721,
+    "read": false
   },
   {
     "es": "respeto",
@@ -5675,7 +7215,9 @@
     "de": "Respekt",
     "it": "rispetto",
     "ro": "respect",
-    "group": "1"
+    "group": "1",
+    "id": 722,
+    "read": false
   },
   {
     "es": "enseguida",
@@ -5683,7 +7225,9 @@
     "de": "sofort",
     "it": "subito",
     "ro": "imediat",
-    "group": "1"
+    "group": "1",
+    "id": 723,
+    "read": false
   },
   {
     "es": "pesar",
@@ -5691,7 +7235,9 @@
     "de": "wiegen",
     "it": "pesare",
     "ro": "a cântări",
-    "group": "1"
+    "group": "1",
+    "id": 724,
+    "read": false
   },
   {
     "es": "golpe",
@@ -5699,7 +7245,9 @@
     "de": "Schlag",
     "it": "colpo",
     "ro": "lovitură",
-    "group": "1"
+    "group": "1",
+    "id": 725,
+    "read": false
   },
   {
     "es": "normal",
@@ -5707,7 +7255,9 @@
     "de": "normal",
     "it": "normale",
     "ro": "normal",
-    "group": "1"
+    "group": "1",
+    "id": 726,
+    "read": false
   },
   {
     "es": "paciente",
@@ -5715,7 +7265,9 @@
     "de": "Geduldig/Patient",
     "it": "paziente",
     "ro": "pacient",
-    "group": "1"
+    "group": "1",
+    "id": 727,
+    "read": false
   },
   {
     "es": "iglesia",
@@ -5723,7 +7275,9 @@
     "de": "Kirche",
     "it": "chiesa",
     "ro": "biserică",
-    "group": "1"
+    "group": "1",
+    "id": 728,
+    "read": false
   },
   {
     "es": "je",
@@ -5731,7 +7285,9 @@
     "de": "heh",
     "it": "eh",
     "ro": "heh",
-    "group": "1"
+    "group": "1",
+    "id": 729,
+    "read": false
   },
   {
     "es": "bomba",
@@ -5739,7 +7295,9 @@
     "de": "Bombe",
     "it": "bomba",
     "ro": "bombă",
-    "group": "1"
+    "group": "1",
+    "id": 730,
+    "read": false
   },
   {
     "es": "derecha",
@@ -5747,7 +7305,9 @@
     "de": "Rechts",
     "it": "destra",
     "ro": "dreapta",
-    "group": "1"
+    "group": "1",
+    "id": 731,
+    "read": false
   },
   {
     "es": "evitar",
@@ -5755,7 +7315,9 @@
     "de": "vermeiden",
     "it": "evitare",
     "ro": "a evita",
-    "group": "1"
+    "group": "1",
+    "id": 732,
+    "read": false
   },
   {
     "es": "largar",
@@ -5763,7 +7325,9 @@
     "de": "loslassen",
     "it": "mollare",
     "ro": "a lăsa",
-    "group": "1"
+    "group": "1",
+    "id": 733,
+    "read": false
   },
   {
     "es": "alta",
@@ -5771,7 +7335,9 @@
     "de": "hoch",
     "it": "alta",
     "ro": "înaltă",
-    "group": "1"
+    "group": "1",
+    "id": 734,
+    "read": false
   },
   {
     "es": "proteger",
@@ -5779,7 +7345,9 @@
     "de": "schützen",
     "it": "proteggere",
     "ro": "a proteja",
-    "group": "1"
+    "group": "1",
+    "id": 735,
+    "read": false
   },
   {
     "es": "navidad",
@@ -5787,7 +7355,9 @@
     "de": "Weihnachten",
     "it": "natale",
     "ro": "crăciun",
-    "group": "1"
+    "group": "1",
+    "id": 736,
+    "read": false
   },
   {
     "es": "informe",
@@ -5795,7 +7365,9 @@
     "de": "Bericht",
     "it": "rapporto",
     "ro": "raport",
-    "group": "1"
+    "group": "1",
+    "id": 737,
+    "read": false
   },
   {
     "es": "izquierda",
@@ -5803,7 +7375,9 @@
     "de": "Links",
     "it": "sinistra",
     "ro": "stânga",
-    "group": "1"
+    "group": "1",
+    "id": 738,
+    "read": false
   },
   {
     "es": "fe",
@@ -5811,7 +7385,9 @@
     "de": "Glaube",
     "it": "fede",
     "ro": "credință",
-    "group": "1"
+    "group": "1",
+    "id": 739,
+    "read": false
   },
   {
     "es": "gracioso",
@@ -5819,7 +7395,9 @@
     "de": "lustig",
     "it": "divertente",
     "ro": "amuzant",
-    "group": "1"
+    "group": "1",
+    "id": 740,
+    "read": false
   },
   {
     "es": "silencio",
@@ -5827,7 +7405,9 @@
     "de": "Stille",
     "it": "silenzio",
     "ro": "liniște",
-    "group": "1"
+    "group": "1",
+    "id": 741,
+    "read": false
   },
   {
     "es": "cuento",
@@ -5835,7 +7415,9 @@
     "de": "Märchen/Geschichte",
     "it": "racconto",
     "ro": "poveste",
-    "group": "1"
+    "group": "1",
+    "id": 742,
+    "read": false
   },
   {
     "es": "abuelo",
@@ -5843,7 +7425,9 @@
     "de": "Großvater",
     "it": "nonno",
     "ro": "bunic",
-    "group": "1"
+    "group": "1",
+    "id": 743,
+    "read": false
   },
   {
     "es": "princesa",
@@ -5851,7 +7435,9 @@
     "de": "Prinzessin",
     "it": "principessa",
     "ro": "prințesă",
-    "group": "1"
+    "group": "1",
+    "id": 744,
+    "read": false
   },
   {
     "es": "amable",
@@ -5859,7 +7445,9 @@
     "de": "freundlich",
     "it": "gentile",
     "ro": "amabil",
-    "group": "1"
+    "group": "1",
+    "id": 745,
+    "read": false
   },
   {
     "es": "bolsa",
@@ -5867,7 +7455,9 @@
     "de": "Tasche/Börse",
     "it": "borsa",
     "ro": "pungă",
-    "group": "1"
+    "group": "1",
+    "id": 746,
+    "read": false
   },
   {
     "es": "tuyo",
@@ -5875,7 +7465,9 @@
     "de": "deins",
     "it": "tuo",
     "ro": "tău",
-    "group": "1"
+    "group": "1",
+    "id": 747,
+    "read": false
   },
   {
     "es": "ex",
@@ -5883,7 +7475,9 @@
     "de": "Ex",
     "it": "ex",
     "ro": "fost",
-    "group": "1"
+    "group": "1",
+    "id": 748,
+    "read": false
   },
   {
     "es": "vestido",
@@ -5891,7 +7485,9 @@
     "de": "Kleid",
     "it": "vestito",
     "ro": "rochie",
-    "group": "1"
+    "group": "1",
+    "id": 749,
+    "read": false
   },
   {
     "es": "enemigo",
@@ -5899,7 +7495,9 @@
     "de": "Feind",
     "it": "nemico",
     "ro": "dușman",
-    "group": "1"
+    "group": "1",
+    "id": 750,
+    "read": false
   },
   {
     "es": "arreglar",
@@ -5907,7 +7505,9 @@
     "de": "reparieren/ordnen",
     "it": "aggiustare",
     "ro": "a repara",
-    "group": "1"
+    "group": "1",
+    "id": 751,
+    "read": false
   },
   {
     "es": "bajar",
@@ -5915,7 +7515,9 @@
     "de": "heruntergehen",
     "it": "scendere",
     "ro": "a coborî",
-    "group": "1"
+    "group": "1",
+    "id": 752,
+    "read": false
   },
   {
     "es": "vera",
@@ -5923,7 +7525,9 @@
     "de": "Rand",
     "it": "riva",
     "ro": "margine",
-    "group": "1"
+    "group": "1",
+    "id": 753,
+    "read": false
   },
   {
     "es": "crimen",
@@ -5931,7 +7535,9 @@
     "de": "Verbrechen",
     "it": "crimine",
     "ro": "crimă",
-    "group": "1"
+    "group": "1",
+    "id": 754,
+    "read": false
   },
   {
     "es": "área",
@@ -5939,7 +7545,9 @@
     "de": "Bereich/Fläche",
     "it": "area",
     "ro": "zonă",
-    "group": "1"
+    "group": "1",
+    "id": 755,
+    "read": false
   },
   {
     "es": "adentro",
@@ -5947,7 +7555,9 @@
     "de": "drinnen",
     "it": "dentro",
     "ro": "înăuntru",
-    "group": "1"
+    "group": "1",
+    "id": 756,
+    "read": false
   },
   {
     "es": "nena",
@@ -5955,7 +7565,9 @@
     "de": "Mädchen/Kleine",
     "it": "bimba",
     "ro": "fetiță",
-    "group": "1"
+    "group": "1",
+    "id": 757,
+    "read": false
   },
   {
     "es": "máquina",
@@ -5963,7 +7575,9 @@
     "de": "Maschine",
     "it": "macchina",
     "ro": "mașină",
-    "group": "1"
+    "group": "1",
+    "id": 758,
+    "read": false
   },
   {
     "es": "caballo",
@@ -5971,7 +7585,9 @@
     "de": "Pferd",
     "it": "cavallo",
     "ro": "cal",
-    "group": "1"
+    "group": "1",
+    "id": 759,
+    "read": false
   },
   {
     "es": "peligro",
@@ -5979,7 +7595,9 @@
     "de": "Gefahr",
     "it": "pericolo",
     "ro": "pericol",
-    "group": "1"
+    "group": "1",
+    "id": 760,
+    "read": false
   },
   {
     "es": "partir",
@@ -5987,7 +7605,9 @@
     "de": "aufbrechen/teilen",
     "it": "partire",
     "ro": "a pleca",
-    "group": "1"
+    "group": "1",
+    "id": 761,
+    "read": false
   },
   {
     "es": "duda",
@@ -5995,7 +7615,9 @@
     "de": "Zweifel",
     "it": "dubbio",
     "ro": "îndoială",
-    "group": "1"
+    "group": "1",
+    "id": 762,
+    "read": false
   },
   {
     "es": "batalla",
@@ -6003,7 +7625,9 @@
     "de": "Schlacht",
     "it": "battaglia",
     "ro": "bătălie",
-    "group": "1"
+    "group": "1",
+    "id": 763,
+    "read": false
   },
   {
     "es": "nota",
@@ -6011,7 +7635,9 @@
     "de": "Notiz/Note",
     "it": "nota",
     "ro": "notă",
-    "group": "1"
+    "group": "1",
+    "id": 764,
+    "read": false
   },
   {
     "es": "rojo",
@@ -6019,7 +7645,9 @@
     "de": "rot",
     "it": "rosso",
     "ro": "roșu",
-    "group": "1"
+    "group": "1",
+    "id": 765,
+    "read": false
   },
   {
     "es": "acordar",
@@ -6027,7 +7655,9 @@
     "de": "vereinbaren",
     "it": "concordare",
     "ro": "a conveni",
-    "group": "1"
+    "group": "1",
+    "id": 766,
+    "read": false
   },
   {
     "es": "costar",
@@ -6035,7 +7665,9 @@
     "de": "kosten",
     "it": "costare",
     "ro": "a costa",
-    "group": "1"
+    "group": "1",
+    "id": 767,
+    "read": false
   },
   {
     "es": "nueve",
@@ -6043,7 +7675,9 @@
     "de": "neun",
     "it": "nove",
     "ro": "nouă",
-    "group": "1"
+    "group": "1",
+    "id": 768,
+    "read": false
   },
   {
     "es": "brazo",
@@ -6051,7 +7685,9 @@
     "de": "Arm",
     "it": "braccio",
     "ro": "braț",
-    "group": "1"
+    "group": "1",
+    "id": 769,
+    "read": false
   },
   {
     "es": "destruir",
@@ -6059,7 +7695,9 @@
     "de": "zerstören",
     "it": "distruggere",
     "ro": "a distruge",
-    "group": "1"
+    "group": "1",
+    "id": 770,
+    "read": false
   },
   {
     "es": "absolutamente",
@@ -6067,7 +7705,9 @@
     "de": "absolut",
     "it": "assolutamente",
     "ro": "absolut",
-    "group": "1"
+    "group": "1",
+    "id": 771,
+    "read": false
   },
   {
     "es": "estilo",
@@ -6075,7 +7715,9 @@
     "de": "Stil",
     "it": "stile",
     "ro": "stil",
-    "group": "1"
+    "group": "1",
+    "id": 772,
+    "read": false
   },
   {
     "es": "oler",
@@ -6083,7 +7725,9 @@
     "de": "riechen",
     "it": "odorare",
     "ro": "a mirosi",
-    "group": "1"
+    "group": "1",
+    "id": 773,
+    "read": false
   },
   {
     "es": "definitivamente",
@@ -6091,7 +7735,9 @@
     "de": "definitiv",
     "it": "decisamente",
     "ro": "definitiv",
-    "group": "1"
+    "group": "1",
+    "id": 774,
+    "read": false
   },
   {
     "es": "loca",
@@ -6099,7 +7745,9 @@
     "de": "Verrückte",
     "it": "pazza",
     "ro": "nebună",
-    "group": "1"
+    "group": "1",
+    "id": 775,
+    "read": false
   },
   {
     "es": "entrada",
@@ -6107,7 +7755,9 @@
     "de": "Eingang/Eintrittskarte",
     "it": "entrata",
     "ro": "intrare",
-    "group": "1"
+    "group": "1",
+    "id": 776,
+    "read": false
   },
   {
     "es": "radio",
@@ -6115,7 +7765,9 @@
     "de": "Radio",
     "it": "radio",
     "ro": "radio",
-    "group": "1"
+    "group": "1",
+    "id": 777,
+    "read": false
   },
   {
     "es": "investigación",
@@ -6123,7 +7775,9 @@
     "de": "Untersuchung",
     "it": "ricerca",
     "ro": "investigație",
-    "group": "1"
+    "group": "1",
+    "id": 778,
+    "read": false
   },
   {
     "es": "bienvenida",
@@ -6131,7 +7785,9 @@
     "de": "Begrüßung",
     "it": "benvenuta",
     "ro": "bun venit",
-    "group": "1"
+    "group": "1",
+    "id": 779,
+    "read": false
   },
   {
     "es": "valor",
@@ -6139,7 +7795,9 @@
     "de": "Wert/Mut",
     "it": "valore",
     "ro": "valoare",
-    "group": "1"
+    "group": "1",
+    "id": 780,
+    "read": false
   },
   {
     "es": "muestra",
@@ -6147,7 +7805,9 @@
     "de": "Probe",
     "it": "mostra",
     "ro": "mostră",
-    "group": "1"
+    "group": "1",
+    "id": 781,
+    "read": false
   },
   {
     "es": "asesinato",
@@ -6155,7 +7815,9 @@
     "de": "Mord",
     "it": "omicidio",
     "ro": "crimă",
-    "group": "1"
+    "group": "1",
+    "id": 782,
+    "read": false
   },
   {
     "es": "mando",
@@ -6163,7 +7825,9 @@
     "de": "Befehl/Fernbedienung",
     "it": "comando",
     "ro": "comandă",
-    "group": "1"
+    "group": "1",
+    "id": 783,
+    "read": false
   },
   {
     "es": "frío",
@@ -6171,7 +7835,9 @@
     "de": "kalt",
     "it": "freddo",
     "ro": "frig",
-    "group": "1"
+    "group": "1",
+    "id": 784,
+    "read": false
   },
   {
     "es": "regla",
@@ -6179,7 +7845,9 @@
     "de": "Regel",
     "it": "regola",
     "ro": "regulă",
-    "group": "1"
+    "group": "1",
+    "id": 785,
+    "read": false
   },
   {
     "es": "desear",
@@ -6187,7 +7855,9 @@
     "de": "wünschen",
     "it": "desiderare",
     "ro": "a dori",
-    "group": "1"
+    "group": "1",
+    "id": 786,
+    "read": false
   },
   {
     "es": "mama",
@@ -6195,7 +7865,9 @@
     "de": "Brust",
     "it": "mammella",
     "ro": "maternă",
-    "group": "1"
+    "group": "1",
+    "id": 787,
+    "read": false
   },
   {
     "es": "abuela",
@@ -6203,7 +7875,9 @@
     "de": "Großmutter",
     "it": "nonna",
     "ro": "bunică",
-    "group": "1"
+    "group": "1",
+    "id": 788,
+    "read": false
   },
   {
     "es": "tarjeta",
@@ -6211,7 +7885,9 @@
     "de": "Karte",
     "it": "scheda",
     "ro": "card",
-    "group": "1"
+    "group": "1",
+    "id": 789,
+    "read": false
   },
   {
     "es": "presentar",
@@ -6219,7 +7895,9 @@
     "de": "präsentieren/vorstellen",
     "it": "presentare",
     "ro": "a prezenta",
-    "group": "1"
+    "group": "1",
+    "id": 790,
+    "read": false
   },
   {
     "es": "acceso",
@@ -6227,7 +7905,9 @@
     "de": "Zugang",
     "it": "accesso",
     "ro": "acces",
-    "group": "1"
+    "group": "1",
+    "id": 791,
+    "read": false
   },
   {
     "es": "fondo",
@@ -6235,7 +7915,9 @@
     "de": "Boden/Hintergrund",
     "it": "fondo",
     "ro": "fund",
-    "group": "1"
+    "group": "1",
+    "id": 792,
+    "read": false
   },
   {
     "es": "anillo",
@@ -6243,7 +7925,9 @@
     "de": "Ring",
     "it": "anello",
     "ro": "inel",
-    "group": "1"
+    "group": "1",
+    "id": 793,
+    "read": false
   },
   {
     "es": "divertido",
@@ -6251,7 +7935,9 @@
     "de": "lustig",
     "it": "divertente",
     "ro": "distractiv",
-    "group": "1"
+    "group": "1",
+    "id": 794,
+    "read": false
   },
   {
     "es": "detener",
@@ -6259,7 +7945,9 @@
     "de": "anhalten/festnehmen",
     "it": "fermare",
     "ro": "a opri",
-    "group": "1"
+    "group": "1",
+    "id": 795,
+    "read": false
   },
   {
     "es": "pistola",
@@ -6267,7 +7955,9 @@
     "de": "Pistole",
     "it": "pistola",
     "ro": "pistol",
-    "group": "1"
+    "group": "1",
+    "id": 796,
+    "read": false
   },
   {
     "es": "tiro",
@@ -6275,7 +7965,9 @@
     "de": "Schuss",
     "it": "tiro",
     "ro": "foc",
-    "group": "1"
+    "group": "1",
+    "id": 797,
+    "read": false
   },
   {
     "es": "comenzar",
@@ -6283,7 +7975,9 @@
     "de": "beginnen",
     "it": "cominciare",
     "ro": "a începe",
-    "group": "1"
+    "group": "1",
+    "id": 798,
+    "read": false
   },
   {
     "es": "velocidad",
@@ -6291,7 +7985,9 @@
     "de": "Geschwindigkeit",
     "it": "velocità",
     "ro": "viteză",
-    "group": "1"
+    "group": "1",
+    "id": 799,
+    "read": false
   },
   {
     "es": "partido",
@@ -6299,7 +7995,9 @@
     "de": "Spiel/Partei",
     "it": "partita",
     "ro": "meci",
-    "group": "1"
+    "group": "1",
+    "id": 800,
+    "read": false
   },
   {
     "es": "cuidar",
@@ -6307,7 +8005,9 @@
     "de": "aufpassen/pflegen",
     "it": "curare",
     "ro": "a îngriji",
-    "group": "1"
+    "group": "1",
+    "id": 801,
+    "read": false
   },
   {
     "es": "calmar",
@@ -6315,7 +8015,9 @@
     "de": "beruhigen",
     "it": "calmare",
     "ro": "a calma",
-    "group": "1"
+    "group": "1",
+    "id": 802,
+    "read": false
   },
   {
     "es": "obviamente",
@@ -6323,7 +8025,9 @@
     "de": "offensichtlich",
     "it": "ovviamente",
     "ro": "evident",
-    "group": "1"
+    "group": "1",
+    "id": 803,
+    "read": false
   },
   {
     "es": "uso",
@@ -6331,7 +8035,9 @@
     "de": "Gebrauch",
     "it": "uso",
     "ro": "utilizare",
-    "group": "1"
+    "group": "1",
+    "id": 804,
+    "read": false
   },
   {
     "es": "escena",
@@ -6339,7 +8045,9 @@
     "de": "Szene",
     "it": "scena",
     "ro": "scenă",
-    "group": "1"
+    "group": "1",
+    "id": 805,
+    "read": false
   },
   {
     "es": "despertar",
@@ -6347,7 +8055,9 @@
     "de": "aufwachen",
     "it": "svegliare",
     "ro": "a se trezi",
-    "group": "1"
+    "group": "1",
+    "id": 806,
+    "read": false
   },
   {
     "es": "presión",
@@ -6355,7 +8065,9 @@
     "de": "Druck",
     "it": "pressione",
     "ro": "presiune",
-    "group": "1"
+    "group": "1",
+    "id": 807,
+    "read": false
   },
   {
     "es": "tercer",
@@ -6363,7 +8075,9 @@
     "de": "dritter",
     "it": "terzo",
     "ro": "treilea",
-    "group": "1"
+    "group": "1",
+    "id": 808,
+    "read": false
   },
   {
     "es": "echar",
@@ -6371,7 +8085,9 @@
     "de": "werfen/rauswerfen",
     "it": "buttare",
     "ro": "a arunca",
-    "group": "1"
+    "group": "1",
+    "id": 809,
+    "read": false
   },
   {
     "es": "directo",
@@ -6379,7 +8095,9 @@
     "de": "direkt",
     "it": "diretta",
     "ro": "direct",
-    "group": "1"
+    "group": "1",
+    "id": 810,
+    "read": false
   },
   {
     "es": "canción",
@@ -6387,7 +8105,9 @@
     "de": "Lied",
     "it": "canzone",
     "ro": "cântec",
-    "group": "1"
+    "group": "1",
+    "id": 811,
+    "read": false
   },
   {
     "es": "sir",
@@ -6395,7 +8115,9 @@
     "de": "Sir",
     "it": "sir",
     "ro": "sir",
-    "group": "1"
+    "group": "1",
+    "id": 812,
+    "read": false
   },
   {
     "es": "roma",
@@ -6403,7 +8125,9 @@
     "de": "Rom",
     "it": "Roma",
     "ro": "Roma",
-    "group": "1"
+    "group": "1",
+    "id": 813,
+    "read": false
   },
   {
     "es": "imaginar",
@@ -6411,7 +8135,9 @@
     "de": "vorstellen",
     "it": "immaginare",
     "ro": "a-și imagina",
-    "group": "1"
+    "group": "1",
+    "id": 814,
+    "read": false
   },
   {
     "es": "beber",
@@ -6419,7 +8145,9 @@
     "de": "trinken",
     "it": "bere",
     "ro": "a bea",
-    "group": "1"
+    "group": "1",
+    "id": 815,
+    "read": false
   },
   {
     "es": "enviar",
@@ -6427,7 +8155,9 @@
     "de": "senden",
     "it": "inviare",
     "ro": "a trimite",
-    "group": "1"
+    "group": "1",
+    "id": 816,
+    "read": false
   },
   {
     "es": "cenar",
@@ -6435,7 +8165,9 @@
     "de": "zu Abend essen",
     "it": "cenare",
     "ro": "a cina",
-    "group": "1"
+    "group": "1",
+    "id": 817,
+    "read": false
   },
   {
     "es": "horrible",
@@ -6443,7 +8175,9 @@
     "de": "schrecklich",
     "it": "orribile",
     "ro": "oribil",
-    "group": "1"
+    "group": "1",
+    "id": 818,
+    "read": false
   },
   {
     "es": "animal",
@@ -6451,7 +8185,9 @@
     "de": "Tier",
     "it": "animale",
     "ro": "animal",
-    "group": "1"
+    "group": "1",
+    "id": 819,
+    "read": false
   },
   {
     "es": "sección",
@@ -6459,7 +8195,9 @@
     "de": "Abschnitt",
     "it": "sezione",
     "ro": "secțiune",
-    "group": "1"
+    "group": "1",
+    "id": 820,
+    "read": false
   },
   {
     "es": "suelo",
@@ -6467,7 +8205,9 @@
     "de": "Boden",
     "it": "suolo",
     "ro": "sol",
-    "group": "1"
+    "group": "1",
+    "id": 821,
+    "read": false
   },
   {
     "es": "bella",
@@ -6475,7 +8215,9 @@
     "de": "schöne",
     "it": "bella",
     "ro": "frumoasă",
-    "group": "1"
+    "group": "1",
+    "id": 822,
+    "read": false
   },
   {
     "es": "piel",
@@ -6483,7 +8225,9 @@
     "de": "Haut/Fell",
     "it": "pelle",
     "ro": "piele",
-    "group": "1"
+    "group": "1",
+    "id": 823,
+    "read": false
   },
   {
     "es": "perdonar",
@@ -6491,7 +8235,9 @@
     "de": "verzeihen",
     "it": "perdonare",
     "ro": "a ierta",
-    "group": "1"
+    "group": "1",
+    "id": 824,
+    "read": false
   },
   {
     "es": "pago",
@@ -6499,7 +8245,9 @@
     "de": "Zahlung",
     "it": "pagamento",
     "ro": "plată",
-    "group": "1"
+    "group": "1",
+    "id": 825,
+    "read": false
   },
   {
     "es": "experiencia",
@@ -6507,7 +8255,9 @@
     "de": "Erfahrung",
     "it": "esperienza",
     "ro": "experiență",
-    "group": "1"
+    "group": "1",
+    "id": 826,
+    "read": false
   },
   {
     "es": "proyecto",
@@ -6515,7 +8265,9 @@
     "de": "Projekt",
     "it": "progetto",
     "ro": "proiect",
-    "group": "1"
+    "group": "1",
+    "id": 827,
+    "read": false
   },
   {
     "es": "defensa",
@@ -6523,7 +8275,9 @@
     "de": "Verteidigung",
     "it": "difesa",
     "ro": "apărare",
-    "group": "1"
+    "group": "1",
+    "id": 828,
+    "read": false
   },
   {
     "es": "action",
@@ -6531,7 +8285,9 @@
     "de": "Aktion/Handlung",
     "it": "azione",
     "ro": "acțiune",
-    "group": "1"
+    "group": "1",
+    "id": 829,
+    "read": false
   },
   {
     "es": "principio",
@@ -6539,7 +8295,9 @@
     "de": "Anfang/Prinzip",
     "it": "principio",
     "ro": "principiu",
-    "group": "1"
+    "group": "1",
+    "id": 830,
+    "read": false
   },
   {
     "es": "orgulloso",
@@ -6547,7 +8305,9 @@
     "de": "stolz",
     "it": "orgoglioso",
     "ro": "mândru",
-    "group": "1"
+    "group": "1",
+    "id": 831,
+    "read": false
   },
   {
     "es": "metro",
@@ -6555,7 +8315,9 @@
     "de": "Meter/U-Bahn",
     "it": "metro",
     "ro": "metru",
-    "group": "1"
+    "group": "1",
+    "id": 832,
+    "read": false
   },
   {
     "es": "red",
@@ -6563,7 +8325,9 @@
     "de": "Netz",
     "it": "rete",
     "ro": "rețea",
-    "group": "1"
+    "group": "1",
+    "id": 833,
+    "read": false
   },
   {
     "es": "precio",
@@ -6571,7 +8335,9 @@
     "de": "Preis",
     "it": "prezzo",
     "ro": "preț",
-    "group": "1"
+    "group": "1",
+    "id": 834,
+    "read": false
   },
   {
     "es": "mover",
@@ -6579,7 +8345,9 @@
     "de": "bewegen",
     "it": "muovere",
     "ro": "a mișca",
-    "group": "1"
+    "group": "1",
+    "id": 835,
+    "read": false
   },
   {
     "es": "patir",
@@ -6587,7 +8355,9 @@
     "de": "leiden",
     "it": "soffrire",
     "ro": "a suferi",
-    "group": "1"
+    "group": "1",
+    "id": 836,
+    "read": false
   },
   {
     "es": "bailar",
@@ -6595,7 +8365,9 @@
     "de": "tanzen",
     "it": "ballare",
     "ro": "a dansa",
-    "group": "1"
+    "group": "1",
+    "id": 837,
+    "read": false
   },
   {
     "es": "alejar",
@@ -6603,7 +8375,9 @@
     "de": "entfernen",
     "it": "allontanare",
     "ro": "a îndepărta",
-    "group": "1"
+    "group": "1",
+    "id": 838,
+    "read": false
   },
   {
     "es": "propósito",
@@ -6611,7 +8385,9 @@
     "de": "Zweck/Absicht",
     "it": "proposito",
     "ro": "scop",
-    "group": "1"
+    "group": "1",
+    "id": 839,
+    "read": false
   },
   {
     "es": "pedido",
@@ -6619,7 +8395,9 @@
     "de": "Bestellung",
     "it": "ordine",
     "ro": "comandă",
-    "group": "1"
+    "group": "1",
+    "id": 840,
+    "read": false
   },
   {
     "es": "vos",
@@ -6627,7 +8405,9 @@
     "de": "du/Sie",
     "it": "voi",
     "ro": "voi",
-    "group": "1"
+    "group": "1",
+    "id": 841,
+    "read": false
   },
   {
     "es": "vender",
@@ -6635,7 +8415,9 @@
     "de": "verkaufen",
     "it": "vendere",
     "ro": "a vinde",
-    "group": "1"
+    "group": "1",
+    "id": 842,
+    "read": false
   },
   {
     "es": "necesario",
@@ -6643,7 +8425,9 @@
     "de": "notwendig",
     "it": "necessario",
     "ro": "necesar",
-    "group": "1"
+    "group": "1",
+    "id": 843,
+    "read": false
   },
   {
     "es": "molestar",
@@ -6651,7 +8435,9 @@
     "de": "stören",
     "it": "fastidiare",
     "ro": "a deranja",
-    "group": "1"
+    "group": "1",
+    "id": 844,
+    "read": false
   },
   {
     "es": "charles",
@@ -6659,7 +8445,9 @@
     "de": "Karl",
     "it": "Carlo",
     "ro": "Carol",
-    "group": "1"
+    "group": "1",
+    "id": 845,
+    "read": false
   },
   {
     "es": "operación",
@@ -6667,7 +8455,9 @@
     "de": "Operation",
     "it": "operazione",
     "ro": "operație",
-    "group": "1"
+    "group": "1",
+    "id": 846,
+    "read": false
   },
   {
     "es": "tv",
@@ -6675,7 +8465,9 @@
     "de": "Fernseher",
     "it": "TV",
     "ro": "TV",
-    "group": "1"
+    "group": "1",
+    "id": 847,
+    "read": false
   },
   {
     "es": "lord",
@@ -6683,7 +8475,9 @@
     "de": "Lord",
     "it": "lord",
     "ro": "lord",
-    "group": "1"
+    "group": "1",
+    "id": 848,
+    "read": false
   },
   {
     "es": "banda",
@@ -6691,7 +8485,9 @@
     "de": "Band",
     "it": "banda",
     "ro": "trupă",
-    "group": "1"
+    "group": "1",
+    "id": 849,
+    "read": false
   },
   {
     "es": "resultar",
@@ -6699,7 +8495,9 @@
     "de": "ergeben",
     "it": "risultare",
     "ro": "a rezulta",
-    "group": "1"
+    "group": "1",
+    "id": 850,
+    "read": false
   },
   {
     "es": "miembro",
@@ -6707,7 +8505,9 @@
     "de": "Mitglied",
     "it": "membro",
     "ro": "membru",
-    "group": "1"
+    "group": "1",
+    "id": 851,
+    "read": false
   },
   {
     "es": "rico",
@@ -6715,7 +8515,9 @@
     "de": "reich/lecker",
     "it": "ricco",
     "ro": "bogat",
-    "group": "1"
+    "group": "1",
+    "id": 852,
+    "read": false
   },
   {
     "es": "permitir",
@@ -6723,7 +8525,9 @@
     "de": "erlauben",
     "it": "permettere",
     "ro": "a permite",
-    "group": "1"
+    "group": "1",
+    "id": 853,
+    "read": false
   },
   {
     "es": "diferencia",
@@ -6731,7 +8535,9 @@
     "de": "Unterschied",
     "it": "differenza",
     "ro": "diferență",
-    "group": "1"
+    "group": "1",
+    "id": 854,
+    "read": false
   },
   {
     "es": "salida",
@@ -6739,7 +8545,9 @@
     "de": "Ausgang",
     "it": "uscita",
     "ro": "ieșire",
-    "group": "1"
+    "group": "1",
+    "id": 855,
+    "read": false
   },
   {
     "es": "joder",
@@ -6747,7 +8555,9 @@
     "de": "verdammt/ficken",
     "it": "cazzo",
     "ro": "dracu",
-    "group": "1"
+    "group": "1",
+    "id": 856,
+    "read": false
   },
   {
     "es": "triste",
@@ -6755,7 +8565,9 @@
     "de": "traurig",
     "it": "triste",
     "ro": "trist",
-    "group": "1"
+    "group": "1",
+    "id": 857,
+    "read": false
   },
   {
     "es": "azul",
@@ -6763,7 +8575,9 @@
     "de": "blau",
     "it": "blu",
     "ro": "albastru",
-    "group": "1"
+    "group": "1",
+    "id": 858,
+    "read": false
   },
   {
     "es": "robar",
@@ -6771,7 +8585,9 @@
     "de": "stehlen",
     "it": "rubare",
     "ro": "a fura",
-    "group": "1"
+    "group": "1",
+    "id": 859,
+    "read": false
   },
   {
     "es": "hogar",
@@ -6779,7 +8595,9 @@
     "de": "Heim",
     "it": "casa",
     "ro": "cămin",
-    "group": "1"
+    "group": "1",
+    "id": 860,
+    "read": false
   },
   {
     "es": "dueño",
@@ -6787,7 +8605,9 @@
     "de": "Besitzer",
     "it": "proprietario",
     "ro": "proprietar",
-    "group": "1"
+    "group": "1",
+    "id": 861,
+    "read": false
   },
   {
     "es": "pista",
@@ -6795,7 +8615,9 @@
     "de": "Spur/Hinweis",
     "it": "pista",
     "ro": "pistă",
-    "group": "1"
+    "group": "1",
+    "id": 862,
+    "read": false
   },
   {
     "es": "pan",
@@ -6803,7 +8625,9 @@
     "de": "Brot",
     "it": "pane",
     "ro": "pâine",
-    "group": "1"
+    "group": "1",
+    "id": 863,
+    "read": false
   },
   {
     "es": "puto",
@@ -6811,7 +8635,9 @@
     "de": "verdammt",
     "it": "maledetto",
     "ro": "nenorocit",
-    "group": "1"
+    "group": "1",
+    "id": 864,
+    "read": false
   },
   {
     "es": "memoria",
@@ -6819,7 +8645,9 @@
     "de": "Gedächtnis",
     "it": "memoria",
     "ro": "memorie",
-    "group": "1"
+    "group": "1",
+    "id": 865,
+    "read": false
   },
   {
     "es": "puente",
@@ -6827,7 +8655,9 @@
     "de": "Brücke",
     "it": "ponte",
     "ro": "pod",
-    "group": "1"
+    "group": "1",
+    "id": 866,
+    "read": false
   },
   {
     "es": "compañero",
@@ -6835,7 +8665,9 @@
     "de": "Partner",
     "it": "compagno",
     "ro": "partener",
-    "group": "1"
+    "group": "1",
+    "id": 867,
+    "read": false
   },
   {
     "es": "lucha",
@@ -6843,7 +8675,9 @@
     "de": "Kampf",
     "it": "lotta",
     "ro": "luptă",
-    "group": "1"
+    "group": "1",
+    "id": 868,
+    "read": false
   },
   {
     "es": "cabo",
@@ -6851,7 +8685,9 @@
     "de": "Ende/Kap/Gefreiter",
     "it": "capo",
     "ro": "capăt",
-    "group": "1"
+    "group": "1",
+    "id": 869,
+    "read": false
   },
   {
     "es": "viento",
@@ -6859,7 +8695,9 @@
     "de": "Wind",
     "it": "vento",
     "ro": "vânt",
-    "group": "1"
+    "group": "1",
+    "id": 870,
+    "read": false
   },
   {
     "es": "camión",
@@ -6867,7 +8705,9 @@
     "de": "LKW",
     "it": "camion",
     "ro": "camion",
-    "group": "1"
+    "group": "1",
+    "id": 871,
+    "read": false
   },
   {
     "es": "bala",
@@ -6875,7 +8715,9 @@
     "de": "Kugel",
     "it": "pallottola",
     "ro": "glonț",
-    "group": "1"
+    "group": "1",
+    "id": 872,
+    "read": false
   },
   {
     "es": "imagen",
@@ -6883,7 +8725,9 @@
     "de": "Bild",
     "it": "immagine",
     "ro": "imagine",
-    "group": "1"
+    "group": "1",
+    "id": 873,
+    "read": false
   },
   {
     "es": "toque",
@@ -6891,7 +8735,9 @@
     "de": "Berührung",
     "it": "tocco",
     "ro": "atingere",
-    "group": "1"
+    "group": "1",
+    "id": 874,
+    "read": false
   },
   {
     "es": "sonido",
@@ -6899,7 +8745,9 @@
     "de": "Geräusch",
     "it": "suono",
     "ro": "sunet",
-    "group": "1"
+    "group": "1",
+    "id": 875,
+    "read": false
   },
   {
     "es": "universidad",
@@ -6907,7 +8755,9 @@
     "de": "Universität",
     "it": "università",
     "ro": "universitate",
-    "group": "1"
+    "group": "1",
+    "id": 876,
+    "read": false
   },
   {
     "es": "tercera",
@@ -6915,7 +8765,9 @@
     "de": "dritte",
     "it": "terza",
     "ro": "treia",
-    "group": "1"
+    "group": "1",
+    "id": 877,
+    "read": false
   },
   {
     "es": "broma",
@@ -6923,7 +8775,9 @@
     "de": "Witz",
     "it": "scherzo",
     "ro": "glumă",
-    "group": "1"
+    "group": "1",
+    "id": 878,
+    "read": false
   },
   {
     "es": "droga",
@@ -6931,7 +8785,9 @@
     "de": "Droge",
     "it": "droga",
     "ro": "drog",
-    "group": "1"
+    "group": "1",
+    "id": 879,
+    "read": false
   },
   {
     "es": "tamaño",
@@ -6939,7 +8795,9 @@
     "de": "Größe",
     "it": "dimensione",
     "ro": "mărime",
-    "group": "1"
+    "group": "1",
+    "id": 880,
+    "read": false
   },
   {
     "es": "suficientemente",
@@ -6947,7 +8805,9 @@
     "de": "genug",
     "it": "abbastanza",
     "ro": "suficient",
-    "group": "1"
+    "group": "1",
+    "id": 881,
+    "read": false
   },
   {
     "es": "carga",
@@ -6955,7 +8815,9 @@
     "de": "Ladung",
     "it": "carica",
     "ro": "sarcină",
-    "group": "1"
+    "group": "1",
+    "id": 882,
+    "read": false
   },
   {
     "es": "temprano",
@@ -6963,7 +8825,9 @@
     "de": "früh",
     "it": "presto",
     "ro": "devreme",
-    "group": "1"
+    "group": "1",
+    "id": 883,
+    "read": false
   },
   {
     "es": "olvidar",
@@ -6971,7 +8835,9 @@
     "de": "vergessen",
     "it": "dimenticare",
     "ro": "a uita",
-    "group": "1"
+    "group": "1",
+    "id": 884,
+    "read": false
   },
   {
     "es": "agradecer",
@@ -6979,7 +8845,9 @@
     "de": "danken",
     "it": "ringraziare",
     "ro": "a mulțumi",
-    "group": "1"
+    "group": "1",
+    "id": 885,
+    "read": false
   },
   {
     "es": "peso",
@@ -6987,7 +8855,9 @@
     "de": "Gewicht",
     "it": "peso",
     "ro": "greutate",
-    "group": "1"
+    "group": "1",
+    "id": 886,
+    "read": false
   },
   {
     "es": "coger",
@@ -6995,7 +8865,9 @@
     "de": "nehmen/fassen",
     "it": "prendere",
     "ro": "a lua",
-    "group": "1"
+    "group": "1",
+    "id": 887,
+    "read": false
   },
   {
     "es": "pareja",
@@ -7003,7 +8875,9 @@
     "de": "Paar",
     "it": "coppia",
     "ro": "cuplu",
-    "group": "1"
+    "group": "1",
+    "id": 888,
+    "read": false
   },
   {
     "es": "líder",
@@ -7011,7 +8885,9 @@
     "de": "Anführer",
     "it": "leader",
     "ro": "lider",
-    "group": "1"
+    "group": "1",
+    "id": 889,
+    "read": false
   },
   {
     "es": "público",
@@ -7019,7 +8895,9 @@
     "de": "Öffentlichkeit",
     "it": "pubblico",
     "ro": "public",
-    "group": "1"
+    "group": "1",
+    "id": 890,
+    "read": false
   },
   {
     "es": "cien",
@@ -7027,7 +8905,9 @@
     "de": "hundert",
     "it": "cento",
     "ro": "sută",
-    "group": "1"
+    "group": "1",
+    "id": 891,
+    "read": false
   },
   {
     "es": "calor",
@@ -7035,7 +8915,9 @@
     "de": "Hitze",
     "it": "calore",
     "ro": "căldură",
-    "group": "1"
+    "group": "1",
+    "id": 892,
+    "read": false
   },
   {
     "es": "recibir",
@@ -7043,7 +8925,9 @@
     "de": "erhalten",
     "it": "ricevere",
     "ro": "a primi",
-    "group": "1"
+    "group": "1",
+    "id": 893,
+    "read": false
   },
   {
     "es": "vosotros",
@@ -7051,7 +8935,9 @@
     "de": "ihr",
     "it": "voi",
     "ro": "voi",
-    "group": "1"
+    "group": "1",
+    "id": 894,
+    "read": false
   },
   {
     "es": "ey",
@@ -7059,7 +8945,9 @@
     "de": "hey",
     "it": "ehi",
     "ro": "hei",
-    "group": "1"
+    "group": "1",
+    "id": 895,
+    "read": false
   },
   {
     "es": "arte",
@@ -7067,7 +8955,9 @@
     "de": "Kunst",
     "it": "arte",
     "ro": "artă",
-    "group": "1"
+    "group": "1",
+    "id": 896,
+    "read": false
   },
   {
     "es": "luchar",
@@ -7075,7 +8965,9 @@
     "de": "kämpfen",
     "it": "lottare",
     "ro": "a lupta",
-    "group": "1"
+    "group": "1",
+    "id": 897,
+    "read": false
   },
   {
     "es": "respecto",
@@ -7083,7 +8975,9 @@
     "de": "Hinsicht",
     "it": "rispetto",
     "ro": "privință",
-    "group": "1"
+    "group": "1",
+    "id": 898,
+    "read": false
   },
   {
     "es": "infierno",
@@ -7091,7 +8985,9 @@
     "de": "Hölle",
     "it": "inferno",
     "ro": "iad",
-    "group": "1"
+    "group": "1",
+    "id": 899,
+    "read": false
   },
   {
     "es": "tema",
@@ -7099,7 +8995,9 @@
     "de": "Thema",
     "it": "tema",
     "ro": "subiect",
-    "group": "1"
+    "group": "1",
+    "id": 900,
+    "read": false
   },
   {
     "es": "recién",
@@ -7107,7 +9005,9 @@
     "de": "gerade",
     "it": "appena",
     "ro": "recent",
-    "group": "1"
+    "group": "1",
+    "id": 901,
+    "read": false
   },
   {
     "es": "héroe",
@@ -7115,7 +9015,9 @@
     "de": "Held",
     "it": "eroe",
     "ro": "erou",
-    "group": "1"
+    "group": "1",
+    "id": 902,
+    "read": false
   },
   {
     "es": "marca",
@@ -7123,7 +9025,9 @@
     "de": "Marke",
     "it": "marca",
     "ro": "marcă",
-    "group": "1"
+    "group": "1",
+    "id": 903,
+    "read": false
   },
   {
     "es": "guardar",
@@ -7131,7 +9035,9 @@
     "de": "aufbewahren/speichern",
     "it": "guardare",
     "ro": "a păstra",
-    "group": "1"
+    "group": "1",
+    "id": 904,
+    "read": false
   },
   {
     "es": "enfermo",
@@ -7139,7 +9045,9 @@
     "de": "krank",
     "it": "malato",
     "ro": "bolnav",
-    "group": "1"
+    "group": "1",
+    "id": 905,
+    "read": false
   },
   {
     "es": "coño",
@@ -7147,7 +9055,9 @@
     "de": "Verdammt",
     "it": "figa",
     "ro": "pizdă",
-    "group": "1"
+    "group": "1",
+    "id": 906,
+    "read": false
   },
   {
     "es": "quitar",
@@ -7155,7 +9065,9 @@
     "de": "wegnehmen",
     "it": "togliere",
     "ro": "a scoate",
-    "group": "1"
+    "group": "1",
+    "id": 907,
+    "read": false
   },
   {
     "es": "sujeto",
@@ -7163,7 +9075,9 @@
     "de": "Subjekt/Typ",
     "it": "soggetto",
     "ro": "subiect",
-    "group": "1"
+    "group": "1",
+    "id": 908,
+    "read": false
   },
   {
     "es": "maravilloso",
@@ -7171,7 +9085,9 @@
     "de": "wunderbar",
     "it": "meraviglioso",
     "ro": "minunat",
-    "group": "1"
+    "group": "1",
+    "id": 909,
+    "read": false
   },
   {
     "es": "ejemplo",
@@ -7179,7 +9095,9 @@
     "de": "Beispiel",
     "it": "esempio",
     "ro": "exemplu",
-    "group": "1"
+    "group": "1",
+    "id": 910,
+    "read": false
   },
   {
     "es": "ciento",
@@ -7187,7 +9105,9 @@
     "de": "hundert",
     "it": "cento",
     "ro": "sută",
-    "group": "1"
+    "group": "1",
+    "id": 911,
+    "read": false
   },
   {
     "es": "té",
@@ -7195,7 +9115,9 @@
     "de": "Tee",
     "it": "tè",
     "ro": "ceai",
-    "group": "1"
+    "group": "1",
+    "id": 912,
+    "read": false
   },
   {
     "es": "sugerir",
@@ -7203,7 +9125,9 @@
     "de": "vorgeschlagen",
     "it": "suggerire",
     "ro": "a sugera",
-    "group": "1"
+    "group": "1",
+    "id": 913,
+    "read": false
   },
   {
     "es": "repente",
@@ -7211,7 +9135,9 @@
     "de": "plötzlich",
     "it": "improvviso",
     "ro": "repente",
-    "group": "1"
+    "group": "1",
+    "id": 914,
+    "read": false
   },
   {
     "es": "lana",
@@ -7219,7 +9145,9 @@
     "de": "Wolle",
     "it": "lana",
     "ro": "lână",
-    "group": "1"
+    "group": "1",
+    "id": 915,
+    "read": false
   },
   {
     "es": "opinión",
@@ -7227,7 +9155,9 @@
     "de": "Meinung",
     "it": "opinione",
     "ro": "opinie",
-    "group": "1"
+    "group": "1",
+    "id": 916,
+    "read": false
   },
   {
     "es": "bola",
@@ -7235,7 +9165,9 @@
     "de": "Ball/Kugel",
     "it": "palla",
     "ro": "minge",
-    "group": "1"
+    "group": "1",
+    "id": 917,
+    "read": false
   },
   {
     "es": "ama",
@@ -7243,7 +9175,9 @@
     "de": "Herrin/liebt",
     "it": "ama",
     "ro": "stăpână",
-    "group": "1"
+    "group": "1",
+    "id": 918,
+    "read": false
   },
   {
     "es": "costa",
@@ -7251,7 +9185,9 @@
     "de": "Küste",
     "it": "costa",
     "ro": "coastă",
-    "group": "1"
+    "group": "1",
+    "id": 919,
+    "read": false
   },
   {
     "es": "serie",
@@ -7259,7 +9195,9 @@
     "de": "Serie",
     "it": "serie",
     "ro": "serie",
-    "group": "1"
+    "group": "1",
+    "id": 920,
+    "read": false
   },
   {
     "es": "ello",
@@ -7267,7 +9205,9 @@
     "de": "es",
     "it": "ciò",
     "ro": "asta",
-    "group": "1"
+    "group": "1",
+    "id": 921,
+    "read": false
   },
   {
     "es": "aceptar",
@@ -7275,7 +9215,9 @@
     "de": "akzeptieren",
     "it": "accettare",
     "ro": "a accepta",
-    "group": "1"
+    "group": "1",
+    "id": 922,
+    "read": false
   },
   {
     "es": "obtener",
@@ -7283,7 +9225,9 @@
     "de": "erhalten",
     "it": "ottenere",
     "ro": "a obține",
-    "group": "1"
+    "group": "1",
+    "id": 923,
+    "read": false
   },
   {
     "es": "vuestro",
@@ -7291,7 +9235,9 @@
     "de": "euer",
     "it": "vostro",
     "ro": "vostru",
-    "group": "1"
+    "group": "1",
+    "id": 924,
+    "read": false
   },
   {
     "es": "reloj",
@@ -7299,7 +9245,9 @@
     "de": "Uhr",
     "it": "orologio",
     "ro": "ceas",
-    "group": "1"
+    "group": "1",
+    "id": 925,
+    "read": false
   },
   {
     "es": "ventana",
@@ -7307,7 +9255,9 @@
     "de": "Fenster",
     "it": "finestra",
     "ro": "fereastră",
-    "group": "1"
+    "group": "1",
+    "id": 926,
+    "read": false
   },
   {
     "es": "torre",
@@ -7315,7 +9265,9 @@
     "de": "Turm",
     "it": "torre",
     "ro": "turn",
-    "group": "1"
+    "group": "1",
+    "id": 927,
+    "read": false
   },
   {
     "es": "prisión",
@@ -7323,7 +9275,9 @@
     "de": "Gefängnis",
     "it": "prigione",
     "ro": "închisoare",
-    "group": "1"
+    "group": "1",
+    "id": 928,
+    "read": false
   },
   {
     "es": "papi",
@@ -7331,7 +9285,9 @@
     "de": "Papi",
     "it": "papi",
     "ro": "tătic",
-    "group": "1"
+    "group": "1",
+    "id": 929,
+    "read": false
   },
   {
     "es": "bosque",
@@ -7339,7 +9295,9 @@
     "de": "Wald",
     "it": "bosco",
     "ro": "pădure",
-    "group": "1"
+    "group": "1",
+    "id": 930,
+    "read": false
   },
   {
     "es": "central",
@@ -7347,7 +9305,9 @@
     "de": "zentral",
     "it": "centrale",
     "ro": "central",
-    "group": "1"
+    "group": "1",
+    "id": 931,
+    "read": false
   },
   {
     "es": "cansar",
@@ -7355,7 +9315,9 @@
     "de": "ermüden",
     "it": "stancare",
     "ro": "a obosi",
-    "group": "1"
+    "group": "1",
+    "id": 932,
+    "read": false
   },
   {
     "es": "rato",
@@ -7363,7 +9325,9 @@
     "de": "Weile",
     "it": "momento",
     "ro": "estimp",
-    "group": "1"
+    "group": "1",
+    "id": 933,
+    "read": false
   },
   {
     "es": "objetivo",
@@ -7371,16 +9335,29 @@
     "de": "Ziel",
     "it": "obiettivo",
     "ro": "obiectiv",
-    "group": "1"
+    "group": "1",
+    "id": 934,
+    "read": false
   },
-  { "es": "km", "en": "km", "de": "km", "it": "km", "ro": "km", "group": "1" },
+  {
+    "es": "km",
+    "en": "km",
+    "de": "km",
+    "it": "km",
+    "ro": "km",
+    "group": "1",
+    "id": 935,
+    "read": false
+  },
   {
     "es": "referir",
     "en": "to refer",
     "de": "beziehen",
     "it": "riferire",
     "ro": "a se referi",
-    "group": "1"
+    "group": "1",
+    "id": 936,
+    "read": false
   },
   {
     "es": "asiento",
@@ -7388,7 +9365,9 @@
     "de": "Sitz",
     "it": "sedile",
     "ro": "scaun",
-    "group": "1"
+    "group": "1",
+    "id": 937,
+    "read": false
   },
   {
     "es": "robo",
@@ -7396,7 +9375,9 @@
     "de": "Raub",
     "it": "rapina",
     "ro": "jaf",
-    "group": "1"
+    "group": "1",
+    "id": 938,
+    "read": false
   },
   {
     "es": "tropa",
@@ -7404,7 +9385,9 @@
     "de": "Truppe",
     "it": "truppa",
     "ro": "trupă",
-    "group": "1"
+    "group": "1",
+    "id": 939,
+    "read": false
   },
   {
     "es": "enorme",
@@ -7412,7 +9395,9 @@
     "de": "enorm",
     "it": "enorme",
     "ro": "enorm",
-    "group": "1"
+    "group": "1",
+    "id": 940,
+    "read": false
   },
   {
     "es": "siglo",
@@ -7420,7 +9405,9 @@
     "de": "Jahrhundert",
     "it": "secolo",
     "ro": "secol",
-    "group": "1"
+    "group": "1",
+    "id": 941,
+    "read": false
   },
   {
     "es": "manejar",
@@ -7428,7 +9415,9 @@
     "de": "fahren/bedienen",
     "it": "guidare",
     "ro": "a conduce",
-    "group": "1"
+    "group": "1",
+    "id": 942,
+    "read": false
   },
   {
     "es": "cantidad",
@@ -7436,7 +9425,9 @@
     "de": "Menge",
     "it": "quantità",
     "ro": "cantitate",
-    "group": "1"
+    "group": "1",
+    "id": 943,
+    "read": false
   },
   {
     "es": "fuente",
@@ -7444,7 +9435,9 @@
     "de": "Quelle",
     "it": "fonte",
     "ro": "sursă",
-    "group": "1"
+    "group": "1",
+    "id": 944,
+    "read": false
   },
   {
     "es": "dedo",
@@ -7452,7 +9445,9 @@
     "de": "Finger",
     "it": "dito",
     "ro": "deget",
-    "group": "1"
+    "group": "1",
+    "id": 945,
+    "read": false
   },
   {
     "es": "interesante",
@@ -7460,7 +9455,9 @@
     "de": "interessant",
     "it": "interessante",
     "ro": "interesant",
-    "group": "1"
+    "group": "1",
+    "id": 946,
+    "read": false
   },
   {
     "es": "merecer",
@@ -7468,7 +9465,9 @@
     "de": "verdienen",
     "it": "meritare",
     "ro": "a merita",
-    "group": "1"
+    "group": "1",
+    "id": 947,
+    "read": false
   },
   {
     "es": "cinta",
@@ -7476,7 +9475,9 @@
     "de": "Band",
     "it": "nastro",
     "ro": "bandă",
-    "group": "1"
+    "group": "1",
+    "id": 948,
+    "read": false
   },
   {
     "es": "socio",
@@ -7484,7 +9485,9 @@
     "de": "Partner",
     "it": "socio",
     "ro": "asociat",
-    "group": "1"
+    "group": "1",
+    "id": 949,
+    "read": false
   },
   {
     "es": "sorpresa",
@@ -7492,7 +9495,9 @@
     "de": "Überraschung",
     "it": "sorpresa",
     "ro": "surpriză",
-    "group": "1"
+    "group": "1",
+    "id": 950,
+    "read": false
   },
   {
     "es": "riesgo",
@@ -7500,7 +9505,9 @@
     "de": "Risiko",
     "it": "rischio",
     "ro": "risc",
-    "group": "1"
+    "group": "1",
+    "id": 951,
+    "read": false
   },
   {
     "es": "recoger",
@@ -7508,7 +9515,9 @@
     "de": "abholen/aufsammeln",
     "it": "raccogliere",
     "ro": "a ridica",
-    "group": "1"
+    "group": "1",
+    "id": 952,
+    "read": false
   },
   {
     "es": "tirar",
@@ -7516,7 +9525,9 @@
     "de": "werfen/ziehen",
     "it": "tirare",
     "ro": "a arunca",
-    "group": "1"
+    "group": "1",
+    "id": 953,
+    "read": false
   },
   {
     "es": "milla",
@@ -7524,7 +9535,9 @@
     "de": "Meile",
     "it": "miglia",
     "ro": "milă",
-    "group": "1"
+    "group": "1",
+    "id": 954,
+    "read": false
   },
   {
     "es": "averiguar",
@@ -7532,7 +9545,9 @@
     "de": "herausfinden",
     "it": "scoprire",
     "ro": "a afla",
-    "group": "1"
+    "group": "1",
+    "id": 955,
+    "read": false
   },
   {
     "es": "peligroso",
@@ -7540,7 +9555,9 @@
     "de": "gefährlich",
     "it": "pericoloso",
     "ro": "periculos",
-    "group": "1"
+    "group": "1",
+    "id": 956,
+    "read": false
   },
   {
     "es": "crear",
@@ -7548,7 +9565,9 @@
     "de": "erschaffen",
     "it": "creare",
     "ro": "a crea",
-    "group": "1"
+    "group": "1",
+    "id": 957,
+    "read": false
   },
   {
     "es": "cliente",
@@ -7556,7 +9575,9 @@
     "de": "Kunde",
     "it": "cliente",
     "ro": "client",
-    "group": "1"
+    "group": "1",
+    "id": 958,
+    "read": false
   },
   {
     "es": "romper",
@@ -7564,7 +9585,9 @@
     "de": "brechen/kaputt machen",
     "it": "rompere",
     "ro": "a rupe",
-    "group": "1"
+    "group": "1",
+    "id": 959,
+    "read": false
   },
   {
     "es": "prisa",
@@ -7572,7 +9595,9 @@
     "de": "Eile",
     "it": "fretta",
     "ro": "grabă",
-    "group": "1"
+    "group": "1",
+    "id": 960,
+    "read": false
   },
   {
     "es": "caminar",
@@ -7580,7 +9605,9 @@
     "de": "laufen/gehen",
     "it": "camminare",
     "ro": "a merge",
-    "group": "1"
+    "group": "1",
+    "id": 961,
+    "read": false
   },
   {
     "es": "decidir",
@@ -7588,7 +9615,9 @@
     "de": "entscheiden",
     "it": "decidere",
     "ro": "a decide",
-    "group": "1"
+    "group": "1",
+    "id": 962,
+    "read": false
   },
   {
     "es": "zapato",
@@ -7596,7 +9625,9 @@
     "de": "Schuh",
     "it": "scarpa",
     "ro": "pantof",
-    "group": "1"
+    "group": "1",
+    "id": 963,
+    "read": false
   },
   {
     "es": "ganado",
@@ -7604,7 +9635,9 @@
     "de": "Vieh/gewonnen",
     "it": "bestiame",
     "ro": "vitată",
-    "group": "1"
+    "group": "1",
+    "id": 964,
+    "read": false
   },
   {
     "es": "limpiar",
@@ -7612,7 +9645,9 @@
     "de": "reinigen",
     "it": "pulire",
     "ro": "a curăța",
-    "group": "1"
+    "group": "1",
+    "id": 965,
+    "read": false
   },
   {
     "es": "gordo",
@@ -7620,7 +9655,9 @@
     "de": "dick",
     "it": "grasso",
     "ro": "gras",
-    "group": "1"
+    "group": "1",
+    "id": 966,
+    "read": false
   },
   {
     "es": "recuperar",
@@ -7628,7 +9665,9 @@
     "de": "wiedererlangen",
     "it": "recuperare",
     "ro": "a recupera",
-    "group": "1"
+    "group": "1",
+    "id": 967,
+    "read": false
   },
   {
     "es": "virus",
@@ -7636,7 +9675,9 @@
     "de": "Virus",
     "it": "virus",
     "ro": "virus",
-    "group": "1"
+    "group": "1",
+    "id": 968,
+    "read": false
   },
   {
     "es": "actuar",
@@ -7644,7 +9685,9 @@
     "de": "handeln/agieren",
     "it": "agire",
     "ro": "a acționa",
-    "group": "1"
+    "group": "1",
+    "id": 969,
+    "read": false
   },
   {
     "es": "verano",
@@ -7652,7 +9695,9 @@
     "de": "Sommer",
     "it": "estate",
     "ro": "vară",
-    "group": "1"
+    "group": "1",
+    "id": 970,
+    "read": false
   },
   {
     "es": "inteligente",
@@ -7660,7 +9705,9 @@
     "de": "intelligent",
     "it": "intelligente",
     "ro": "inteligent",
-    "group": "1"
+    "group": "1",
+    "id": 971,
+    "read": false
   },
   {
     "es": "dudar",
@@ -7668,7 +9715,9 @@
     "de": "zweifeln",
     "it": "dubitare",
     "ro": "a se îndoi",
-    "group": "1"
+    "group": "1",
+    "id": 972,
+    "read": false
   },
   {
     "es": "premio",
@@ -7676,7 +9725,9 @@
     "de": "Preis/Gewinn",
     "it": "premio",
     "ro": "premiu",
-    "group": "1"
+    "group": "1",
+    "id": 973,
+    "read": false
   },
   {
     "es": "posibilidad",
@@ -7684,7 +9735,9 @@
     "de": "Möglichkeit",
     "it": "possibilità",
     "ro": "posibilitate",
-    "group": "1"
+    "group": "1",
+    "id": 974,
+    "read": false
   },
   {
     "es": "faltar",
@@ -7692,7 +9745,9 @@
     "de": "fehlen",
     "it": "mancare",
     "ro": "a lipsi",
-    "group": "1"
+    "group": "1",
+    "id": 975,
+    "read": false
   },
   {
     "es": "mami",
@@ -7700,7 +9755,9 @@
     "de": "Mami",
     "it": "mami",
     "ro": "mămică",
-    "group": "1"
+    "group": "1",
+    "id": 976,
+    "read": false
   },
   {
     "es": "taxi",
@@ -7708,7 +9765,9 @@
     "de": "Taxi",
     "it": "taxi",
     "ro": "taxi",
-    "group": "1"
+    "group": "1",
+    "id": 977,
+    "read": false
   },
   {
     "es": "lástima",
@@ -7716,7 +9775,9 @@
     "de": "Mitleid/Schade",
     "it": "peccato",
     "ro": "păcat",
-    "group": "1"
+    "group": "1",
+    "id": 978,
+    "read": false
   },
   {
     "es": "ocupar",
@@ -7724,7 +9785,9 @@
     "de": "besetzen",
     "it": "occupare",
     "ro": "a ocupa",
-    "group": "1"
+    "group": "1",
+    "id": 979,
+    "read": false
   },
   {
     "es": "acto",
@@ -7732,7 +9795,9 @@
     "de": "Akt/Tat",
     "it": "atto",
     "ro": "act",
-    "group": "1"
+    "group": "1",
+    "id": 980,
+    "read": false
   },
   {
     "es": "caray",
@@ -7740,7 +9805,9 @@
     "de": "Mensch/ach was",
     "it": "caspita",
     "ro": "vai",
-    "group": "1"
+    "group": "1",
+    "id": 981,
+    "read": false
   },
   {
     "es": "visita",
@@ -7748,7 +9815,9 @@
     "de": "Besuch",
     "it": "visita",
     "ro": "vizită",
-    "group": "1"
+    "group": "1",
+    "id": 982,
+    "read": false
   },
   {
     "es": "controlar",
@@ -7756,7 +9825,9 @@
     "de": "kontrollieren",
     "it": "controllare",
     "ro": "a controla",
-    "group": "1"
+    "group": "1",
+    "id": 983,
+    "read": false
   },
   {
     "es": "canal",
@@ -7764,7 +9835,9 @@
     "de": "Kanal",
     "it": "canale",
     "ro": "canal",
-    "group": "1"
+    "group": "1",
+    "id": 984,
+    "read": false
   },
   {
     "es": "verde",
@@ -7772,7 +9845,9 @@
     "de": "grün",
     "it": "verde",
     "ro": "verde",
-    "group": "1"
+    "group": "1",
+    "id": 985,
+    "read": false
   },
   {
     "es": "discutir",
@@ -7780,7 +9855,9 @@
     "de": "diskutieren/streiten",
     "it": "discutere",
     "ro": "a discuta",
-    "group": "1"
+    "group": "1",
+    "id": 986,
+    "read": false
   },
   {
     "es": "unido",
@@ -7788,7 +9865,9 @@
     "de": "vereint",
     "it": "unito",
     "ro": "unit",
-    "group": "1"
+    "group": "1",
+    "id": 987,
+    "read": false
   },
   {
     "es": "salud",
@@ -7796,7 +9875,9 @@
     "de": "Gesundheit",
     "it": "salute",
     "ro": "sănătate",
-    "group": "1"
+    "group": "1",
+    "id": 988,
+    "read": false
   },
   {
     "es": "liso",
@@ -7804,7 +9885,9 @@
     "de": "glatt",
     "it": "liscio",
     "ro": "neted",
-    "group": "1"
+    "group": "1",
+    "id": 989,
+    "read": false
   },
   {
     "es": "agradable",
@@ -7812,7 +9895,9 @@
     "de": "angenehm",
     "it": "piacevole",
     "ro": "plăcut",
-    "group": "1"
+    "group": "1",
+    "id": 990,
+    "read": false
   },
   {
     "es": "caliente",
@@ -7820,7 +9905,9 @@
     "de": "heiß",
     "it": "caldo",
     "ro": "fierbinte",
-    "group": "1"
+    "group": "1",
+    "id": 991,
+    "read": false
   },
   {
     "es": "aguantar",
@@ -7828,7 +9915,9 @@
     "de": "aushalten",
     "it": "sopportare",
     "ro": "a îndura",
-    "group": "1"
+    "group": "1",
+    "id": 992,
+    "read": false
   },
   {
     "es": "meter",
@@ -7836,7 +9925,9 @@
     "de": "hineinstecken",
     "it": "mettere",
     "ro": "a băga",
-    "group": "1"
+    "group": "1",
+    "id": 993,
+    "read": false
   },
   {
     "es": "escapar",
@@ -7844,7 +9935,9 @@
     "de": "entkommen",
     "it": "scappare",
     "ro": "a scăpa",
-    "group": "1"
+    "group": "1",
+    "id": 994,
+    "read": false
   },
   {
     "es": "preparar",
@@ -7852,7 +9945,9 @@
     "de": "vorbereiten",
     "it": "preparare",
     "ro": "a pregăti",
-    "group": "1"
+    "group": "1",
+    "id": 995,
+    "read": false
   },
   {
     "es": "levantar",
@@ -7860,7 +9955,9 @@
     "de": "aufheben/hochheben",
     "it": "alzare",
     "ro": "a ridica",
-    "group": "1"
+    "group": "1",
+    "id": 996,
+    "read": false
   },
   {
     "es": "juez",
@@ -7868,7 +9965,9 @@
     "de": "Richter",
     "it": "giudice",
     "ro": "judecător",
-    "group": "1"
+    "group": "1",
+    "id": 997,
+    "read": false
   },
   {
     "es": "huella",
@@ -7876,7 +9975,9 @@
     "de": "Spur/Abdruck",
     "it": "impronta",
     "ro": "urmă",
-    "group": "1"
+    "group": "1",
+    "id": 998,
+    "read": false
   },
   {
     "es": "menor",
@@ -7884,6 +9985,8 @@
     "de": "jünger/kleiner",
     "it": "minore",
     "ro": "minor",
-    "group": "1"
+    "group": "1",
+    "id": 999,
+    "read": false
   }
 ]
