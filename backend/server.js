@@ -11,7 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // /words Route liest die JSON-Datei
-app.get("/words", (req, res) => {
+app.get("/api/words", (req, res) => {
   const group = req.query.group;
   const filePath = path.join(__dirname, "data", `g${group}.json`);
 
@@ -40,7 +40,7 @@ app.get("/words", (req, res) => {
     }
   });
 });
-app.get("/articles", (req, res) => {
+app.get("/api/articles", (req, res) => {
   const group = req.query.group;
   const filePath = path.join(__dirname, "data", `a${group}.json`);
 

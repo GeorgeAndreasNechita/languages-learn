@@ -43,7 +43,7 @@ function App() {
     try {
       setLoading(true);
 
-      const res = await fetch(`/words?group=${wordsLevel}`);
+      const res = await fetch(`/api/words?group=${wordsLevel}`);
       const data = await res.json();
 
       setWords(data);

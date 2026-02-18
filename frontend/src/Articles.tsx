@@ -43,7 +43,7 @@ function App() {
     try {
       setLoading(true);
 
-      const res = await fetch(`/articles?group=${articlesLevel}`);
+      const res = await fetch(`/api/articles?group=${articlesLevel}`);
       const data = await res.json();
       setWords(data);
     } catch (err) {
