@@ -1,0 +1,25 @@
+Der Prompt
+Rolle: Du bist ein Sprachexperte und Daten-Strukturierer.
+Aufgabe: 1. Erstelle einen Artikel über [DEIN THEMA, z.B. Die Zukunft der Raumfahrt] mit einer Länge von ca. 1500 Wörtern.
+2. Wandle diesen gesamten Artikel anschließend in eine JSON-Liste um.
+Striktes Segmentierungs-Gesetz:
+Jedes Mal, wenn im Text eines der folgenden Satzzeichen vorkommt: . , : ; ? !, muss der Eintrag beendet werden. Das Satzzeichen selbst bildet den Abschluss des Segments im jeweiligen Feld. Der nächste Eintrag beginnt mit dem ersten Wort nach dem Satzzeichen.
+JSON-Format pro Eintrag:
+Jedes Objekt in der Liste muss exakt so aufgebaut sein:
+
+JSON
+
+{
+  "es": "[Spanische Übersetzung des Segments]",
+  "en": "[Englische Übersetzung des Segments]",
+  "de": "[Deutscher Originaltext des Segments]",
+  "it": "[Italienische Übersetzung des Segments]",
+  "ro": "[Rumänische Übersetzung des Segments]",
+  "id": [Fortlaufende Nummer]
+}
+Zusatzbedingungen:
+
+Übersetze den Sinn akkurat, aber bleibe so nah wie möglich an der Struktur des deutschen Segments.
+Lasse kein Wort des Artikels aus.
+Erstelle die Ausgabe in einem einzigen, validen JSON-Code-Block.
+Sollte der Text für eine Nachricht zu lang sein, gib mir das JSON in Portionen aus, aber beginne sofort mit der Erstellung.

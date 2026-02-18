@@ -1,6 +1,4 @@
-import { useEffect, useState, useMemo } from "react";
-import Dexie from "dexie";
-import type { Table } from "dexie";
+import { useEffect, useState } from "react";
 import "./App.css";
 
 interface Word {
@@ -13,19 +11,6 @@ interface Word {
   group: string;
   read: boolean;
 }
-
-class VocabularyDB extends Dexie {
-  phrases!: Table<Word>;
-
-  constructor() {
-    super("VocabularyDB");
-    this.version(1).stores({
-      phrases: "id, es, en, de, it, ro, group, read",
-    });
-  }
-}
-
-const db = new VocabularyDB();
 
 function App() {
   const [words, setWords] = useState<Word[]>([]);
@@ -41,60 +26,38 @@ function App() {
     localStorage.getItem("vocab-target") || "de",
   );
   const [levelFilter, setLevelFilter] = useState(
-    localStorage.getItem("vocab-level") || "all",
+    localStorage.getItem("vocab-level") || "1",
   );
 
-  // Init DB
+  // Fetch when level changes
   useEffect(() => {
-    initDB();
-  }, []);
+    fetchData();
+  }, [levelFilter]);
 
   useEffect(() => {
     document.documentElement.setAttribute("data-theme", theme);
     localStorage.setItem("vocab-theme", theme);
   }, [theme]);
 
-  async function initDB() {
-    setLoading(true);
-
+  async function fetchData() {
     try {
-      const res = await fetch("/words?group=" + localStorage.getItem("vocab-level"));
-      const jsonData: Word[] = await res.json();
+      setLoading(true);
 
-      // Alle IDs aus DB holen
-      const existingIds = await db.phrases.toCollection().primaryKeys();
-      
-      // Nur neue Wörter filtern
-      const newWords = jsonData.filter(
-        (word) => !existingIds.includes(word.id!),
-      );
+      const res = await fetch(`/articles?group=${levelFilter}`);
+      const data = await res.json();
 
-      if (newWords.length > 0) {
-        await db.phrases.bulkAdd(newWords);
-        console.log("Neue Wörter hinzugefügt:", newWords.length);
-      }
-    } catch (e) {
-      console.error("Fehler beim Sync", e);
+      setWords(data);
+    } catch (err) {
+      console.error("Fehler beim Laden:", err);
     } finally {
       setLoading(false);
     }
-    loadFromDB();
   }
-
-  async function loadFromDB() {
-    const data = await db.phrases.toArray();
-    setWords(data);
-  }
-
-  const filteredWords = useMemo(() => {
-    return words.filter((word) => String(word.group) === levelFilter && word.read == false);
-  }, [words, levelFilter]);
 
   function saveSettings(src: string, target: string, level: string) {
     localStorage.setItem("vocab-src", src);
     localStorage.setItem("vocab-target", target);
     localStorage.setItem("vocab-level", level);
-    initDB();
   }
 
   function swapLanguages() {
@@ -105,10 +68,17 @@ function App() {
     saveSettings(newSrc, newTarget, levelFilter);
   }
 
-  async function markAsRead(id?: number) {
-    if (!id) return;
-    await db.phrases.update(id, { read: true });
-    await loadFromDB();
+  function removeWord(id: number) {
+    setWords((prev) => {
+      const updated = prev.filter((word) => word.id !== id);
+
+      // Wenn keine Wörter mehr da sind → neu laden
+      if (updated.length === 0) {
+        fetchData();
+      }
+
+      return updated;
+    });
   }
 
   return (
@@ -135,7 +105,7 @@ function App() {
           <option value="ro">🇷🇴 Romanian</option>
         </select>
 
-        <button onClick={swapLanguages}>⇄</button>
+        <button className="swap-btn" onClick={swapLanguages}>⇄</button>
 
         <select
           value={targetLang}
@@ -152,32 +122,26 @@ function App() {
         </select>
 
         <select
+        className="words-select"
           value={levelFilter}
           onChange={(e) => {
             setLevelFilter(e.target.value);
             saveSettings(srcLang, targetLang, e.target.value);
           }}
         >
-          <option value="1">Level 1</option>
-          <option value="2">Level 2</option>
-          <option value="3">Level 3</option>
-          <option value="4">Level 4</option>
+          <option value="1">First Article</option>
         </select>
       </div>
 
       {loading && <div className="status">Lade Daten...</div>}
 
-      {filteredWords.length === 0 && !loading && (
-        <p className="status">Keine Einträge gefunden.</p>
-      )}
-
-      {filteredWords.map((item) => (
+      {words.map((item) => (
         <div key={item.id} className="table-row">
           <div className="word-src">{(item as any)[srcLang] || "---"}</div>
           <div className="word-target">
             {(item as any)[targetLang] || "---"}
           </div>
-          <button onClick={() => markAsRead(item.id)}>🗑️</button>
+          <button onClick={() => removeWord(item.id)}>🗑️</button>
         </div>
       ))}
     </div>

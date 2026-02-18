@@ -44,6 +44,39 @@ app.get("/words", (req, res) => {
     }
   });
 });
+app.get("/articles", (req, res) => {
+  const group = req.query.group;
+  const filePath = path.join(__dirname, "data", `a${group}.json`);
+
+  fs.readFile(filePath, "utf8", (err, data) => {
+    if (err) {
+      return res.status(404).json({ error: "Datei nicht gefunden" });
+    }
+
+    try {
+      const words = JSON.parse(data);
+
+      if (!Array.isArray(words)) {
+        return res.status(500).json({ error: "JSON ist kein Array" });
+      }
+
+      // Array mischen (Fisher-Yates Shuffle)
+      const shuffled = [...words];
+      for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+      }
+
+      // Erste 10 zurückgeben (oder weniger, falls < 10 existieren)
+      const randomWords = shuffled.slice(0, 30);
+
+      res.json(randomWords);
+
+    } catch (parseErr) {
+      res.status(500).json({ error: "Ungültiges JSON" });
+    }
+  });
+});
 
 
 app.listen(PORT, () => {
