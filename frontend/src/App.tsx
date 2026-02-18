@@ -105,7 +105,7 @@ function App() {
           <option value="ro">🇷🇴 Romanian</option>
         </select>
 
-        <button onClick={swapLanguages}>⇄</button>
+        <button className="swap-btn" onClick={swapLanguages}>⇄</button>
 
         <select
           value={targetLang}
@@ -122,6 +122,7 @@ function App() {
         </select>
 
         <select
+        className="words-select"
           value={levelFilter}
           onChange={(e) => {
             setLevelFilter(e.target.value);
@@ -132,6 +133,8 @@ function App() {
           <option value="2">2 Words</option>
           <option value="3">3 Words</option>
           <option value="4">4 Words</option>
+          <option value="5">5 Words</option>
+          <option value="6">6 Words</option>
         </select>
       </div>
 
