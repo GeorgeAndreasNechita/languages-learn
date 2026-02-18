@@ -19,7 +19,7 @@ function App() {
   const [theme, setTheme] = useState(
     localStorage.getItem("vocab-theme") || "dark",
   );
-  const [srcLang, setSrcLang] = useState(
+  const [lang1, setLang1] = useState(
     localStorage.getItem("vocab-lang1") || "es",
   );
   const [targetLang, setTargetLang] = useState(
@@ -62,8 +62,8 @@ function App() {
 
   function swapLanguages() {
     const newSrc = targetLang;
-    const newTarget = srcLang;
-    setSrcLang(newSrc);
+    const newTarget = lang1;
+    setLang1(newSrc);
     setTargetLang(newTarget);
     saveSettings(newSrc, newTarget, levelFilter);
   }
@@ -92,9 +92,9 @@ function App() {
 
       <div className="controls">
         <select
-          value={srcLang}
+          value={lang1}
           onChange={(e) => {
-            setSrcLang(e.target.value);
+            setLang1(e.target.value);
             saveSettings(e.target.value, targetLang, levelFilter);
           }}
         >
@@ -111,7 +111,7 @@ function App() {
           value={targetLang}
           onChange={(e) => {
             setTargetLang(e.target.value);
-            saveSettings(srcLang, e.target.value, levelFilter);
+            saveSettings(lang1, e.target.value, levelFilter);
           }}
         >
           <option value="es">🇪🇸 Spanish</option>
@@ -126,7 +126,7 @@ function App() {
           value={levelFilter}
           onChange={(e) => {
             setLevelFilter(e.target.value);
-            saveSettings(srcLang, targetLang, e.target.value);
+            saveSettings(lang1, targetLang, e.target.value);
           }}
         >
           <option value="1">1 Word</option>
@@ -142,7 +142,7 @@ function App() {
 
       {words.map((item) => (
         <div key={item.id} className="table-row">
-          <div className="word-src">{(item as any)[srcLang] || "---"}</div>
+          <div className="word-src">{(item as any)[lang1] || "---"}</div>
           <div className="word-target">
             {(item as any)[targetLang] || "---"}
           </div>
