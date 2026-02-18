@@ -76,11 +76,11 @@
         background-color: var(--row-bg);
       }
 
-      .word-src {
+      .word-lang1 {
         color: var(--accent-color);
         font-weight: 600;
       }
-      .word-target {
+      .word-lang2 {
         font-weight: 400;
       }
 
