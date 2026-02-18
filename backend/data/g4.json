@@ -6,8 +6,7 @@
     "it": "il gatto è qui",
     "ro": "pisica este aici",
     "group": "4",
-    "id": 1,
-    "read": false
+    "id": 1
   },
   {
     "es": "hace mucho sol hoy",
@@ -16,8 +15,7 @@
     "it": "fa molto sole oggi",
     "ro": "este foarte însorit azi",
     "group": "4",
-    "id": 2,
-    "read": false
+    "id": 2
   },
   {
     "es": "quiero un café solo",
@@ -26,8 +24,7 @@
     "it": "voglio un caffè nero",
     "ro": "vreu o cafea neagră",
     "group": "4",
-    "id": 3,
-    "read": false
+    "id": 3
   },
   {
     "es": "dónde está mi llave",
@@ -36,8 +33,7 @@
     "it": "dov'è la mia chiave",
     "ro": "unde este cheia mea",
     "group": "4",
-    "id": 4,
-    "read": false
+    "id": 4
   },
   {
     "es": "ella es muy inteligente",
@@ -46,8 +42,7 @@
     "it": "lei è molto intelligente",
     "ro": "ea este foarte inteligentă",
     "group": "4",
-    "id": 5,
-    "read": false
+    "id": 5
   },
   {
     "es": "necesito ayuda por favor",
@@ -56,8 +51,7 @@
     "it": "ho bisogno aiuto per favore",
     "ro": "am nevoie ajutor vă rog",
     "group": "4",
-    "id": 6,
-    "read": false
+    "id": 6
   },
   {
     "es": "el libro es viejo",
@@ -66,8 +60,7 @@
     "it": "il libro è vecchio",
     "ro": "cartea este veche",
     "group": "4",
-    "id": 7,
-    "read": false
+    "id": 7
   },
   {
     "es": "la casa es grande",
@@ -76,8 +69,7 @@
     "it": "la casa è grande",
     "ro": "casa este mare",
     "group": "4",
-    "id": 8,
-    "read": false
+    "id": 8
   },
   {
     "es": "tengo que ir ahora",
@@ -86,8 +78,7 @@
     "it": "devo andare proprio ora",
     "ro": "trebuie să merg acum",
     "group": "4",
-    "id": 9,
-    "read": false
+    "id": 9
   },
   {
     "es": "es un buen día",
@@ -96,8 +87,7 @@
     "it": "è un buon giorno",
     "ro": "este o zi bună",
     "group": "4",
-    "id": 10,
-    "read": false
+    "id": 10
   },
   {
     "es": "me gusta esta música",
@@ -106,8 +96,7 @@
     "it": "mi piace questa musica",
     "ro": "îmi place această muzică",
     "group": "4",
-    "id": 11,
-    "read": false
+    "id": 11
   },
   {
     "es": "no puedo hacerlo solo",
@@ -116,8 +105,7 @@
     "it": "non posso farlo solo",
     "ro": "nu pot face singur",
     "group": "4",
-    "id": 12,
-    "read": false
+    "id": 12
   },
   {
     "es": "mira este coche rojo",
@@ -126,8 +114,7 @@
     "it": "guarda questa auto rossa",
     "ro": "privește această mașină roșie",
     "group": "4",
-    "id": 13,
-    "read": false
+    "id": 13
   },
   {
     "es": "un vaso de agua",
@@ -136,8 +123,7 @@
     "it": "un bicchiere d'acqua",
     "ro": "un pahar de apă",
     "group": "4",
-    "id": 14,
-    "read": false
+    "id": 14
   },
   {
     "es": "la comida está lista",
@@ -146,8 +132,7 @@
     "it": "il cibo è pronto",
     "ro": "mâncarea este gata",
     "group": "4",
-    "id": 15,
-    "read": false
+    "id": 15
   },
   {
     "es": "hace un tiempo frío",
@@ -156,8 +141,7 @@
     "it": "fa un tempo freddo",
     "ro": "este o vreme rece",
     "group": "4",
-    "id": 16,
-    "read": false
+    "id": 16
   },
   {
     "es": "vuelve a casa pronto",
@@ -166,8 +150,7 @@
     "it": "torna a casa presto",
     "ro": "vino acasă curând",
     "group": "4",
-    "id": 17,
-    "read": false
+    "id": 17
   },
   {
     "es": "quién es ese hombre",
@@ -176,8 +159,7 @@
     "it": "chi è quell'uomo",
     "ro": "cine este acel bărbat",
     "group": "4",
-    "id": 18,
-    "read": false
+    "id": 18
   },
   {
     "es": "estoy en el trabajo",
@@ -186,8 +168,7 @@
     "it": "sono al lavoro",
     "ro": "sunt la serviciu",
     "group": "4",
-    "id": 19,
-    "read": false
+    "id": 19
   },
   {
     "es": "espero verte muy pronto",
@@ -196,8 +177,7 @@
     "it": "spero vederti molto presto",
     "ro": "sper să te văd curând",
     "group": "4",
-    "id": 20,
-    "read": false
+    "id": 20
   },
   {
     "es": "no tengo más dinero",
@@ -206,8 +186,7 @@
     "it": "non ho più soldi",
     "ro": "nu mai am bani",
     "group": "4",
-    "id": 21,
-    "read": false
+    "id": 21
   },
   {
     "es": "la puerta está cerrada",
@@ -216,8 +195,7 @@
     "it": "la porta è chiusa",
     "ro": "ușa este închisă",
     "group": "4",
-    "id": 22,
-    "read": false
+    "id": 22
   },
   {
     "es": "el cielo es azul",
@@ -226,8 +204,7 @@
     "it": "il cielo è blu",
     "ro": "cerul este albastru",
     "group": "4",
-    "id": 23,
-    "read": false
+    "id": 23
   },
   {
     "es": "muchas gracias por todo",
@@ -236,8 +213,7 @@
     "it": "molte grazie per tutto",
     "ro": "mulțumesc mult pentru tot",
     "group": "4",
-    "id": 24,
-    "read": false
+    "id": 24
   },
   {
     "es": "qué hora es ahora",
@@ -246,8 +222,7 @@
     "it": "che ora è adesso",
     "ro": "ce oră este acum",
     "group": "4",
-    "id": 25,
-    "read": false
+    "id": 25
   },
   {
     "es": "es una broma mala",
@@ -256,8 +231,7 @@
     "it": "è uno scherzo cattivo",
     "ro": "este o glumă proastă",
     "group": "4",
-    "id": 26,
-    "read": false
+    "id": 26
   },
   {
     "es": "el café está caliente",
@@ -266,8 +240,7 @@
     "it": "il caffè è caldo",
     "ro": "cafeaua este fierbinte",
     "group": "4",
-    "id": 27,
-    "read": false
+    "id": 27
   },
   {
     "es": "quiero dormir un poco",
@@ -276,8 +249,7 @@
     "it": "voglio dormire un po'",
     "ro": "vreu să dorm puțin",
     "group": "4",
-    "id": 28,
-    "read": false
+    "id": 28
   },
   {
     "es": "mi padre es alto",
@@ -286,8 +258,7 @@
     "it": "mio padre è alto",
     "ro": "tatăl meu este înalt",
     "group": "4",
-    "id": 29,
-    "read": false
+    "id": 29
   },
   {
     "es": "la calle es larga",
@@ -296,8 +267,7 @@
     "it": "la strada è lunga",
     "ro": "strada este lungă",
     "group": "4",
-    "id": 30,
-    "read": false
+    "id": 30
   },
   {
     "es": "es un secreto grande",
@@ -306,8 +276,7 @@
     "it": "è un segreto grande",
     "ro": "e un secret mare",
     "group": "4",
-    "id": 31,
-    "read": false
+    "id": 31
   },
   {
     "es": "dame la mano derecha",
@@ -316,8 +285,7 @@
     "it": "dammi la mano destra",
     "ro": "dă-mi mâna dreaptă",
     "group": "4",
-    "id": 32,
-    "read": false
+    "id": 32
   },
   {
     "es": "estoy muy cansado hoy",
@@ -326,8 +294,7 @@
     "it": "sono molto stanco oggi",
     "ro": "sunt foarte obosit azi",
     "group": "4",
-    "id": 33,
-    "read": false
+    "id": 33
   },
   {
     "es": "dónde está el baño",
@@ -336,8 +303,7 @@
     "it": "dov'è il bagno",
     "ro": "unde este baia",
     "group": "4",
-    "id": 34,
-    "read": false
+    "id": 34
   },
   {
     "es": "ella canta muy bien",
@@ -346,8 +312,7 @@
     "it": "lei canta molto bene",
     "ro": "ea cântă foarte bine",
     "group": "4",
-    "id": 35,
-    "read": false
+    "id": 35
   },
   {
     "es": "estamos listos para ir",
@@ -356,8 +321,7 @@
     "it": "siamo pronti per andare",
     "ro": "suntem gata de plecare",
     "group": "4",
-    "id": 36,
-    "read": false
+    "id": 36
   },
   {
     "es": "es un coche nuevo",
@@ -366,8 +330,7 @@
     "it": "è un'auto nuova",
     "ro": "este o mașină nouă",
     "group": "4",
-    "id": 37,
-    "read": false
+    "id": 37
   },
   {
     "es": "el agua está fría",
@@ -376,8 +339,7 @@
     "it": "l'acqua è fredda",
     "ro": "apa este rece",
     "group": "4",
-    "id": 38,
-    "read": false
+    "id": 38
   },
   {
     "es": "un viaje muy largo",
@@ -386,8 +348,7 @@
     "it": "un viaggio molto lungo",
     "ro": "o călătorie foarte lungă",
     "group": "4",
-    "id": 39,
-    "read": false
+    "id": 39
   },
   {
     "es": "abre la ventana ahora",
@@ -396,8 +357,7 @@
     "it": "apri la finestra ora",
     "ro": "deschide fereastra acum",
     "group": "4",
-    "id": 40,
-    "read": false
+    "id": 40
   },
   {
     "es": "tienes una cara bonita",
@@ -406,8 +366,7 @@
     "it": "hai una bella faccia",
     "ro": "ai o față frumoasă",
     "group": "4",
-    "id": 41,
-    "read": false
+    "id": 41
   },
   {
     "es": "esto no es justo",
@@ -416,8 +375,7 @@
     "it": "questo non è giusto",
     "ro": "asta nu este drept",
     "group": "4",
-    "id": 42,
-    "read": false
+    "id": 42
   },
   {
     "es": "él habla muy rápido",
@@ -426,8 +384,7 @@
     "it": "egli parla molto veloce",
     "ro": "el vorbește foarte repede",
     "group": "4",
-    "id": 43,
-    "read": false
+    "id": 43
   },
   {
     "es": "mi madre me ama",
@@ -436,8 +393,7 @@
     "it": "mia madre mi ama",
     "ro": "mama mă iubește",
     "group": "4",
-    "id": 44,
-    "read": false
+    "id": 44
   },
   {
     "es": "el tiempo vuela hoy",
@@ -446,8 +402,7 @@
     "it": "il tempo vola oggi",
     "ro": "timpul zboară astăzi",
     "group": "4",
-    "id": 45,
-    "read": false
+    "id": 45
   },
   {
     "es": "tengo una idea nueva",
@@ -456,8 +411,7 @@
     "it": "ho un'idea nuova",
     "ro": "am o idee nouă",
     "group": "4",
-    "id": 46,
-    "read": false
+    "id": 46
   },
   {
     "es": "quiero ver el mar",
@@ -466,8 +420,7 @@
     "it": "voglio vedere il mare",
     "ro": "vreu să văd marea",
     "group": "4",
-    "id": 47,
-    "read": false
+    "id": 47
   },
   {
     "es": "la noche es oscura",
@@ -476,8 +429,7 @@
     "it": "la notte è oscura",
     "ro": "noaptea este întunecată",
     "group": "4",
-    "id": 48,
-    "read": false
+    "id": 48
   },
   {
     "es": "todo va a estar",
@@ -486,8 +438,7 @@
     "it": "tutto starà bene",
     "ro": "totul va fi bine",
     "group": "4",
-    "id": 49,
-    "read": false
+    "id": 49
   },
   {
     "es": "necesito un poco más",
@@ -496,8 +447,7 @@
     "it": "serve un po' più",
     "ro": "am nevoie de mai",
     "group": "4",
-    "id": 50,
-    "read": false
+    "id": 50
   },
   {
     "es": "el sol brilla fuerte",
@@ -506,8 +456,7 @@
     "it": "il sole brilla forte",
     "ro": "soarele strălucește tare",
     "group": "4",
-    "id": 51,
-    "read": false
+    "id": 51
   },
   {
     "es": "mi perro es pequeño",
@@ -516,8 +465,7 @@
     "it": "il mio cane piccolo",
     "ro": "câinele meu e mic",
     "group": "4",
-    "id": 52,
-    "read": false
+    "id": 52
   },
   {
     "es": "esta es mi familia",
@@ -526,8 +474,7 @@
     "it": "questa è mia famiglia",
     "ro": "aceasta este familia mea",
     "group": "4",
-    "id": 53,
-    "read": false
+    "id": 53
   },
   {
     "es": "no entiendo nada hoy",
@@ -536,8 +483,7 @@
     "it": "non capisco niente oggi",
     "ro": "nu înțeleg nimic azi",
     "group": "4",
-    "id": 54,
-    "read": false
+    "id": 54
   },
   {
     "es": "es una flor roja",
@@ -546,8 +492,7 @@
     "it": "è un fiore rosso",
     "ro": "este o floare roșie",
     "group": "4",
-    "id": 55,
-    "read": false
+    "id": 55
   },
   {
     "es": "dónde vives tú ahora",
@@ -556,8 +501,7 @@
     "it": "dove vivi tu ora",
     "ro": "unde locuiești tu acum",
     "group": "4",
-    "id": 56,
-    "read": false
+    "id": 56
   },
   {
     "es": "el cielo tiene estrellas",
@@ -566,8 +510,7 @@
     "it": "cielo ha le stelle",
     "ro": "cerul are stele",
     "group": "4",
-    "id": 57,
-    "read": false
+    "id": 57
   },
   {
     "es": "espera por favor aquí",
@@ -576,8 +519,7 @@
     "it": "aspetta per favore qui",
     "ro": "așteaptă te rog aici",
     "group": "4",
-    "id": 58,
-    "read": false
+    "id": 58
   },
   {
     "es": "él es mi hermano",
@@ -586,8 +528,7 @@
     "it": "lui è mio fratello",
     "ro": "el este fratele meu",
     "group": "4",
-    "id": 59,
-    "read": false
+    "id": 59
   },
   {
     "es": "ella es mi hermana",
@@ -596,8 +537,7 @@
     "it": "lei è mia sorella",
     "ro": "ea este sora mea",
     "group": "4",
-    "id": 60,
-    "read": false
+    "id": 60
   },
   {
     "es": "un buen libro hoy",
@@ -606,8 +546,7 @@
     "it": "un buon libro oggi",
     "ro": "o carte bună azi",
     "group": "4",
-    "id": 61,
-    "read": false
+    "id": 61
   },
   {
     "es": "pan con queso rico",
@@ -616,8 +555,7 @@
     "it": "pane con formaggio buono",
     "ro": "pâine cu brânză bună",
     "group": "4",
-    "id": 62,
-    "read": false
+    "id": 62
   },
   {
     "es": "estoy muy feliz ahora",
@@ -626,8 +564,7 @@
     "it": "sono molto felice ora",
     "ro": "sunt foarte fericit acum",
     "group": "4",
-    "id": 63,
-    "read": false
+    "id": 63
   },
   {
     "es": "la vida es bella",
@@ -636,8 +573,7 @@
     "it": "la vita è bella",
     "ro": "viața este frumoasă",
     "group": "4",
-    "id": 64,
-    "read": false
+    "id": 64
   },
   {
     "es": "no digas nada más",
@@ -646,8 +582,7 @@
     "it": "non dire niente più",
     "ro": "nu mai spune nimic",
     "group": "4",
-    "id": 65,
-    "read": false
+    "id": 65
   },
   {
     "es": "el té está frío",
@@ -656,8 +591,7 @@
     "it": "il tè è freddo",
     "ro": "ceaiul este rece",
     "group": "4",
-    "id": 66,
-    "read": false
+    "id": 66
   },
   {
     "es": "un gato muy negro",
@@ -666,8 +600,7 @@
     "it": "un gatto molto nero",
     "ro": "o pisică foarte neagră",
     "group": "4",
-    "id": 67,
-    "read": false
+    "id": 67
   },
   {
     "es": "esto es para ti",
@@ -676,8 +609,7 @@
     "it": "questo è per te",
     "ro": "asta este pentru tine",
     "group": "4",
-    "id": 68,
-    "read": false
+    "id": 68
   },
   {
     "es": "quiero ir al cine",
@@ -686,8 +618,7 @@
     "it": "voglio andare al cinema",
     "ro": "vreu la cinema",
     "group": "4",
-    "id": 69,
-    "read": false
+    "id": 69
   },
   {
     "es": "el mar es profundo",
@@ -696,8 +627,7 @@
     "it": "il mare è profondo",
     "ro": "marea este adâncă",
     "group": "4",
-    "id": 70,
-    "read": false
+    "id": 70
   },
   {
     "es": "hace mucho calor aquí",
@@ -706,8 +636,7 @@
     "it": "fa molto caldo qui",
     "ro": "este foarte cald aici",
     "group": "4",
-    "id": 71,
-    "read": false
+    "id": 71
   },
   {
     "es": "puedes ayudarme con esto",
@@ -716,8 +645,7 @@
     "it": "puoi aiutarmi con questo",
     "ro": "mă poți ajuta aici",
     "group": "4",
-    "id": 72,
-    "read": false
+    "id": 72
   },
   {
     "es": "un sueño muy grande",
@@ -726,8 +654,7 @@
     "it": "un sogno molto grande",
     "ro": "un vis foarte mare",
     "group": "4",
-    "id": 73,
-    "read": false
+    "id": 73
   },
   {
     "es": "mi ciudad es vieja",
@@ -736,8 +663,7 @@
     "it": "mia città è vecchia",
     "ro": "orașul meu este vechi",
     "group": "4",
-    "id": 74,
-    "read": false
+    "id": 74
   },
   {
     "es": "el árbol es alto",
@@ -746,8 +672,7 @@
     "it": "l'albero è alto",
     "ro": "copacul este înalt",
     "group": "4",
-    "id": 75,
-    "read": false
+    "id": 75
   },
   {
     "es": "mañana es otro día",
@@ -756,8 +681,7 @@
     "it": "domani è un altro giorno",
     "ro": "mâine este o altă zi",
     "group": "4",
-    "id": 76,
-    "read": false
+    "id": 76
   },
   {
     "es": "un error muy grave",
@@ -766,8 +690,7 @@
     "it": "un errore molto grave",
     "ro": "o eroare foarte gravă",
     "group": "4",
-    "id": 77,
-    "read": false
+    "id": 77
   },
   {
     "es": "la mesa es redonda",
@@ -776,8 +699,7 @@
     "it": "la tavola è rotonda",
     "ro": "masa este rotundă",
     "group": "4",
-    "id": 78,
-    "read": false
+    "id": 78
   },
   {
     "es": "tengo mucho trabajo hoy",
@@ -786,8 +708,7 @@
     "it": "ho molto lavoro oggi",
     "ro": "am multă muncă azi",
     "group": "4",
-    "id": 79,
-    "read": false
+    "id": 79
   },
   {
     "es": "ella tiene ojos azules",
@@ -796,8 +717,7 @@
     "it": "lei ha occhi azzurri",
     "ro": "ea are ochi albaștri",
     "group": "4",
-    "id": 80,
-    "read": false
+    "id": 80
   },
   {
     "es": "un amigo de verdad",
@@ -806,8 +726,7 @@
     "it": "un amico di verità",
     "ro": "un prieten adevărat",
     "group": "4",
-    "id": 81,
-    "read": false
+    "id": 81
   },
   {
     "es": "la ventana está abierta",
@@ -816,8 +735,7 @@
     "it": "la finestra è aperta",
     "ro": "fereastra este deschisă",
     "group": "4",
-    "id": 82,
-    "read": false
+    "id": 82
   },
   {
     "es": "no hay más tiempo",
@@ -826,8 +744,7 @@
     "it": "non c'è più tempo",
     "ro": "nu mai este timp",
     "group": "4",
-    "id": 83,
-    "read": false
+    "id": 83
   },
   {
     "es": "quiero comer algo ahora",
@@ -836,8 +753,7 @@
     "it": "voglio mangiare qualcosa ora",
     "ro": "vreu să mănânc acum",
     "group": "4",
-    "id": 84,
-    "read": false
+    "id": 84
   },
   {
     "es": "el camino es difícil",
@@ -846,8 +762,7 @@
     "it": "il cammino è difficile",
     "ro": "drumul este greu",
     "group": "4",
-    "id": 85,
-    "read": false
+    "id": 85
   },
   {
     "es": "mi casa es suya",
@@ -856,8 +771,7 @@
     "it": "mia casa è sua",
     "ro": "casa mea e a ta",
     "group": "4",
-    "id": 86,
-    "read": false
+    "id": 86
   },
   {
     "es": "un pájaro está volando",
@@ -866,8 +780,7 @@
     "it": "un uccello sta volando",
     "ro": "o pasăre zboară",
     "group": "4",
-    "id": 87,
-    "read": false
+    "id": 87
   },
   {
     "es": "el perro está durmiendo",
@@ -876,8 +789,7 @@
     "it": "il cane sta dormendo",
     "ro": "câinele doarme",
     "group": "4",
-    "id": 88,
-    "read": false
+    "id": 88
   },
   {
     "es": "la leche está fresca",
@@ -886,8 +798,7 @@
     "it": "il latte è fresco",
     "ro": "laptele este proaspăt",
     "group": "4",
-    "id": 89,
-    "read": false
+    "id": 89
   },
   {
     "es": "una película muy buena",
@@ -896,8 +807,7 @@
     "it": "un film molto bello",
     "ro": "un film foarte bun",
     "group": "4",
-    "id": 90,
-    "read": false
+    "id": 90
   },
   {
     "es": "el fuego está vivo",
@@ -906,8 +816,7 @@
     "it": "il fuoco è vivo",
     "ro": "focul este viu",
     "group": "4",
-    "id": 91,
-    "read": false
+    "id": 91
   },
   {
     "es": "un problema muy difícil",
@@ -916,8 +825,7 @@
     "it": "un problema molto difficile",
     "ro": "o problemă foarte grea",
     "group": "4",
-    "id": 92,
-    "read": false
+    "id": 92
   },
   {
     "es": "ella me gusta mucho",
@@ -926,8 +834,7 @@
     "it": "lei mi piace molto",
     "ro": "îmi place mult de ea",
     "group": "4",
-    "id": 93,
-    "read": false
+    "id": 93
   },
   {
     "es": "estoy listo para salir",
@@ -936,8 +843,7 @@
     "it": "sono pronto per uscire",
     "ro": "sunt gata să ies",
     "group": "4",
-    "id": 94,
-    "read": false
+    "id": 94
   },
   {
     "es": "un libro de poemas",
@@ -946,8 +852,7 @@
     "it": "un libro di poesie",
     "ro": "o carte de poezii",
     "group": "4",
-    "id": 95,
-    "read": false
+    "id": 95
   },
   {
     "es": "el aire es puro",
@@ -956,8 +861,7 @@
     "it": "l'aria è pura",
     "ro": "aerul este curat",
     "group": "4",
-    "id": 96,
-    "read": false
+    "id": 96
   },
   {
     "es": "el tiempo es oro",
@@ -966,8 +870,7 @@
     "it": "il tempo è oro",
     "ro": "timpul este prețios",
     "group": "4",
-    "id": 97,
-    "read": false
+    "id": 97
   },
   {
     "es": "qué tal tu día",
@@ -976,8 +879,7 @@
     "it": "com'è il tuo giorno",
     "ro": "cum a fost ziua",
     "group": "4",
-    "id": 98,
-    "read": false
+    "id": 98
   },
   {
     "es": "un beso para ti",
@@ -986,8 +888,7 @@
     "it": "un bacio per te",
     "ro": "un sărut pentru tine",
     "group": "4",
-    "id": 99,
-    "read": false
+    "id": 99
   },
   {
     "es": "el coche es rojo",
@@ -996,8 +897,7 @@
     "it": "l'auto è rossa",
     "ro": "mașina este roșie",
     "group": "4",
-    "id": 100,
-    "read": false
+    "id": 100
   },
   {
     "es": "mi casa es nueva",
@@ -1006,8 +906,7 @@
     "it": "mia casa è nuova",
     "ro": "casa mea este nouă",
     "group": "4",
-    "id": 101,
-    "read": false
+    "id": 101
   },
   {
     "es": "hace mucho viento hoy",
@@ -1016,8 +915,7 @@
     "it": "fa molto vento oggi",
     "ro": "este mult vânt azi",
     "group": "4",
-    "id": 102,
-    "read": false
+    "id": 102
   },
   {
     "es": "un vaso de vino",
@@ -1026,8 +924,7 @@
     "it": "un bicchiere di vino",
     "ro": "un pahar de vin",
     "group": "4",
-    "id": 103,
-    "read": false
+    "id": 103
   },
   {
     "es": "la sopa está rica",
@@ -1036,8 +933,7 @@
     "it": "la zuppa è buona",
     "ro": "supa este gustoasă",
     "group": "4",
-    "id": 104,
-    "read": false
+    "id": 104
   },
   {
     "es": "donde está el libro",
@@ -1046,8 +942,7 @@
     "it": "dov'è il libro",
     "ro": "unde este cartea",
     "group": "4",
-    "id": 105,
-    "read": false
+    "id": 105
   },
   {
     "es": "el niño está feliz",
@@ -1056,8 +951,7 @@
     "it": "il bimbo è felice",
     "ro": "copilul este fericit",
     "group": "4",
-    "id": 106,
-    "read": false
+    "id": 106
   },
   {
     "es": "necesito una silla nueva",
@@ -1066,8 +960,7 @@
     "it": "serve una sedia nuova",
     "ro": "am nevoie de scaun",
     "group": "4",
-    "id": 107,
-    "read": false
+    "id": 107
   },
   {
     "es": "la ventana está sucia",
@@ -1076,8 +969,7 @@
     "it": "la finestra è sporca",
     "ro": "fereastra este murdară",
     "group": "4",
-    "id": 108,
-    "read": false
+    "id": 108
   },
   {
     "es": "ella tiene un gato",
@@ -1086,8 +978,7 @@
     "it": "lei ha un gatto",
     "ro": "ea are o pisică",
     "group": "4",
-    "id": 109,
-    "read": false
+    "id": 109
   },
   {
     "es": "el sol es grande",
@@ -1096,8 +987,7 @@
     "it": "il sole è grande",
     "ro": "soarele este mare",
     "group": "4",
-    "id": 110,
-    "read": false
+    "id": 110
   },
   {
     "es": "mi madre cocina bien",
@@ -1106,8 +996,7 @@
     "it": "mia madre cucina bene",
     "ro": "mama mea gătește bine",
     "group": "4",
-    "id": 111,
-    "read": false
+    "id": 111
   },
   {
     "es": "el pan está fresco",
@@ -1116,8 +1005,7 @@
     "it": "il pane è fresco",
     "ro": "pâinea este proaspătă",
     "group": "4",
-    "id": 112,
-    "read": false
+    "id": 112
   },
   {
     "es": "quiero ver la tele",
@@ -1126,8 +1014,7 @@
     "it": "voglio guardare la tv",
     "ro": "vreu să văd tv",
     "group": "4",
-    "id": 113,
-    "read": false
+    "id": 113
   },
   {
     "es": "el cielo está gris",
@@ -1136,8 +1023,7 @@
     "it": "il cielo è grigio",
     "ro": "cerul este gri",
     "group": "4",
-    "id": 114,
-    "read": false
+    "id": 114
   },
   {
     "es": "tengo dos perros negros",
@@ -1146,8 +1032,7 @@
     "it": "ho due cani neri",
     "ro": "am doi câini negri",
     "group": "4",
-    "id": 115,
-    "read": false
+    "id": 115
   },
   {
     "es": "este libro es largo",
@@ -1156,8 +1041,7 @@
     "it": "questo libro è lungo",
     "ro": "această carte este lungă",
     "group": "4",
-    "id": 116,
-    "read": false
+    "id": 116
   },
   {
     "es": "la puerta está abierta",
@@ -1166,8 +1050,7 @@
     "it": "la porta è aperta",
     "ro": "ușa este deschisă",
     "group": "4",
-    "id": 117,
-    "read": false
+    "id": 117
   },
   {
     "es": "un café con leche",
@@ -1176,8 +1059,7 @@
     "it": "un caffè con latte",
     "ro": "o cafea cu lapte",
     "group": "4",
-    "id": 118,
-    "read": false
+    "id": 118
   },
   {
     "es": "el mar está lejos",
@@ -1186,8 +1068,7 @@
     "it": "il mare è lontano",
     "ro": "marea este departe",
     "group": "4",
-    "id": 119,
-    "read": false
+    "id": 119
   },
   {
     "es": "hace mucho calor aquí",
@@ -1196,8 +1077,7 @@
     "it": "fa molto caldo qui",
     "ro": "este foarte cald aici",
     "group": "4",
-    "id": 120,
-    "read": false
+    "id": 120
   },
   {
     "es": "donde vives tu ahora",
@@ -1206,8 +1086,7 @@
     "it": "dove vivi tu ora",
     "ro": "unde locuiești tu acum",
     "group": "4",
-    "id": 121,
-    "read": false
+    "id": 121
   },
   {
     "es": "la mesa es pequeña",
@@ -1216,8 +1095,7 @@
     "it": "il tavolo è piccolo",
     "ro": "masa este mică",
     "group": "4",
-    "id": 122,
-    "read": false
+    "id": 122
   },
   {
     "es": "un amigo de verdad",
@@ -1226,8 +1104,7 @@
     "it": "un amico di verità",
     "ro": "un prieten de adevăr",
     "group": "4",
-    "id": 123,
-    "read": false
+    "id": 123
   },
   {
     "es": "esto es para el",
@@ -1236,8 +1113,7 @@
     "it": "questo è per lui",
     "ro": "asta este pentru el",
     "group": "4",
-    "id": 124,
-    "read": false
+    "id": 124
   },
   {
     "es": "necesito dormir un poco",
@@ -1246,8 +1122,7 @@
     "it": "devo dormire un po'",
     "ro": "trebuie să dorm puțin",
     "group": "4",
-    "id": 125,
-    "read": false
+    "id": 125
   },
   {
     "es": "el agua esta caliente",
@@ -1256,8 +1131,7 @@
     "it": "l'acqua è calda",
     "ro": "apa este fierbinte",
     "group": "4",
-    "id": 126,
-    "read": false
+    "id": 126
   },
   {
     "es": "mi hermano es alto",
@@ -1266,8 +1140,7 @@
     "it": "mio fratello è alto",
     "ro": "fratele meu este înalt",
     "group": "4",
-    "id": 127,
-    "read": false
+    "id": 127
   },
   {
     "es": "quiero un coche azul",
@@ -1276,8 +1149,7 @@
     "it": "voglio un'auto blu",
     "ro": "vreu o mașină albastră",
     "group": "4",
-    "id": 128,
-    "read": false
+    "id": 128
   },
   {
     "es": "la noche es joven",
@@ -1286,8 +1158,7 @@
     "it": "la notte è giovane",
     "ro": "noaptea este tânără",
     "group": "4",
-    "id": 129,
-    "read": false
+    "id": 129
   },
   {
     "es": "estoy muy cansado hoy",
@@ -1296,8 +1167,7 @@
     "it": "sono molto stanco oggi",
     "ro": "sunt foarte obosit azi",
     "group": "4",
-    "id": 130,
-    "read": false
+    "id": 130
   },
   {
     "es": "ella es muy guapa",
@@ -1306,8 +1176,7 @@
     "it": "lei è molto bella",
     "ro": "ea este foarte frumoasă",
     "group": "4",
-    "id": 131,
-    "read": false
+    "id": 131
   },
   {
     "es": "un error de sistema",
@@ -1316,8 +1185,7 @@
     "it": "un errore di sistema",
     "ro": "o eroare de sistem",
     "group": "4",
-    "id": 132,
-    "read": false
+    "id": 132
   },
   {
     "es": "la llave esta aqui",
@@ -1326,8 +1194,7 @@
     "it": "la chiave è qui",
     "ro": "cheia este aici",
     "group": "4",
-    "id": 133,
-    "read": false
+    "id": 133
   },
   {
     "es": "mi padre trabaja mucho",
@@ -1336,8 +1203,7 @@
     "it": "mio padre lavora molto",
     "ro": "tatăl meu muncește mult",
     "group": "4",
-    "id": 134,
-    "read": false
+    "id": 134
   },
   {
     "es": "el aire es fresco",
@@ -1346,8 +1212,7 @@
     "it": "l'aria è fresca",
     "ro": "aerul este proaspăt",
     "group": "4",
-    "id": 135,
-    "read": false
+    "id": 135
   },
   {
     "es": "un sueño muy raro",
@@ -1356,8 +1221,7 @@
     "it": "un sogno molto strano",
     "ro": "un vis foarte ciudat",
     "group": "4",
-    "id": 136,
-    "read": false
+    "id": 136
   },
   {
     "es": "la vida es corta",
@@ -1366,8 +1230,7 @@
     "it": "la vita è breve",
     "ro": "viața este scurtă",
     "group": "4",
-    "id": 137,
-    "read": false
+    "id": 137
   },
   {
     "es": "no tengo mas tiempo",
@@ -1376,8 +1239,7 @@
     "it": "non ho più tempo",
     "ro": "nu mai am timp",
     "group": "4",
-    "id": 138,
-    "read": false
+    "id": 138
   },
   {
     "es": "la comida esta lista",
@@ -1386,8 +1248,7 @@
     "it": "il cibo è pronto",
     "ro": "mâncarea este gata",
     "group": "4",
-    "id": 139,
-    "read": false
+    "id": 139
   },
   {
     "es": "hace sol esta mañana",
@@ -1396,8 +1257,7 @@
     "it": "c'è sole stamattina",
     "ro": "e soare azi dimineață",
     "group": "4",
-    "id": 140,
-    "read": false
+    "id": 140
   },
   {
     "es": "espera un momento mas",
@@ -1406,8 +1266,7 @@
     "it": "aspetta un momento ancora",
     "ro": "mai așteaptă un moment",
     "group": "4",
-    "id": 141,
-    "read": false
+    "id": 141
   },
   {
     "es": "él no sabe nada",
@@ -1416,8 +1275,7 @@
     "it": "lui non sa nulla",
     "ro": "el nu știe nimic",
     "group": "4",
-    "id": 142,
-    "read": false
+    "id": 142
   },
   {
     "es": "esto es muy difícil",
@@ -1426,8 +1284,7 @@
     "it": "questo è molto difficile",
     "ro": "asta este foarte greu",
     "group": "4",
-    "id": 143,
-    "read": false
+    "id": 143
   },
   {
     "es": "un viaje de negocios",
@@ -1436,8 +1293,7 @@
     "it": "un viaggio d'affari",
     "ro": "o călătorie de afaceri",
     "group": "4",
-    "id": 144,
-    "read": false
+    "id": 144
   },
   {
     "es": "la calle esta vacía",
@@ -1446,8 +1302,7 @@
     "it": "la strada è vuota",
     "ro": "strada este goală",
     "group": "4",
-    "id": 145,
-    "read": false
+    "id": 145
   },
   {
     "es": "tienes una idea buena",
@@ -1456,8 +1311,7 @@
     "it": "hai una buona idea",
     "ro": "ai o idee bună",
     "group": "4",
-    "id": 146,
-    "read": false
+    "id": 146
   },
   {
     "es": "el te esta frio",
@@ -1466,8 +1320,7 @@
     "it": "il tè è freddo",
     "ro": "ceaiul este rece",
     "group": "4",
-    "id": 147,
-    "read": false
+    "id": 147
   },
   {
     "es": "mi perro es fiel",
@@ -1476,8 +1329,7 @@
     "it": "mio cane è fedele",
     "ro": "câinele meu e fidel",
     "group": "4",
-    "id": 148,
-    "read": false
+    "id": 148
   },
   {
     "es": "ella canta una canción",
@@ -1486,8 +1338,7 @@
     "it": "lei canta una canzone",
     "ro": "ea cântă un cântec",
     "group": "4",
-    "id": 149,
-    "read": false
+    "id": 149
   },
   {
     "es": "el fuego esta apagado",
@@ -1496,8 +1347,7 @@
     "it": "il fuoco è spento",
     "ro": "focul este stins",
     "group": "4",
-    "id": 150,
-    "read": false
+    "id": 150
   },
   {
     "es": "quiero comer algo rico",
@@ -1506,8 +1356,7 @@
     "it": "voglio mangiare qualcosa buono",
     "ro": "vreu să mănânc ceva",
     "group": "4",
-    "id": 151,
-    "read": false
+    "id": 151
   },
   {
     "es": "la luz es blanca",
@@ -1516,8 +1365,7 @@
     "it": "la luce è bianca",
     "ro": "lumina este albă",
     "group": "4",
-    "id": 152,
-    "read": false
+    "id": 152
   },
   {
     "es": "un gato en casa",
@@ -1526,8 +1374,7 @@
     "it": "un gatto in casa",
     "ro": "o pisică în casă",
     "group": "4",
-    "id": 153,
-    "read": false
+    "id": 153
   },
   {
     "es": "todo va a estar",
@@ -1536,8 +1383,7 @@
     "it": "tutto starà bene",
     "ro": "totul va fi bine",
     "group": "4",
-    "id": 154,
-    "read": false
+    "id": 154
   },
   {
     "es": "hace mucho frio afuera",
@@ -1546,8 +1392,7 @@
     "it": "fa molto freddo fuori",
     "ro": "e foarte frig afară",
     "group": "4",
-    "id": 155,
-    "read": false
+    "id": 155
   },
   {
     "es": "un libro de poemas",
@@ -1556,8 +1401,7 @@
     "it": "un libro di poesie",
     "ro": "o carte de poezii",
     "group": "4",
-    "id": 156,
-    "read": false
+    "id": 156
   },
   {
     "es": "la mesa esta sucia",
@@ -1566,8 +1410,7 @@
     "it": "il tavolo è sporco",
     "ro": "masa este murdară",
     "group": "4",
-    "id": 157,
-    "read": false
+    "id": 157
   },
   {
     "es": "donde esta mi bolso",
@@ -1576,8 +1419,7 @@
     "it": "dov'è la mia borsa",
     "ro": "unde este geanta mea",
     "group": "4",
-    "id": 158,
-    "read": false
+    "id": 158
   },
   {
     "es": "mi ciudad es grande",
@@ -1586,8 +1428,7 @@
     "it": "mia città è grande",
     "ro": "orașul meu este mare",
     "group": "4",
-    "id": 159,
-    "read": false
+    "id": 159
   },
   {
     "es": "ella tiene ojos verdes",
@@ -1596,8 +1437,7 @@
     "it": "lei ha occhi verdi",
     "ro": "ea are ochi verzi",
     "group": "4",
-    "id": 160,
-    "read": false
+    "id": 160
   },
   {
     "es": "el camino es largo",
@@ -1606,8 +1446,7 @@
     "it": "la strada è lunga",
     "ro": "drumul este lung",
     "group": "4",
-    "id": 161,
-    "read": false
+    "id": 161
   },
   {
     "es": "un beso para ti",
@@ -1616,8 +1455,7 @@
     "it": "un bacio per te",
     "ro": "un sărut pentru tine",
     "group": "4",
-    "id": 162,
-    "read": false
+    "id": 162
   },
   {
     "es": "el sol sale hoy",
@@ -1626,8 +1464,7 @@
     "it": "il sole esce oggi",
     "ro": "soarele iese astăzi",
     "group": "4",
-    "id": 163,
-    "read": false
+    "id": 163
   },
   {
     "es": "la luna es blanca",
@@ -1636,8 +1473,7 @@
     "it": "la luna è bianca",
     "ro": "luna este albă",
     "group": "4",
-    "id": 164,
-    "read": false
+    "id": 164
   },
   {
     "es": "tengo una pregunta mas",
@@ -1646,8 +1482,7 @@
     "it": "ho una domanda ancora",
     "ro": "mai am o întrebare",
     "group": "4",
-    "id": 165,
-    "read": false
+    "id": 165
   },
   {
     "es": "esta sopa es salada",
@@ -1656,8 +1491,7 @@
     "it": "questa zuppa è salata",
     "ro": "supa asta e sărată",
     "group": "4",
-    "id": 166,
-    "read": false
+    "id": 166
   },
   {
     "es": "un viaje muy corto",
@@ -1666,8 +1500,7 @@
     "it": "un viaggio molto breve",
     "ro": "o călătorie foarte scurtă",
     "group": "4",
-    "id": 167,
-    "read": false
+    "id": 167
   },
   {
     "es": "mi coche no funciona",
@@ -1676,8 +1509,7 @@
     "it": "mia auto non funziona",
     "ro": "mașina mea nu merge",
     "group": "4",
-    "id": 168,
-    "read": false
+    "id": 168
   },
   {
     "es": "ella lee un libro",
@@ -1686,8 +1518,7 @@
     "it": "lei legge un libro",
     "ro": "ea citește o carte",
     "group": "4",
-    "id": 169,
-    "read": false
+    "id": 169
   },
   {
     "es": "el jardin es verde",
@@ -1696,8 +1527,7 @@
     "it": "il giardino è verde",
     "ro": "grădina este verde",
     "group": "4",
-    "id": 170,
-    "read": false
+    "id": 170
   },
   {
     "es": "quiero ir al cine",
@@ -1706,8 +1536,7 @@
     "it": "voglio andare al cinema",
     "ro": "vreu la cinema",
     "group": "4",
-    "id": 171,
-    "read": false
+    "id": 171
   },
   {
     "es": "la puerta es roja",
@@ -1716,8 +1545,7 @@
     "it": "la porta è rossa",
     "ro": "ușa este roșie",
     "group": "4",
-    "id": 172,
-    "read": false
+    "id": 172
   },
   {
     "es": "hace viento muy fuerte",
@@ -1726,8 +1554,7 @@
     "it": "fa vento molto forte",
     "ro": "vântul bate foarte tare",
     "group": "4",
-    "id": 173,
-    "read": false
+    "id": 173
   },
   {
     "es": "donde esta la salida",
@@ -1736,8 +1563,7 @@
     "it": "dov'è l'uscita",
     "ro": "unde este ieșirea",
     "group": "4",
-    "id": 174,
-    "read": false
+    "id": 174
   },
   {
     "es": "mi madre es joven",
@@ -1746,8 +1572,7 @@
     "it": "mia madre è giovane",
     "ro": "mama mea este tânără",
     "group": "4",
-    "id": 175,
-    "read": false
+    "id": 175
   },
   {
     "es": "un cafe muy dulce",
@@ -1756,8 +1581,7 @@
     "it": "un caffè molto dolce",
     "ro": "o cafea foarte dulce",
     "group": "4",
-    "id": 176,
-    "read": false
+    "id": 176
   },
   {
     "es": "la ventana esta abierta",
@@ -1766,8 +1590,7 @@
     "it": "la finestra è aperta",
     "ro": "fereastra este deschisă",
     "group": "4",
-    "id": 177,
-    "read": false
+    "id": 177
   },
   {
     "es": "un sueño de amor",
@@ -1776,8 +1599,7 @@
     "it": "un sogno d'amore",
     "ro": "un vis de iubire",
     "group": "4",
-    "id": 178,
-    "read": false
+    "id": 178
   },
   {
     "es": "la vida es buena",
@@ -1786,8 +1608,7 @@
     "it": "la vita è bella",
     "ro": "viața este bună",
     "group": "4",
-    "id": 179,
-    "read": false
+    "id": 179
   },
   {
     "es": "no digas nada mas",
@@ -1796,8 +1617,7 @@
     "it": "non dire nulla più",
     "ro": "nu mai spune nimic",
     "group": "4",
-    "id": 180,
-    "read": false
+    "id": 180
   },
   {
     "es": "el perro tiene hambre",
@@ -1806,8 +1626,7 @@
     "it": "il cane ha fame",
     "ro": "câinelui îi e foame",
     "group": "4",
-    "id": 181,
-    "read": false
+    "id": 181
   },
   {
     "es": "quiero un poco mas",
@@ -1816,8 +1635,7 @@
     "it": "voglio un po' più",
     "ro": "vreu un pic mai",
     "group": "4",
-    "id": 182,
-    "read": false
+    "id": 182
   },
   {
     "es": "la ropa esta seca",
@@ -1826,8 +1644,7 @@
     "it": "i panni sono asciutti",
     "ro": "hainele sunt uscate",
     "group": "4",
-    "id": 183,
-    "read": false
+    "id": 183
   },
   {
     "es": "un dia de sol",
@@ -1836,8 +1653,7 @@
     "it": "un giorno di sole",
     "ro": "o zi de soare",
     "group": "4",
-    "id": 184,
-    "read": false
+    "id": 184
   },
   {
     "es": "ella corre muy rapido",
@@ -1846,8 +1662,7 @@
     "it": "lei corre molto veloce",
     "ro": "ea aleargă foarte repede",
     "group": "4",
-    "id": 185,
-    "read": false
+    "id": 185
   },
   {
     "es": "el cafe esta frio",
@@ -1856,8 +1671,7 @@
     "it": "il caffè è freddo",
     "ro": "cafeaua este rece",
     "group": "4",
-    "id": 186,
-    "read": false
+    "id": 186
   },
   {
     "es": "mi gato es gris",
@@ -1866,8 +1680,7 @@
     "it": "il mio gatto grigio",
     "ro": "pisica mea este gri",
     "group": "4",
-    "id": 187,
-    "read": false
+    "id": 187
   },
   {
     "es": "esto es para ti",
@@ -1876,8 +1689,7 @@
     "it": "questo è per te",
     "ro": "asta este pentru tine",
     "group": "4",
-    "id": 188,
-    "read": false
+    "id": 188
   },
   {
     "es": "hace calor en verano",
@@ -1886,8 +1698,7 @@
     "it": "fa caldo in estate",
     "ro": "este cald vara",
     "group": "4",
-    "id": 189,
-    "read": false
+    "id": 189
   },
   {
     "es": "un error muy grande",
@@ -1896,8 +1707,7 @@
     "it": "un errore molto grande",
     "ro": "o eroare foarte mare",
     "group": "4",
-    "id": 190,
-    "read": false
+    "id": 190
   },
   {
     "es": "la mesa es redonda",
@@ -1906,8 +1716,7 @@
     "it": "il tavolo è rotonda",
     "ro": "masa este rotundă",
     "group": "4",
-    "id": 191,
-    "read": false
+    "id": 191
   },
   {
     "es": "quiero beber algo fresco",
@@ -1916,8 +1725,7 @@
     "it": "voglio bere qualcosa fresco",
     "ro": "vreu să beau ceva",
     "group": "4",
-    "id": 192,
-    "read": false
+    "id": 192
   },
   {
     "es": "mi hermano es pequeño",
@@ -1926,8 +1734,7 @@
     "it": "mio fratello è piccolo",
     "ro": "fratele meu este mic",
     "group": "4",
-    "id": 193,
-    "read": false
+    "id": 193
   },
   {
     "es": "la noche esta tranquila",
@@ -1936,8 +1743,7 @@
     "it": "la notte è tranquilla",
     "ro": "noaptea este liniștită",
     "group": "4",
-    "id": 194,
-    "read": false
+    "id": 194
   },
   {
     "es": "ella tiene mucha suerte",
@@ -1946,8 +1752,7 @@
     "it": "lei ha molta fortuna",
     "ro": "ea are mult noroc",
     "group": "4",
-    "id": 195,
-    "read": false
+    "id": 195
   },
   {
     "es": "un libro muy viejo",
@@ -1956,8 +1761,7 @@
     "it": "un libro molto vecchio",
     "ro": "o carte foarte veche",
     "group": "4",
-    "id": 196,
-    "read": false
+    "id": 196
   },
   {
     "es": "el mar es azul",
@@ -1966,8 +1770,7 @@
     "it": "il mare è blu",
     "ro": "marea este albastră",
     "group": "4",
-    "id": 197,
-    "read": false
+    "id": 197
   },
   {
     "es": "esto no es justo",
@@ -1976,8 +1779,7 @@
     "it": "questo non è giusto",
     "ro": "asta nu este drept",
     "group": "4",
-    "id": 198,
-    "read": false
+    "id": 198
   },
   {
     "es": "el sol se va",
@@ -1986,7 +1788,1806 @@
     "it": "il sole se ne-va",
     "ro": "soarele apune acum",
     "group": "4",
-    "id": 199,
-    "read": false
+    "id": 199
+  },
+  {
+    "es": "el cielo es azul",
+    "en": "the sky is blue",
+    "de": "der Himmel ist blau",
+    "it": "il cielo è blu",
+    "ro": "cerul este albastru",
+    "group": "4",
+    "id": 200
+  },
+  {
+    "es": "ella come una manzana",
+    "en": "she eats an apple",
+    "de": "sie isst einen Apfel",
+    "it": "lei mangia una mela",
+    "ro": "ea mănâncă un măr",
+    "group": "4",
+    "id": 201
+  },
+  {
+    "es": "nosotros leemos un libro",
+    "en": "we read a book",
+    "de": "wir lesen ein Buch",
+    "it": "noi leggiamo un libro",
+    "ro": "noi citim o carte",
+    "group": "4",
+    "id": 202
+  },
+  {
+    "es": "el perro corre rápido",
+    "en": "the dog runs fast",
+    "de": "der Hund rennt schnell",
+    "it": "il cane corre veloce",
+    "ro": "câinele aleargă foarte rapid",
+    "group": "4",
+    "id": 203
+  },
+  {
+    "es": "me gusta el café",
+    "en": "i like the coffee",
+    "de": "ich mag den Kaffee",
+    "it": "mi piace il caffè",
+    "ro": "îmi place mult cafeaua",
+    "group": "4",
+    "id": 204
+  },
+  {
+    "es": "tú eres muy amable",
+    "en": "you are very kind",
+    "de": "du bist sehr nett",
+    "it": "tu sei molto gentile",
+    "ro": "tu ești foarte amabil",
+    "group": "4",
+    "id": 205
+  },
+  {
+    "es": "hace mucho frío hoy",
+    "en": "it is very cold",
+    "de": "es ist heute kalt",
+    "it": "fa molto freddo oggi",
+    "ro": "este foarte frig azi",
+    "group": "4",
+    "id": 206
+  },
+  {
+    "es": "la música es buena",
+    "en": "the music is good",
+    "de": "die Musik ist gut",
+    "it": "la musica è buona",
+    "ro": "muzica este foarte bună",
+    "group": "4",
+    "id": 207
+  },
+  {
+    "es": "dónde está mi llave",
+    "en": "where is my key",
+    "de": "wo ist mein Schlüssel",
+    "it": "dov'è la mia chiave",
+    "ro": "unde este cheia mea",
+    "group": "4",
+    "id": 208
+  },
+  {
+    "es": "quiero beber agua fría",
+    "en": "i want cold water",
+    "de": "ich will kaltes Wasser",
+    "it": "voglio bere acqua fredda",
+    "ro": "vreau să beau apă",
+    "group": "4",
+    "id": 209
+  },
+  {
+    "es": "el gato duerme aquí",
+    "en": "the cat sleeps here",
+    "de": "die Katze schläft hier",
+    "it": "il gatto dorme qui",
+    "ro": "pisica doarme aici acum",
+    "group": "4",
+    "id": 210
+  },
+  {
+    "es": "mi padre es alto",
+    "en": "my father is tall",
+    "de": "mein Vater ist groß",
+    "it": "mio padre è alto",
+    "ro": "tatăl meu este înalt",
+    "group": "4",
+    "id": 211
+  },
+  {
+    "es": "ella tiene un coche",
+    "en": "she has a car",
+    "de": "sie hat ein Auto",
+    "it": "lei ha un'auto",
+    "ro": "ea are o mașină",
+    "group": "4",
+    "id": 212
+  },
+  {
+    "es": "vamos a la playa",
+    "en": "let's go to beach",
+    "de": "wir gehen zum Strand",
+    "it": "andiamo alla spiaggia ora",
+    "ro": "mergem la plajă acum",
+    "group": "4",
+    "id": 213
+  },
+  {
+    "es": "el tiempo vuela rápido",
+    "en": "the time flies fast",
+    "de": "die Zeit vergeht schnell",
+    "it": "il tempo vola via",
+    "ro": "timpul trece foarte repede",
+    "group": "4",
+    "id": 214
+  },
+  {
+    "es": "estoy muy feliz ahora",
+    "en": "i am happy now",
+    "de": "ich bin jetzt glücklich",
+    "it": "sono molto felice ora",
+    "ro": "sunt foarte fericit acum",
+    "group": "4",
+    "id": 215
+  },
+  {
+    "es": "el té está caliente",
+    "en": "the tea is hot",
+    "de": "der Tee ist heiß",
+    "it": "il tè è caldo",
+    "ro": "ceaiul este foarte fierbinte",
+    "group": "4",
+    "id": 216
+  },
+  {
+    "es": "necesito un teléfono nuevo",
+    "en": "i need new phone",
+    "de": "ich brauche neues Handy",
+    "it": "mi serve nuovo telefono",
+    "ro": "am nevoie de telefon",
+    "group": "4",
+    "id": 217
+  },
+  {
+    "es": "mañana será otro día",
+    "en": "tomorrow is another day",
+    "de": "morgen ist neuer Tag",
+    "it": "domani è un altro-giorno",
+    "ro": "mâine este altă zi",
+    "group": "4",
+    "id": 218
+  },
+  {
+    "es": "la flor es roja",
+    "en": "the flower is red",
+    "de": "die Blume ist rot",
+    "it": "il fiore è rosso",
+    "ro": "floarea este de culoare-roșie",
+    "group": "4",
+    "id": 219
+  },
+  {
+    "es": "él vive en madrid",
+    "en": "he lives in madrid",
+    "de": "er wohnt in Madrid",
+    "it": "lui vive a madrid",
+    "ro": "el locuiește în madrid",
+    "group": "4",
+    "id": 220
+  },
+  {
+    "es": "la cena está lista",
+    "en": "the dinner is ready",
+    "de": "das Abendessen ist fertig",
+    "it": "la cena è pronta",
+    "ro": "cina este gata acum",
+    "group": "4",
+    "id": 221
+  },
+  {
+    "es": "yo hablo poco español",
+    "en": "i speak little spanish",
+    "de": "ich spreche wenig Spanisch",
+    "it": "parlo poco lo spagnolo",
+    "ro": "vorbesc puțină limbă spaniolă",
+    "group": "4",
+    "id": 222
+  },
+  {
+    "es": "las aves pueden volar",
+    "en": "the birds can fly",
+    "de": "die Vögel können fliegen",
+    "it": "gli uccelli possono volare",
+    "ro": "păsările pot să zboare",
+    "group": "4",
+    "id": 223
+  },
+  {
+    "es": "abre la puerta ahora",
+    "en": "open the door now",
+    "de": "öffne jetzt die Tür",
+    "it": "apri la porta adesso",
+    "ro": "deschide ușa chiar acum",
+    "group": "4",
+    "id": 224
+  },
+  {
+    "es": "ella canta muy bien",
+    "en": "she sings very well",
+    "de": "sie singt sehr gut",
+    "it": "lei canta molto bene",
+    "ro": "ea cântă foarte bine",
+    "group": "4",
+    "id": 225
+  },
+  {
+    "es": "el pan es fresco",
+    "en": "the bread is fresh",
+    "de": "das Brot ist frisch",
+    "it": "il pane è fresco",
+    "ro": "pâinea este proaspătă acum",
+    "group": "4",
+    "id": 226
+  },
+  {
+    "es": "mi hermano es joven",
+    "en": "my brother is young",
+    "de": "mein Bruder ist jung",
+    "it": "mio fratello è giovane",
+    "ro": "fratele meu este tânăr",
+    "group": "4",
+    "id": 227
+  },
+  {
+    "es": "veo una estrella blanca",
+    "en": "i see white star",
+    "de": "ich sehe weißen Stern",
+    "it": "vedo una stella bianca",
+    "ro": "văd o stea albă",
+    "group": "4",
+    "id": 228
+  },
+  {
+    "es": "la casa es grande",
+    "en": "the house is big",
+    "de": "das Haus ist groß",
+    "it": "la casa è grande",
+    "ro": "casa este foarte mare",
+    "group": "4",
+    "id": 229
+  },
+  {
+    "es": "ellos juegan al fútbol",
+    "en": "they play the football",
+    "de": "sie spielen gerne Fußball",
+    "it": "loro giocano a calcio",
+    "ro": "ei se joacă fotbal",
+    "group": "4",
+    "id": 230
+  },
+  {
+    "es": "el mar está tranquilo",
+    "en": "the sea is calm",
+    "de": "das Meer ist ruhig",
+    "it": "il mare è calmo",
+    "ro": "marea este liniștită acum",
+    "group": "4",
+    "id": 231
+  },
+  {
+    "es": "no tengo mucho dinero",
+    "en": "i have no money",
+    "de": "ich habe kein Geld",
+    "it": "non ho molti soldi",
+    "ro": "nu am mulți bani",
+    "group": "4",
+    "id": 232
+  },
+  {
+    "es": "la película es larga",
+    "en": "the movie is long",
+    "de": "der Film ist lang",
+    "it": "il film è lungo",
+    "ro": "filmul este foarte lung",
+    "group": "4",
+    "id": 233
+  },
+  {
+    "es": "ella escribe un mensaje",
+    "en": "she writes a message",
+    "de": "sie schreibt eine Nachricht",
+    "it": "lei scrive un messaggio",
+    "ro": "ea scrie un mesaj",
+    "group": "4",
+    "id": 234
+  },
+  {
+    "es": "tengo una idea nueva",
+    "en": "i have new idea",
+    "de": "ich habe neue Idee",
+    "it": "ho un'idea nuova",
+    "ro": "am o idee nouă",
+    "group": "4",
+    "id": 235
+  },
+  {
+    "es": "el fuego quema mucho",
+    "en": "the fire burns much",
+    "de": "das Feuer brennt stark",
+    "it": "il fuoco brucia molto",
+    "ro": "focul arde foarte tare",
+    "group": "4",
+    "id": 236
+  },
+  {
+    "es": "mi madre cocina rico",
+    "en": "mother cooks delicious food",
+    "de": "meine Mutter kocht gut",
+    "it": "mia madre cucina bene",
+    "ro": "mama mea gătește bine",
+    "group": "4",
+    "id": 237
+  },
+  {
+    "es": "estamos en el parque",
+    "en": "we are in park",
+    "de": "wir sind im Park",
+    "it": "siamo al parco ora",
+    "ro": "suntem în parc acum",
+    "group": "4",
+    "id": 238
+  },
+  {
+    "es": "la nieve es blanca",
+    "en": "the snow is white",
+    "de": "der Schnee ist weiß",
+    "it": "la neve è bianca",
+    "ro": "zăpada este albă acum",
+    "group": "4",
+    "id": 239
+  },
+  {
+    "es": "el camino es largo",
+    "en": "the path is long",
+    "de": "der Weg ist lang",
+    "it": "il cammino è lungo",
+    "ro": "drumul este foarte lung",
+    "group": "4",
+    "id": 240
+  },
+  {
+    "es": "hoy es mi cumpleaños",
+    "en": "today is my birthday",
+    "de": "heute ist mein Geburtstag",
+    "it": "oggi è mio compleanno",
+    "ro": "azi este ziua mea",
+    "group": "4",
+    "id": 241
+  },
+  {
+    "es": "la ventana está abierta",
+    "en": "the window is open",
+    "de": "das Fenster ist offen",
+    "it": "la finestra è aperta",
+    "ro": "fereastra este deschisă acum",
+    "group": "4",
+    "id": 242
+  },
+  {
+    "es": "me duele la cabeza",
+    "en": "my head hurts now",
+    "de": "mein Kopf tut weh",
+    "it": "mi fa-male la testa",
+    "ro": "mă doare capul acum",
+    "group": "4",
+    "id": 243
+  },
+  {
+    "es": "el libro es interesante",
+    "en": "the book is interesting",
+    "de": "das Buch ist interessant",
+    "it": "il libro è interessante",
+    "ro": "cartea este foarte interesantă",
+    "group": "4",
+    "id": 244
+  },
+  {
+    "es": "ellos son mis amigos",
+    "en": "they are my friends",
+    "de": "sie sind meine Freunde",
+    "it": "loro sono miei amici",
+    "ro": "ei sunt prietenii mei",
+    "group": "4",
+    "id": 245
+  },
+  {
+    "es": "la ciudad es ruidosa",
+    "en": "the city is noisy",
+    "de": "die Stadt ist laut",
+    "it": "la città è rumorosa",
+    "ro": "orașul este foarte zgomotos",
+    "group": "4",
+    "id": 246
+  },
+  {
+    "es": "quiero comer algo dulce",
+    "en": "i want sweet food",
+    "de": "ich will etwas Süßes",
+    "it": "voglio mangiare qualcosa dolce",
+    "ro": "vreau să mănânc ceva",
+    "group": "4",
+    "id": 247
+  },
+  {
+    "es": "el bebé está llorando",
+    "en": "the baby is crying",
+    "de": "das Baby weint gerade",
+    "it": "il bambino sta piangendo",
+    "ro": "bebelușul plânge chiar acum",
+    "group": "4",
+    "id": 248
+  },
+  {
+    "es": "la silla es cómoda",
+    "en": "the chair is comfy",
+    "de": "der Stuhl ist bequem",
+    "it": "la sedia è comoda",
+    "ro": "scaunul este foarte confortabil",
+    "group": "4",
+    "id": 249
+  },
+  {
+    "es": "estudio todos los días",
+    "en": "i study every day",
+    "de": "ich lerne jeden Tag",
+    "it": "studio tutti i giorni",
+    "ro": "învăț în fiecare zi",
+    "group": "4",
+    "id": 250
+  },
+  {
+    "es": "el perro tiene hambre",
+    "en": "the dog is hungry",
+    "de": "der Hund hat Hunger",
+    "it": "il cane ha fame",
+    "ro": "câinelui îi este foame",
+    "group": "4",
+    "id": 251
+  },
+  {
+    "es": "la noche está oscura",
+    "en": "the night is dark",
+    "de": "die Nacht ist dunkel",
+    "it": "la notte è buia",
+    "ro": "noaptea este foarte întunecată",
+    "group": "4",
+    "id": 252
+  },
+  {
+    "es": "mi zapato está roto",
+    "en": "my shoe is broken",
+    "de": "mein Schuh ist kaputt",
+    "it": "mia scarpa è rotta",
+    "ro": "pantoful meu este rupt",
+    "group": "4",
+    "id": 253
+  },
+  {
+    "es": "el tren llega tarde",
+    "en": "the train arrives late",
+    "de": "der Zug kommt spät",
+    "it": "il treno arriva tardi",
+    "ro": "trenul întârzie destul de-mult",
+    "group": "4",
+    "id": 254
+  },
+  {
+    "es": "ella compra ropa nueva",
+    "en": "she buys new clothes",
+    "de": "sie kauft neue Kleidung",
+    "it": "lei compra vestiti nuovi",
+    "ro": "ea cumpără haine noi",
+    "group": "4",
+    "id": 255
+  },
+  {
+    "es": "nosotros somos una familia",
+    "en": "we are a family",
+    "de": "wir sind eine Familie",
+    "it": "noi siamo una famiglia",
+    "ro": "noi suntem o familie",
+    "group": "4",
+    "id": 256
+  },
+  {
+    "es": "el agua está limpia",
+    "en": "the water is clean",
+    "de": "das Wasser ist sauber",
+    "it": "l'acqua è pulita ora",
+    "ro": "apa este curată acum",
+    "group": "4",
+    "id": 257
+  },
+  {
+    "es": "me gusta viajar mucho",
+    "en": "i like traveling much",
+    "de": "ich reise sehr gerne",
+    "it": "mi piace viaggiare molto",
+    "ro": "îmi place să călătoresc",
+    "group": "4",
+    "id": 258
+  },
+  {
+    "es": "el jardín tiene flores",
+    "en": "the garden has flowers",
+    "de": "der Garten hat Blumen",
+    "it": "il giardino ha fiori",
+    "ro": "grădina are multe flori",
+    "group": "4",
+    "id": 259
+  },
+  {
+    "es": "él corre el maratón",
+    "en": "he runs the marathon",
+    "de": "er läuft den Marathon",
+    "it": "lui corre la maratona",
+    "ro": "el aleargă la maraton",
+    "group": "4",
+    "id": 260
+  },
+  {
+    "es": "el reloj no funciona",
+    "en": "the clock doesn't work",
+    "de": "die Uhr geht nicht",
+    "it": "l'orologio non funziona ora",
+    "ro": "ceasul nu mai funcționează",
+    "group": "4",
+    "id": 261
+  },
+  {
+    "es": "mi gato es gordo",
+    "en": "my cat is fat",
+    "de": "meine Katze ist fett",
+    "it": "il mio gatto è-grasso",
+    "ro": "pisica mea este grasă",
+    "group": "4",
+    "id": 262
+  },
+  {
+    "es": "la leche está fría",
+    "en": "the milk is cold",
+    "de": "die Milch ist kalt",
+    "it": "il latte è freddo",
+    "ro": "laptele este rece acum",
+    "group": "4",
+    "id": 263
+  },
+  {
+    "es": "la montaña es alta",
+    "en": "the mountain is high",
+    "de": "der Berg ist hoch",
+    "it": "la montagna è alta",
+    "ro": "muntele este foarte înalt",
+    "group": "4",
+    "id": 264
+  },
+  {
+    "es": "ella tiene ojos verdes",
+    "en": "she has green eyes",
+    "de": "sie hat grüne Augen",
+    "it": "lei ha occhi verdi",
+    "ro": "ea are ochi verzi",
+    "group": "4",
+    "id": 265
+  },
+  {
+    "es": "el sol brilla hoy",
+    "en": "the sun shines today",
+    "de": "die Sonne scheint heute",
+    "it": "il sole splende oggi",
+    "ro": "soarele strălucește astăzi tare",
+    "group": "4",
+    "id": 266
+  },
+  {
+    "es": "quiero ir al cine",
+    "en": "i want go cinema",
+    "de": "ich will ins Kino",
+    "it": "voglio andare al cinema",
+    "ro": "vreau la film acum",
+    "group": "4",
+    "id": 267
+  },
+  {
+    "es": "el papel es blanco",
+    "en": "the paper is white",
+    "de": "das Papier ist weiß",
+    "it": "la carta è bianca",
+    "ro": "hârtia este albă acum",
+    "group": "4",
+    "id": 268
+  },
+  {
+    "es": "ellos hablan muy fuerte",
+    "en": "they speak very loud",
+    "de": "sie sprechen sehr laut",
+    "it": "loro parlano molto forte",
+    "ro": "ei vorbesc foarte tare",
+    "group": "4",
+    "id": 269
+  },
+  {
+    "es": "la sopa está rica",
+    "en": "the soup is tasty",
+    "de": "die Suppe schmeckt gut",
+    "it": "la zuppa è buona",
+    "ro": "supa este foarte bună",
+    "group": "4",
+    "id": 270
+  },
+  {
+    "es": "el coche es rojo",
+    "en": "the car is red",
+    "de": "das Auto ist rot",
+    "it": "la macchina è rossa",
+    "ro": "mașina este de culoare-roșie",
+    "group": "4",
+    "id": 271
+  },
+  {
+    "es": "mi perro es viejo",
+    "en": "my dog is old",
+    "de": "mein Hund ist alt",
+    "it": "il mio cane è-vecchio",
+    "ro": "câinele meu este bătrân",
+    "group": "4",
+    "id": 272
+  },
+  {
+    "es": "el viento sopla fuerte",
+    "en": "the wind blows hard",
+    "de": "der Wind weht stark",
+    "it": "il vento soffia forte",
+    "ro": "vântul suflă foarte tare",
+    "group": "4",
+    "id": 273
+  },
+  {
+    "es": "me gusta esta canción",
+    "en": "i like this song",
+    "de": "ich mag dieses Lied",
+    "it": "mi piace questa canzone",
+    "ro": "îmi place această melodie",
+    "group": "4",
+    "id": 274
+  },
+  {
+    "es": "la puerta está cerrada",
+    "en": "the door is closed",
+    "de": "die Tür ist zu",
+    "it": "la porta è chiusa",
+    "ro": "ușa este închisă acum",
+    "group": "4",
+    "id": 275
+  },
+  {
+    "es": "el niño está feliz",
+    "en": "the boy is happy",
+    "de": "der Junge ist glücklich",
+    "it": "il bambino è felice",
+    "ro": "copilul este foarte fericit",
+    "group": "4",
+    "id": 276
+  },
+  {
+    "es": "la luna es brillante",
+    "en": "the moon is bright",
+    "de": "der Mond ist hell",
+    "it": "la luna è brillante",
+    "ro": "luna este foarte strălucitoare",
+    "group": "4",
+    "id": 277
+  },
+  {
+    "es": "ella busca sus gafas",
+    "en": "she looks for glasses",
+    "de": "sie sucht ihre Brille",
+    "it": "lei cerca suoi occhiali",
+    "ro": "ea își caută ochelarii",
+    "group": "4",
+    "id": 278
+  },
+  {
+    "es": "el café está amargo",
+    "en": "the coffee is bitter",
+    "de": "der Kaffee ist bitter",
+    "it": "il caffè è amaro",
+    "ro": "cafeaua este foarte amară",
+    "group": "4",
+    "id": 279
+  },
+  {
+    "es": "nosotros bebemos jugo fresco",
+    "en": "we drink fresh juice",
+    "de": "wir trinken frischen Saft",
+    "it": "noi beviamo succo fresco",
+    "ro": "noi bem suc proaspăt",
+    "group": "4",
+    "id": 280
+  },
+  {
+    "es": "el cielo tiene estrellas",
+    "en": "sky has many stars",
+    "de": "Himmel hat viele Sterne",
+    "it": "il cielo ha stelle",
+    "ro": "cerul are multe stele",
+    "group": "4",
+    "id": 281
+  },
+  {
+    "es": "mi amigo es alemán",
+    "en": "my friend is german",
+    "de": "mein Freund ist Deutscher",
+    "it": "mio amico è tedesco",
+    "ro": "prietenul meu este german",
+    "group": "4",
+    "id": 282
+  },
+  {
+    "es": "el río es profundo",
+    "en": "the river is deep",
+    "de": "der Fluss ist tief",
+    "it": "il fiume è profondo",
+    "ro": "râul este foarte adânc",
+    "group": "4",
+    "id": 283
+  },
+  {
+    "es": "tú hablas muy rápido",
+    "en": "you speak very fast",
+    "de": "du sprichst sehr schnell",
+    "it": "tu parli molto veloce",
+    "ro": "tu vorbești foarte repede",
+    "group": "4",
+    "id": 284
+  },
+  {
+    "es": "la lluvia cae despacio",
+    "en": "the rain falls slowly",
+    "de": "der Regen fällt langsam",
+    "it": "la pioggia cade piano",
+    "ro": "ploaia cade foarte încet",
+    "group": "4",
+    "id": 285
+  },
+  {
+    "es": "mi casa es pequeña",
+    "en": "my house is small",
+    "de": "mein Haus ist klein",
+    "it": "mia casa è piccola",
+    "ro": "casa mea este mică",
+    "group": "4",
+    "id": 286
+  },
+  {
+    "es": "él come mucho chocolate",
+    "en": "he eats much chocolate",
+    "de": "er isst viel Schokolade",
+    "it": "mangia molta cioccolata ancora",
+    "ro": "el mănâncă multă ciocolată",
+    "group": "4",
+    "id": 287
+  },
+  {
+    "es": "el pez nada bien",
+    "en": "the fish swims well",
+    "de": "der Fisch schwimmt gut",
+    "it": "il pesce nuota bene",
+    "ro": "peștele înoată foarte bine",
+    "group": "4",
+    "id": 288
+  },
+  {
+    "es": "la mesa es madera",
+    "en": "the table is wood",
+    "de": "der Tisch ist Holz",
+    "it": "il tavolo è legno",
+    "ro": "masa este din lemn",
+    "group": "4",
+    "id": 289
+  },
+  {
+    "es": "hoy hace buen tiempo",
+    "en": "today is good weather",
+    "de": "heute ist schönes Wetter",
+    "it": "oggi fa bel tempo",
+    "ro": "azi este vreme frumoasă",
+    "group": "4",
+    "id": 290
+  },
+  {
+    "es": "la niña tiene sueño",
+    "en": "the girl is sleepy",
+    "de": "das Mädchen ist müde",
+    "it": "la bimba ha sonno",
+    "ro": "fetiței îi este somn",
+    "group": "4",
+    "id": 291
+  },
+  {
+    "es": "el libro está ahí",
+    "en": "the book is there",
+    "de": "das Buch liegt dort",
+    "it": "il libro è lì",
+    "ro": "cartea este chiar acolo",
+    "group": "4",
+    "id": 292
+  },
+  {
+    "es": "nosotros queremos más pan",
+    "en": "we want more bread",
+    "de": "wir wollen mehr Brot",
+    "it": "noi vogliamo più pane",
+    "ro": "noi vrem mai multă",
+    "group": "4",
+    "id": 293
+  },
+  {
+    "es": "ella mira la televisión",
+    "en": "she watches the television",
+    "de": "sie schaut jetzt fern",
+    "it": "lei guarda la tv",
+    "ro": "ea se uită televizor",
+    "group": "4",
+    "id": 294
+  },
+  {
+    "es": "el huevo es redondo",
+    "en": "the egg is round",
+    "de": "das Ei ist rund",
+    "it": "l'uovo è di forma-rotonda",
+    "ro": "oul este de formă-rotundă",
+    "group": "4",
+    "id": 295
+  },
+  {
+    "es": "el fuego es peligroso",
+    "en": "the fire is dangerous",
+    "de": "das Feuer ist gefährlich",
+    "it": "il fuoco è pericoloso",
+    "ro": "focul este foarte periculos",
+    "group": "4",
+    "id": 296
+  },
+  {
+    "es": "yo tengo mucha sed",
+    "en": "i am very thirsty",
+    "de": "ich habe großen Durst",
+    "it": "ho molta sete ora",
+    "ro": "mi-e foarte sete acum",
+    "group": "4",
+    "id": 297
+  },
+  {
+    "es": "la escuela es divertida",
+    "en": "the school is fun",
+    "de": "die Schule macht Spaß",
+    "it": "la scuola è divertente",
+    "ro": "școala este foarte distractivă",
+    "group": "4",
+    "id": 298
+  },
+  {
+    "es": "mi gato bebe leche",
+    "en": "my cat drinks milk",
+    "de": "meine Katze trinkt Milch",
+    "it": "mio gatto beve latte",
+    "ro": "pisica mea bea lapte",
+    "group": "4",
+    "id": 299
+  },
+  {
+    "es": "el invierno es frío",
+    "en": "the winter is cold",
+    "de": "der Winter ist kalt",
+    "it": "l'inverno è molto freddo",
+    "ro": "iarna este foarte friguroasă",
+    "group": "4",
+    "id": 300
+  },
+  {
+    "es": "mi perro come carne",
+    "en": "my dog eats meat",
+    "de": "mein Hund frisst Fleisch",
+    "it": "mio cane mangia carne",
+    "ro": "câinele meu mănâncă carne",
+    "group": "4",
+    "id": 301
+  },
+  {
+    "es": "la sopa está buena",
+    "en": "the soup is good",
+    "de": "die Suppe ist gut",
+    "it": "la zuppa è buona",
+    "ro": "supa este foarte bună",
+    "group": "4",
+    "id": 302
+  },
+  {
+    "es": "tú tienes mucha suerte",
+    "en": "you are very lucky",
+    "de": "du hast viel Glück",
+    "it": "tu hai molta fortuna",
+    "ro": "tu ai mult noroc",
+    "group": "4",
+    "id": 303
+  },
+  {
+    "es": "el reloj es caro",
+    "en": "the watch is expensive",
+    "de": "die Uhr ist teuer",
+    "it": "l'orologio è molto caro",
+    "ro": "ceasul este foarte scump",
+    "group": "4",
+    "id": 304
+  },
+  {
+    "es": "ella lee un diario",
+    "en": "she reads a newspaper",
+    "de": "sie liest eine Zeitung",
+    "it": "lei legge un giornale",
+    "ro": "ea citește un ziar",
+    "group": "4",
+    "id": 305
+  },
+  {
+    "es": "nosotros tenemos una casa",
+    "en": "we have a house",
+    "de": "wir haben ein Haus",
+    "it": "noi abbiamo una casa",
+    "ro": "noi avem o casă",
+    "group": "4",
+    "id": 306
+  },
+  {
+    "es": "el gato salta alto",
+    "en": "the cat jumps high",
+    "de": "die Katze springt hoch",
+    "it": "il gatto salta alto",
+    "ro": "pisica sare foarte sus",
+    "group": "4",
+    "id": 307
+  },
+  {
+    "es": "me gusta el verano",
+    "en": "i like the summer",
+    "de": "ich mag den Sommer",
+    "it": "mi piace l' estate",
+    "ro": "îmi place mult vara",
+    "group": "4",
+    "id": 308
+  },
+  {
+    "es": "la puerta es negra",
+    "en": "the door is black",
+    "de": "die Tür ist schwarz",
+    "it": "la porta è nera",
+    "ro": "ușa este de culoare-neagră",
+    "group": "4",
+    "id": 309
+  },
+  {
+    "es": "él compra una bicicleta",
+    "en": "he buys a bike",
+    "de": "er kauft ein Fahrrad",
+    "it": "lui compra una bici",
+    "ro": "el cumpără o bicicletă",
+    "group": "4",
+    "id": 310
+  },
+  {
+    "es": "la ensalada es fresca",
+    "en": "the salad is fresh",
+    "de": "der Salat ist frisch",
+    "it": "l'insalata è molto fresca",
+    "ro": "salata este proaspătă acum",
+    "group": "4",
+    "id": 311
+  },
+  {
+    "es": "mi abuelo es viejo",
+    "en": "my grandfather is old",
+    "de": "mein Opa ist alt",
+    "it": "mio nonno è vecchio",
+    "ro": "bunicul meu este bătrân",
+    "group": "4",
+    "id": 312
+  },
+  {
+    "es": "el pájaro canta hoy",
+    "en": "the bird sings today",
+    "de": "der Vogel singt heute",
+    "it": "l'uccello canta oggi stesso",
+    "ro": "pasărea cântă astăzi tare",
+    "group": "4",
+    "id": 313
+  },
+  {
+    "es": "quiero una pizza grande",
+    "en": "i want big pizza",
+    "de": "ich will große Pizza",
+    "it": "voglio una pizza grande",
+    "ro": "vreau o pizza mare",
+    "group": "4",
+    "id": 314
+  },
+  {
+    "es": "el taxi llega ahora",
+    "en": "the taxi arrives now",
+    "de": "das Taxi kommt jetzt",
+    "it": "il taxi arriva ora",
+    "ro": "taxiul ajunge chiar acum",
+    "group": "4",
+    "id": 315
+  },
+  {
+    "es": "ella baila muy bien",
+    "en": "she dances very well",
+    "de": "sie tanzt sehr gut",
+    "it": "lei balla molto bene",
+    "ro": "ea dansează foarte bine",
+    "group": "4",
+    "id": 316
+  },
+  {
+    "es": "el café tiene azúcar",
+    "en": "the coffee has sugar",
+    "de": "der Kaffee hat Zucker",
+    "it": "il caffè ha zucchero",
+    "ro": "cafeaua are mult zahăr",
+    "group": "4",
+    "id": 317
+  },
+  {
+    "es": "mi maleta es pesada",
+    "en": "my suitcase is heavy",
+    "de": "mein Koffer ist schwer",
+    "it": "mia valigia è pesante",
+    "ro": "valiza mea este grea",
+    "group": "4",
+    "id": 318
+  },
+  {
+    "es": "el sol es caliente",
+    "en": "the sun is hot",
+    "de": "die Sonne ist heiß",
+    "it": "il sole è caldo",
+    "ro": "soarele este foarte fierbinte",
+    "group": "4",
+    "id": 319
+  },
+  {
+    "es": "estamos en la cocina",
+    "en": "we are in kitchen",
+    "de": "wir sind in Küche",
+    "it": "siamo in cucina ora",
+    "ro": "suntem în bucătărie acum",
+    "group": "4",
+    "id": 320
+  },
+  {
+    "es": "el chocolate es dulce",
+    "en": "the chocolate is sweet",
+    "de": "die Schokolade ist süß",
+    "it": "il cioccolato è dolce",
+    "ro": "ciocolata este foarte dulce",
+    "group": "4",
+    "id": 321
+  },
+  {
+    "es": "el coche está limpio",
+    "en": "the car is clean",
+    "de": "das Auto ist sauber",
+    "it": "la macchina è pulita",
+    "ro": "mașina este curată acum",
+    "group": "4",
+    "id": 322
+  },
+  {
+    "es": "mi amigo vive lejos",
+    "en": "my friend lives far",
+    "de": "mein Freund wohnt fern",
+    "it": "mio amico vive lontano",
+    "ro": "prietenul meu locuiește departe",
+    "group": "4",
+    "id": 323
+  },
+  {
+    "es": "la luz es fuerte",
+    "en": "the light is strong",
+    "de": "das Licht ist stark",
+    "it": "la luce è forte",
+    "ro": "lumina este foarte puternică",
+    "group": "4",
+    "id": 324
+  },
+  {
+    "es": "ellos viajan en tren",
+    "en": "they travel by train",
+    "de": "sie reisen mit Bahn",
+    "it": "loro viaggiano in treno",
+    "ro": "ei călătoresc cu trenul",
+    "group": "4",
+    "id": 325
+  },
+  {
+    "es": "la pera es verde",
+    "en": "the pear is green",
+    "de": "die Birne ist grün",
+    "it": "la pera è verde",
+    "ro": "para este de culoare-verde",
+    "group": "4",
+    "id": 326
+  },
+  {
+    "es": "el pez vive aquí",
+    "en": "the fish lives here",
+    "de": "der Fisch lebt hier",
+    "it": "il pesce vive qui",
+    "ro": "peștele trăiește aici acum",
+    "group": "4",
+    "id": 327
+  },
+  {
+    "es": "tengo dos gatos negros",
+    "en": "i have two cats",
+    "de": "ich habe zwei Katzen",
+    "it": "ho due gatti neri",
+    "ro": "am două pisici negre",
+    "group": "4",
+    "id": 328
+  },
+  {
+    "es": "la sopa está fría",
+    "en": "the soup is cold",
+    "de": "die Suppe ist kalt",
+    "it": "la zuppa è fredda",
+    "ro": "supa este rece acum",
+    "group": "4",
+    "id": 329
+  },
+  {
+    "es": "el niño juega solo",
+    "en": "the boy plays alone",
+    "de": "der Junge spielt allein",
+    "it": "il bimbo gioca solo",
+    "ro": "copilul se joacă singur",
+    "group": "4",
+    "id": 330
+  },
+  {
+    "es": "ella vende su coche",
+    "en": "she sells her car",
+    "de": "sie verkauft ihr Auto",
+    "it": "lei vende sua auto",
+    "ro": "ea își vinde mașina",
+    "group": "4",
+    "id": 331
+  },
+  {
+    "es": "mi ropa es nueva",
+    "en": "my clothes are new",
+    "de": "meine Kleidung ist neu",
+    "it": "miei vestiti sono nuovi",
+    "ro": "hainele mele sunt noi",
+    "group": "4",
+    "id": 332
+  },
+  {
+    "es": "la calle es estrecha",
+    "en": "the street is narrow",
+    "de": "die Straße ist eng",
+    "it": "la strada è stretta",
+    "ro": "strada este foarte îngustă",
+    "group": "4",
+    "id": 333
+  },
+  {
+    "es": "el jardín es bonito",
+    "en": "the garden is nice",
+    "de": "der Garten ist schön",
+    "it": "il giardino è bello",
+    "ro": "grădina este foarte frumoasă",
+    "group": "4",
+    "id": 334
+  },
+  {
+    "es": "él bebe mucha agua",
+    "en": "he drinks much water",
+    "de": "er trinkt viel Wasser",
+    "it": "lui beve molta acqua",
+    "ro": "el bea multă apă",
+    "group": "4",
+    "id": 335
+  },
+  {
+    "es": "el espejo es grande",
+    "en": "the mirror is big",
+    "de": "der Spiegel ist groß",
+    "it": "lo specchio è grande",
+    "ro": "oglinda este foarte mare",
+    "group": "4",
+    "id": 336
+  },
+  {
+    "es": "yo busco mi perro",
+    "en": "i look for dog",
+    "de": "ich suche meinen Hund",
+    "it": "io cerco mio cane",
+    "ro": "eu îmi caut câinele",
+    "group": "4",
+    "id": 337
+  },
+  {
+    "es": "la cama es cómoda",
+    "en": "the bed is comfortable",
+    "de": "das Bett ist bequem",
+    "it": "il letto è comodo",
+    "ro": "patul este foarte confortabil",
+    "group": "4",
+    "id": 338
+  },
+  {
+    "es": "el queso es francés",
+    "en": "the cheese is french",
+    "de": "der Käse ist französisch",
+    "it": "il formaggio è francese",
+    "ro": "brânza este de origine-franceză",
+    "group": "4",
+    "id": 339
+  },
+  {
+    "es": "ella corre por placer",
+    "en": "she runs for fun",
+    "de": "sie rennt aus Spaß",
+    "it": "lei corre per piacere",
+    "ro": "ea aleargă de plăcere",
+    "group": "4",
+    "id": 340
+  },
+  {
+    "es": "el fuego hace humo",
+    "en": "the fire makes smoke",
+    "de": "das Feuer macht Rauch",
+    "it": "il fuoco fa fumo",
+    "ro": "focul scoate mult fum",
+    "group": "4",
+    "id": 341
+  },
+  {
+    "es": "mi tía es dentista",
+    "en": "my aunt is dentist",
+    "de": "meine Tante ist Zahnärztin",
+    "it": "mia zia è dentista",
+    "ro": "mătușa mea este dentist",
+    "group": "4",
+    "id": 342
+  },
+  {
+    "es": "el cielo está gris",
+    "en": "the sky is grey",
+    "de": "der Himmel ist grau",
+    "it": "il cielo è grigio",
+    "ro": "cerul este acum gri",
+    "group": "4",
+    "id": 343
+  },
+  {
+    "es": "necesito una maleta hoy",
+    "en": "i need suitcase today",
+    "de": "ich brauche heute Koffer",
+    "it": "mi serve valigia oggi",
+    "ro": "am nevoie de valiză",
+    "group": "4",
+    "id": 344
+  },
+  {
+    "es": "el bosque es oscuro",
+    "en": "the forest is dark",
+    "de": "der Wald ist dunkel",
+    "it": "il bosco è buio",
+    "ro": "pădurea este foarte întunecată",
+    "group": "4",
+    "id": 345
+  },
+  {
+    "es": "ellos tienen un secreto",
+    "en": "they have a secret",
+    "de": "sie haben ein Geheimnis",
+    "it": "loro hanno un segreto",
+    "ro": "ei au un secret",
+    "group": "4",
+    "id": 346
+  },
+  {
+    "es": "el restaurante está cerrado",
+    "en": "the restaurant is closed",
+    "de": "das Restaurant ist zu",
+    "it": "il ristorante è chiuso",
+    "ro": "restaurantul este închis acum",
+    "group": "4",
+    "id": 347
+  },
+  {
+    "es": "el vino es tinto",
+    "en": "the wine is red",
+    "de": "der Wein ist rot",
+    "it": "il vino è rosso",
+    "ro": "vinul este de culoare-roșie",
+    "group": "4",
+    "id": 348
+  },
+  {
+    "es": "mi hijo es pequeño",
+    "en": "my son is small",
+    "de": "mein Sohn ist klein",
+    "it": "mio figlio è piccolo",
+    "ro": "fiul meu este mic",
+    "group": "4",
+    "id": 349
+  },
+  {
+    "es": "el gato atrapa ratón",
+    "en": "the cat catches mouse",
+    "de": "die Katze fängt Maus",
+    "it": "gatto prende un topo",
+    "ro": "pisica prinde un șoarece",
+    "group": "4",
+    "id": 350
+  },
+  {
+    "es": "la radio está encendida",
+    "en": "the radio is on",
+    "de": "das Radio ist an",
+    "it": "la radio è accesa",
+    "ro": "radioul este pornit acum",
+    "group": "4",
+    "id": 351
+  },
+  {
+    "es": "nosotros comemos mucha fruta",
+    "en": "we eat much fruit",
+    "de": "wir essen viel Obst",
+    "it": "noi mangiamo molta frutta",
+    "ro": "noi mâncăm multe fructe",
+    "group": "4",
+    "id": 352
+  },
+  {
+    "es": "el cuchillo corta bien",
+    "en": "the knife cuts well",
+    "de": "das Messer schneidet gut",
+    "it": "il coltello taglia bene",
+    "ro": "cuțitul taie foarte bine",
+    "group": "4",
+    "id": 353
+  },
+  {
+    "es": "ella camina muy lento",
+    "en": "she walks very slow",
+    "de": "sie läuft sehr langsam",
+    "it": "lei cammina molto lento",
+    "ro": "ea merge foarte încet",
+    "group": "4",
+    "id": 354
+  },
+  {
+    "es": "el papel está sucio",
+    "en": "the paper is dirty",
+    "de": "das Papier ist schmutzig",
+    "it": "la carta è sporca",
+    "ro": "hârtia este murdară acum",
+    "group": "4",
+    "id": 355
+  },
+  {
+    "es": "tengo el pelo largo",
+    "en": "i have long hair",
+    "de": "ich habe lange Haare",
+    "it": "ho i capelli lunghi",
+    "ro": "am părul foarte lung",
+    "group": "4",
+    "id": 356
+  },
+  {
+    "es": "la llave está aquí",
+    "en": "the key is here",
+    "de": "der Schlüssel ist hier",
+    "it": "la chiave è qui",
+    "ro": "cheia este chiar aici",
+    "group": "4",
+    "id": 357
+  },
+  {
+    "es": "el hotel es moderno",
+    "en": "the hotel is modern",
+    "de": "das Hotel ist modern",
+    "it": "l'hotel è molto moderno",
+    "ro": "hotelul este foarte modern",
+    "group": "4",
+    "id": 358
+  },
+  {
+    "es": "tú bailas con ella",
+    "en": "you dance with her",
+    "de": "du tanzt mit ihr",
+    "it": "tu balli con lei",
+    "ro": "tu dansezi cu ea",
+    "group": "4",
+    "id": 359
+  },
+  {
+    "es": "la lluvia es necesaria",
+    "en": "the rain is necessary",
+    "de": "der Regen ist nötig",
+    "it": "la pioggia è necessaria",
+    "ro": "ploaia este necesară acum",
+    "group": "4",
+    "id": 360
+  },
+  {
+    "es": "mi coche es rápido",
+    "en": "my car is fast",
+    "de": "mein Auto ist schnell",
+    "it": "mia auto è veloce",
+    "ro": "mașina mea este rapidă",
+    "group": "4",
+    "id": 361
+  },
+  {
+    "es": "la playa es arenosa",
+    "en": "the beach is sandy",
+    "de": "der Strand ist sandig",
+    "it": "la spiaggia è sabbiosa",
+    "ro": "plaja este foarte nisipoasă",
+    "group": "4",
+    "id": 362
+  },
+  {
+    "es": "él lee su libro",
+    "en": "he reads his book",
+    "de": "er liest sein Buch",
+    "it": "lui legge suo libro",
+    "ro": "el își citește cartea",
+    "group": "4",
+    "id": 363
+  },
+  {
+    "es": "el helado es frío",
+    "en": "the ice is cold",
+    "de": "das Eis ist kalt",
+    "it": "il gelato è freddo",
+    "ro": "înghețata este rece acum",
+    "group": "4",
+    "id": 364
+  },
+  {
+    "es": "nosotros jugamos al tenis",
+    "en": "we play the tennis",
+    "de": "wir spielen heute Tennis",
+    "it": "noi giochiamo a tennis",
+    "ro": "noi ne jucăm tenis",
+    "group": "4",
+    "id": 365
+  },
+  {
+    "es": "el pan está duro",
+    "en": "the bread is hard",
+    "de": "das Brot ist hart",
+    "it": "il pane è duro",
+    "ro": "pâinea este tare acum",
+    "group": "4",
+    "id": 366
+  },
+  {
+    "es": "mi hermana es rubia",
+    "en": "my sister is blonde",
+    "de": "meine Schwester ist blond",
+    "it": "mia sorella è bionda",
+    "ro": "sora mea este blondă",
+    "group": "4",
+    "id": 367
+  },
+  {
+    "es": "la ciudad es vieja",
+    "en": "the city is old",
+    "de": "die Stadt ist alt",
+    "it": "la città è vecchia",
+    "ro": "orașul este foarte vechi",
+    "group": "4",
+    "id": 368
+  },
+  {
+    "es": "tú cantas una canción",
+    "en": "you sing a song",
+    "de": "du singst ein Lied",
+    "it": "tu canti una canzone",
+    "ro": "tu cânți o melodie",
+    "group": "4",
+    "id": 369
+  },
+  {
+    "es": "el café está listo",
+    "en": "the coffee is ready",
+    "de": "der Kaffee ist fertig",
+    "it": "il caffè è pronto",
+    "ro": "cafeaua este gata acum",
+    "group": "4",
+    "id": 370
+  },
+  {
+    "es": "el barco es grande",
+    "en": "the boat is big",
+    "de": "das Boot ist groß",
+    "it": "la barca è grande",
+    "ro": "barca este foarte mare",
+    "group": "4",
+    "id": 371
+  },
+  {
+    "es": "ella nada en piscina",
+    "en": "she swims in pool",
+    "de": "sie schwimmt im Pool",
+    "it": "lei nuota in piscina",
+    "ro": "ea înoată în piscină",
+    "group": "4",
+    "id": 372
+  },
+  {
+    "es": "mi perro es blanco",
+    "en": "my dog is white",
+    "de": "mein Hund ist weiß",
+    "it": "mio cane è bianco",
+    "ro": "câinele meu este alb",
+    "group": "4",
+    "id": 373
+  },
+  {
+    "es": "la comida es buena",
+    "en": "the food is good",
+    "de": "das Essen ist gut",
+    "it": "il cibo è buono",
+    "ro": "mâncarea este foarte bună",
+    "group": "4",
+    "id": 374
+  },
+  {
+    "es": "quiero ver la tele",
+    "en": "i want watch tv",
+    "de": "ich will Fernsehen schauen",
+    "it": "voglio guardare la tv",
+    "ro": "vreau la televizor acum",
+    "group": "4",
+    "id": 375
+  },
+  {
+    "es": "la flor es amarilla",
+    "en": "the flower is yellow",
+    "de": "die Blume ist gelb",
+    "it": "il fiore è giallo",
+    "ro": "floarea este de culoare-galbenă",
+    "group": "4",
+    "id": 376
+  },
+  {
+    "es": "él escucha la radio",
+    "en": "he listens to radio",
+    "de": "er hört das Radio",
+    "it": "lui ascolta la radio",
+    "ro": "el ascultă la radio",
+    "group": "4",
+    "id": 377
+  },
+  {
+    "es": "nosotros vamos al cine",
+    "en": "we go to cinema",
+    "de": "wir gehen ins Kino",
+    "it": "andiamo al cinema ora",
+    "ro": "mergem la cinema acum",
+    "group": "4",
+    "id": 378
+  },
+  {
+    "es": "la mesa es redonda",
+    "en": "the table is round",
+    "de": "der Tisch ist rund",
+    "it": "il tavolo è rotondo",
+    "ro": "masa este de formă-rotundă",
+    "group": "4",
+    "id": 379
+  },
+  {
+    "es": "ella vende mucha fruta",
+    "en": "she sells much fruit",
+    "de": "sie verkauft viel Obst",
+    "it": "lei vende molta frutta",
+    "ro": "ea vinde multe fructe",
+    "group": "4",
+    "id": 380
+  },
+  {
+    "es": "el cielo tiene nubes",
+    "en": "the sky has clouds",
+    "de": "der Himmel hat Wolken",
+    "it": "il cielo ha nuvole",
+    "ro": "cerul are mulți nori",
+    "group": "4",
+    "id": 381
+  },
+  {
+    "es": "mi nombre ist lars",
+    "en": "my name is lars",
+    "de": "mein Name ist Lars",
+    "it": "mio nome è lars",
+    "ro": "numele meu este lars",
+    "group": "4",
+    "id": 382
+  },
+  {
+    "es": "el campo es verde",
+    "en": "the field is green",
+    "de": "das Feld ist grün",
+    "it": "il campo è verde",
+    "ro": "câmpul este foarte verde",
+    "group": "4",
+    "id": 383
+  },
+  {
+    "es": "tengo un coche azul",
+    "en": "i have blue car",
+    "de": "ich habe blaues Auto",
+    "it": "ho una macchina blu",
+    "ro": "am o mașină albastră",
+    "group": "4",
+    "id": 384
+  },
+  {
+    "es": "la nieve cae hoy",
+    "en": "the snow falls today",
+    "de": "der Schnee fällt heute",
+    "it": "la neve cade oggi",
+    "ro": "zăpada cade astăzi tare",
+    "group": "4",
+    "id": 385
+  },
+  {
+    "es": "mi bolso es rojo",
+    "en": "my bag is red",
+    "de": "meine Tasche ist rot",
+    "it": "mia borsa è rossa",
+    "ro": "geanta mea este roșie",
+    "group": "4",
+    "id": 386
+  },
+  {
+    "es": "él trabaja en oficina",
+    "en": "he works in office",
+    "de": "er arbeitet im Büro",
+    "it": "lui lavora in ufficio",
+    "ro": "el lucrează la birou",
+    "group": "4",
+    "id": 387
+  },
+  {
+    "es": "la manzana es dulce",
+    "en": "the apple is sweet",
+    "de": "der Apfel ist süß",
+    "it": "la mela è dolce",
+    "ro": "mărul este foarte dulce",
+    "group": "4",
+    "id": 388
+  },
+  {
+    "es": "el invierno llega pronto",
+    "en": "winter is coming soon",
+    "de": "der Winter kommt bald",
+    "it": "l'inverno arriva presto ora",
+    "ro": "iarna ajunge foarte curând",
+    "group": "4",
+    "id": 389
+  },
+  {
+    "es": "ella tiene pelo corto",
+    "en": "she has short hair",
+    "de": "sie hat kurze Haare",
+    "it": "lei ha capelli corti",
+    "ro": "ea are părul scurt",
+    "group": "4",
+    "id": 390
+  },
+  {
+    "es": "el bosque es grande",
+    "en": "the forest is big",
+    "de": "der Wald ist groß",
+    "it": "il bosco è grande",
+    "ro": "pădurea este foarte mare",
+    "group": "4",
+    "id": 391
+  },
+  {
+    "es": "me gusta el chocolate",
+    "en": "i like the chocolate",
+    "de": "ich mag die Schokolade",
+    "it": "mi piace il cioccolato",
+    "ro": "îmi place mult ciocolata",
+    "group": "4",
+    "id": 392
+  },
+  {
+    "es": "el agua es vida",
+    "en": "the water is life",
+    "de": "das Wasser ist Leben",
+    "it": "l'acqua è la vita",
+    "ro": "apa este viața noastră",
+    "group": "4",
+    "id": 393
+  },
+  {
+    "es": "la película es buena",
+    "en": "the movie is good",
+    "de": "der Film ist gut",
+    "it": "il film è buono",
+    "ro": "filmul este foarte bun",
+    "group": "4",
+    "id": 394
+  },
+  {
+    "es": "mi casa es blanca",
+    "en": "my house is white",
+    "de": "mein Haus ist weiß",
+    "it": "mia casa è bianca",
+    "ro": "casa mea este albă",
+    "group": "4",
+    "id": 395
+  },
+  {
+    "es": "él corre muy rápido",
+    "en": "he runs very fast",
+    "de": "er rennt sehr schnell",
+    "it": "lui corre molto veloce",
+    "ro": "el aleargă foarte repede",
+    "group": "4",
+    "id": 396
+  },
+  {
+    "es": "la noche es larga",
+    "en": "the night is long",
+    "de": "die Nacht ist lang",
+    "it": "la notte è lunga",
+    "ro": "noaptea este foarte lungă",
+    "group": "4",
+    "id": 397
+  },
+  {
+    "es": "ella canta una oda",
+    "en": "she sings an ode",
+    "de": "sie singt eine Ode",
+    "it": "lei canta un' ode",
+    "ro": "ea cântă o odă",
+    "group": "4",
+    "id": 398
+  },
+  {
+    "es": "el sol se oculta",
+    "en": "the sun goes down",
+    "de": "die Sonne geht unter",
+    "it": "il sole tramonta ora",
+    "ro": "soarele apune chiar acum",
+    "group": "4",
+    "id": 399
   }
 ]

@@ -6,8 +6,7 @@
     "it": "un po' di più",
     "ro": "un pic mai mult",
     "group": "3",
-    "id": 1,
-    "read": false
+    "id": 1
   },
   {
     "es": "hace mucho frío",
@@ -16,8 +15,7 @@
     "it": "fa molto freddo",
     "ro": "este foarte frig",
     "group": "3",
-    "id": 2,
-    "read": false
+    "id": 2
   },
   {
     "es": "tengo mucho sueño",
@@ -26,8 +24,7 @@
     "it": "ho molto sonno",
     "ro": "mi-e foarte somn",
     "group": "3",
-    "id": 3,
-    "read": false
+    "id": 3
   },
   {
     "es": "en el coche",
@@ -36,8 +33,7 @@
     "it": "nella macchina",
     "ro": "în mașină",
     "group": "3",
-    "id": 4,
-    "read": false
+    "id": 4
   },
   {
     "es": "todo el día",
@@ -46,8 +42,7 @@
     "it": "tutto il giorno",
     "ro": "toată ziua",
     "group": "3",
-    "id": 5,
-    "read": false
+    "id": 5
   },
   {
     "es": "qué pasa aquí",
@@ -56,8 +51,7 @@
     "it": "cosa succede qui",
     "ro": "ce se întâmplă aici",
     "group": "3",
-    "id": 6,
-    "read": false
+    "id": 6
   },
   {
     "es": "cerca de aquí",
@@ -66,8 +60,7 @@
     "it": "vicino a qui",
     "ro": "aproape de aici",
     "group": "3",
-    "id": 7,
-    "read": false
+    "id": 7
   },
   {
     "es": "lejos de casa",
@@ -76,8 +69,7 @@
     "it": "lontano da casa",
     "ro": "departe de casă",
     "group": "3",
-    "id": 8,
-    "read": false
+    "id": 8
   },
   {
     "es": "dentro de poco",
@@ -86,8 +78,7 @@
     "it": "tra poco",
     "ro": "în curând",
     "group": "3",
-    "id": 9,
-    "read": false
+    "id": 9
   },
   {
     "es": "fuera de servicio",
@@ -96,8 +87,7 @@
     "it": "fuori servizio",
     "ro": "scos din funcțiune",
     "group": "3",
-    "id": 10,
-    "read": false
+    "id": 10
   },
   {
     "es": "por la mañana",
@@ -106,8 +96,7 @@
     "it": "di mattina",
     "ro": "dimineața",
     "group": "3",
-    "id": 11,
-    "read": false
+    "id": 11
   },
   {
     "es": "hace buen tiempo",
@@ -116,8 +105,7 @@
     "it": "fa bel tempo",
     "ro": "este vreme frumoasă",
     "group": "3",
-    "id": 12,
-    "read": false
+    "id": 12
   },
   {
     "es": "estoy muy feliz",
@@ -126,8 +114,7 @@
     "it": "sono molto felice",
     "ro": "sunt foarte fericit",
     "group": "3",
-    "id": 13,
-    "read": false
+    "id": 13
   },
   {
     "es": "no lo sé",
@@ -136,8 +123,7 @@
     "it": "non lo so",
     "ro": "nu știu",
     "group": "3",
-    "id": 14,
-    "read": false
+    "id": 14
   },
   {
     "es": "dame la mano",
@@ -146,8 +132,7 @@
     "it": "dammi la mano",
     "ro": "dă-mi mâna",
     "group": "3",
-    "id": 15,
-    "read": false
+    "id": 15
   },
   {
     "es": "abre la puerta",
@@ -156,8 +141,7 @@
     "it": "apri la porta",
     "ro": "deschide ușa",
     "group": "3",
-    "id": 16,
-    "read": false
+    "id": 16
   },
   {
     "es": "una taza café",
@@ -166,8 +150,7 @@
     "it": "una tazza caffè",
     "ro": "o ceașcă cafea",
     "group": "3",
-    "id": 17,
-    "read": false
+    "id": 17
   },
   {
     "es": "un vaso agua",
@@ -176,8 +159,7 @@
     "it": "un bicchiere d'acqua",
     "ro": "un pahar apă",
     "group": "3",
-    "id": 18,
-    "read": false
+    "id": 18
   },
   {
     "es": "es muy tarde",
@@ -186,8 +168,7 @@
     "it": "è molto tardi",
     "ro": "este foarte târziu",
     "group": "3",
-    "id": 19,
-    "read": false
+    "id": 19
   },
   {
     "es": "todavía no está",
@@ -196,8 +177,7 @@
     "it": "non ancora pronto",
     "ro": "nu este gata",
     "group": "3",
-    "id": 20,
-    "read": false
+    "id": 20
   },
   {
     "es": "vuelve muy pronto",
@@ -206,8 +186,7 @@
     "it": "torna presto",
     "ro": "întoarce-te curând",
     "group": "3",
-    "id": 21,
-    "read": false
+    "id": 21
   },
   {
     "es": "esto es mío",
@@ -216,8 +195,7 @@
     "it": "questo è mio",
     "ro": "asta este a mea",
     "group": "3",
-    "id": 22,
-    "read": false
+    "id": 22
   },
   {
     "es": "dónde está eso",
@@ -226,8 +204,7 @@
     "it": "dov'è quello",
     "ro": "unde este asta",
     "group": "3",
-    "id": 23,
-    "read": false
+    "id": 23
   },
   {
     "es": "quiero comer algo",
@@ -236,8 +213,7 @@
     "it": "voglio mangiare qualcosa",
     "ro": "vreu să mănânc ceva",
     "group": "3",
-    "id": 24,
-    "read": false
+    "id": 24
   },
   {
     "es": "necesito tu ayuda",
@@ -246,8 +222,7 @@
     "it": "ho bisogno aiuto",
     "ro": "am nevoie ajutor",
     "group": "3",
-    "id": 25,
-    "read": false
+    "id": 25
   },
   {
     "es": "mira esa casa",
@@ -256,8 +231,7 @@
     "it": "guarda quella casa",
     "ro": "uită-te la casă",
     "group": "3",
-    "id": 26,
-    "read": false
+    "id": 26
   },
   {
     "es": "un libro nuevo",
@@ -266,8 +240,7 @@
     "it": "un libro nuovo",
     "ro": "o carte nouă",
     "group": "3",
-    "id": 27,
-    "read": false
+    "id": 27
   },
   {
     "es": "cada dos días",
@@ -276,8 +249,7 @@
     "it": "ogni due giorni",
     "ro": "la două zile",
     "group": "3",
-    "id": 28,
-    "read": false
+    "id": 28
   },
   {
     "es": "por primera vez",
@@ -286,8 +258,7 @@
     "it": "per la prima volta",
     "ro": "pentru prima dată",
     "group": "3",
-    "id": 29,
-    "read": false
+    "id": 29
   },
   {
     "es": "al final día",
@@ -296,8 +267,7 @@
     "it": "alla fine giorno",
     "ro": "la sfârșitul zilei",
     "group": "3",
-    "id": 30,
-    "read": false
+    "id": 30
   },
   {
     "es": "antes de comer",
@@ -306,8 +276,7 @@
     "it": "prima di mangiare",
     "ro": "înainte de masă",
     "group": "3",
-    "id": 31,
-    "read": false
+    "id": 31
   },
   {
     "es": "después de clase",
@@ -316,8 +285,7 @@
     "it": "dopo la lezione",
     "ro": "după ore",
     "group": "3",
-    "id": 32,
-    "read": false
+    "id": 32
   },
   {
     "es": "bajo el sol",
@@ -326,8 +294,7 @@
     "it": "sotto il sole",
     "ro": "sub soare",
     "group": "3",
-    "id": 33,
-    "read": false
+    "id": 33
   },
   {
     "es": "sobre la mesa",
@@ -336,8 +303,7 @@
     "it": "sulla tavola",
     "ro": "pe masă",
     "group": "3",
-    "id": 34,
-    "read": false
+    "id": 34
   },
   {
     "es": "con mucho gusto",
@@ -346,8 +312,7 @@
     "it": "con molto piacere",
     "ro": "cu mare plăcere",
     "group": "3",
-    "id": 35,
-    "read": false
+    "id": 35
   },
   {
     "es": "un buen amigo",
@@ -356,8 +321,7 @@
     "it": "un buon amico",
     "ro": "un prieten bun",
     "group": "3",
-    "id": 36,
-    "read": false
+    "id": 36
   },
   {
     "es": "la casa grande",
@@ -366,8 +330,7 @@
     "it": "la casa grande",
     "ro": "casa cea mare",
     "group": "3",
-    "id": 37,
-    "read": false
+    "id": 37
   },
   {
     "es": "más o menos",
@@ -376,8 +339,7 @@
     "it": "più o meno",
     "ro": "mai mult sau mai puțin",
     "group": "3",
-    "id": 38,
-    "read": false
+    "id": 38
   },
   {
     "es": "en cualquier momento",
@@ -386,8 +348,7 @@
     "it": "in qualsiasi momento",
     "ro": "în orice moment",
     "group": "3",
-    "id": 39,
-    "read": false
+    "id": 39
   },
   {
     "es": "un gran problema",
@@ -396,8 +357,7 @@
     "it": "un grande problema",
     "ro": "o mare problemă",
     "group": "3",
-    "id": 40,
-    "read": false
+    "id": 40
   },
   {
     "es": "no hay nada",
@@ -406,8 +366,7 @@
     "it": "non c'è niente",
     "ro": "nu este nimic",
     "group": "3",
-    "id": 41,
-    "read": false
+    "id": 41
   },
   {
     "es": "es muy difícil",
@@ -416,8 +375,7 @@
     "it": "è molto difficile",
     "ro": "este foarte greu",
     "group": "3",
-    "id": 42,
-    "read": false
+    "id": 42
   },
   {
     "es": "tienes razón",
@@ -426,8 +384,7 @@
     "it": "hai ragione",
     "ro": "ai dreptate",
     "group": "3",
-    "id": 43,
-    "read": false
+    "id": 43
   },
   {
     "es": "me gusta mucho",
@@ -436,8 +393,7 @@
     "it": "mi piace molto",
     "ro": "îmi place mult",
     "group": "3",
-    "id": 44,
-    "read": false
+    "id": 44
   },
   {
     "es": "estoy muy cansado",
@@ -446,8 +402,7 @@
     "it": "sono molto stanco",
     "ro": "sunt foarte obosit",
     "group": "3",
-    "id": 45,
-    "read": false
+    "id": 45
   },
   {
     "es": "hablo un poco",
@@ -456,8 +411,7 @@
     "it": "parlo un po'",
     "ro": "vorbesc un pic",
     "group": "3",
-    "id": 46,
-    "read": false
+    "id": 46
   },
   {
     "es": "dónde estás ahora",
@@ -466,8 +420,7 @@
     "it": "dove sei ora",
     "ro": "unde ești acum",
     "group": "3",
-    "id": 47,
-    "read": false
+    "id": 47
   },
   {
     "es": "qué hora es",
@@ -476,8 +429,7 @@
     "it": "che ore sono",
     "ro": "ce ceas este",
     "group": "3",
-    "id": 48,
-    "read": false
+    "id": 48
   },
   {
     "es": "hace mucho tiempo",
@@ -486,8 +438,7 @@
     "it": "molto tempo fa",
     "ro": "cu mult timp în urmă",
     "group": "3",
-    "id": 49,
-    "read": false
+    "id": 49
   },
   {
     "es": "espera un momento",
@@ -496,8 +447,7 @@
     "it": "aspetta un momento",
     "ro": "așteaptă un moment",
     "group": "3",
-    "id": 50,
-    "read": false
+    "id": 50
   },
   {
     "es": "el sol sale",
@@ -506,8 +456,7 @@
     "it": "il sole sorge",
     "ro": "soarele răsare",
     "group": "3",
-    "id": 51,
-    "read": false
+    "id": 51
   },
   {
     "es": "la luna brilla",
@@ -516,8 +465,7 @@
     "it": "la luna brilla",
     "ro": "luna strălucește",
     "group": "3",
-    "id": 52,
-    "read": false
+    "id": 52
   },
   {
     "es": "un café solo",
@@ -526,8 +474,7 @@
     "it": "un caffè nero",
     "ro": "o cafea neagră",
     "group": "3",
-    "id": 53,
-    "read": false
+    "id": 53
   },
   {
     "es": "leche con azúcar",
@@ -536,8 +483,7 @@
     "it": "latte con zucchero",
     "ro": "lapte cu zahăr",
     "group": "3",
-    "id": 54,
-    "read": false
+    "id": 54
   },
   {
     "es": "pan con mantequilla",
@@ -546,8 +492,7 @@
     "it": "pane con burro",
     "ro": "pâine cu unt",
     "group": "3",
-    "id": 55,
-    "read": false
+    "id": 55
   },
   {
     "es": "agua con gas",
@@ -556,8 +501,7 @@
     "it": "acqua con gas",
     "ro": "apă cu gaz",
     "group": "3",
-    "id": 56,
-    "read": false
+    "id": 56
   },
   {
     "es": "vino de mesa",
@@ -566,8 +510,7 @@
     "it": "vino da tavola",
     "ro": "vin de masă",
     "group": "3",
-    "id": 57,
-    "read": false
+    "id": 57
   },
   {
     "es": "zumo de naranja",
@@ -576,8 +519,7 @@
     "it": "succo d'arancia",
     "ro": "suc de portocale",
     "group": "3",
-    "id": 58,
-    "read": false
+    "id": 58
   },
   {
     "es": "pollo al horno",
@@ -586,8 +528,7 @@
     "it": "pollo al forno",
     "ro": "pui la cuptor",
     "group": "3",
-    "id": 59,
-    "read": false
+    "id": 59
   },
   {
     "es": "ensalada de tomate",
@@ -596,8 +537,7 @@
     "it": "insalata di pomodori",
     "ro": "salată de roșii",
     "group": "3",
-    "id": 60,
-    "read": false
+    "id": 60
   },
   {
     "es": "un coche rápido",
@@ -606,8 +546,7 @@
     "it": "un'auto veloce",
     "ro": "o mașină rapidă",
     "group": "3",
-    "id": 61,
-    "read": false
+    "id": 61
   },
   {
     "es": "una calle estrecha",
@@ -616,8 +555,7 @@
     "it": "una via stretta",
     "ro": "o stradă îngustă",
     "group": "3",
-    "id": 62,
-    "read": false
+    "id": 62
   },
   {
     "es": "un hombre alto",
@@ -626,8 +564,7 @@
     "it": "un uomo alto",
     "ro": "un bărbat înalt",
     "group": "3",
-    "id": 63,
-    "read": false
+    "id": 63
   },
   {
     "es": "una mujer inteligente",
@@ -636,8 +573,7 @@
     "it": "una donna intelligente",
     "ro": "o femeie inteligentă",
     "group": "3",
-    "id": 64,
-    "read": false
+    "id": 64
   },
   {
     "es": "un niño pequeño",
@@ -646,8 +582,7 @@
     "it": "un bambino piccolo",
     "ro": "un copil mic",
     "group": "3",
-    "id": 65,
-    "read": false
+    "id": 65
   },
   {
     "es": "mi mejor amigo",
@@ -656,8 +591,7 @@
     "it": "mio migliore amico",
     "ro": "cel mai bun prieten",
     "group": "3",
-    "id": 66,
-    "read": false
+    "id": 66
   },
   {
     "es": "su propia casa",
@@ -666,8 +600,7 @@
     "it": "sua propria casa",
     "ro": "propria sa casă",
     "group": "3",
-    "id": 67,
-    "read": false
+    "id": 67
   },
   {
     "es": "nuestra familia feliz",
@@ -676,8 +609,7 @@
     "it": "nostra famiglia felice",
     "ro": "familia noastră fericită",
     "group": "3",
-    "id": 68,
-    "read": false
+    "id": 68
   },
   {
     "es": "la puerta azul",
@@ -686,8 +618,7 @@
     "it": "la porta blu",
     "ro": "ușa albastră",
     "group": "3",
-    "id": 69,
-    "read": false
+    "id": 69
   },
   {
     "es": "el cielo claro",
@@ -696,8 +627,7 @@
     "it": "il cielo chiaro",
     "ro": "cerul senin",
     "group": "3",
-    "id": 70,
-    "read": false
+    "id": 70
   },
   {
     "es": "una noche fría",
@@ -706,8 +636,7 @@
     "it": "una notte fredda",
     "ro": "o noapte rece",
     "group": "3",
-    "id": 71,
-    "read": false
+    "id": 71
   },
   {
     "es": "un día largo",
@@ -716,8 +645,7 @@
     "it": "un giorno lungo",
     "ro": "o zi lungă",
     "group": "3",
-    "id": 72,
-    "read": false
+    "id": 72
   },
   {
     "es": "el fin semana",
@@ -726,8 +654,7 @@
     "it": "il fine settimana",
     "ro": "weekend-ul",
     "group": "3",
-    "id": 73,
-    "read": false
+    "id": 73
   },
   {
     "es": "cada mañana temprano",
@@ -736,8 +663,7 @@
     "it": "ogni mattina presto",
     "ro": "în fiecare dimineață devreme",
     "group": "3",
-    "id": 74,
-    "read": false
+    "id": 74
   },
   {
     "es": "por la noche",
@@ -746,8 +672,7 @@
     "it": "di notte",
     "ro": "noaptea",
     "group": "3",
-    "id": 75,
-    "read": false
+    "id": 75
   },
   {
     "es": "antes de ayer",
@@ -756,8 +681,7 @@
     "it": "l'altro ieri",
     "ro": "alaltăieri",
     "group": "3",
-    "id": 76,
-    "read": false
+    "id": 76
   },
   {
     "es": "pasado mañana",
@@ -766,8 +690,7 @@
     "it": "dopodomani",
     "ro": "poimâine",
     "group": "3",
-    "id": 77,
-    "read": false
+    "id": 77
   },
   {
     "es": "la semana próxima",
@@ -776,8 +699,7 @@
     "it": "la settimana prossima",
     "ro": "săptămâna viitoare",
     "group": "3",
-    "id": 78,
-    "read": false
+    "id": 78
   },
   {
     "es": "hace un año",
@@ -786,8 +708,7 @@
     "it": "un anno fa",
     "ro": "acum un an",
     "group": "3",
-    "id": 79,
-    "read": false
+    "id": 79
   },
   {
     "es": "durante el viaje",
@@ -796,8 +717,7 @@
     "it": "durante il viaggio",
     "ro": "în timpul călătoriei",
     "group": "3",
-    "id": 80,
-    "read": false
+    "id": 80
   },
   {
     "es": "en el medio",
@@ -806,8 +726,7 @@
     "it": "nel mezzo",
     "ro": "la mijloc",
     "group": "3",
-    "id": 81,
-    "read": false
+    "id": 81
   },
   {
     "es": "a la izquierda",
@@ -816,8 +735,7 @@
     "it": "a sinistra",
     "ro": "la stânga",
     "group": "3",
-    "id": 82,
-    "read": false
+    "id": 82
   },
   {
     "es": "a la derecha",
@@ -826,8 +744,7 @@
     "it": "a destra",
     "ro": "la dreapta",
     "group": "3",
-    "id": 83,
-    "read": false
+    "id": 83
   },
   {
     "es": "hacia el norte",
@@ -836,8 +753,7 @@
     "it": "verso nord",
     "ro": "spre nord",
     "group": "3",
-    "id": 84,
-    "read": false
+    "id": 84
   },
   {
     "es": "debajo de cama",
@@ -846,8 +762,7 @@
     "it": "sotto il letto",
     "ro": "sub pat",
     "group": "3",
-    "id": 85,
-    "read": false
+    "id": 85
   },
   {
     "es": "detrás de ti",
@@ -856,8 +771,7 @@
     "it": "dietro di te",
     "ro": "în spatele tău",
     "group": "3",
-    "id": 86,
-    "read": false
+    "id": 86
   },
   {
     "es": "frente al espejo",
@@ -866,8 +780,7 @@
     "it": "davanti allo specchio",
     "ro": "în fața oglinzii",
     "group": "3",
-    "id": 87,
-    "read": false
+    "id": 87
   },
   {
     "es": "entre nosotros dos",
@@ -876,8 +789,7 @@
     "it": "tra noi due",
     "ro": "între noi doi",
     "group": "3",
-    "id": 88,
-    "read": false
+    "id": 88
   },
   {
     "es": "alrededor del mundo",
@@ -886,8 +798,7 @@
     "it": "intorno al mondo",
     "ro": "în jurul lumii",
     "group": "3",
-    "id": 89,
-    "read": false
+    "id": 89
   },
   {
     "es": "cerca del río",
@@ -896,8 +807,7 @@
     "it": "vicino al fiume",
     "ro": "aproape de râu",
     "group": "3",
-    "id": 90,
-    "read": false
+    "id": 90
   },
   {
     "es": "lejos del centro",
@@ -906,8 +816,7 @@
     "it": "lontano dal centro",
     "ro": "departe de centru",
     "group": "3",
-    "id": 91,
-    "read": false
+    "id": 91
   },
   {
     "es": "no me gusta",
@@ -916,8 +825,7 @@
     "it": "non mi piace",
     "ro": "nu îmi place",
     "group": "3",
-    "id": 92,
-    "read": false
+    "id": 92
   },
   {
     "es": "lo quiero todo",
@@ -926,8 +834,7 @@
     "it": "voglio tutto",
     "ro": "vreau totul",
     "group": "3",
-    "id": 93,
-    "read": false
+    "id": 93
   },
   {
     "es": "no tengo tiempo",
@@ -936,8 +843,7 @@
     "it": "non ho tempo",
     "ro": "nu am timp",
     "group": "3",
-    "id": 94,
-    "read": false
+    "id": 94
   },
   {
     "es": "necesito ir ahora",
@@ -946,8 +852,7 @@
     "it": "devo andare ora",
     "ro": "trebuie să merg acum",
     "group": "3",
-    "id": 95,
-    "read": false
+    "id": 95
   },
   {
     "es": "puedo hacerlo yo",
@@ -956,8 +861,7 @@
     "it": "posso farlo io",
     "ro": "pot să o fac eu",
     "group": "3",
-    "id": 96,
-    "read": false
+    "id": 96
   },
   {
     "es": "tienes que ver",
@@ -966,8 +870,7 @@
     "it": "devi vedere",
     "ro": "trebuie să vezi",
     "group": "3",
-    "id": 97,
-    "read": false
+    "id": 97
   },
   {
     "es": "ella es guapa",
@@ -976,8 +879,7 @@
     "it": "lei è bella",
     "ro": "ea este frumoasă",
     "group": "3",
-    "id": 98,
-    "read": false
+    "id": 98
   },
   {
     "es": "él es fuerte",
@@ -986,8 +888,7 @@
     "it": "egli è forte",
     "ro": "el este puternic",
     "group": "3",
-    "id": 99,
-    "read": false
+    "id": 99
   },
   {
     "es": "nosotros estamos listos",
@@ -996,8 +897,7 @@
     "it": "noi siamo pronti",
     "ro": "noi suntem gata",
     "group": "3",
-    "id": 100,
-    "read": false
+    "id": 100
   },
   {
     "es": "ustedes son bienvenidos",
@@ -1006,8 +906,7 @@
     "it": "siete i benvenuti",
     "ro": "sunteți bineveniți",
     "group": "3",
-    "id": 101,
-    "read": false
+    "id": 101
   },
   {
     "es": "ellos están aquí",
@@ -1016,8 +915,7 @@
     "it": "loro sono qui",
     "ro": "ei sunt aici",
     "group": "3",
-    "id": 102,
-    "read": false
+    "id": 102
   },
   {
     "es": "qué quieres comer",
@@ -1026,8 +924,7 @@
     "it": "cosa vuoi mangiare",
     "ro": "ce vrei să mănânci",
     "group": "3",
-    "id": 103,
-    "read": false
+    "id": 103
   },
   {
     "es": "dónde vives tú",
@@ -1036,8 +933,7 @@
     "it": "dove vivi tu",
     "ro": "unde locuiești tu",
     "group": "3",
-    "id": 104,
-    "read": false
+    "id": 104
   },
   {
     "es": "cuánto cuesta eso",
@@ -1046,8 +942,7 @@
     "it": "quanto costa quello",
     "ro": "cât costă asta",
     "group": "3",
-    "id": 105,
-    "read": false
+    "id": 105
   },
   {
     "es": "cómo estás hoy",
@@ -1056,8 +951,7 @@
     "it": "come stai oggi",
     "ro": "ce mai faci azi",
     "group": "3",
-    "id": 106,
-    "read": false
+    "id": 106
   },
   {
     "es": "por qué no",
@@ -1066,8 +960,7 @@
     "it": "perché no",
     "ro": "de ce nu",
     "group": "3",
-    "id": 107,
-    "read": false
+    "id": 107
   },
   {
     "es": "cuándo vienes tú",
@@ -1076,8 +969,7 @@
     "it": "quando vieni tu",
     "ro": "când vii tu",
     "group": "3",
-    "id": 108,
-    "read": false
+    "id": 108
   },
   {
     "es": "quién es él",
@@ -1086,8 +978,7 @@
     "it": "chi è lui",
     "ro": "cine este el",
     "group": "3",
-    "id": 109,
-    "read": false
+    "id": 109
   },
   {
     "es": "lo siento mucho",
@@ -1096,8 +987,7 @@
     "it": "mi dispiace molto",
     "ro": "îmi pare foarte rău",
     "group": "3",
-    "id": 110,
-    "read": false
+    "id": 110
   },
   {
     "es": "muchas gracias señor",
@@ -1106,8 +996,7 @@
     "it": "molte grazie signore",
     "ro": "mulțumesc mult domnule",
     "group": "3",
-    "id": 111,
-    "read": false
+    "id": 111
   },
   {
     "es": "buenos días todos",
@@ -1116,8 +1005,7 @@
     "it": "buongiorno a tutti",
     "ro": "bună dimineața tuturor",
     "group": "3",
-    "id": 112,
-    "read": false
+    "id": 112
   },
   {
     "es": "hasta la vista",
@@ -1126,8 +1014,7 @@
     "it": "fino alla vista",
     "ro": "până la revedere",
     "group": "3",
-    "id": 113,
-    "read": false
+    "id": 113
   },
   {
     "es": "por favor ayuda",
@@ -1136,8 +1023,7 @@
     "it": "per favore aiuto",
     "ro": "vă rog ajutor",
     "group": "3",
-    "id": 114,
-    "read": false
+    "id": 114
   },
   {
     "es": "ten buen viaje",
@@ -1146,8 +1032,7 @@
     "it": "buon viaggio",
     "ro": "călătorie plăcută",
     "group": "3",
-    "id": 115,
-    "read": false
+    "id": 115
   },
   {
     "es": "un gran éxito",
@@ -1156,8 +1041,7 @@
     "it": "un grande successo",
     "ro": "un mare succes",
     "group": "3",
-    "id": 116,
-    "read": false
+    "id": 116
   },
   {
     "es": "un error fatal",
@@ -1166,8 +1050,7 @@
     "it": "un errore fatale",
     "ro": "o eroare fatală",
     "group": "3",
-    "id": 117,
-    "read": false
+    "id": 117
   },
   {
     "es": "la vida real",
@@ -1176,8 +1059,7 @@
     "it": "la vita reale",
     "ro": "viața reală",
     "group": "3",
-    "id": 118,
-    "read": false
+    "id": 118
   },
   {
     "es": "un amor eterno",
@@ -1186,8 +1068,7 @@
     "it": "un amore eterno",
     "ro": "o iubire eternă",
     "group": "3",
-    "id": 119,
-    "read": false
+    "id": 119
   },
   {
     "es": "sin ninguna duda",
@@ -1196,8 +1077,7 @@
     "it": "senza alcun dubbio",
     "ro": "fără nicio îndoială",
     "group": "3",
-    "id": 120,
-    "read": false
+    "id": 120
   },
   {
     "es": "de vez cuando",
@@ -1206,8 +1086,7 @@
     "it": "di tanto in tanto",
     "ro": "din când în când",
     "group": "3",
-    "id": 121,
-    "read": false
+    "id": 121
   },
   {
     "es": "por lo menos",
@@ -1216,8 +1095,7 @@
     "it": "almeno",
     "ro": "cel puțin",
     "group": "3",
-    "id": 122,
-    "read": false
+    "id": 122
   },
   {
     "es": "en el fondo",
@@ -1226,8 +1104,7 @@
     "it": "nel profondo",
     "ro": "în adâncime",
     "group": "3",
-    "id": 123,
-    "read": false
+    "id": 123
   },
   {
     "es": "de pronto hoy",
@@ -1236,8 +1113,7 @@
     "it": "improvvisamente oggi",
     "ro": "deodată azi",
     "group": "3",
-    "id": 124,
-    "read": false
+    "id": 124
   },
   {
     "es": "tal vez mañana",
@@ -1246,8 +1122,7 @@
     "it": "forse domani",
     "ro": "poate mâine",
     "group": "3",
-    "id": 125,
-    "read": false
+    "id": 125
   },
   {
     "es": "poco a poco",
@@ -1256,8 +1131,7 @@
     "it": "poco a poco",
     "ro": "puțin câte puțin",
     "group": "3",
-    "id": 126,
-    "read": false
+    "id": 126
   },
   {
     "es": "otra vez más",
@@ -1266,8 +1140,7 @@
     "it": "un'altra volta ancora",
     "ro": "încă o dată",
     "group": "3",
-    "id": 127,
-    "read": false
+    "id": 127
   },
   {
     "es": "de mala gana",
@@ -1276,8 +1149,7 @@
     "it": "di mala voglia",
     "ro": "fără chef",
     "group": "3",
-    "id": 128,
-    "read": false
+    "id": 128
   },
   {
     "es": "con mucho cuidado",
@@ -1286,8 +1158,7 @@
     "it": "con molta cura",
     "ro": "cu multă grijă",
     "group": "3",
-    "id": 129,
-    "read": false
+    "id": 129
   },
   {
     "es": "de buen humor",
@@ -1296,8 +1167,7 @@
     "it": "di buon umore",
     "ro": "bine dispus",
     "group": "3",
-    "id": 130,
-    "read": false
+    "id": 130
   },
   {
     "es": "el aire libre",
@@ -1306,8 +1176,7 @@
     "it": "l'aria aperta",
     "ro": "aer liber",
     "group": "3",
-    "id": 131,
-    "read": false
+    "id": 131
   },
   {
     "es": "un perro ladrando",
@@ -1316,8 +1185,7 @@
     "it": "un cane che abbaia",
     "ro": "un câine lătrând",
     "group": "3",
-    "id": 132,
-    "read": false
+    "id": 132
   },
   {
     "es": "una luz brillante",
@@ -1326,8 +1194,7 @@
     "it": "una luce brillante",
     "ro": "o lumină strălucitoare",
     "group": "3",
-    "id": 133,
-    "read": false
+    "id": 133
   },
   {
     "es": "un fuego alto",
@@ -1336,8 +1203,7 @@
     "it": "un fuoco alto",
     "ro": "un foc mare",
     "group": "3",
-    "id": 134,
-    "read": false
+    "id": 134
   },
   {
     "es": "agua fría fresca",
@@ -1346,8 +1212,7 @@
     "it": "acqua fresca fredda",
     "ro": "apă rece proaspătă",
     "group": "3",
-    "id": 135,
-    "read": false
+    "id": 135
   },
   {
     "es": "el mar azul",
@@ -1356,8 +1221,7 @@
     "it": "il mare blu",
     "ro": "marea albastră",
     "group": "3",
-    "id": 136,
-    "read": false
+    "id": 136
   },
   {
     "es": "una flor roja",
@@ -1366,8 +1230,7 @@
     "it": "un fiore rosso",
     "ro": "o floare roșie",
     "group": "3",
-    "id": 137,
-    "read": false
+    "id": 137
   },
   {
     "es": "el árbol verde",
@@ -1376,8 +1239,7 @@
     "it": "l'albero verde",
     "ro": "copacul verde",
     "group": "3",
-    "id": 138,
-    "read": false
+    "id": 138
   },
   {
     "es": "fruta muy dulce",
@@ -1386,8 +1248,7 @@
     "it": "frutta molto dolce",
     "ro": "fructe foarte dulci",
     "group": "3",
-    "id": 139,
-    "read": false
+    "id": 139
   },
   {
     "es": "comida muy rica",
@@ -1396,8 +1257,7 @@
     "it": "cibo molto buono",
     "ro": "mâncare foarte gustoasă",
     "group": "3",
-    "id": 140,
-    "read": false
+    "id": 140
   },
   {
     "es": "un sueño profundo",
@@ -1406,8 +1266,7 @@
     "it": "un sonno profondo",
     "ro": "un somn profund",
     "group": "3",
-    "id": 141,
-    "read": false
+    "id": 141
   },
   {
     "es": "una voz baja",
@@ -1416,8 +1275,7 @@
     "it": "una voce bassa",
     "ro": "o voce joasă",
     "group": "3",
-    "id": 142,
-    "read": false
+    "id": 142
   },
   {
     "es": "un ruido fuerte",
@@ -1426,8 +1284,7 @@
     "it": "un rumore forte",
     "ro": "un zgomot puternic",
     "group": "3",
-    "id": 143,
-    "read": false
+    "id": 143
   },
   {
     "es": "la ropa limpia",
@@ -1436,8 +1293,7 @@
     "it": "i vestiti puliti",
     "ro": "hainele curate",
     "group": "3",
-    "id": 144,
-    "read": false
+    "id": 144
   },
   {
     "es": "mis zapatos nuevos",
@@ -1446,8 +1302,7 @@
     "it": "mie scarpe nuove",
     "ro": "pantofii mei noi",
     "group": "3",
-    "id": 145,
-    "read": false
+    "id": 145
   },
   {
     "es": "un reloj caro",
@@ -1456,8 +1311,7 @@
     "it": "un orologio caro",
     "ro": "un ceas scump",
     "group": "3",
-    "id": 146,
-    "read": false
+    "id": 146
   },
   {
     "es": "la puerta abierta",
@@ -1466,8 +1320,7 @@
     "it": "la porta aperta",
     "ro": "ușa deschisă",
     "group": "3",
-    "id": 147,
-    "read": false
+    "id": 147
   },
   {
     "es": "una ventana cerrada",
@@ -1476,8 +1329,7 @@
     "it": "una finestra chiusa",
     "ro": "o fereastră închisă",
     "group": "3",
-    "id": 148,
-    "read": false
+    "id": 148
   },
   {
     "es": "una mesa redonda",
@@ -1486,8 +1338,7 @@
     "it": "una tavola rotonda",
     "ro": "o masă rotundă",
     "group": "3",
-    "id": 149,
-    "read": false
+    "id": 149
   },
   {
     "es": "un libro viejo",
@@ -1496,7 +1347,1356 @@
     "it": "un libro vecchio",
     "ro": "o carte veche",
     "group": "3",
-    "id": 150,
-    "read": false
+    "id": 150
+  },
+  {
+    "es": "un coche rojo",
+    "en": "a red car",
+    "de": "ein rotes Auto",
+    "it": "un'auto rossa",
+    "ro": "o mașină roșie",
+    "group": "3",
+    "id": 151
+  },
+  {
+    "es": "una casa grande",
+    "en": "a big house",
+    "de": "ein großes Haus",
+    "it": "una casa grande",
+    "ro": "o casă mare",
+    "group": "3",
+    "id": 152
+  },
+  {
+    "es": "el perro negro",
+    "en": "the black dog",
+    "de": "der schwarze Hund",
+    "it": "il cane nero",
+    "ro": "câinele cel negru",
+    "group": "3",
+    "id": 153
+  },
+  {
+    "es": "una flor bella",
+    "en": "a beautiful flower",
+    "de": "eine schöne Blume",
+    "it": "un fiore bello",
+    "ro": "o floare frumoasă",
+    "group": "3",
+    "id": 154
+  },
+  {
+    "es": "un niño pequeño",
+    "en": "a small boy",
+    "de": "ein kleiner Junge",
+    "it": "un bambino piccolo",
+    "ro": "un băiat mic",
+    "group": "3",
+    "id": 155
+  },
+  {
+    "es": "el cielo azul",
+    "en": "the blue sky",
+    "de": "der blaue Himmel",
+    "it": "il cielo azzurro",
+    "ro": "cerul cel albastru",
+    "group": "3",
+    "id": 156
+  },
+  {
+    "es": "una mesa larga",
+    "en": "a long table",
+    "de": "ein langer Tisch",
+    "it": "un tavolo lungo",
+    "ro": "o masă lungă",
+    "group": "3",
+    "id": 157
+  },
+  {
+    "es": "un gato blanco",
+    "en": "a white cat",
+    "de": "eine weiße Katze",
+    "it": "un gatto bianco",
+    "ro": "o pisică albă",
+    "group": "3",
+    "id": 158
+  },
+  {
+    "es": "el café caliente",
+    "en": "the hot coffee",
+    "de": "der heiße Kaffee",
+    "it": "il caffè caldo",
+    "ro": "cafeaua cea fierbinte",
+    "group": "3",
+    "id": 159
+  },
+  {
+    "es": "una noche fría",
+    "en": "a cold night",
+    "de": "eine kalte Nacht",
+    "it": "una notte fredda",
+    "ro": "o noapte rece",
+    "group": "3",
+    "id": 160
+  },
+  {
+    "es": "un hombre alto",
+    "en": "a tall man",
+    "de": "ein großer Mann",
+    "it": "un uomo alto",
+    "ro": "un bărbat înalt",
+    "group": "3",
+    "id": 161
+  },
+  {
+    "es": "una mujer joven",
+    "en": "a young woman",
+    "de": "eine junge Frau",
+    "it": "una donna giovane",
+    "ro": "o femeie tânără",
+    "group": "3",
+    "id": 162
+  },
+  {
+    "es": "el sol brillante",
+    "en": "the bright sun",
+    "de": "die helle Sonne",
+    "it": "il sole brillante",
+    "ro": "soarele cel strălucitor",
+    "group": "3",
+    "id": 163
+  },
+  {
+    "es": "un árbol verde",
+    "en": "a green tree",
+    "de": "ein grüner Baum",
+    "it": "un albero verde",
+    "ro": "un copac verde",
+    "group": "3",
+    "id": 164
+  },
+  {
+    "es": "una calle estrecha",
+    "en": "a narrow street",
+    "de": "eine enge Straße",
+    "it": "una strada stretta",
+    "ro": "o stradă îngustă",
+    "group": "3",
+    "id": 165
+  },
+  {
+    "es": "el agua fresca",
+    "en": "the fresh water",
+    "de": "das frische Wasser",
+    "it": "l'acqua fresca",
+    "ro": "apa cea proaspătă",
+    "group": "3",
+    "id": 166
+  },
+  {
+    "es": "un día feliz",
+    "en": "a happy day",
+    "de": "ein glücklicher Tag",
+    "it": "un giorno felice",
+    "ro": "o zi fericită",
+    "group": "3",
+    "id": 167
+  },
+  {
+    "es": "una película buena",
+    "en": "a good movie",
+    "de": "ein guter Film",
+    "it": "un buon film",
+    "ro": "un film bun",
+    "group": "3",
+    "id": 168
+  },
+  {
+    "es": "el vino tinto",
+    "en": "the red wine",
+    "de": "der rote Wein",
+    "it": "il vino rosso",
+    "ro": "vinul cel roșu",
+    "group": "3",
+    "id": 169
+  },
+  {
+    "es": "un reloj caro",
+    "en": "an expensive watch",
+    "de": "eine teure Uhr",
+    "it": "un orologio costoso",
+    "ro": "un ceas scump",
+    "group": "3",
+    "id": 170
+  },
+  {
+    "es": "una ciudad vieja",
+    "en": "an old city",
+    "de": "eine alte Stadt",
+    "it": "una città vecchia",
+    "ro": "un oraș vechi",
+    "group": "3",
+    "id": 171
+  },
+  {
+    "es": "un mar profundo",
+    "en": "a deep sea",
+    "de": "ein tiefes Meer",
+    "it": "un mare profondo",
+    "ro": "o mare adâncă",
+    "group": "3",
+    "id": 172
+  },
+  {
+    "es": "una fruta dulce",
+    "en": "a sweet fruit",
+    "de": "eine süße Frucht",
+    "it": "un frutto dolce",
+    "ro": "un fruct dulce",
+    "group": "3",
+    "id": 173
+  },
+  {
+    "es": "el pan tierno",
+    "en": "the soft bread",
+    "de": "das weiche Brot",
+    "it": "il pane morbido",
+    "ro": "pâinea cea moale",
+    "group": "3",
+    "id": 174
+  },
+  {
+    "es": "una canción lenta",
+    "en": "a slow song",
+    "de": "ein langsames Lied",
+    "it": "una canzone lenta",
+    "ro": "un cântec lent",
+    "group": "3",
+    "id": 175
+  },
+  {
+    "es": "un idioma nuevo",
+    "en": "a new language",
+    "de": "eine neue Sprache",
+    "it": "una lingua nuova",
+    "ro": "o limbă nouă",
+    "group": "3",
+    "id": 176
+  },
+  {
+    "es": "el fuego ardiente",
+    "en": "the burning fire",
+    "de": "das brennende Feuer",
+    "it": "il fuoco ardente",
+    "ro": "focul cel arzător",
+    "group": "3",
+    "id": 177
+  },
+  {
+    "es": "una puerta abierta",
+    "en": "an open door",
+    "de": "eine offene Tür",
+    "it": "una porta aperta",
+    "ro": "o ușă deschisă",
+    "group": "3",
+    "id": 178
+  },
+  {
+    "es": "un camino largo",
+    "en": "a long path",
+    "de": "ein langer Weg",
+    "it": "un sentiero lungo",
+    "ro": "un drum lung",
+    "group": "3",
+    "id": 179
+  },
+  {
+    "es": "el aire puro",
+    "en": "the pure air",
+    "de": "die reine Luft",
+    "it": "l'aria pura",
+    "ro": "aerul cel curat",
+    "group": "3",
+    "id": 180
+  },
+  {
+    "es": "una silla rota",
+    "en": "a broken chair",
+    "de": "ein kaputter Stuhl",
+    "it": "una sedia rotta",
+    "ro": "un scaun rupt",
+    "group": "3",
+    "id": 181
+  },
+  {
+    "es": "un zapato cómodo",
+    "en": "a comfortable shoe",
+    "de": "ein bequemer Schuh",
+    "it": "una scarpa comoda",
+    "ro": "un pantof comod",
+    "group": "3",
+    "id": 182
+  },
+  {
+    "es": "la luna llena",
+    "en": "the full moon",
+    "de": "der volle Mond",
+    "it": "la luna piena",
+    "ro": "luna cea plină",
+    "group": "3",
+    "id": 183
+  },
+  {
+    "es": "un campo verde",
+    "en": "a green field",
+    "de": "ein grünes Feld",
+    "it": "un campo verde",
+    "ro": "un câmp verde",
+    "group": "3",
+    "id": 184
+  },
+  {
+    "es": "una pregunta fácil",
+    "en": "an easy question",
+    "de": "eine einfache Frage",
+    "it": "una domanda facile",
+    "ro": "o întrebare ușoară",
+    "group": "3",
+    "id": 185
+  },
+  {
+    "es": "el perro pequeño",
+    "en": "the small dog",
+    "de": "der kleine Hund",
+    "it": "il cane piccolo",
+    "ro": "câinele cel mic",
+    "group": "3",
+    "id": 186
+  },
+  {
+    "es": "un amigo leal",
+    "en": "a loyal friend",
+    "de": "ein treuer Freund",
+    "it": "un amico leale",
+    "ro": "un prieten loial",
+    "group": "3",
+    "id": 187
+  },
+  {
+    "es": "una cara sonriente",
+    "en": "a smiling face",
+    "de": "ein lächelndes Gesicht",
+    "it": "un viso sorridente",
+    "ro": "o față zâmbitoare",
+    "group": "3",
+    "id": 188
+  },
+  {
+    "es": "el viento fuerte",
+    "en": "the strong wind",
+    "de": "der starke Wind",
+    "it": "il vento forte",
+    "ro": "vântul cel puternic",
+    "group": "3",
+    "id": 189
+  },
+  {
+    "es": "un bosque oscuro",
+    "en": "a dark forest",
+    "de": "ein dunkler Wald",
+    "it": "un bosco oscuro",
+    "ro": "o pădure întunecată",
+    "group": "3",
+    "id": 190
+  },
+  {
+    "es": "una bolsa pesada",
+    "en": "a heavy bag",
+    "de": "eine schwere Tasche",
+    "it": "una borsa pesante",
+    "ro": "o geantă grea",
+    "group": "3",
+    "id": 191
+  },
+  {
+    "es": "el invierno frío",
+    "en": "the cold winter",
+    "de": "der kalte Winter",
+    "it": "l'inverno freddo",
+    "ro": "iarna cea rece",
+    "group": "3",
+    "id": 192
+  },
+  {
+    "es": "un verano caluroso",
+    "en": "a hot summer",
+    "de": "ein heißer Sommer",
+    "it": "un'estate calda",
+    "ro": "o vară fierbinte",
+    "group": "3",
+    "id": 193
+  },
+  {
+    "es": "una ropa limpia",
+    "en": "a clean clothes",
+    "de": "eine saubere Kleidung",
+    "it": "un vestito pulito",
+    "ro": "hainele cele curate",
+    "group": "3",
+    "id": 194
+  },
+  {
+    "es": "el oro puro",
+    "en": "the pure gold",
+    "de": "das reine Gold",
+    "it": "l'oro puro",
+    "ro": "aurul cel pur",
+    "group": "3",
+    "id": 195
+  },
+  {
+    "es": "un papel blanco",
+    "en": "a white paper",
+    "de": "ein weißes Papier",
+    "it": "un foglio bianco",
+    "ro": "o hârtie albă",
+    "group": "3",
+    "id": 196
+  },
+  {
+    "es": "una piedra dura",
+    "en": "a hard stone",
+    "de": "ein harter Stein",
+    "it": "una pietra dura",
+    "ro": "o piatră tare",
+    "group": "3",
+    "id": 197
+  },
+  {
+    "es": "el valle verde",
+    "en": "the green valley",
+    "de": "das grüne Tal",
+    "it": "la valle verde",
+    "ro": "valea cea verde",
+    "group": "3",
+    "id": 198
+  },
+  {
+    "es": "un sueño profundo",
+    "en": "a deep dream",
+    "de": "ein tiefer Traum",
+    "it": "un sogno profondo",
+    "ro": "un vis profund",
+    "group": "3",
+    "id": 199
+  },
+  {
+    "es": "una vida buena",
+    "en": "a good life",
+    "de": "ein gutes Leben",
+    "it": "una vita bella",
+    "ro": "o viață bună",
+    "group": "3",
+    "id": 200
+  },
+  {
+    "es": "un viaje largo",
+    "en": "a long trip",
+    "de": "eine lange Reise",
+    "it": "un viaggio lungo",
+    "ro": "o călătorie lungă",
+    "group": "3",
+    "id": 201
+  },
+  {
+    "es": "una respuesta corta",
+    "en": "a short answer",
+    "de": "eine kurze Antwort",
+    "it": "una risposta breve",
+    "ro": "un răspuns scurt",
+    "group": "3",
+    "id": 202
+  },
+  {
+    "es": "el té caliente",
+    "en": "the hot tea",
+    "de": "der heiße Tee",
+    "it": "il tè caldo",
+    "ro": "ceaiul cel fierbinte",
+    "group": "3",
+    "id": 203
+  },
+  {
+    "es": "un cielo gris",
+    "en": "a gray sky",
+    "de": "ein grauer Himmel",
+    "it": "un cielo grigio",
+    "ro": "un cer gri",
+    "group": "3",
+    "id": 204
+  },
+  {
+    "es": "una luz brillante",
+    "en": "a bright light",
+    "de": "ein helles Licht",
+    "it": "una luce brillante",
+    "ro": "o lumină strălucitoare",
+    "group": "3",
+    "id": 205
+  },
+  {
+    "es": "el primer paso",
+    "en": "the first step",
+    "de": "der erste Schritt",
+    "it": "il primo passo",
+    "ro": "primul pas",
+    "group": "3",
+    "id": 206
+  },
+  {
+    "es": "un error común",
+    "en": "a common error",
+    "de": "ein häufiger Fehler",
+    "it": "un errore comune",
+    "ro": "o greșeală comună",
+    "group": "3",
+    "id": 207
+  },
+  {
+    "es": "una montaña alta",
+    "en": "a high mountain",
+    "de": "ein hoher Berg",
+    "it": "una montagna alta",
+    "ro": "un munte înalt",
+    "group": "3",
+    "id": 208
+  },
+  {
+    "es": "el desierto seco",
+    "en": "the dry desert",
+    "de": "die trockene Wüste",
+    "it": "il deserto secco",
+    "ro": "deșertul cel uscat",
+    "group": "3",
+    "id": 209
+  },
+  {
+    "es": "un cristal fino",
+    "en": "a fine glass",
+    "de": "ein feines Glas",
+    "it": "un vetro fine",
+    "ro": "un cristal fin",
+    "group": "3",
+    "id": 210
+  },
+  {
+    "es": "una cena rica",
+    "en": "a delicious dinner",
+    "de": "ein leckeres Abendessen",
+    "it": "una cena buona",
+    "ro": "o cină gustoasă",
+    "group": "3",
+    "id": 211
+  },
+  {
+    "es": "un juego divertido",
+    "en": "a fun game",
+    "de": "ein lustiges Spiel",
+    "it": "un gioco divertente",
+    "ro": "un joc distractiv",
+    "group": "3",
+    "id": 212
+  },
+  {
+    "es": "el río ancho",
+    "en": "the wide river",
+    "de": "der breite Fluss",
+    "it": "il fiume largo",
+    "ro": "râul cel lat",
+    "group": "3",
+    "id": 213
+  },
+  {
+    "es": "una pared blanca",
+    "en": "a white wall",
+    "de": "eine weiße Wand",
+    "it": "una parete bianca",
+    "ro": "un perete alb",
+    "group": "3",
+    "id": 214
+  },
+  {
+    "es": "un ruido fuerte",
+    "en": "a loud noise",
+    "de": "ein lautes Geräusch",
+    "it": "un rumore forte",
+    "ro": "un zgomot puternic",
+    "group": "3",
+    "id": 215
+  },
+  {
+    "es": "una historia corta",
+    "en": "a short story",
+    "de": "eine kurze Geschichte",
+    "it": "una storia breve",
+    "ro": "o poveste scurtă",
+    "group": "3",
+    "id": 216
+  },
+  {
+    "es": "el jardín secreto",
+    "en": "the secret garden",
+    "de": "der geheime Garten",
+    "it": "il giardino segreto",
+    "ro": "grădina cea secretă",
+    "group": "3",
+    "id": 217
+  },
+  {
+    "es": "un pájaro azul",
+    "en": "a blue bird",
+    "de": "ein blauer Vogel",
+    "it": "un uccello azzurro",
+    "ro": "o pasăre albastră",
+    "group": "3",
+    "id": 218
+  },
+  {
+    "es": "una maleta pequeña",
+    "en": "a small suitcase",
+    "de": "ein kleiner Koffer",
+    "it": "una valigia piccola",
+    "ro": "o valiză mică",
+    "group": "3",
+    "id": 219
+  },
+  {
+    "es": "un lápiz amarillo",
+    "en": "a yellow pencil",
+    "de": "ein gelber Stift",
+    "it": "una matita gialla",
+    "ro": "un creion galben",
+    "group": "3",
+    "id": 220
+  },
+  {
+    "es": "una ventana abierta",
+    "en": "an open window",
+    "de": "ein offenes Fenster",
+    "it": "una finestra aperta",
+    "ro": "o fereastră deschisă",
+    "group": "3",
+    "id": 221
+  },
+  {
+    "es": "el lago tranquilo",
+    "en": "the quiet lake",
+    "de": "der ruhige See",
+    "it": "il lago tranquillo",
+    "ro": "lacul cel liniștit",
+    "group": "3",
+    "id": 222
+  },
+  {
+    "es": "un perro fiel",
+    "en": "a faithful dog",
+    "de": "ein treuer Hund",
+    "it": "un cane fedele",
+    "ro": "un câine fidel",
+    "group": "3",
+    "id": 223
+  },
+  {
+    "es": "una lección importante",
+    "en": "an important lesson",
+    "de": "eine wichtige Lektion",
+    "it": "una lezione importante",
+    "ro": "o lecție importantă",
+    "group": "3",
+    "id": 224
+  },
+  {
+    "es": "el pan fresco",
+    "en": "the fresh bread",
+    "de": "das frische Brot",
+    "it": "il pane fresco",
+    "ro": "pâinea cea proaspătă",
+    "group": "3",
+    "id": 225
+  },
+  {
+    "es": "un coche rápido",
+    "en": "a fast car",
+    "de": "ein schnelles Auto",
+    "it": "un'auto veloce",
+    "ro": "o mașină rapidă",
+    "group": "3",
+    "id": 226
+  },
+  {
+    "es": "una idea brillante",
+    "en": "a brilliant idea",
+    "de": "eine brillante Idee",
+    "it": "un'idea brillante",
+    "ro": "o idee strălucită",
+    "group": "3",
+    "id": 227
+  },
+  {
+    "es": "el cielo nocturno",
+    "en": "the night sky",
+    "de": "der Nachthimmel",
+    "it": "il cielo notturno",
+    "ro": "cerul de noapte",
+    "group": "3",
+    "id": 228
+  },
+  {
+    "es": "un regalo sorpresa",
+    "en": "a surprise gift",
+    "de": "ein Überraschungsgeschenk",
+    "it": "un regalo sorpresa",
+    "ro": "un cadou surpriză",
+    "group": "3",
+    "id": 229
+  },
+  {
+    "es": "una sonrisa dulce",
+    "en": "a sweet smile",
+    "de": "ein süßes Lächeln",
+    "it": "un sorriso dolce",
+    "ro": "un zâmbet dulce",
+    "group": "3",
+    "id": 230
+  },
+  {
+    "es": "un hombre sabio",
+    "en": "a wise man",
+    "de": "ein weiser Mann",
+    "it": "un uomo saggio",
+    "ro": "un om înțelept",
+    "group": "3",
+    "id": 231
+  },
+  {
+    "es": "una mujer fuerte",
+    "en": "a strong woman",
+    "de": "eine starke Frau",
+    "it": "una donna forte",
+    "ro": "o femeie puternică",
+    "group": "3",
+    "id": 232
+  },
+  {
+    "es": "un niño alegre",
+    "en": "a happy child",
+    "de": "ein fröhliches Kind",
+    "it": "un bambino allegro",
+    "ro": "un copil vesel",
+    "group": "3",
+    "id": 233
+  },
+  {
+    "es": "el mar azul",
+    "en": "the blue sea",
+    "de": "das blaue Meer",
+    "it": "il mare blu",
+    "ro": "marea cea albastră",
+    "group": "3",
+    "id": 234
+  },
+  {
+    "es": "una casa nueva",
+    "en": "a new house",
+    "de": "ein neues Haus",
+    "it": "una casa nuova",
+    "ro": "o casă nouă",
+    "group": "3",
+    "id": 235
+  },
+  {
+    "es": "un plato hondo",
+    "en": "a deep plate",
+    "de": "ein tiefer Teller",
+    "it": "un piatto fondo",
+    "ro": "o farfurie adâncă",
+    "group": "3",
+    "id": 236
+  },
+  {
+    "es": "una luz suave",
+    "en": "a soft light",
+    "de": "ein sanftes Licht",
+    "it": "una luce soffusa",
+    "ro": "o lumină slabă",
+    "group": "3",
+    "id": 237
+  },
+  {
+    "es": "el viento suave",
+    "en": "the gentle breeze",
+    "de": "die sanfte Brise",
+    "it": "il vento leggero",
+    "ro": "vântul cel ușor",
+    "group": "3",
+    "id": 238
+  },
+  {
+    "es": "un pez dorado",
+    "en": "a gold fish",
+    "de": "ein Goldfisch",
+    "it": "un pesce rosso",
+    "ro": "un peștișor auriu",
+    "group": "3",
+    "id": 239
+  },
+  {
+    "es": "una tarde tranquila",
+    "en": "a quiet afternoon",
+    "de": "ein ruhiger Nachmittag",
+    "it": "un pomeriggio tranquillo",
+    "ro": "o după-amiază liniștită",
+    "group": "3",
+    "id": 240
+  },
+  {
+    "es": "un bosque denso",
+    "en": "a dense forest",
+    "de": "ein dichter Wald",
+    "it": "un bosco fitto",
+    "ro": "o pădure deasă",
+    "group": "3",
+    "id": 241
+  },
+  {
+    "es": "la arena blanca",
+    "en": "the white sand",
+    "de": "der weiße Sand",
+    "it": "la sabbia bianca",
+    "ro": "nisipul cel alb",
+    "group": "3",
+    "id": 242
+  },
+  {
+    "es": "un gato negro",
+    "en": "a black cat",
+    "de": "eine schwarze Katze",
+    "it": "un gatto nero",
+    "ro": "o pisică neagră",
+    "group": "3",
+    "id": 243
+  },
+  {
+    "es": "una manzana roja",
+    "en": "a red apple",
+    "de": "ein roter Apfel",
+    "it": "una mela rossa",
+    "ro": "un măr roșu",
+    "group": "3",
+    "id": 244
+  },
+  {
+    "es": "un libro nuevo",
+    "en": "a new book",
+    "de": "ein neues Buch",
+    "it": "un libro nuovo",
+    "ro": "o carte nouă",
+    "group": "3",
+    "id": 245
+  },
+  {
+    "es": "una mesa redonda",
+    "en": "a round table",
+    "de": "ein runder Tisch",
+    "it": "un tavolo tondo",
+    "ro": "o masă rotundă",
+    "group": "3",
+    "id": 246
+  },
+  {
+    "es": "el reloj antiguo",
+    "en": "the antique clock",
+    "de": "die antike Uhr",
+    "it": "l'orologio antico",
+    "ro": "ceasul cel antic",
+    "group": "3",
+    "id": 247
+  },
+  {
+    "es": "un sol radiante",
+    "en": "a radiant sun",
+    "de": "eine strahlende Sonne",
+    "it": "un sole radioso",
+    "ro": "un soare radiant",
+    "group": "3",
+    "id": 248
+  },
+  {
+    "es": "una voz clara",
+    "en": "a clear voice",
+    "de": "eine klare Stimme",
+    "it": "una voce chiara",
+    "ro": "o voce clară",
+    "group": "3",
+    "id": 249
+  },
+  {
+    "es": "un mundo mejor",
+    "en": "a better world",
+    "de": "eine bessere Welt",
+    "it": "un mondo migliore",
+    "ro": "o lume mai bună",
+    "group": "3",
+    "id": 250
+  },
+  {
+    "es": "el chocolate amargo",
+    "en": "the dark chocolate",
+    "de": "die Bitterschokolade",
+    "it": "il cioccolato amaro",
+    "ro": "ciocolata cea amară",
+    "group": "3",
+    "id": 251
+  },
+  {
+    "es": "una lluvia fina",
+    "en": "a light rain",
+    "de": "ein feiner Regen",
+    "it": "una pioggia fine",
+    "ro": "o ploaie fină",
+    "group": "3",
+    "id": 252
+  },
+  {
+    "es": "un secreto grande",
+    "en": "a big secret",
+    "de": "ein großes Geheimnis",
+    "it": "un segreto grande",
+    "ro": "un secret mare",
+    "group": "3",
+    "id": 253
+  },
+  {
+    "es": "una calle vacía",
+    "en": "an empty street",
+    "de": "eine leere Straße",
+    "it": "una strada vuota",
+    "ro": "o stradă goală",
+    "group": "3",
+    "id": 254
+  },
+  {
+    "es": "un pájaro libre",
+    "en": "a free bird",
+    "de": "ein freier Vogel",
+    "it": "un uccello libero",
+    "ro": "o pasăre liberă",
+    "group": "3",
+    "id": 255
+  },
+  {
+    "es": "el invierno largo",
+    "en": "the long winter",
+    "de": "der lange Winter",
+    "it": "l'inverno lungo",
+    "ro": "iarna cea lungă",
+    "group": "3",
+    "id": 256
+  },
+  {
+    "es": "un cielo despejado",
+    "en": "a clear sky",
+    "de": "ein klarer Himmel",
+    "it": "un cielo limpido",
+    "ro": "un cer senin",
+    "group": "3",
+    "id": 257
+  },
+  {
+    "es": "una mujer amable",
+    "en": "a kind woman",
+    "de": "eine freundliche Frau",
+    "it": "una donna gentile",
+    "ro": "o femeie amabilă",
+    "group": "3",
+    "id": 258
+  },
+  {
+    "es": "un paso adelante",
+    "en": "a step forward",
+    "de": "ein Schritt vorwärts",
+    "it": "un passo avanti",
+    "ro": "un pas înainte",
+    "group": "3",
+    "id": 259
+  },
+  {
+    "es": "el fuego eterno",
+    "en": "the eternal fire",
+    "de": "das ewige Feuer",
+    "it": "il fuoco eterno",
+    "ro": "focul cel etern",
+    "group": "3",
+    "id": 260
+  },
+  {
+    "es": "una mano amiga",
+    "en": "a helping hand",
+    "de": "eine helfende Hand",
+    "it": "una mano amica",
+    "ro": "o mână prietenă",
+    "group": "3",
+    "id": 261
+  },
+  {
+    "es": "un error pequeño",
+    "en": "a small mistake",
+    "de": "ein kleiner Fehler",
+    "it": "un errore piccolo",
+    "ro": "o greșeală mică",
+    "group": "3",
+    "id": 262
+  },
+  {
+    "es": "una ciudad moderna",
+    "en": "a modern city",
+    "de": "eine moderne Stadt",
+    "it": "una città moderna",
+    "ro": "un oraș modern",
+    "group": "3",
+    "id": 263
+  },
+  {
+    "es": "el aire fresco",
+    "en": "the fresh air",
+    "de": "die frische Luft",
+    "it": "l'aria fresca",
+    "ro": "aerul cel proaspăt",
+    "group": "3",
+    "id": 264
+  },
+  {
+    "es": "un día gris",
+    "en": "a gray day",
+    "de": "ein grauer Tag",
+    "it": "un giorno grigio",
+    "ro": "o zi gri",
+    "group": "3",
+    "id": 265
+  },
+  {
+    "es": "una comida rápida",
+    "en": "a fast food",
+    "de": "ein schnelles Essen",
+    "it": "un cibo veloce",
+    "ro": "o mâncare rapidă",
+    "group": "3",
+    "id": 266
+  },
+  {
+    "es": "el mar calmo",
+    "en": "the calm sea",
+    "de": "das ruhige Meer",
+    "it": "il mare calmo",
+    "ro": "marea cea calmă",
+    "group": "3",
+    "id": 267
+  },
+  {
+    "es": "un amor verdadero",
+    "en": "a true love",
+    "de": "eine wahre Liebe",
+    "it": "un amore vero",
+    "ro": "o iubire adevărată",
+    "group": "3",
+    "id": 268
+  },
+  {
+    "es": "una ventana rota",
+    "en": "a broken window",
+    "de": "ein kaputtes Fenster",
+    "it": "una finestra rotta",
+    "ro": "o fereastră spartă",
+    "group": "3",
+    "id": 269
+  },
+  {
+    "es": "un puente largo",
+    "en": "a long bridge",
+    "de": "eine lange Brücke",
+    "it": "un ponte lungo",
+    "ro": "un pod lung",
+    "group": "3",
+    "id": 270
+  },
+  {
+    "es": "una mente abierta",
+    "en": "an open mind",
+    "de": "ein offener Geist",
+    "it": "una mente aperta",
+    "ro": "o minte deschisă",
+    "group": "3",
+    "id": 271
+  },
+  {
+    "es": "el sol poniente",
+    "en": "the setting sun",
+    "de": "die untergehende Sonne",
+    "it": "il sole calante",
+    "ro": "soarele la apus",
+    "group": "3",
+    "id": 272
+  },
+  {
+    "es": "un regalo útil",
+    "en": "a useful gift",
+    "de": "ein nützliches Geschenk",
+    "it": "un regalo utile",
+    "ro": "un cadou util",
+    "group": "3",
+    "id": 273
+  },
+  {
+    "es": "una noche oscura",
+    "en": "a dark night",
+    "de": "eine dunkle Nacht",
+    "it": "una notte buia",
+    "ro": "o noapte întunecată",
+    "group": "3",
+    "id": 274
+  },
+  {
+    "es": "un perro grande",
+    "en": "a big dog",
+    "de": "ein großer Hund",
+    "it": "un cane grande",
+    "ro": "un câine mare",
+    "group": "3",
+    "id": 275
+  },
+  {
+    "es": "la luna nueva",
+    "en": "the new moon",
+    "de": "der Neumond",
+    "it": "la luna nuova",
+    "ro": "luna cea nouă",
+    "group": "3",
+    "id": 276
+  },
+  {
+    "es": "un libro cerrado",
+    "en": "a closed book",
+    "de": "ein geschlossenes Buch",
+    "it": "un libro chiuso",
+    "ro": "o carte închisă",
+    "group": "3",
+    "id": 277
+  },
+  {
+    "es": "una puerta vieja",
+    "en": "an old door",
+    "de": "eine alte Tür",
+    "it": "una porta vecchia",
+    "ro": "o ușă veche",
+    "group": "3",
+    "id": 278
+  },
+  {
+    "es": "un niño inteligente",
+    "en": "a smart boy",
+    "de": "ein schlaues Kind",
+    "it": "un bambino intelligente",
+    "ro": "un copil deștept",
+    "group": "3",
+    "id": 279
+  },
+  {
+    "es": "el jardín verde",
+    "en": "the green garden",
+    "de": "der grüne Garten",
+    "it": "il giardino verde",
+    "ro": "grădina cea verde",
+    "group": "3",
+    "id": 280
+  },
+  {
+    "es": "un final feliz",
+    "en": "a happy ending",
+    "de": "ein glückliches Ende",
+    "it": "un lieto fine",
+    "ro": "un final fericit",
+    "group": "3",
+    "id": 281
+  },
+  {
+    "es": "una casa limpia",
+    "en": "a clean house",
+    "de": "ein sauberes Haus",
+    "it": "una casa pulita",
+    "ro": "o casă curată",
+    "group": "3",
+    "id": 282
+  },
+  {
+    "es": "un plato limpio",
+    "en": "a clean plate",
+    "de": "ein sauberer Teller",
+    "it": "un piatto pulito",
+    "ro": "o farfurie curată",
+    "group": "3",
+    "id": 283
+  },
+  {
+    "es": "una calle ruidosa",
+    "en": "a noisy street",
+    "de": "eine laute Straße",
+    "it": "una strada rumorosa",
+    "ro": "o stradă zgomotoasă",
+    "group": "3",
+    "id": 284
+  },
+  {
+    "es": "un hombre joven",
+    "en": "a young man",
+    "de": "ein junger Mann",
+    "it": "un uomo giovane",
+    "ro": "un tânăr",
+    "group": "3",
+    "id": 285
+  },
+  {
+    "es": "la flor roja",
+    "en": "the red flower",
+    "de": "die rote Blume",
+    "it": "il fiore rosso",
+    "ro": "floarea cea roșie",
+    "group": "3",
+    "id": 286
+  },
+  {
+    "es": "un coche azul",
+    "en": "a blue car",
+    "de": "ein blaues Auto",
+    "it": "un'auto blu",
+    "ro": "o mașină albastră",
+    "group": "3",
+    "id": 287
+  },
+  {
+    "es": "una fruta fresca",
+    "en": "a fresh fruit",
+    "de": "eine frische Frucht",
+    "it": "un frutto fresco",
+    "ro": "un fruct proaspăt",
+    "group": "3",
+    "id": 288
+  },
+  {
+    "es": "el mar inmenso",
+    "en": "the immense sea",
+    "de": "das riesige Meer",
+    "it": "il mare immenso",
+    "ro": "marea cea imensă",
+    "group": "3",
+    "id": 289
+  },
+  {
+    "es": "un cielo rojo",
+    "en": "a red sky",
+    "de": "ein roter Himmel",
+    "it": "un cielo rosso",
+    "ro": "un cer roșu",
+    "group": "3",
+    "id": 290
+  },
+  {
+    "es": "una música suave",
+    "en": "a soft music",
+    "de": "eine sanfte Musik",
+    "it": "una musica dolce",
+    "ro": "o muzică lentă",
+    "group": "3",
+    "id": 291
+  },
+  {
+    "es": "un camino corto",
+    "en": "a short path",
+    "de": "ein kurzer Weg",
+    "it": "un sentiero breve",
+    "ro": "un drum scurt",
+    "group": "3",
+    "id": 292
+  },
+  {
+    "es": "una estrella lejana",
+    "en": "a distant star",
+    "de": "ein ferner Stern",
+    "it": "una stella lontana",
+    "ro": "o stea îndepărtată",
+    "group": "3",
+    "id": 293
+  },
+  {
+    "es": "el invierno blanco",
+    "en": "the white winter",
+    "de": "der weiße Winter",
+    "it": "l'inverno bianco",
+    "ro": "iarna cea albă",
+    "group": "3",
+    "id": 294
+  },
+  {
+    "es": "un paso ligero",
+    "en": "a light step",
+    "de": "ein leichter Schritt",
+    "it": "un passo leggero",
+    "ro": "un pas ușor",
+    "group": "3",
+    "id": 295
+  },
+  {
+    "es": "una respuesta clara",
+    "en": "a clear answer",
+    "de": "eine klare Antwort",
+    "it": "una risposta chiara",
+    "ro": "un răspuns clar",
+    "group": "3",
+    "id": 296
+  },
+  {
+    "es": "un lápiz azul",
+    "en": "a blue pencil",
+    "de": "ein blauer Stift",
+    "it": "una matita blu",
+    "ro": "un creion albastru",
+    "group": "3",
+    "id": 297
+  },
+  {
+    "es": "una mesa pequeña",
+    "en": "a small table",
+    "de": "ein kleiner Tisch",
+    "it": "un tavolo piccolo",
+    "ro": "o masă mică",
+    "group": "3",
+    "id": 298
+  },
+  {
+    "es": "un gato gris",
+    "en": "a gray cat",
+    "de": "eine graue Katze",
+    "it": "un gatto grigio",
+    "ro": "o pisică gri",
+    "group": "3",
+    "id": 299
+  },
+  {
+    "es": "una vida feliz",
+    "en": "a happy life",
+    "de": "ein glückliches Leben",
+    "it": "una vita felice",
+    "ro": "o viață fericită",
+    "group": "3",
+    "id": 300
   }
 ]

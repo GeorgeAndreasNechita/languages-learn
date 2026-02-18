@@ -1,0 +1,2702 @@
+[
+  {
+    "es": "el gato negro duerme en casa",
+    "en": "the black cat sleeps at home",
+    "de": "die schwarze Katze schläft zu Hause",
+    "it": "il gatto nero dorme a casa",
+    "ro": "pisica neagră doarme în casă",
+    "group": "6",
+    "id": 1
+  },
+  {
+    "es": "un perro grande corre por aqui",
+    "en": "a big dog runs around here",
+    "de": "ein großer Hund läuft hier herum",
+    "it": "un cane grande corre per qui",
+    "ro": "un câine mare aleargă pe aici",
+    "group": "6",
+    "id": 2
+  },
+  {
+    "es": "mi hermano mayor vive en madrid",
+    "en": "my older brother lives in madrid",
+    "de": "mein älterer Bruder lebt in Madrid",
+    "it": "mio fratello maggiore vive a madrid",
+    "ro": "fratele meu mai mare locuiește madrid",
+    "group": "6",
+    "id": 3
+  },
+  {
+    "es": "nosotros leemos un libro muy largo",
+    "en": "we read a very long book",
+    "de": "wir lesen ein sehr langes Buch",
+    "it": "noi leggiamo un libro molto lungo",
+    "ro": "noi citim o carte foarte lungă",
+    "group": "6",
+    "id": 4
+  },
+  {
+    "es": "ella prepara una cena muy rica",
+    "en": "she prepares a very tasty dinner",
+    "de": "sie bereitet ein sehr leckeres Abendessen",
+    "it": "lei prepara una cena molto buona",
+    "ro": "ea prepară o cină foarte gustoasă",
+    "group": "6",
+    "id": 5
+  },
+  {
+    "es": "el cielo azul tiene muchas nubes",
+    "en": "the blue sky has many clouds",
+    "de": "der blaue Himmel hat viele Wolken",
+    "it": "il cielo blu ha molte nuvole",
+    "ro": "cerul albastru are mulți nori mări",
+    "group": "6",
+    "id": 6
+  },
+  {
+    "es": "ayer compre flores para mi madre",
+    "en": "yesterday bought flowers for my mother",
+    "de": "gestern kaufte Blumen für meine Mutter",
+    "it": "ieri ho comprato fiori per mamma",
+    "ro": "ieri am cumpărat flori pentru mama",
+    "group": "6",
+    "id": 7
+  },
+  {
+    "es": "ellos beben agua fria de fuente",
+    "en": "they drink cold water from fountain",
+    "de": "sie trinken kaltes Wasser vom Brunnen",
+    "it": "essi bevono acqua fredda di fonte",
+    "ro": "ei beau apă rece de izvor",
+    "group": "6",
+    "id": 8
+  },
+  {
+    "es": "tu tienes que estudiar para examen",
+    "en": "you have to study for exam",
+    "de": "du musst für die Prüfung lernen",
+    "it": "tu devi studiare per lo esame",
+    "ro": "tu trebuie să studiezi pentru examen",
+    "group": "6",
+    "id": 9
+  },
+  {
+    "es": "esta mesa madera es muy vieja",
+    "en": "this wooden table is very old",
+    "de": "dieser Holztisch ist schon sehr alt",
+    "it": "questo tavolo legno è molto vecchio",
+    "ro": "această masă lemn este foarte veche",
+    "group": "6",
+    "id": 10
+  },
+  {
+    "es": "el sol brilla fuerte hoy dia",
+    "en": "the sun shines bright today day",
+    "de": "die Sonne scheint heute sehr hell",
+    "it": "il sole brilla forte oggi giorno",
+    "ro": "soarele strălucește tare astăzi în zi",
+    "group": "6",
+    "id": 11
+  },
+  {
+    "es": "quiero comer una manzana roja ahora",
+    "en": "want to eat a red apple",
+    "de": "möchte jetzt einen roten Apfel essen",
+    "it": "voglio mangiare una mela rossa ora",
+    "ro": "vreu să mănânc un măr roșu",
+    "group": "6",
+    "id": 12
+  },
+  {
+    "es": "la musica suena fuerte en casa",
+    "en": "the music sounds loud at home",
+    "de": "die Musik klingt laut zu Hause",
+    "it": "la musica suona forte a casa",
+    "ro": "muzica sună tare în casa mea",
+    "group": "6",
+    "id": 13
+  },
+  {
+    "es": "mi padre trabaja en la oficina",
+    "en": "my father works in the office",
+    "de": "mein Vater arbeitet in dem Büro",
+    "it": "mio padre lavora in lo ufficio",
+    "ro": "tatăl meu lucrează în acel birou",
+    "group": "6",
+    "id": 14
+  },
+  {
+    "es": "el coche rojo va muy rapido",
+    "en": "the red car goes very fast",
+    "de": "das rote Auto fährt sehr schnell",
+    "it": "la auto rossa va molto veloce",
+    "ro": "mașina roșie merge foarte repede acum",
+    "group": "6",
+    "id": 15
+  },
+  {
+    "es": "necesito comprar pan en la tienda",
+    "en": "need to buy bread at store",
+    "de": "muss Brot in dem Laden kaufen",
+    "it": "devo comprare pane in il negozio",
+    "ro": "trebuie să cumpăr pâine la magazin",
+    "group": "6",
+    "id": 16
+  },
+  {
+    "es": "tus amigos son personas muy buenas",
+    "en": "your friends are very good people",
+    "de": "deine Freunde sind sehr gute Menschen",
+    "it": "tuoi amici sono persone molto buone",
+    "ro": "prietenii tăi sunt oameni foarte buni",
+    "group": "6",
+    "id": 17
+  },
+  {
+    "es": "mañana vamos a viajar a parís",
+    "en": "tomorrow we will travel to paris",
+    "de": "morgen werden wir nach Paris reisen",
+    "it": "domani noi andiamo a parigi viaggiare",
+    "ro": "mâine vom călători la orașul paris",
+    "group": "6",
+    "id": 18
+  },
+  {
+    "es": "el niño pequeño juega con pelota",
+    "en": "the small boy plays with ball",
+    "de": "der kleine Junge spielt mit Ball",
+    "it": "il bimbo piccolo gioca con palla",
+    "ro": "băiatul mic se joacă cu mingea",
+    "group": "6",
+    "id": 19
+  },
+  {
+    "es": "tengo dos gatos en mi cuarto",
+    "en": "have two cats in my room",
+    "de": "habe zwei Katzen in meinem Zimmer",
+    "it": "ho due gatti in mia camera",
+    "ro": "am doi pisoi în camera mea",
+    "group": "6",
+    "id": 20
+  },
+  {
+    "es": "el invierno es una estacion fria",
+    "en": "the winter is a cold season",
+    "de": "der Winter ist eine kalte Jahreszeit",
+    "it": "lo inverno è una stagione fredda",
+    "ro": "iarna este un anotimp foarte rece",
+    "group": "6",
+    "id": 21
+  },
+  {
+    "es": "ella siempre lleva un sombrero verde",
+    "en": "she always wears a green hat",
+    "de": "sie trägt immer einen grünen Hut",
+    "it": "lei porta sempre un cappello verde",
+    "ro": "ea poartă mereu o pălărie verde",
+    "group": "6",
+    "id": 22
+  },
+  {
+    "es": "puedes abrir la ventana por favor",
+    "en": "can you open the window please",
+    "de": "kannst du bitte das Fenster öffnen",
+    "it": "puoi aprire la finestra per favore",
+    "ro": "poți deschide geamul te rog frumos",
+    "group": "6",
+    "id": 23
+  },
+  {
+    "es": "las flores blancas huelen muy bien",
+    "en": "the white flowers smell very good",
+    "de": "die weißen Blumen riechen sehr gut",
+    "it": "i fiori bianchi odorano molto bene",
+    "ro": "florile albe miros foarte frumos acum",
+    "group": "6",
+    "id": 24
+  },
+  {
+    "es": "el profesor explica la leccion hoy",
+    "en": "the teacher explains the lesson today",
+    "de": "der Lehrer erklärt heute die Lektion",
+    "it": "il professore spiega la lezione oggi",
+    "ro": "profesorul explică lecția în ziua azi",
+    "group": "6",
+    "id": 25
+  },
+  {
+    "es": "estoy cansado de caminar tanto tiempo",
+    "en": "am tired of walking so long",
+    "de": "bin müde von so langem Gehen",
+    "it": "sono stanco di camminare tanto tempo",
+    "ro": "sunt obosit de mers atâta timp",
+    "group": "6",
+    "id": 26
+  },
+  {
+    "es": "me gusta el café con leche",
+    "en": "i like coffee with much milk",
+    "de": "ich mag den Kaffee mit Milch",
+    "it": "mi piace il caffè con latte",
+    "ro": "îmi place mult cafeaua cu lapte",
+    "group": "6",
+    "id": 27
+  },
+  {
+    "es": "el mar esta muy tranquilo hoy",
+    "en": "the sea is very calm today",
+    "de": "das Meer ist heute sehr ruhig",
+    "it": "il mare è molto tranquillo oggi",
+    "ro": "marea este foarte liniștită astăzi acum",
+    "group": "6",
+    "id": 28
+  },
+  {
+    "es": "nosotros vivimos en una ciudad grande",
+    "en": "we live in a large city",
+    "de": "wir leben in einer großen Stadt",
+    "it": "noi viviamo in una città grande",
+    "ro": "noi locuim într-un oraș foarte mare",
+    "group": "6",
+    "id": 29
+  },
+  {
+    "es": "toma esta medicina con un vaso",
+    "en": "take this medicine with a glass",
+    "de": "nimm diese Medizin mit einem Glas",
+    "it": "prendi questa medicina con un bicchiere",
+    "ro": "ia acest medicament cu un pahar",
+    "group": "6",
+    "id": 30
+  },
+  {
+    "es": "los pajaros cantan en los arboles",
+    "en": "the birds sing in the trees",
+    "de": "die Vögel singen in den Bäumen",
+    "it": "gli uccelli cantano in gli alberi",
+    "ro": "păsările cântă în acești arbori mulți",
+    "group": "6",
+    "id": 31
+  },
+  {
+    "es": "ella escribe una carta para juan",
+    "en": "she writes a letter for juan",
+    "de": "sie schreibt einen Brief für Juan",
+    "it": "lei scrive una lettera per juan",
+    "ro": "ea scrie o scrisoare pentru ioan",
+    "group": "6",
+    "id": 32
+  },
+  {
+    "es": "el libro esta sobre la mesa",
+    "en": "the book is on the table",
+    "de": "das Buch liegt auf dem Tisch",
+    "it": "il libro è sopra il tavolo",
+    "ro": "cartea este pe masă în sufragerie",
+    "group": "6",
+    "id": 33
+  },
+  {
+    "es": "mi madre cocina una sopa buena",
+    "en": "my mother cooks a good soup",
+    "de": "meine Mutter kocht eine gute Suppe",
+    "it": "mia madre cucina una zuppa buona",
+    "ro": "mama mea gătește o supă bună",
+    "group": "6",
+    "id": 34
+  },
+  {
+    "es": "el tiempo pasa muy rapido siempre",
+    "en": "time goes by very fast always",
+    "de": "die Zeit vergeht immer sehr schnell",
+    "it": "il tempo passa molto veloce sempre",
+    "ro": "timpul trece foarte repede tot timpul",
+    "group": "6",
+    "id": 35
+  },
+  {
+    "es": "hay mucha gente en la calle",
+    "en": "there are many people in street",
+    "de": "es sind viele Leute auf Straße",
+    "it": "ci sono molte persone in strada",
+    "ro": "sunt mulți oameni pe această stradă",
+    "group": "6",
+    "id": 36
+  },
+  {
+    "es": "el perro corre tras el gato",
+    "en": "the dog runs after the cat",
+    "de": "der Hund rennt hinter Katze her",
+    "it": "il cane corre dopo il gatto",
+    "ro": "câinele aleargă după acea pisică mică",
+    "group": "6",
+    "id": 37
+  },
+  {
+    "es": "mi casa tiene un jardin grande",
+    "en": "my house has a big garden",
+    "de": "mein Haus hat einen großen Garten",
+    "it": "mia casa ha un giardino grande",
+    "ro": "casa mea are o grădină mare",
+    "group": "6",
+    "id": 38
+  },
+  {
+    "es": "el cafe esta caliente por mañana",
+    "en": "the coffee is hot for morning",
+    "de": "der Kaffee ist am Morgen heiß",
+    "it": "il caffè è caldo per mattina",
+    "ro": "cafeaua este fierbinte în această dimineață",
+    "group": "6",
+    "id": 39
+  },
+  {
+    "es": "busco mis llaves por la casa",
+    "en": "searching my keys around the house",
+    "de": "suche meine Schlüssel in dem Haus",
+    "it": "cerco mie chiavi per la casa",
+    "ro": "caut cheile mele prin toată casa",
+    "group": "6",
+    "id": 40
+  },
+  {
+    "es": "la pelicula termina a las diez",
+    "en": "the movie ends at ten oclock",
+    "de": "der Film endet um zehn Uhr",
+    "it": "il film finisce a le dieci",
+    "ro": "filmul se termină la ora zece",
+    "group": "6",
+    "id": 41
+  },
+  {
+    "es": "ella baila muy bien el tango",
+    "en": "she dances the tango very well",
+    "de": "sie tanzt sehr gut den Tango",
+    "it": "lei balla molto bene il tango",
+    "ro": "ea dansează foarte bine acest tango",
+    "group": "6",
+    "id": 42
+  },
+  {
+    "es": "el reloj marca la hora exacta",
+    "en": "the clock marks the exact time",
+    "de": "die Uhr zeigt die genaue Zeit",
+    "it": "lo orologio segna la ora esatta",
+    "ro": "ceasul indică ora exactă acum mereu",
+    "group": "6",
+    "id": 43
+  },
+  {
+    "es": "necesitamos mas tiempo para este trabajo",
+    "en": "we need more time for work",
+    "de": "wir brauchen mehr Zeit für Arbeit",
+    "it": "abbiamo bisogno tempo per questo lavoro",
+    "ro": "avem nevoie timp pentru acest lucru",
+    "group": "6",
+    "id": 44
+  },
+  {
+    "es": "el agua es necesaria para vivir",
+    "en": "water is necessary for to live",
+    "de": "Wasser ist zum Leben absolut notwendig",
+    "it": "acqua è necessaria per poter vivere",
+    "ro": "apa este necesară pentru a trăi",
+    "group": "6",
+    "id": 45
+  },
+  {
+    "es": "mi hermana tiene un vestido azul",
+    "en": "my sister has a blue dress",
+    "de": "meine Schwester hat ein blaues Kleid",
+    "it": "mia sorella ha un vestito blu",
+    "ro": "sora mea are o rochie albastră",
+    "group": "6",
+    "id": 46
+  },
+  {
+    "es": "el camino es largo y dificil",
+    "en": "the path is long and difficult",
+    "de": "der Weg ist lang und schwierig",
+    "it": "il cammino è lungo e difficile",
+    "ro": "drumul este lung și foarte greu",
+    "group": "6",
+    "id": 47
+  },
+  {
+    "es": "el equipo gano el partido ayer",
+    "en": "the team won the match yesterday",
+    "de": "das Team gewann gestern das Spiel",
+    "it": "la squadra ha vinto gara ieri",
+    "ro": "echipa a câștigat meciul ieri seară",
+    "group": "6",
+    "id": 48
+  },
+  {
+    "es": "comemos fruta fresca en el verano",
+    "en": "we eat fresh fruit in summer",
+    "de": "wir essen frisches Obst im Sommer",
+    "it": "mangiamo frutta fresca in la estate",
+    "ro": "mâncăm fructe proaspete în timpul verii",
+    "group": "6",
+    "id": 49
+  },
+  {
+    "es": "la puerta esta cerrada con llave",
+    "en": "the door is closed with key",
+    "de": "die Tür ist mit Schlüssel abgeschlossen",
+    "it": "la porta è chiusa con chiave",
+    "ro": "ușa este încuiată cu cheia acum",
+    "group": "6",
+    "id": 50
+  },
+  {
+    "es": "el fuego calienta toda la habitacion",
+    "en": "fire heats up the whole room",
+    "de": "Feuer wärmt das ganze Zimmer auf",
+    "it": "il fuoco scalda tutta la camera",
+    "ro": "focul încălzește toată această cameră mică",
+    "group": "6",
+    "id": 51
+  },
+  {
+    "es": "escucho la radio por la tarde",
+    "en": "i listen to radio at afternoon",
+    "de": "ich höre am Nachmittag das Radio",
+    "it": "ascolto la radio in il pomeriggio",
+    "ro": "ascult radio în fiecare după amiază",
+    "group": "6",
+    "id": 52
+  },
+  {
+    "es": "mi abuelo cuenta historias muy viejas",
+    "en": "my grandfather tells very old stories",
+    "de": "mein Großvater erzählt sehr alte Geschichten",
+    "it": "mio nonno racconta storie molto vecchie",
+    "ro": "bunicul meu spune povești foarte vechi",
+    "group": "6",
+    "id": 53
+  },
+  {
+    "es": "el pan esta sobre la mesa",
+    "en": "the bread is on the table",
+    "de": "das Brot liegt auf dem Tisch",
+    "it": "il pane è sopra il tavolo",
+    "ro": "pâinea este pe masă în bucătărie",
+    "group": "6",
+    "id": 54
+  },
+  {
+    "es": "las estrellas brillan en la noche",
+    "en": "stars are shining in the night",
+    "de": "die Sterne leuchten in der Nacht",
+    "it": "le stelle brillano in la notte",
+    "ro": "stelele strălucesc în timpul nopții reci",
+    "group": "6",
+    "id": 55
+  },
+  {
+    "es": "el hombre camina por el parque",
+    "en": "the man walks through the park",
+    "de": "der Mann geht durch den Park",
+    "it": "lo uomo cammina per il parco",
+    "ro": "omul se plimbă prin acest parc",
+    "group": "6",
+    "id": 56
+  },
+  {
+    "es": "ellos quieren viajar a japon pronto",
+    "en": "they want to travel japan soon",
+    "de": "sie wollen bald nach Japan reisen",
+    "it": "loro vogliono viaggiare in giappone presto",
+    "ro": "ei vor să călătorească japonia curând",
+    "group": "6",
+    "id": 57
+  },
+  {
+    "es": "la leche es blanca y buena",
+    "en": "the milk is white and good",
+    "de": "die Milch ist weiß und gut",
+    "it": "il latte è bianco e buono",
+    "ro": "laptele este alb și foarte bun",
+    "group": "6",
+    "id": 58
+  },
+  {
+    "es": "tu libro es interesante de leer",
+    "en": "your book is interesting to read",
+    "de": "dein Buch ist interessant zu lesen",
+    "it": "tuo libro è interessante da leggere",
+    "ro": "cartea ta este interesant de citit",
+    "group": "6",
+    "id": 59
+  },
+  {
+    "es": "ella canta una cancion muy linda",
+    "en": "she sings a very nice song",
+    "de": "sie singt ein sehr schönes Lied",
+    "it": "lei canta una canzone molto bella",
+    "ro": "ea cântă o melodie foarte frumoasă",
+    "group": "6",
+    "id": 60
+  },
+  {
+    "es": "el viento sopla con mucha fuerza",
+    "en": "the wind blows with great force",
+    "de": "der Wind weht mit großer Kraft",
+    "it": "il vento soffia con molta forza",
+    "ro": "vântul suflă cu foarte mare putere",
+    "group": "6",
+    "id": 61
+  },
+  {
+    "es": "mis padres compran una casa nueva",
+    "en": "my parents buy a new house",
+    "de": "meine Eltern kaufen ein neues Haus",
+    "it": "miei genitori comprano una casa nuova",
+    "ro": "părinții mei cumpără o casă nouă",
+    "group": "6",
+    "id": 62
+  },
+  {
+    "es": "el gato salta sobre la silla",
+    "en": "the cat jumps on the chair",
+    "de": "die Katze springt auf den Stuhl",
+    "it": "il gatto salta sopra la sedia",
+    "ro": "pisica sare pe acest scaun mic",
+    "group": "6",
+    "id": 63
+  },
+  {
+    "es": "el invierno trae mucha nieve blanca",
+    "en": "winter brings a lot white snow",
+    "de": "Winter bringt sehr viel weißen Schnee",
+    "it": "lo inverno porta molta neve bianca",
+    "ro": "iarna aduce multă zăpadă albă acum",
+    "group": "6",
+    "id": 64
+  },
+  {
+    "es": "estamos felices de verte otra vez",
+    "en": "we are happy see you again",
+    "de": "wir freuen uns dich wiederzusehen heute",
+    "it": "siamo felici di vederti ancora volta",
+    "ro": "suntem fericiți să te vedem iar",
+    "group": "6",
+    "id": 65
+  },
+  {
+    "es": "el tren llega a la estacion",
+    "en": "the train arrives at the station",
+    "de": "der Zug kommt am Bahnhof an",
+    "it": "il treno arriva a la stazione",
+    "ro": "trenul ajunge la gară în curând",
+    "group": "6",
+    "id": 66
+  },
+  {
+    "es": "me gusta caminar bajo la lluvia",
+    "en": "i like walking under the rain",
+    "de": "ich gehe gerne im Regen spazieren",
+    "it": "mi piace camminare sotto la pioggia",
+    "ro": "îmi place să merg prin ploaie",
+    "group": "6",
+    "id": 67
+  },
+  {
+    "es": "las manzanas son dulces y rojas",
+    "en": "the apples are sweet and red",
+    "de": "die Äpfel sind süß und rot",
+    "it": "le mele sono dolci e rosse",
+    "ro": "merele sunt dulci și roșii acum",
+    "group": "6",
+    "id": 68
+  },
+  {
+    "es": "el nino tiene miedo del perro",
+    "en": "the boy is afraid of dog",
+    "de": "der Junge hat Angst vor Hund",
+    "it": "il bimbo ha paura del cane",
+    "ro": "copilul are frică de acest câine",
+    "group": "6",
+    "id": 69
+  },
+  {
+    "es": "hoy es un dia muy especial",
+    "en": "today is a very special day",
+    "de": "heute ist ein sehr besonderer Tag",
+    "it": "oggi è un giorno molto speciale",
+    "ro": "astăzi este o zi foarte specială",
+    "group": "6",
+    "id": 70
+  },
+  {
+    "es": "el avion vuela sobre las nubes",
+    "en": "the plane flies over the clouds",
+    "de": "das Flugzeug fliegt über den Wolken",
+    "it": "lo aereo vola sopra le nuvole",
+    "ro": "avionul zboară peste norii de sus",
+    "group": "6",
+    "id": 71
+  },
+  {
+    "es": "necesito mas dinero para el viaje",
+    "en": "need more money for the trip",
+    "de": "brauche mehr Geld für die Reise",
+    "it": "mi serve denaro per il viaggio",
+    "ro": "am nevoie bani pentru această excursie",
+    "group": "6",
+    "id": 72
+  },
+  {
+    "es": "la sopa esta demasiado caliente ahora",
+    "en": "the soup is too hot now",
+    "de": "die Suppe ist jetzt zu heiß",
+    "it": "la zuppa è troppo calda ora",
+    "ro": "supa este prea fierbinte acum chiar",
+    "group": "6",
+    "id": 73
+  },
+  {
+    "es": "el leon es el rey selva",
+    "en": "the lion is the jungle king",
+    "de": "der Löwe ist König des Dschungels",
+    "it": "il leone è re della giungla",
+    "ro": "leul este regele acestei jungle mari",
+    "group": "6",
+    "id": 74
+  },
+  {
+    "es": "nosotros jugamos futbol en el campo",
+    "en": "we play football in the field",
+    "de": "wir spielen Fußball auf dem Feld",
+    "it": "noi giochiamo calcio in il campo",
+    "ro": "noi jucăm fotbal pe acest teren",
+    "group": "6",
+    "id": 75
+  },
+  {
+    "es": "el libro de historia es interesante",
+    "en": "the history book is very interesting",
+    "de": "das Geschichtsbuch ist sehr interessant heute",
+    "it": "il libro di storia è interessante",
+    "ro": "cartea de istorie este foarte interesantă",
+    "group": "6",
+    "id": 76
+  },
+  {
+    "es": "mi amigo vive cerca de aqui",
+    "en": "my friend lives near from here",
+    "de": "mein Freund wohnt nahe bei hier",
+    "it": "mio amico vive vicino da qui",
+    "ro": "prietenul meu locuiește aproape de aici",
+    "group": "6",
+    "id": 77
+  },
+  {
+    "es": "las llaves estan en mi bolsillo",
+    "en": "the keys are in my pocket",
+    "de": "die Schlüssel sind in meiner Tasche",
+    "it": "le chiavi sono in mia tasca",
+    "ro": "cheile sunt în buzunarul meu acum",
+    "group": "6",
+    "id": 78
+  },
+  {
+    "es": "ella siempre llega tarde al trabajo",
+    "en": "she always arrives late to work",
+    "de": "sie kommt immer spät zur Arbeit",
+    "it": "lei arriva sempre tardi al lavoro",
+    "ro": "ea întârzie mereu la serviciu astăzi",
+    "group": "6",
+    "id": 79
+  },
+  {
+    "es": "quiero comprar una bicicleta muy nueva",
+    "en": "want to buy a new bike",
+    "de": "möchte ein ganz neues Fahrrad kaufen",
+    "it": "voglio comprare una bici molto nuova",
+    "ro": "vreu să cumpăr o bicicletă nouă",
+    "group": "6",
+    "id": 80
+  },
+  {
+    "es": "el rio es profundo y peligroso",
+    "en": "the river is deep and dangerous",
+    "de": "der Fluss ist tief und gefährlich",
+    "it": "il fiume è profondo e pericoloso",
+    "ro": "râul este adânc și periculos acum",
+    "group": "6",
+    "id": 81
+  },
+  {
+    "es": "los ninos corren por el patio",
+    "en": "children are running through the yard",
+    "de": "Kinder laufen durch den Hof heute",
+    "it": "i bimbi corrono per il cortile",
+    "ro": "copiii aleargă prin curtea școlii noastre",
+    "group": "6",
+    "id": 82
+  },
+  {
+    "es": "el cafe sin azucar es amargo",
+    "en": "coffee without sugar is very bitter",
+    "de": "Kaffee ohne Zucker ist sehr bitter",
+    "it": "il caffè senza zucchero è amaro",
+    "ro": "cafeaua fără zahăr este amară rău",
+    "group": "6",
+    "id": 83
+  },
+  {
+    "es": "la montaña es muy alta aqui",
+    "en": "the mountain is very high here",
+    "de": "der Berg ist hier sehr hoch",
+    "it": "la montagna è molto alta qui",
+    "ro": "muntele este foarte înalt aici acum",
+    "group": "6",
+    "id": 84
+  },
+  {
+    "es": "mi tia vive en un pueblo",
+    "en": "my aunt lives in a village",
+    "de": "meine Tante lebt in einem Dorf",
+    "it": "mia zia vive in un villaggio",
+    "ro": "mătușa mea locuiește într-un sat mic",
+    "group": "6",
+    "id": 85
+  },
+  {
+    "es": "el sol sale por el este",
+    "en": "the sun rises in the east",
+    "de": "die Sonne geht im Osten auf",
+    "it": "il sole sorge da lo est",
+    "ro": "soarele răsare la răsărit în zori",
+    "group": "6",
+    "id": 86
+  },
+  {
+    "es": "tu tienes un coche muy rapido",
+    "en": "you have a very fast car",
+    "de": "du hast ein sehr schnelles Auto",
+    "it": "tu hai una auto molto veloce",
+    "ro": "tu ai o mașină foarte rapidă",
+    "group": "6",
+    "id": 87
+  },
+  {
+    "es": "la cena esta lista en mesa",
+    "en": "dinner is ready on the table",
+    "de": "das Abendessen ist am Tisch bereit",
+    "it": "la cena è pronta su tavolo",
+    "ro": "cina este gata pe masă acum",
+    "group": "6",
+    "id": 88
+  },
+  {
+    "es": "el perro ladra a los extraños",
+    "en": "the dog barks at the strangers",
+    "de": "der Hund bellt die Fremden an",
+    "it": "il cane abbaia a gli estranei",
+    "ro": "câinele latră la străinii de afară",
+    "group": "6",
+    "id": 89
+  },
+  {
+    "es": "ella estudia medicina en la universidad",
+    "en": "she studies medicine at the university",
+    "de": "sie studiert Medizin an der Universität",
+    "it": "lei studia medicina a la università",
+    "ro": "ea studiază medicina la universitate acum",
+    "group": "6",
+    "id": 90
+  },
+  {
+    "es": "nosotros compramos pan fresco cada dia",
+    "en": "we buy fresh bread every day",
+    "de": "wir kaufen jeden Tag frisches Brot",
+    "it": "noi compriamo pane fresco ogni giorno",
+    "ro": "noi cumpărăm pâine proaspătă în zi",
+    "group": "6",
+    "id": 91
+  },
+  {
+    "es": "el reloj de oro es caro",
+    "en": "the gold watch is very expensive",
+    "de": "die goldene Uhr ist sehr teuer",
+    "it": "lo orologio d'oro è molto caro",
+    "ro": "ceasul de aur este foarte scump",
+    "group": "6",
+    "id": 92
+  },
+  {
+    "es": "mi hermano pequeño juega al tenis",
+    "en": "my little brother plays the tennis",
+    "de": "mein kleiner Bruder spielt gerade Tennis",
+    "it": "mio fratello piccolo gioca a tennis",
+    "ro": "fratele meu mic joacă tenis acum",
+    "group": "6",
+    "id": 93
+  },
+  {
+    "es": "el papel es blanco y liso",
+    "en": "the paper is white and smooth",
+    "de": "das Papier ist weiß und glatt",
+    "it": "la carta è bianca e liscia",
+    "ro": "hârtia este albă și foarte fină",
+    "group": "6",
+    "id": 94
+  },
+  {
+    "es": "el fuego quema la madera seca",
+    "en": "fire burns up the dry wood",
+    "de": "Feuer verbrennt das ganz trockene Holz",
+    "it": "il fuoco brucia il legno secco",
+    "ro": "focul arde lemnul uscat din curte",
+    "group": "6",
+    "id": 95
+  },
+  {
+    "es": "el gato duerme sobre el sofa",
+    "en": "the cat sleeps on the sofa",
+    "de": "die Katze schläft auf dem Sofa",
+    "it": "il gatto dorme sopra il divano",
+    "ro": "pisica doarme pe această canapea moale",
+    "group": "6",
+    "id": 96
+  },
+  {
+    "es": "mañana sera un dia muy caluroso",
+    "en": "tomorrow will be a hot day",
+    "de": "morgen wird ein sehr heißer Tag",
+    "it": "domani sarà un giorno molto caldo",
+    "ro": "mâine va fi o zi călduroasă",
+    "group": "6",
+    "id": 97
+  },
+  {
+    "es": "ella tiene ojos verdes y grandes",
+    "en": "she has big and green eyes",
+    "de": "sie hat große und grüne Augen",
+    "it": "lei ha occhi verdi e grandi",
+    "ro": "ea are ochi verzi și mari",
+    "group": "6",
+    "id": 98
+  },
+  {
+    "es": "el libro esta en la biblioteca",
+    "en": "the book is in the library",
+    "de": "das Buch ist in der Bibliothek",
+    "it": "il libro è in la biblioteca",
+    "ro": "cartea este în această bibliotecă mare",
+    "group": "6",
+    "id": 99
+  },
+  {
+    "es": "el fin de semana voy cine",
+    "en": "the weekend i go to cinema",
+    "de": "am Wochenende gehe ich ins Kino",
+    "it": "il fine settimana vado al cinema",
+    "ro": "în weekend merg la cinema acum",
+    "group": "6",
+    "id": 100
+  },
+  {
+    "es": "el niño corre por el parque",
+    "en": "the boy runs through the park",
+    "de": "der Junge rennt durch den Park",
+    "it": "il bambino corre per il parco",
+    "ro": "băiatul aleargă prin acest parc mare",
+    "group": "6",
+    "id": 101
+  },
+  {
+    "es": "me gusta mucho comer chocolate negro",
+    "en": "i really like eating dark chocolate",
+    "de": "ich esse sehr gerne dunkle Schokolade",
+    "it": "mi piace molto mangiare cioccolato nero",
+    "ro": "îmi place mult să mănânc ciocolată",
+    "group": "6",
+    "id": 102
+  },
+  {
+    "es": "ella estudia musica en la escuela",
+    "en": "she studies music at the school",
+    "de": "sie studiert Musik in der Schule",
+    "it": "lei studia musica a la scuola",
+    "ro": "ea studiază muzica la această școală",
+    "group": "6",
+    "id": 103
+  },
+  {
+    "es": "mi perro es muy inteligente siempre",
+    "en": "my dog is very smart always",
+    "de": "mein Hund ist immer sehr intelligent",
+    "it": "il mio cane è sempre intelligente",
+    "ro": "câinele meu este mereu foarte inteligent",
+    "group": "6",
+    "id": 104
+  },
+  {
+    "es": "el sol calienta la arena blanca",
+    "en": "the sun warms the white sand",
+    "de": "die Sonne wärmt den weißen Sand",
+    "it": "il sole scalda la sabbia bianca",
+    "ro": "soarele încălzește nisipul alb de aici",
+    "group": "6",
+    "id": 105
+  },
+  {
+    "es": "nosotros queremos ir a la playa",
+    "en": "we want to go to beach",
+    "de": "wir wollen an den Strand gehen",
+    "it": "noi vogliamo andare a la spiaggia",
+    "ro": "noi vrem să mergem la plajă",
+    "group": "6",
+    "id": 106
+  },
+  {
+    "es": "el cafe esta muy frio ahora",
+    "en": "the coffee is very cold now",
+    "de": "der Kaffee ist jetzt sehr kalt",
+    "it": "il caffè è molto freddo ora",
+    "ro": "cafeaua este foarte rece acum chiar",
+    "group": "6",
+    "id": 107
+  },
+  {
+    "es": "mi madre lee un libro nuevo",
+    "en": "my mother reads a new book",
+    "de": "meine Mutter liest ein neues Buch",
+    "it": "mia madre legge un libro nuovo",
+    "ro": "mama mea citește o carte nouă",
+    "group": "6",
+    "id": 108
+  },
+  {
+    "es": "el coche azul es de pedro",
+    "en": "the blue car belongs to pedro",
+    "de": "das blaue Auto gehört dem Pedro",
+    "it": "la auto blu è di pietro",
+    "ro": "mașina albastră este a lui petre",
+    "group": "6",
+    "id": 109
+  },
+  {
+    "es": "la luna brilla en la noche",
+    "en": "the moon shines in the night",
+    "de": "der Mond scheint in der Nacht",
+    "it": "la luna brilla in la notte",
+    "ro": "luna strălucește în timpul nopții senine",
+    "group": "6",
+    "id": 110
+  },
+  {
+    "es": "necesito comprar una camisa blanca hoy",
+    "en": "need to buy white shirt today",
+    "de": "muss heute ein weißes Hemd kaufen",
+    "it": "devo comprare una camicia bianca oggi",
+    "ro": "trebuie să cumpăr o cămașă albă",
+    "group": "6",
+    "id": 111
+  },
+  {
+    "es": "el viento mueve las hojas verdes",
+    "en": "the wind moves the green leaves",
+    "de": "der Wind bewegt die grünen Blätter",
+    "it": "il vento muove le foglie verdi",
+    "ro": "vântul mișcă frunzele verzi de afară",
+    "group": "6",
+    "id": 112
+  },
+  {
+    "es": "tus amigos son muy divertidos siempre",
+    "en": "your friends are very funny always",
+    "de": "deine Freunde sind immer sehr lustig",
+    "it": "i tuoi amici sono molto divertenti",
+    "ro": "prietenii tăi sunt mereu foarte amuzanți",
+    "group": "6",
+    "id": 113
+  },
+  {
+    "es": "el agua del rio esta limpia",
+    "en": "the river water is very clean",
+    "de": "das Wasser vom Fluss ist sauber",
+    "it": "acqua del fiume è molto pulita",
+    "ro": "apa râului este foarte curată acum",
+    "group": "6",
+    "id": 114
+  },
+  {
+    "es": "quiero viajar por todo el mundo",
+    "en": "i want travel all around world",
+    "de": "ich will um die Welt reisen",
+    "it": "voglio viaggiare per tutto il mondo",
+    "ro": "vreu să călătoresc în toată lumea",
+    "group": "6",
+    "id": 115
+  },
+  {
+    "es": "la casa tiene ventanas muy grandes",
+    "en": "the house has very big windows",
+    "de": "das Haus hat sehr große Fenster",
+    "it": "la casa ha finestre molto grandi",
+    "ro": "casa are ferestre foarte mari acum",
+    "group": "6",
+    "id": 116
+  },
+  {
+    "es": "el invierno es largo este año",
+    "en": "the winter is long this year",
+    "de": "der Winter ist dieses Jahr lang",
+    "it": "lo inverno è lungo questo anno",
+    "ro": "iarna este lungă în acest an",
+    "group": "6",
+    "id": 117
+  },
+  {
+    "es": "mi abuela cocina pasteles muy ricos",
+    "en": "my grandmother bakes very tasty cakes",
+    "de": "meine Oma backt sehr leckere Kuchen",
+    "it": "mia nonna cucina torte molto buone",
+    "ro": "bunica mea coace prăjituri foarte bune",
+    "group": "6",
+    "id": 118
+  },
+  {
+    "es": "el tren sale a las ocho",
+    "en": "the train leaves at eight oclock",
+    "de": "der Zug fährt um acht Uhr",
+    "it": "il treno parte a le otto",
+    "ro": "trenul pleacă la ora opt fix",
+    "group": "6",
+    "id": 119
+  },
+  {
+    "es": "hoy hace un tiempo muy bueno",
+    "en": "today is very good weather now",
+    "de": "heute ist ein sehr gutes Wetter",
+    "it": "oggi fa un tempo molto bello",
+    "ro": "astăzi este o vreme foarte bună",
+    "group": "6",
+    "id": 120
+  },
+  {
+    "es": "el gato pequeño caza un raton",
+    "en": "the little cat catches a mouse",
+    "de": "die kleine Katze fängt eine Maus",
+    "it": "il gatto piccolo prende un topo",
+    "ro": "pisica mică prinde un șoarece acum",
+    "group": "6",
+    "id": 121
+  },
+  {
+    "es": "tu hermana canta una cancion dulce",
+    "en": "your sister sings a sweet song",
+    "de": "deine Schwester singt ein süßes Lied",
+    "it": "tua sorella canta una canzone dolce",
+    "ro": "sora ta cântă un cântec dulce",
+    "group": "6",
+    "id": 122
+  },
+  {
+    "es": "el profesor escribe en la pizarra",
+    "en": "the teacher writes on the board",
+    "de": "der Lehrer schreibt an die Tafel",
+    "it": "il professore scrive su la lavagna",
+    "ro": "profesorul scrie pe tabla din clasă",
+    "group": "6",
+    "id": 123
+  },
+  {
+    "es": "nosotros comemos pizza en el restaurante",
+    "en": "we eat pizza at the restaurant",
+    "de": "wir essen Pizza in dem Restaurant",
+    "it": "noi mangiamo pizza in il ristorante",
+    "ro": "noi mâncăm pizza la acel restaurant",
+    "group": "6",
+    "id": 124
+  },
+  {
+    "es": "el pajaro vuela hacia el nido",
+    "en": "the bird flies to the nest",
+    "de": "der Vogel fliegt zu dem Nest",
+    "it": "lo uccello vola verso il nido",
+    "ro": "pasărea zboară spre cuibul ei mic",
+    "group": "6",
+    "id": 125
+  },
+  {
+    "es": "el reloj es un regalo antiguo",
+    "en": "the clock is an old gift",
+    "de": "die Uhr ist ein altes Geschenk",
+    "it": "lo orologio è un regalo vecchio",
+    "ro": "ceasul este un cadou vechi primit",
+    "group": "6",
+    "id": 126
+  },
+  {
+    "es": "el mar tiene un color verde",
+    "en": "the sea has a green color",
+    "de": "das Meer hat eine grüne Farbe",
+    "it": "il mare ha un colore verde",
+    "ro": "marea are o culoare verde acum",
+    "group": "6",
+    "id": 127
+  },
+  {
+    "es": "mi padre lee el periodico hoy",
+    "en": "my father reads the newspaper today",
+    "de": "mein Vater liest heute die Zeitung",
+    "it": "mio padre legge il giornale oggi",
+    "ro": "tatăl meu citește ziarul de astăzi",
+    "group": "6",
+    "id": 128
+  },
+  {
+    "es": "esta flor roja huele muy bien",
+    "en": "this red flower smells very good",
+    "de": "diese rote Blume riecht sehr gut",
+    "it": "questo fiore rosso odora molto bene",
+    "ro": "această floare roșie miroase foarte bine",
+    "group": "6",
+    "id": 129
+  },
+  {
+    "es": "el fuego arde en la chimenea",
+    "en": "the fire burns in the fireplace",
+    "de": "das Feuer brennt in dem Kamin",
+    "it": "il fuoco brucia in il camino",
+    "ro": "focul arde în șemineul din casă",
+    "group": "6",
+    "id": 130
+  },
+  {
+    "es": "ella lleva una falda muy corta",
+    "en": "she wears a very short skirt",
+    "de": "sie trägt einen sehr kurzen Rock",
+    "it": "lei porta una gonna molto corta",
+    "ro": "ea poartă o fustă foarte scurtă",
+    "group": "6",
+    "id": 131
+  },
+  {
+    "es": "nosotros bebemos te con mucha miel",
+    "en": "we drink tea with much honey",
+    "de": "wir trinken Tee mit viel Honig",
+    "it": "noi beviamo tè con molto miele",
+    "ro": "noi bem ceai cu multă miere",
+    "group": "6",
+    "id": 132
+  },
+  {
+    "es": "el perro duerme en la alfombra",
+    "en": "the dog sleeps on the carpet",
+    "de": "der Hund schläft auf dem Teppich",
+    "it": "il cane dorme su il tappeto",
+    "ro": "câinele doarme pe covorul din cameră",
+    "group": "6",
+    "id": 133
+  },
+  {
+    "es": "el cielo esta gris y triste",
+    "en": "the sky is gray and sad",
+    "de": "der Himmel ist grau und traurig",
+    "it": "il cielo è grigio e triste",
+    "ro": "cerul este gri și foarte trist",
+    "group": "6",
+    "id": 134
+  },
+  {
+    "es": "necesito una maleta para el viaje",
+    "en": "need a suitcase for the trip",
+    "de": "brauche einen Koffer für die Reise",
+    "it": "serve una valigia per il viaggio",
+    "ro": "am nevoie valiză pentru această excursie",
+    "group": "6",
+    "id": 135
+  },
+  {
+    "es": "mi hermano juega con el ordenador",
+    "en": "my brother plays with the computer",
+    "de": "mein Bruder spielt mit dem Computer",
+    "it": "mio fratello gioca con il computer",
+    "ro": "fratele meu se joacă pe calculator",
+    "group": "6",
+    "id": 136
+  },
+  {
+    "es": "el panadero vende pan muy caliente",
+    "en": "the baker sells very hot bread",
+    "de": "der Bäcker verkauft sehr heißes Brot",
+    "it": "il fornaio vende pane molto caldo",
+    "ro": "brutarul vinde pâine foarte caldă acum",
+    "group": "6",
+    "id": 137
+  },
+  {
+    "es": "las nubes tapan el sol hoy",
+    "en": "the clouds cover the sun today",
+    "de": "die Wolken verdecken heute die Sonne",
+    "it": "le nuvole coprono il sole oggi",
+    "ro": "norii acoperă soarele în această zi",
+    "group": "6",
+    "id": 138
+  },
+  {
+    "es": "ella camina por la orilla mar",
+    "en": "she walks by the sea shore",
+    "de": "sie geht am Ufer des Meeres",
+    "it": "lei cammina per la riva mare",
+    "ro": "ea merge pe malul mării acum",
+    "group": "6",
+    "id": 139
+  },
+  {
+    "es": "el gato negro tiene ojos amarillos",
+    "en": "the black cat has yellow eyes",
+    "de": "die schwarze Katze hat gelbe Augen",
+    "it": "il gatto nero ha occhi gialli",
+    "ro": "pisica neagră are ochi galbeni mari",
+    "group": "6",
+    "id": 140
+  },
+  {
+    "es": "el equipo entrena en el estadio",
+    "en": "the team trains at the stadium",
+    "de": "das Team trainiert in dem Stadion",
+    "it": "la squadra si allena allo stadio",
+    "ro": "echipa se antrenează pe acest stadion",
+    "group": "6",
+    "id": 141
+  },
+  {
+    "es": "este camino lleva a la montaña",
+    "en": "this path leads to the mountain",
+    "de": "dieser Weg führt zu dem Berg",
+    "it": "questo sentiero porta a la montagna",
+    "ro": "acest drum duce la munte acum",
+    "group": "6",
+    "id": 142
+  },
+  {
+    "es": "mi tia compra una casa pequeña",
+    "en": "my aunt buys a small house",
+    "de": "meine Tante kauft ein kleines Haus",
+    "it": "mia zia compra una casa piccola",
+    "ro": "mătușa mea cumpără o casă mică",
+    "group": "6",
+    "id": 143
+  },
+  {
+    "es": "el musico toca una flauta dulce",
+    "en": "the musician plays a sweet flute",
+    "de": "der Musiker spielt eine süße Flöte",
+    "it": "il musicista suona un flauto dolce",
+    "ro": "muzicianul cântă la un flaut dulce",
+    "group": "6",
+    "id": 144
+  },
+  {
+    "es": "ellos viven en un piso alto",
+    "en": "they live in a high floor",
+    "de": "sie wohnen in einem hohen Stockwerk",
+    "it": "loro vivono in un piano alto",
+    "ro": "ei locuiesc la un etaj înalt",
+    "group": "6",
+    "id": 145
+  },
+  {
+    "es": "la lluvia cae sobre el tejado",
+    "en": "the rain falls on the roof",
+    "de": "der Regen fällt auf das Dach",
+    "it": "la pioggia cade su il tetto",
+    "ro": "ploaia cade pe acoperișul casei mele",
+    "group": "6",
+    "id": 146
+  },
+  {
+    "es": "esta fruta es muy dulce aqui",
+    "en": "this fruit is very sweet here",
+    "de": "diese Frucht ist hier sehr süß",
+    "it": "questo frutto è molto dolce qui",
+    "ro": "acest fruct este foarte dulce aici",
+    "group": "6",
+    "id": 147
+  },
+  {
+    "es": "el leon corre por la sabana",
+    "en": "the lion runs through the savanna",
+    "de": "der Löwe rennt durch die Savanne",
+    "it": "il leone corre per la savana",
+    "ro": "leul aleargă prin savana cea mare",
+    "group": "6",
+    "id": 148
+  },
+  {
+    "es": "necesitamos mas sillas para la fiesta",
+    "en": "we need more chairs for party",
+    "de": "wir brauchen mehr Stühle für Feier",
+    "it": "servono più sedie per la festa",
+    "ro": "avem nevoie scaune pentru această petrecere",
+    "group": "6",
+    "id": 149
+  },
+  {
+    "es": "el espejo esta en el baño",
+    "en": "the mirror is in the bathroom",
+    "de": "der Spiegel ist in dem Badezimmer",
+    "it": "lo specchio è in il bagno",
+    "ro": "oglinda este în baia de sus",
+    "group": "6",
+    "id": 150
+  },
+  {
+    "es": "mi tio tiene un perro viejo",
+    "en": "my uncle has an old dog",
+    "de": "mein Onkel hat einen alten Hund",
+    "it": "mio zio ha un cane vecchio",
+    "ro": "unchiul meu are un câine bătrân",
+    "group": "6",
+    "id": 151
+  },
+  {
+    "es": "la sopa tiene un sabor salado",
+    "en": "the soup has a salty taste",
+    "de": "die Suppe hat einen salzigen Geschmack",
+    "it": "la zuppa ha un sapore salato",
+    "ro": "supa are un gust foarte sărat",
+    "group": "6",
+    "id": 152
+  },
+  {
+    "es": "nosotros subimos a la montaña alta",
+    "en": "we climb up the high mountain",
+    "de": "wir steigen auf den hohen Berg",
+    "it": "noi saliamo su la montagna alta",
+    "ro": "noi urcăm pe muntele cel înalt",
+    "group": "6",
+    "id": 153
+  },
+  {
+    "es": "el medico cura a los enfermos",
+    "en": "the doctor heals the sick people",
+    "de": "der Arzt heilt die kranken Leute",
+    "it": "il medico cura i malati qui",
+    "ro": "medicul îi vindecă pe oamenii bolnavi",
+    "group": "6",
+    "id": 154
+  },
+  {
+    "es": "este libro tiene muchas paginas blancas",
+    "en": "this book has many white pages",
+    "de": "dieses Buch hat viele weiße Seiten",
+    "it": "questo libro ha molte pagine bianche",
+    "ro": "această carte are multe pagini albe",
+    "group": "6",
+    "id": 155
+  },
+  {
+    "es": "el niño llora por su juguete",
+    "en": "the boy cries for his toy",
+    "de": "der Junge weint um sein Spielzeug",
+    "it": "il bimbo piange per suo giocattolo",
+    "ro": "copilul plânge după jucăria sa mică",
+    "group": "6",
+    "id": 156
+  },
+  {
+    "es": "ella toma un te con limon",
+    "en": "she takes a tea with lemon",
+    "de": "sie trinkt einen Tee mit Zitrone",
+    "it": "lei prende un tè con limone",
+    "ro": "ea bea un ceai cu lămâie",
+    "group": "6",
+    "id": 157
+  },
+  {
+    "es": "el invierno es una epoca fria",
+    "en": "winter is a very cold time",
+    "de": "der Winter ist eine kalte Zeit",
+    "it": "lo inverno è un tempo freddo",
+    "ro": "iarna este o perioadă foarte rece",
+    "group": "6",
+    "id": 158
+  },
+  {
+    "es": "mi abuelo camina con un baston",
+    "en": "my grandfather walks with a stick",
+    "de": "mein Großvater geht mit einem Stock",
+    "it": "mio nonno cammina con un bastone",
+    "ro": "bunicul meu merge cu un baston",
+    "group": "6",
+    "id": 159
+  },
+  {
+    "es": "el pajaro construye su nido ahora",
+    "en": "the bird builds its nest now",
+    "de": "der Vogel baut jetzt sein Nest",
+    "it": "lo uccello costruisce suo nido ora",
+    "ro": "pasărea își construiește cuibul său acum",
+    "group": "6",
+    "id": 160
+  },
+  {
+    "es": "esta mesa es de madera oscura",
+    "en": "this table is of dark wood",
+    "de": "dieser Tisch ist aus dunklem Holz",
+    "it": "questo tavolo è di legno scuro",
+    "ro": "această masă este din lemn închis",
+    "group": "6",
+    "id": 161
+  },
+  {
+    "es": "la puerta de hierro es pesada",
+    "en": "the iron door is very heavy",
+    "de": "die Tür aus Eisen ist schwer",
+    "it": "la porta di ferro è pesante",
+    "ro": "ușa de fier este foarte grea",
+    "group": "6",
+    "id": 162
+  },
+  {
+    "es": "nosotros buscamos un tesoro muy viejo",
+    "en": "we look for very old treasure",
+    "de": "wir suchen einen sehr alten Schatz",
+    "it": "noi cerchiamo un tesoro molto vecchio",
+    "ro": "noi căutăm o comoară foarte veche",
+    "group": "6",
+    "id": 163
+  },
+  {
+    "es": "el verano es mi estacion favorita",
+    "en": "summer is my favorite season now",
+    "de": "Sommer ist meine liebste Jahreszeit jetzt",
+    "it": "estate è la mia stagione preferita",
+    "ro": "vara este anotimpul meu preferat acum",
+    "group": "6",
+    "id": 164
+  },
+  {
+    "es": "ella siempre come una ensalada verde",
+    "en": "she always eats a green salad",
+    "de": "sie isst immer einen grünen Salat",
+    "it": "lei mangia sempre una insalata verde",
+    "ro": "ea mănâncă mereu o salată verde",
+    "group": "6",
+    "id": 165
+  },
+  {
+    "es": "el rio pasa por el bosque",
+    "en": "the river goes through the forest",
+    "de": "der Fluss fließt durch den Wald",
+    "it": "il fiume passa per il bosco",
+    "ro": "râul trece prin pădurea cea mare",
+    "group": "6",
+    "id": 166
+  },
+  {
+    "es": "mi madre tiene flores en jardin",
+    "en": "my mother has flowers in garden",
+    "de": "meine Mutter hat Blumen im Garten",
+    "it": "mia madre ha fiori in giardino",
+    "ro": "mama mea are flori în grădină",
+    "group": "6",
+    "id": 167
+  },
+  {
+    "es": "el pan esta muy rico hoy",
+    "en": "the bread is very tasty today",
+    "de": "das Brot ist heute sehr lecker",
+    "it": "il pane è molto buono oggi",
+    "ro": "pâinea este foarte bună astăzi acum",
+    "group": "6",
+    "id": 168
+  },
+  {
+    "es": "el coche corre por la autopista",
+    "en": "the car runs on the highway",
+    "de": "das Auto fährt auf der Autobahn",
+    "it": "la auto corre su la autostrada",
+    "ro": "mașina rulează pe această autostradă mare",
+    "group": "6",
+    "id": 169
+  },
+  {
+    "es": "esta noche vamos a ver estrellas",
+    "en": "tonight we will go see stars",
+    "de": "heute Nacht werden wir Sterne sehen",
+    "it": "stasera noi andiamo vedere le stelle",
+    "ro": "diseară vom merge să vedem stelele",
+    "group": "6",
+    "id": 170
+  },
+  {
+    "es": "el perro pequeño salta la valla",
+    "en": "the little dog jumps the fence",
+    "de": "der kleine Hund springt über Zaun",
+    "it": "il cane piccolo salta la staccionata",
+    "ro": "câinele mic sare peste acest gard",
+    "group": "6",
+    "id": 171
+  },
+  {
+    "es": "tu tienes que decir la verdad",
+    "en": "you have to tell the truth",
+    "de": "du musst jetzt die Wahrheit sagen",
+    "it": "tu devi dire la verità ora",
+    "ro": "tu trebuie să spui tot adevărul",
+    "group": "6",
+    "id": 172
+  },
+  {
+    "es": "ella escribe poemas sobre el amor",
+    "en": "she writes poems about the love",
+    "de": "sie schreibt Gedichte über die Liebe",
+    "it": "lei scrive poesie su lo amore",
+    "ro": "ea scrie poezii despre iubirea mare",
+    "group": "6",
+    "id": 173
+  },
+  {
+    "es": "el mar esta en calma hoy",
+    "en": "the sea is calm today now",
+    "de": "das Meer ist heute ganz ruhig",
+    "it": "il mare è in calma oggi",
+    "ro": "marea este liniștită în ziua de azi",
+    "group": "6",
+    "id": 174
+  },
+  {
+    "es": "mis zapatos son de color negro",
+    "en": "my shoes are of black color",
+    "de": "meine Schuhe sind von schwarzer Farbe",
+    "it": "miei scarpe sono di colore nero",
+    "ro": "pantofii mei sunt de culoare neagră",
+    "group": "6",
+    "id": 175
+  },
+  {
+    "es": "el gato duerme bajo la cama",
+    "en": "the cat sleeps under the bed",
+    "de": "die Katze schläft unter dem Bett",
+    "it": "il gatto dorme sotto il letto",
+    "ro": "pisica doarme sub patul din cameră",
+    "group": "6",
+    "id": 176
+  },
+  {
+    "es": "el pastel de chocolate es delicioso",
+    "en": "the chocolate cake is very delicious",
+    "de": "der Schokoladenkuchen ist sehr lecker heute",
+    "it": "la torta al cioccolato è deliziosa",
+    "ro": "tortul de ciocolată este delicios acum",
+    "group": "6",
+    "id": 177
+  },
+  {
+    "es": "nosotros leemos un cuento para niños",
+    "en": "we read a story for children",
+    "de": "wir lesen eine Geschichte für Kinder",
+    "it": "noi leggiamo una fiaba per bimbi",
+    "ro": "noi citim o poveste pentru copii",
+    "group": "6",
+    "id": 178
+  },
+  {
+    "es": "esta ventana da al patio interior",
+    "en": "this window looks into inner courtyard",
+    "de": "dieses Fenster führt zum inneren Hof",
+    "it": "questa finestra dà su cortile interno",
+    "ro": "această fereastră dă spre curtea interioară",
+    "group": "6",
+    "id": 179
+  },
+  {
+    "es": "el sol desaparece tras la montaña",
+    "en": "the sun disappears behind the mountain",
+    "de": "Sonne verschwindet hinter dem Berg heute",
+    "it": "il sole scompare dietro la montagna",
+    "ro": "soarele dispare după muntele cel mare",
+    "group": "6",
+    "id": 180
+  },
+  {
+    "es": "mi hermano pequeño tiene mucha hambre",
+    "en": "my little brother is very hungry",
+    "de": "mein kleiner Bruder hat großen Hunger",
+    "it": "mio fratello piccolo ha molta fame",
+    "ro": "fratelui meu mic îi este foame",
+    "group": "6",
+    "id": 181
+  },
+  {
+    "es": "el camino de arena es blanco",
+    "en": "the sand path is very white",
+    "de": "der Weg aus Sand ist weiß",
+    "it": "il sentiero di sabbia è bianco",
+    "ro": "drumul de nisip este foarte alb",
+    "group": "6",
+    "id": 182
+  },
+  {
+    "es": "ella compra una revista de moda",
+    "en": "she buys a fashion magazine now",
+    "de": "sie kauft jetzt eine Modezeitschrift ein",
+    "it": "lei compra una rivista di moda",
+    "ro": "ea cumpără o revistă de modă",
+    "group": "6",
+    "id": 183
+  },
+  {
+    "es": "el pino es un arbol alto",
+    "en": "the pine is a tall tree",
+    "de": "die Kiefer ist ein hoher Baum",
+    "it": "il pino è un albero alto",
+    "ro": "pinul este un arbore foarte înalt",
+    "group": "6",
+    "id": 184
+  },
+  {
+    "es": "nosotros comemos manzanas en el jardin",
+    "en": "we eat apples in the garden",
+    "de": "wir essen Äpfel in dem Garten",
+    "it": "noi mangiamo mele in il giardino",
+    "ro": "noi mâncăm mere în grădina noastră",
+    "group": "6",
+    "id": 185
+  },
+  {
+    "es": "el lobo corre por el bosque",
+    "en": "the wolf runs through the forest",
+    "de": "der Wolf rennt durch den Wald",
+    "it": "il lupo corre per il bosco",
+    "ro": "lupul aleargă prin pădurea cea deasă",
+    "group": "6",
+    "id": 186
+  },
+  {
+    "es": "la leche esta en la nevera",
+    "en": "the milk is in the fridge",
+    "de": "die Milch ist in dem Kühlschrank",
+    "it": "il latte è in il frigorifero",
+    "ro": "laptele este în frigiderul din bucătărie",
+    "group": "6",
+    "id": 187
+  },
+  {
+    "es": "mi abuela tiene un gato gris",
+    "en": "my grandmother has a gray cat",
+    "de": "meine Großmutter hat eine graue Katze",
+    "it": "mia nonna ha un gatto grigio",
+    "ro": "bunica mea are o pisică gri",
+    "group": "6",
+    "id": 188
+  },
+  {
+    "es": "el tren de carga es largo",
+    "en": "the freight train is very long",
+    "de": "der Güterzug ist heute sehr lang",
+    "it": "il treno merci è molto lungo",
+    "ro": "trenul de marfă este foarte lung",
+    "group": "6",
+    "id": 189
+  },
+  {
+    "es": "la sopa de verduras es buena",
+    "en": "the vegetable soup is very good",
+    "de": "die Gemüsesuppe ist heute sehr gut",
+    "it": "la zuppa di verdure è buona",
+    "ro": "supa de legume este foarte bună",
+    "group": "6",
+    "id": 190
+  },
+  {
+    "es": "ellos beben vino tinto en cena",
+    "en": "they drink red wine at dinner",
+    "de": "sie trinken Rotwein bei dem Essen",
+    "it": "loro bevono vino rosso a cena",
+    "ro": "ei beau vin roșu la cină",
+    "group": "6",
+    "id": 191
+  },
+  {
+    "es": "la silla de madera es comoda",
+    "en": "the wooden chair is very comfortable",
+    "de": "der Holzstuhl ist heute sehr bequem",
+    "it": "la sedia legno è molto comoda",
+    "ro": "scaunul de lemn este foarte comod",
+    "group": "6",
+    "id": 192
+  },
+  {
+    "es": "el cielo tiene un color gris",
+    "en": "the sky has a gray color",
+    "de": "der Himmel hat eine graue Farbe",
+    "it": "il cielo ha un colore grigio",
+    "ro": "cerul are o culoare gri acum",
+    "group": "6",
+    "id": 193
+  },
+  {
+    "es": "mi tia cocina un arroz rico",
+    "en": "my aunt cooks a tasty rice",
+    "de": "meine Tante kocht einen leckeren Reis",
+    "it": "mia zia cucina un riso buono",
+    "ro": "mătușa mea gătește un orez bun",
+    "group": "6",
+    "id": 194
+  },
+  {
+    "es": "el libro rojo es de juan",
+    "en": "the red book belongs to juan",
+    "de": "das rote Buch gehört dem Juan",
+    "it": "il libro rosso è di juan",
+    "ro": "cartea roșie este a lui ion",
+    "group": "6",
+    "id": 195
+  },
+  {
+    "es": "el agua de mar es salada",
+    "en": "the sea water is very salty",
+    "de": "das Meerwasser ist heute sehr salzig",
+    "it": "acqua di mare è molto salata",
+    "ro": "apa de mare este foarte sărată",
+    "group": "6",
+    "id": 196
+  },
+  {
+    "es": "tu perro es un animal fiel",
+    "en": "your dog is a faithful animal",
+    "de": "dein Hund ist ein treues Tier",
+    "it": "tuo cane è un animale fedele",
+    "ro": "câinele tău este un animal loial",
+    "group": "6",
+    "id": 197
+  },
+  {
+    "es": "la luz de luna es blanca",
+    "en": "the moonlight is very white now",
+    "de": "das Mondlicht ist heute sehr weiß",
+    "it": "la luce della luna è bianca",
+    "ro": "lumina lunii este albă și rece",
+    "group": "6",
+    "id": 198
+  },
+  {
+    "es": "ella camina despacio por la calle",
+    "en": "she walks slowly through the street",
+    "de": "sie geht langsam durch die Straße",
+    "it": "lei cammina piano per la strada",
+    "ro": "ea merge încet pe această stradă",
+    "group": "6",
+    "id": 199
+  },
+  {
+    "es": "nosotros tenemos un coche muy viejo",
+    "en": "we have a very old car",
+    "de": "wir haben ein sehr altes Auto",
+    "it": "noi abbiamo una auto molto vecchia",
+    "ro": "noi avem o mașină foarte veche",
+    "group": "6",
+    "id": 200
+  },
+  {
+    "es": "el niño pequeño quiere un helado",
+    "en": "the little boy wants an icecream",
+    "de": "der kleine Junge will ein Eis",
+    "it": "il bimbo piccolo vuole un gelato",
+    "ro": "copilul mic dorește o înghețată bună",
+    "group": "6",
+    "id": 201
+  },
+  {
+    "es": "la nieve cubre todo el campo",
+    "en": "snow covers all the field now",
+    "de": "Schnee bedeckt jetzt das ganze Feld",
+    "it": "la neve copre tutto il campo",
+    "ro": "zăpada acoperă tot acest câmp mare",
+    "group": "6",
+    "id": 202
+  },
+  {
+    "es": "mi abuelo fuma una pipa vieja",
+    "en": "my grandfather smokes an old pipe",
+    "de": "mein Großvater raucht eine alte Pfeife",
+    "it": "mio nonno fuma una pipa vecchia",
+    "ro": "bunicul meu fumează o pipă veche",
+    "group": "6",
+    "id": 203
+  },
+  {
+    "es": "la mesa tiene cuatro patas fuertes",
+    "en": "the table has four strong legs",
+    "de": "der Tisch hat vier starke Beine",
+    "it": "il tavolo ha quattro gambe forti",
+    "ro": "masa are patru picioare foarte tari",
+    "group": "6",
+    "id": 204
+  },
+  {
+    "es": "ella compra flores en el mercado",
+    "en": "she buys flowers at the market",
+    "de": "sie kauft Blumen auf dem Markt",
+    "it": "lei compra fiori a il mercato",
+    "ro": "ea cumpără flori de la piață",
+    "group": "6",
+    "id": 205
+  },
+  {
+    "es": "el fuego quema los troncos secos",
+    "en": "fire burns up the dry logs",
+    "de": "Feuer verbrennt die ganz trockenen Stämme",
+    "it": "il fuoco brucia i tronchi secchi",
+    "ro": "focul arde acești bușteni foarte uscați",
+    "group": "6",
+    "id": 206
+  },
+  {
+    "es": "nosotros jugamos tenis en el club",
+    "en": "we play tennis at the club",
+    "de": "wir spielen Tennis in dem Club",
+    "it": "noi giochiamo tennis in il club",
+    "ro": "noi jucăm tenis la acest club",
+    "group": "6",
+    "id": 207
+  },
+  {
+    "es": "el pajaro canta en mi ventana",
+    "en": "the bird sings at my window",
+    "de": "der Vogel singt an meinem Fenster",
+    "it": "lo uccello canta a mia finestra",
+    "ro": "pasărea cântă la fereastra mea acum",
+    "group": "6",
+    "id": 208
+  },
+  {
+    "es": "mi madre hace una tarta rica",
+    "en": "my mother makes a tasty cake",
+    "de": "meine Mutter backt einen leckeren Kuchen",
+    "it": "mia madre fa una torta buona",
+    "ro": "mama mea face o prăjitură bună",
+    "group": "6",
+    "id": 209
+  },
+  {
+    "es": "el cafe caliente es muy bueno",
+    "en": "the hot coffee is very good",
+    "de": "der heiße Kaffee ist sehr gut",
+    "it": "il caffè caldo è molto buono",
+    "ro": "cafeaua fierbinte este foarte bună acum",
+    "group": "6",
+    "id": 210
+  },
+  {
+    "es": "la puerta azul esta muy vieja",
+    "en": "the blue door is very old",
+    "de": "die blaue Tür ist sehr alt",
+    "it": "la porta blu è molto vecchia",
+    "ro": "ușa albastră este deja foarte veche",
+    "group": "6",
+    "id": 211
+  },
+  {
+    "es": "tu amigo tiene un perro grande",
+    "en": "your friend has a big dog",
+    "de": "dein Freund hat einen großen Hund",
+    "it": "tuo amico ha un cane grande",
+    "ro": "prietenul tău are un câine mare",
+    "group": "6",
+    "id": 212
+  },
+  {
+    "es": "el rio es muy ancho aqui",
+    "en": "the river is very wide here",
+    "de": "der Fluss ist hier sehr breit",
+    "it": "il fiume è molto largo qui",
+    "ro": "râul este foarte lat aici acum",
+    "group": "6",
+    "id": 213
+  },
+  {
+    "es": "ella lleva un bolso de cuero",
+    "en": "she carries a leather bag now",
+    "de": "sie trägt eine Tasche aus Leder",
+    "it": "lei porta una borsa di cuoio",
+    "ro": "ea poartă o geantă din piele",
+    "group": "6",
+    "id": 214
+  },
+  {
+    "es": "el sol brilla en el mar",
+    "en": "the sun shines in the sea",
+    "de": "die Sonne scheint in das Meer",
+    "it": "il sole brilla in il mare",
+    "ro": "soarele strălucește în marea cea mare",
+    "group": "6",
+    "id": 215
+  },
+  {
+    "es": "nosotros vamos al cine este lunes",
+    "en": "we go to cinema this monday",
+    "de": "wir gehen diesen Montag ins Kino",
+    "it": "noi andiamo al cinema questo lunedì",
+    "ro": "noi mergem la cinema lunea aceasta",
+    "group": "6",
+    "id": 216
+  },
+  {
+    "es": "el gato blanco tiene una mancha",
+    "en": "the white cat has a spot",
+    "de": "die weiße Katze hat einen Fleck",
+    "it": "il gatto bianco ha una macchia",
+    "ro": "pisica albă are o pată mică",
+    "group": "6",
+    "id": 217
+  },
+  {
+    "es": "mi hermano es un buen doctor",
+    "en": "my brother is a good doctor",
+    "de": "mein Bruder ist ein guter Arzt",
+    "it": "mio fratello è un buon dottore",
+    "ro": "fratele meu este un medic bun",
+    "group": "6",
+    "id": 218
+  },
+  {
+    "es": "la montaña tiene mucha nieve blanca",
+    "en": "the mountain has much white snow",
+    "de": "der Berg hat viel weißen Schnee",
+    "it": "la montagna ha molta neve bianca",
+    "ro": "muntele are multă zăpadă albă acum",
+    "group": "6",
+    "id": 219
+  },
+  {
+    "es": "el reloj de pared es negro",
+    "en": "the wall clock is very black",
+    "de": "die Wanduhr ist heute sehr schwarz",
+    "it": "lo orologio da muro è nero",
+    "ro": "ceasul de perete este negru acum",
+    "group": "6",
+    "id": 220
+  },
+  {
+    "es": "ella baila en el salon grande",
+    "en": "she dances in the big hall",
+    "de": "sie tanzt in dem großen Saal",
+    "it": "lei balla in il salone grande",
+    "ro": "ea dansează în această sală mare",
+    "group": "6",
+    "id": 221
+  },
+  {
+    "es": "el pan es de trigo tierno",
+    "en": "the bread is of tender wheat",
+    "de": "das Brot ist aus zartem Weizen",
+    "it": "il pane è di grano tenero",
+    "ro": "pâinea este din grâu foarte moale",
+    "group": "6",
+    "id": 222
+  },
+  {
+    "es": "mis padres estan en la playa",
+    "en": "my parents are at the beach",
+    "de": "meine Eltern sind an dem Strand",
+    "it": "miei genitori sono a la spiaggia",
+    "ro": "părinții mei sunt pe plaja aceasta",
+    "group": "6",
+    "id": 223
+  },
+  {
+    "es": "el coche verde es muy lento",
+    "en": "the green car is very slow",
+    "de": "das grüne Auto ist sehr langsam",
+    "it": "la auto verde è molto lenta",
+    "ro": "mașina verde este foarte înceată acum",
+    "group": "6",
+    "id": 224
+  },
+  {
+    "es": "nosotros bebemos agua de la fuente",
+    "en": "we drink water from the fountain",
+    "de": "wir trinken Wasser aus dem Brunnen",
+    "it": "noi beviamo acqua da la fonte",
+    "ro": "noi bem apă de la fântână",
+    "group": "6",
+    "id": 225
+  },
+  {
+    "es": "la casa blanca es de luis",
+    "en": "the white house belongs to luis",
+    "de": "das weiße Haus gehört dem Luis",
+    "it": "la casa bianca è di luis",
+    "ro": "casa albă este a lui lăzărescu",
+    "group": "6",
+    "id": 226
+  },
+  {
+    "es": "el invierno trae frio y viento",
+    "en": "winter brings cold and wind now",
+    "de": "Winter bringt heute Kälte und Wind",
+    "it": "lo inverno porta freddo e vento",
+    "ro": "iarna aduce frig și vânt acum",
+    "group": "6",
+    "id": 227
+  },
+  {
+    "es": "mi hermana tiene una gata negra",
+    "en": "my sister has a black cat",
+    "de": "meine Schwester hat eine schwarze Katze",
+    "it": "mia sorella ha una gatta nera",
+    "ro": "sora mea are o pisică neagră",
+    "group": "6",
+    "id": 228
+  },
+  {
+    "es": "el sol se oculta muy pronto",
+    "en": "the sun hides very early today",
+    "de": "die Sonne geht heute früh unter",
+    "it": "il sole tramonta molto presto oggi",
+    "ro": "soarele apune foarte devreme în seară",
+    "group": "6",
+    "id": 229
+  },
+  {
+    "es": "la sopa de tomate esta fria",
+    "en": "the tomato soup is cold now",
+    "de": "die Tomatensuppe ist heute ganz kalt",
+    "it": "la zuppa di pomodoro è fredda",
+    "ro": "supa de roșii este rece acum",
+    "group": "6",
+    "id": 230
+  },
+  {
+    "es": "ellos viajan a italia este año",
+    "en": "they travel to italy this year",
+    "de": "sie reisen dieses Jahr nach Italien",
+    "it": "loro viaggiano in italia questo anno",
+    "ro": "ei călătoresc în italia anul acesta",
+    "group": "6",
+    "id": 231
+  },
+  {
+    "es": "el libro de poemas es viejo",
+    "en": "the book of poems is old",
+    "de": "das Buch mit Gedichten ist alt",
+    "it": "il libro di poesie è vecchio",
+    "ro": "cartea de poezii este foarte veche",
+    "group": "6",
+    "id": 232
+  },
+  {
+    "es": "mi tio trabaja en el campo",
+    "en": "my uncle works in the field",
+    "de": "mein Onkel arbeitet auf dem Feld",
+    "it": "mio zio lavora in il campo",
+    "ro": "unchiul meu lucrează la câmp acum",
+    "group": "6",
+    "id": 233
+  },
+  {
+    "es": "la leche de vaca es fresca",
+    "en": "the cow milk is very fresh",
+    "de": "die Kuhmilch ist heute sehr frisch",
+    "it": "il latte di mucca è fresco",
+    "ro": "laptele de vacă este proaspăt acum",
+    "group": "6",
+    "id": 234
+  },
+  {
+    "es": "el cielo azul tiene nubes blancas",
+    "en": "the blue sky has white clouds",
+    "de": "der blaue Himmel hat weiße Wolken",
+    "it": "il cielo blu ha nuvole bianche",
+    "ro": "cerul albastru are nori albi mulți",
+    "group": "6",
+    "id": 235
+  },
+  {
+    "es": "nosotros comemos pescado en la playa",
+    "en": "we eat fish at the beach",
+    "de": "wir essen Fisch an dem Strand",
+    "it": "noi mangiamo pesce a la spiaggia",
+    "ro": "noi mâncăm pește pe această plajă",
+    "group": "6",
+    "id": 236
+  },
+  {
+    "es": "el perro blanco ladra mucho hoy",
+    "en": "the white dog barks much today",
+    "de": "der weiße Hund bellt heute viel",
+    "it": "il cane bianco abbaia molto oggi",
+    "ro": "câinele alb latră mult astăzi acum",
+    "group": "6",
+    "id": 237
+  },
+  {
+    "es": "ella escribe una carta muy larga",
+    "en": "she writes a very long letter",
+    "de": "sie schreibt einen sehr langen Brief",
+    "it": "lei scrive una lettera molto lunga",
+    "ro": "ea scrie o scrisoare foarte lungă",
+    "group": "6",
+    "id": 238
+  },
+  {
+    "es": "el rio es cristalino y frio",
+    "en": "the river is crystalline and cold",
+    "de": "der Fluss ist kristallklar und kalt",
+    "it": "il fiume è cristallino e freddo",
+    "ro": "râul este cristalin și foarte rece",
+    "group": "6",
+    "id": 239
+  },
+  {
+    "es": "mi madre compra fruta muy fresca",
+    "en": "my mother buys very fresh fruit",
+    "de": "meine Mutter kauft sehr frisches Obst",
+    "it": "mia madre compra frutta molto fresca",
+    "ro": "mama mea cumpără fructe foarte proaspete",
+    "group": "6",
+    "id": 240
+  },
+  {
+    "es": "el gato salta por la ventana",
+    "en": "the cat jumps through the window",
+    "de": "die Katze springt durch das Fenster",
+    "it": "il gatto salta per la finestra",
+    "ro": "pisica sare prin fereastra de colo",
+    "group": "6",
+    "id": 241
+  },
+  {
+    "es": "esta noche hace mucho calor aqui",
+    "en": "tonight it is very hot here",
+    "de": "heute Nacht ist es hier heiß",
+    "it": "stasera fa molto caldo qui ora",
+    "ro": "diseară este foarte cald aici acum",
+    "group": "6",
+    "id": 242
+  },
+  {
+    "es": "el pan con queso es rico",
+    "en": "bread with cheese is very tasty",
+    "de": "Brot mit Käse ist sehr lecker",
+    "it": "il pane con formaggio è buono",
+    "ro": "pâinea cu brânză este foarte bună",
+    "group": "6",
+    "id": 243
+  },
+  {
+    "es": "nosotros tenemos un perro muy negro",
+    "en": "we have a very black dog",
+    "de": "wir haben einen sehr schwarzen Hund",
+    "it": "noi abbiamo un cane molto nero",
+    "ro": "noi avem un câine foarte negru",
+    "group": "6",
+    "id": 244
+  },
+  {
+    "es": "la casa de madera es calida",
+    "en": "the wooden house is very warm",
+    "de": "das Holzhaus ist heute sehr warm",
+    "it": "la casa di legno è calda",
+    "ro": "casa de lemn este foarte călduroasă",
+    "group": "6",
+    "id": 245
+  },
+  {
+    "es": "el avion llega a las cinco",
+    "en": "the plane arrives at five oclock",
+    "de": "das Flugzeug kommt um fünf Uhr",
+    "it": "lo aereo arriva a le cinque",
+    "ro": "avionul ajunge la ora cinci fix",
+    "group": "6",
+    "id": 246
+  },
+  {
+    "es": "tu hermana tiene un gato blanco",
+    "en": "your sister has a white cat",
+    "de": "deine Schwester hat eine weiße Katze",
+    "it": "tua sorella ha un gatto bianco",
+    "ro": "sora ta are o pisică albă",
+    "group": "6",
+    "id": 247
+  },
+  {
+    "es": "el sol calienta el agua hoy",
+    "en": "the sun warms the water today",
+    "de": "die Sonne wärmt heute das Wasser",
+    "it": "il sole scalda acqua oggi ora",
+    "ro": "soarele încălzește apa în această zi",
+    "group": "6",
+    "id": 248
+  },
+  {
+    "es": "mi tio vive en la ciudad",
+    "en": "my uncle lives in the city",
+    "de": "mein Onkel lebt in der Stadt",
+    "it": "mio zio vive in la città",
+    "ro": "unchiul meu locuiește în orașul acesta",
+    "group": "6",
+    "id": 249
+  },
+  {
+    "es": "la sopa de ajo es buena",
+    "en": "the garlic soup is very good",
+    "de": "die Knoblauchsuppe ist heute sehr gut",
+    "it": "la zuppa di aglio è buona",
+    "ro": "supa de usturoi este foarte bună",
+    "group": "6",
+    "id": 250
+  },
+  {
+    "es": "ellos beben mucha agua cada dia",
+    "en": "they drink much water every day",
+    "de": "sie trinken jeden Tag viel Wasser",
+    "it": "loro bevono molta acqua ogni giorno",
+    "ro": "ei beau multă apă în zi",
+    "group": "6",
+    "id": 251
+  },
+  {
+    "es": "la mesa de marmol es fria",
+    "en": "the marble table is very cold",
+    "de": "der Marmortisch ist heute sehr kalt",
+    "it": "il tavolo di marmo è freddo",
+    "ro": "masa de marmură este foarte rece",
+    "group": "6",
+    "id": 252
+  },
+  {
+    "es": "el cielo esta despejado y azul",
+    "en": "the sky is clear and blue",
+    "de": "der Himmel ist wolkenlos und blau",
+    "it": "il cielo è sereno e blu",
+    "ro": "cerul este senin și albastru acum",
+    "group": "6",
+    "id": 253
+  },
+  {
+    "es": "mi tia compra un sombrero nuevo",
+    "en": "my aunt buys a new hat",
+    "de": "meine Tante kauft einen neuen Hut",
+    "it": "mia zia compra un cappello nuovo",
+    "ro": "mătușa mea cumpără o pălărie nouă",
+    "group": "6",
+    "id": 254
+  },
+  {
+    "es": "el libro de cocina es util",
+    "en": "the cookbook is very useful now",
+    "de": "das Kochbuch ist heute sehr nützlich",
+    "it": "il libro di cucina è utile",
+    "ro": "cartea de bucate este foarte utilă",
+    "group": "6",
+    "id": 255
+  },
+  {
+    "es": "el agua del pozo es fresca",
+    "en": "the well water is very fresh",
+    "de": "das Brunnenwasser ist heute sehr frisch",
+    "it": "acqua del pozzo è molto fresca",
+    "ro": "apa din fântână este proaspătă acum",
+    "group": "6",
+    "id": 256
+  },
+  {
+    "es": "tu perro es un gran amigo",
+    "en": "your dog is a great friend",
+    "de": "dein Hund ist ein großer Freund",
+    "it": "tuo cane è un grande amico",
+    "ro": "câinele tău este un prieten mare",
+    "group": "6",
+    "id": 257
+  },
+  {
+    "es": "la luz del sol es amarilla",
+    "en": "the sunlight is very yellow now",
+    "de": "das Sonnenlicht ist heute sehr gelb",
+    "it": "la luce del sole è gialla",
+    "ro": "lumina soarelui este galbenă și caldă",
+    "group": "6",
+    "id": 258
+  },
+  {
+    "es": "ella camina por el bosque verde",
+    "en": "she walks through the green forest",
+    "de": "sie geht durch den grünen Wald",
+    "it": "lei cammina per il bosco verde",
+    "ro": "ea merge prin pădurea cea verde",
+    "group": "6",
+    "id": 259
+  },
+  {
+    "es": "nosotros tenemos un gato muy gordo",
+    "en": "we have a very fat cat",
+    "de": "wir haben eine sehr fette Katze",
+    "it": "noi abbiamo un gatto molto grasso",
+    "ro": "noi avem o pisică foarte grasă",
+    "group": "6",
+    "id": 260
+  },
+  {
+    "es": "el niño pequeño tiene un balon",
+    "en": "the little boy has a ball",
+    "de": "der kleine Junge hat einen Ball",
+    "it": "il bimbo piccolo ha un pallone",
+    "ro": "copilul cel mic are o minge",
+    "group": "6",
+    "id": 261
+  },
+  {
+    "es": "la nieve es blanca y suave",
+    "en": "the snow is white and soft",
+    "de": "der Schnee ist weiß und weich",
+    "it": "la neve è bianca e soffice",
+    "ro": "zăpada este albă și foarte moale",
+    "group": "6",
+    "id": 262
+  },
+  {
+    "es": "mi abuelo tiene una casa vieja",
+    "en": "my grandfather has an old house",
+    "de": "mein Großvater hat ein altes Haus",
+    "it": "mio nonno ha una casa vecchia",
+    "ro": "bunicul meu are o casă veche",
+    "group": "6",
+    "id": 263
+  },
+  {
+    "es": "la mesa esta llena de comida",
+    "en": "the table is full of food",
+    "de": "der Tisch ist voll mit Essen",
+    "it": "il tavolo è pieno di cibo",
+    "ro": "masa este plină de mâncare acum",
+    "group": "6",
+    "id": 264
+  },
+  {
+    "es": "ella compra pan en la panaderia",
+    "en": "she buys bread at the bakery",
+    "de": "sie kauft Brot in der Bäckerei",
+    "it": "lei compra pane in la panetteria",
+    "ro": "ea cumpără pâine de la brutărie",
+    "group": "6",
+    "id": 265
+  },
+  {
+    "es": "el fuego calienta la casa ahora",
+    "en": "the fire warms the house now",
+    "de": "das Feuer wärmt jetzt das Haus",
+    "it": "il fuoco scalda la casa ora",
+    "ro": "focul încălzește casa în acest moment",
+    "group": "6",
+    "id": 266
+  },
+  {
+    "es": "nosotros jugamos al escondite en jardin",
+    "en": "we play hide and seek garden",
+    "de": "wir spielen Verstecken in dem Garten",
+    "it": "noi giochiamo a nascondino in giardino",
+    "ro": "noi ne jucăm de-a v-ați ascunselea",
+    "group": "6",
+    "id": 267
+  },
+  {
+    "es": "el pajaro tiene plumas de colores",
+    "en": "the bird has very colorful feathers",
+    "de": "der Vogel hat heute bunte Federn",
+    "it": "lo uccello ha piume di colori",
+    "ro": "pasărea are pene de multe culori",
+    "group": "6",
+    "id": 268
+  },
+  {
+    "es": "mi madre tiene un coche rojo",
+    "en": "my mother has a red car",
+    "de": "meine Mutter hat ein rotes Auto",
+    "it": "mia madre ha una auto rossa",
+    "ro": "mama mea are o mașină roșie",
+    "group": "6",
+    "id": 269
+  },
+  {
+    "es": "el cafe con azucar es dulce",
+    "en": "coffee with sugar is very sweet",
+    "de": "Kaffee mit Zucker ist sehr süß",
+    "it": "il caffè con zucchero è dolce",
+    "ro": "cafeaua cu zahăr este foarte dulce",
+    "group": "6",
+    "id": 270
+  },
+  {
+    "es": "la puerta de madera esta abierta",
+    "en": "the wooden door is open now",
+    "de": "die Tür aus Holz ist offen",
+    "it": "la porta di legno è aperta",
+    "ro": "ușa de lemn este acum deschisă",
+    "group": "6",
+    "id": 271
+  },
+  {
+    "es": "tu amigo es una persona amable",
+    "en": "your friend is a kind person",
+    "de": "dein Freund ist eine nette Person",
+    "it": "tuo amico è una persona gentile",
+    "ro": "prietenul tău este o persoană amabilă",
+    "group": "6",
+    "id": 272
+  },
+  {
+    "es": "el rio corre hacia el mar",
+    "en": "the river runs towards the sea",
+    "de": "der Fluss fließt zum Meer hin",
+    "it": "il fiume corre verso il mare",
+    "ro": "râul curge spre marea cea mare",
+    "group": "6",
+    "id": 273
+  },
+  {
+    "es": "ella lleva un vestido de seda",
+    "en": "she wears a dress of silk",
+    "de": "sie trägt ein Kleid aus Seide",
+    "it": "lei porta un vestito di seta",
+    "ro": "ea poartă o rochie de mătase",
+    "group": "6",
+    "id": 274
+  },
+  {
+    "es": "el sol brilla en el cielo",
+    "en": "the sun shines in the sky",
+    "de": "die Sonne scheint in dem Himmel",
+    "it": "il sole brilla in il cielo",
+    "ro": "soarele strălucește în acest cer mare",
+    "group": "6",
+    "id": 275
+  },
+  {
+    "es": "nosotros vamos de viaje este verano",
+    "en": "we go on trip this summer",
+    "de": "wir gehen diesen Sommer auf Reise",
+    "it": "noi andiamo in viaggio questa estate",
+    "ro": "noi mergem în excursie vara aceasta",
+    "group": "6",
+    "id": 276
+  },
+  {
+    "es": "el gato gris caza una mosca",
+    "en": "the gray cat catches a fly",
+    "de": "die graue Katze fängt eine Fliege",
+    "it": "il gatto grigio prende una mosca",
+    "ro": "pisica gri prinde o muscă acum",
+    "group": "6",
+    "id": 277
+  },
+  {
+    "es": "mi hermano tiene un trabajo nuevo",
+    "en": "my brother has a new job",
+    "de": "mein Bruder hat einen neuen Job",
+    "it": "mio fratello ha un lavoro nuovo",
+    "ro": "fratele meu are un serviciu nou",
+    "group": "6",
+    "id": 278
+  },
+  {
+    "es": "la montaña es muy verde ahora",
+    "en": "the mountain is very green now",
+    "de": "der Berg ist jetzt sehr grün",
+    "it": "la montagna è molto verde ora",
+    "ro": "muntele este foarte verde acum chiar",
+    "group": "6",
+    "id": 279
+  },
+  {
+    "es": "el reloj de pulsera es caro",
+    "en": "the wrist watch is very expensive",
+    "de": "die Armbanduhr ist heute sehr teuer",
+    "it": "lo orologio da polso è caro",
+    "ro": "ceasul de mână este foarte scump",
+    "group": "6",
+    "id": 280
+  },
+  {
+    "es": "ella canta en un coro grande",
+    "en": "she sings in a big choir",
+    "de": "sie singt in einem großen Chor",
+    "it": "lei canta in un coro grande",
+    "ro": "ea cântă într-un cor foarte mare",
+    "group": "6",
+    "id": 281
+  },
+  {
+    "es": "el pan es un alimento basico",
+    "en": "bread is a very basic food",
+    "de": "Brot ist ein sehr wichtiges Lebensmittel",
+    "it": "il pane è un alimento base",
+    "ro": "pâinea este un aliment de bază",
+    "group": "6",
+    "id": 282
+  },
+  {
+    "es": "mis padres viven en el campo",
+    "en": "my parents live in the country",
+    "de": "meine Eltern leben auf dem Land",
+    "it": "miei genitori vivono in il campo",
+    "ro": "părinții mei locuiesc la țară acum",
+    "group": "6",
+    "id": 283
+  },
+  {
+    "es": "el coche azul es muy rapido",
+    "en": "the blue car is very fast",
+    "de": "das blaue Auto ist sehr schnell",
+    "it": "la auto blu è molto veloce",
+    "ro": "mașina albastră este foarte rapidă acum",
+    "group": "6",
+    "id": 284
+  },
+  {
+    "es": "nosotros bebemos jugo de naranja hoy",
+    "en": "we drink orange juice today now",
+    "de": "wir trinken heute einen Orangensaft jetzt",
+    "it": "noi beviamo succo di arancia oggi",
+    "ro": "noi bem suc de portocale astăzi",
+    "group": "6",
+    "id": 285
+  },
+  {
+    "es": "la casa roja tiene un tejado",
+    "en": "the red house has a roof",
+    "de": "das rote Haus hat ein Dach",
+    "it": "la casa rossa ha un tetto",
+    "ro": "casa roșie are un acoperiș nou",
+    "group": "6",
+    "id": 286
+  },
+  {
+    "es": "el invierno es una epoca fria",
+    "en": "winter is a very cold period",
+    "de": "der Winter ist eine kalte Zeit",
+    "it": "lo inverno è un periodo freddo",
+    "ro": "iarna este o perioadă foarte rece",
+    "group": "6",
+    "id": 287
+  },
+  {
+    "es": "mi hermana tiene una casa pequeña",
+    "en": "my sister has a small house",
+    "de": "meine Schwester hat ein kleines Haus",
+    "it": "mia sorella ha una casa piccola",
+    "ro": "sora mea are o casă mică",
+    "group": "6",
+    "id": 288
+  },
+  {
+    "es": "el sol sale a las seis",
+    "en": "the sun rises at six oclock",
+    "de": "die Sonne geht um sechs auf",
+    "it": "il sole sorge a le sei",
+    "ro": "soarele răsare la ora șase fix",
+    "group": "6",
+    "id": 289
+  },
+  {
+    "es": "la sopa de fideos es rica",
+    "en": "the noodle soup is very tasty",
+    "de": "die Nudelsuppe ist heute sehr lecker",
+    "it": "la zuppa di spaghetti è buona",
+    "ro": "supa de tăiței este foarte bună",
+    "group": "6",
+    "id": 290
+  },
+  {
+    "es": "ellos viajan a francia este mes",
+    "en": "they travel to france this month",
+    "de": "sie reisen diesen Monat nach Frankreich",
+    "it": "loro viaggiano in francia questo mese",
+    "ro": "ei călătoresc în franța luna aceasta",
+    "group": "6",
+    "id": 291
+  },
+  {
+    "es": "el libro de arte es grande",
+    "en": "the art book is very big",
+    "de": "das Buch über Kunst ist groß",
+    "it": "il libro di arte è grande",
+    "ro": "cartea de artă este foarte mare",
+    "group": "6",
+    "id": 292
+  },
+  {
+    "es": "mi tio tiene un huerto pequeño",
+    "en": "my uncle has small vegetable garden",
+    "de": "mein Onkel hat einen kleinen Garten",
+    "it": "mio zio ha un orto piccolo",
+    "ro": "unchiul meu are o grădină mică",
+    "group": "6",
+    "id": 293
+  },
+  {
+    "es": "la leche de cabra es buena",
+    "en": "the goat milk is very good",
+    "de": "die Ziegenmilch ist heute sehr gut",
+    "it": "il latte di capra è buono",
+    "ro": "laptele de capră este foarte bun",
+    "group": "6",
+    "id": 294
+  },
+  {
+    "es": "el cielo tiene muchas estrellas hoy",
+    "en": "the sky has many stars today",
+    "de": "der Himmel hat heute viele Sterne",
+    "it": "il cielo ha molte stelle oggi",
+    "ro": "cerul are multe stele astăzi acum",
+    "group": "6",
+    "id": 295
+  },
+  {
+    "es": "nosotros comemos en el jardin ahora",
+    "en": "we eat in the garden now",
+    "de": "wir essen jetzt in dem Garten",
+    "it": "noi mangiamo in il giardino ora",
+    "ro": "noi mâncăm în grădină acum chiar",
+    "group": "6",
+    "id": 296
+  },
+  {
+    "es": "el perro negro corre muy rapido",
+    "en": "the black dog runs very fast",
+    "de": "der schwarze Hund rennt sehr schnell",
+    "it": "il cane nero corre molto veloce",
+    "ro": "câinele negru merge foarte repede acum",
+    "group": "6",
+    "id": 297
+  },
+  {
+    "es": "ella escribe un libro de cocina",
+    "en": "she writes a cookbook right now",
+    "de": "sie schreibt jetzt ein neues Kochbuch",
+    "it": "lei scrive un libro di cucina",
+    "ro": "ea scrie o carte de bucate",
+    "group": "6",
+    "id": 298
+  },
+  {
+    "es": "el rio es muy largo aqui",
+    "en": "the river is very long here",
+    "de": "der Fluss ist hier sehr lang",
+    "it": "il fiume è molto lungo qui",
+    "ro": "râul este foarte lung aici acum",
+    "group": "6",
+    "id": 299
+  },
+  {
+    "es": "mi madre compra una mesa nueva",
+    "en": "my mother buys a new table",
+    "de": "meine Mutter kauft einen neuen Tisch",
+    "it": "mia madre compra un tavolo nuovo",
+    "ro": "mama mea cumpără o masă nouă",
+    "group": "6",
+    "id": 300
+  }
+]

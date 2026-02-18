@@ -6,8 +6,7 @@
     "it": "buongiorno",
     "ro": "bună dimineața",
     "group": "2",
-    "id": 1,
-    "read": false
+    "id": 1
   },
   {
     "es": "muchas gracias",
@@ -16,8 +15,7 @@
     "it": "molte grazie",
     "ro": "mulțumesc mult",
     "group": "2",
-    "id": 2,
-    "read": false
+    "id": 2
   },
   {
     "es": "por favor",
@@ -26,8 +24,7 @@
     "it": "per favore",
     "ro": "vă rog",
     "group": "2",
-    "id": 3,
-    "read": false
+    "id": 3
   },
   {
     "es": "de nada",
@@ -36,8 +33,7 @@
     "it": "prego",
     "ro": "cu plăcere",
     "group": "2",
-    "id": 4,
-    "read": false
+    "id": 4
   },
   {
     "es": "lo siento",
@@ -46,8 +42,7 @@
     "it": "mi dispiace",
     "ro": "îmi pare rău",
     "group": "2",
-    "id": 5,
-    "read": false
+    "id": 5
   },
   {
     "es": "buenas noches",
@@ -56,8 +51,7 @@
     "it": "buonanotte",
     "ro": "noapte bună",
     "group": "2",
-    "id": 6,
-    "read": false
+    "id": 6
   },
   {
     "es": "muy bien",
@@ -66,8 +60,7 @@
     "it": "molto bene",
     "ro": "foarte bine",
     "group": "2",
-    "id": 7,
-    "read": false
+    "id": 7
   },
   {
     "es": "hasta luego",
@@ -76,8 +69,7 @@
     "it": "a dopo",
     "ro": "pe curând",
     "group": "2",
-    "id": 8,
-    "read": false
+    "id": 8
   },
   {
     "es": "qué tal",
@@ -86,8 +78,7 @@
     "it": "come va",
     "ro": "ce mai faci",
     "group": "2",
-    "id": 9,
-    "read": false
+    "id": 9
   },
   {
     "es": "claro que sí",
@@ -96,8 +87,7 @@
     "it": "certo che sì",
     "ro": "desigur că da",
     "group": "2",
-    "id": 10,
-    "read": false
+    "id": 10
   },
   {
     "es": "en serio",
@@ -106,8 +96,7 @@
     "it": "sul serio",
     "ro": "serios",
     "group": "2",
-    "id": 11,
-    "read": false
+    "id": 11
   },
   {
     "es": "con permiso",
@@ -116,8 +105,7 @@
     "it": "con permesso",
     "ro": "cu permisiune",
     "group": "2",
-    "id": 12,
-    "read": false
+    "id": 12
   },
   {
     "es": "buen viaje",
@@ -126,8 +114,7 @@
     "it": "buon viaggio",
     "ro": "călătorie plăcută",
     "group": "2",
-    "id": 13,
-    "read": false
+    "id": 13
   },
   {
     "es": "tengo hambre",
@@ -136,8 +123,7 @@
     "it": "ho fame",
     "ro": "mi-e foame",
     "group": "2",
-    "id": 14,
-    "read": false
+    "id": 14
   },
   {
     "es": "tengo sed",
@@ -146,8 +132,7 @@
     "it": "ho sete",
     "ro": "mi-e sete",
     "group": "2",
-    "id": 15,
-    "read": false
+    "id": 15
   },
   {
     "es": "hace frío",
@@ -156,8 +141,7 @@
     "it": "fa freddo",
     "ro": "este frig",
     "group": "2",
-    "id": 16,
-    "read": false
+    "id": 16
   },
   {
     "es": "hace calor",
@@ -166,8 +150,7 @@
     "it": "fa caldo",
     "ro": "este cald",
     "group": "2",
-    "id": 17,
-    "read": false
+    "id": 17
   },
   {
     "es": "qué hora",
@@ -176,8 +159,7 @@
     "it": "che ora",
     "ro": "ce oră",
     "group": "2",
-    "id": 18,
-    "read": false
+    "id": 18
   },
   {
     "es": "mi amigo",
@@ -186,8 +168,7 @@
     "it": "mio amico",
     "ro": "prietenul meu",
     "group": "2",
-    "id": 19,
-    "read": false
+    "id": 19
   },
   {
     "es": "esta casa",
@@ -196,8 +177,7 @@
     "it": "questa casa",
     "ro": "această casă",
     "group": "2",
-    "id": 20,
-    "read": false
+    "id": 20
   },
   {
     "es": "cada día",
@@ -206,8 +186,7 @@
     "it": "ogni giorno",
     "ro": "în fiecare zi",
     "group": "2",
-    "id": 21,
-    "read": false
+    "id": 21
   },
   {
     "es": "todo bien",
@@ -216,8 +195,7 @@
     "it": "tutto bene",
     "ro": "totul bine",
     "group": "2",
-    "id": 22,
-    "read": false
+    "id": 22
   },
   {
     "es": "buena suerte",
@@ -226,8 +204,7 @@
     "it": "buona fortuna",
     "ro": "mult noroc",
     "group": "2",
-    "id": 23,
-    "read": false
+    "id": 23
   },
   {
     "es": "a veces",
@@ -236,8 +213,7 @@
     "it": "a volte",
     "ro": "uneori",
     "group": "2",
-    "id": 24,
-    "read": false
+    "id": 24
   },
   {
     "es": "poco tiempo",
@@ -246,8 +222,7 @@
     "it": "poco tempo",
     "ro": "puțin timp",
     "group": "2",
-    "id": 25,
-    "read": false
+    "id": 25
   },
   {
     "es": "más tarde",
@@ -256,8 +231,7 @@
     "it": "più tardi",
     "ro": "mai târziu",
     "group": "2",
-    "id": 26,
-    "read": false
+    "id": 26
   },
   {
     "es": "ahora mismo",
@@ -266,8 +240,7 @@
     "it": "proprio ora",
     "ro": "chiar acum",
     "group": "2",
-    "id": 27,
-    "read": false
+    "id": 27
   },
   {
     "es": "sin duda",
@@ -276,8 +249,7 @@
     "it": "senza dubbio",
     "ro": "fără îndoială",
     "group": "2",
-    "id": 28,
-    "read": false
+    "id": 28
   },
   {
     "es": "por eso",
@@ -286,8 +258,7 @@
     "it": "per questo",
     "ro": "de aceea",
     "group": "2",
-    "id": 29,
-    "read": false
+    "id": 29
   },
   {
     "es": "demasiado tarde",
@@ -296,8 +267,7 @@
     "it": "troppo tardi",
     "ro": "prea târziu",
     "group": "2",
-    "id": 30,
-    "read": false
+    "id": 30
   },
   {
     "es": "hace tiempo",
@@ -306,8 +276,7 @@
     "it": "molto tempo fa",
     "ro": "cu mult timp în urmă",
     "group": "2",
-    "id": 31,
-    "read": false
+    "id": 31
   },
   {
     "es": "un poco",
@@ -316,8 +285,7 @@
     "it": "un po'",
     "ro": "un pic",
     "group": "2",
-    "id": 32,
-    "read": false
+    "id": 32
   },
   {
     "es": "otra vez",
@@ -326,8 +294,7 @@
     "it": "un'altra volta",
     "ro": "încă o dată",
     "group": "2",
-    "id": 33,
-    "read": false
+    "id": 33
   },
   {
     "es": "estoy listo",
@@ -336,8 +303,7 @@
     "it": "sono pronto",
     "ro": "sunt gata",
     "group": "2",
-    "id": 34,
-    "read": false
+    "id": 34
   },
   {
     "es": "buena idea",
@@ -346,8 +312,7 @@
     "it": "buona idea",
     "ro": "bună idee",
     "group": "2",
-    "id": 35,
-    "read": false
+    "id": 35
   },
   {
     "es": "dame eso",
@@ -356,8 +321,7 @@
     "it": "dammi quello",
     "ro": "dă-mi asta",
     "group": "2",
-    "id": 36,
-    "read": false
+    "id": 36
   },
   {
     "es": "ven aquí",
@@ -366,8 +330,7 @@
     "it": "vieni qui",
     "ro": "vino aici",
     "group": "2",
-    "id": 37,
-    "read": false
+    "id": 37
   },
   {
     "es": "está lejos",
@@ -376,8 +339,7 @@
     "it": "è lontano",
     "ro": "este departe",
     "group": "2",
-    "id": 38,
-    "read": false
+    "id": 38
   },
   {
     "es": "está cerca",
@@ -386,8 +348,7 @@
     "it": "è vicino",
     "ro": "este aproape",
     "group": "2",
-    "id": 39,
-    "read": false
+    "id": 39
   },
   {
     "es": "mucha gente",
@@ -396,8 +357,7 @@
     "it": "molta gente",
     "ro": "multă lume",
     "group": "2",
-    "id": 40,
-    "read": false
+    "id": 40
   },
   {
     "es": "nadie sabe",
@@ -406,8 +366,7 @@
     "it": "nessuno sa",
     "ro": "nimeni nu știe",
     "group": "2",
-    "id": 41,
-    "read": false
+    "id": 41
   },
   {
     "es": "todos juntos",
@@ -416,8 +375,7 @@
     "it": "tutti insieme",
     "ro": "toți împreună",
     "group": "2",
-    "id": 42,
-    "read": false
+    "id": 42
   },
   {
     "es": "buen trabajo",
@@ -426,8 +384,7 @@
     "it": "buon lavoro",
     "ro": "bună treabă",
     "group": "2",
-    "id": 43,
-    "read": false
+    "id": 43
   },
   {
     "es": "más comida",
@@ -436,8 +393,7 @@
     "it": "più cibo",
     "ro": "mai multă mâncare",
     "group": "2",
-    "id": 44,
-    "read": false
+    "id": 44
   },
   {
     "es": "agua fría",
@@ -446,8 +402,7 @@
     "it": "acqua fredda",
     "ro": "apă rece",
     "group": "2",
-    "id": 45,
-    "read": false
+    "id": 45
   },
   {
     "es": "pan fresco",
@@ -456,8 +411,7 @@
     "it": "pane fresco",
     "ro": "pâine proaspătă",
     "group": "2",
-    "id": 46,
-    "read": false
+    "id": 46
   },
   {
     "es": "cierra puerta",
@@ -466,8 +420,7 @@
     "it": "chiudi porta",
     "ro": "închide ușa",
     "group": "2",
-    "id": 47,
-    "read": false
+    "id": 47
   },
   {
     "es": "abre ventana",
@@ -476,8 +429,7 @@
     "it": "apri finestra",
     "ro": "deschide fereastra",
     "group": "2",
-    "id": 48,
-    "read": false
+    "id": 48
   },
   {
     "es": "tengo miedo",
@@ -486,8 +438,7 @@
     "it": "ho paura",
     "ro": "mi-e frică",
     "group": "2",
-    "id": 49,
-    "read": false
+    "id": 49
   },
   {
     "es": "estoy cansado",
@@ -496,8 +447,7 @@
     "it": "sono stanco",
     "ro": "sunt obosit",
     "group": "2",
-    "id": 50,
-    "read": false
+    "id": 50
   },
   {
     "es": "buen libro",
@@ -506,8 +456,7 @@
     "it": "buon libro",
     "ro": "carte bună",
     "group": "2",
-    "id": 51,
-    "read": false
+    "id": 51
   },
   {
     "es": "coche nuevo",
@@ -516,8 +465,7 @@
     "it": "auto nuova",
     "ro": "mașină nouă",
     "group": "2",
-    "id": 52,
-    "read": false
+    "id": 52
   },
   {
     "es": "casa grande",
@@ -526,8 +474,7 @@
     "it": "casa grande",
     "ro": "casă mare",
     "group": "2",
-    "id": 53,
-    "read": false
+    "id": 53
   },
   {
     "es": "perro pequeño",
@@ -536,8 +483,7 @@
     "it": "cane piccolo",
     "ro": "câine mic",
     "group": "2",
-    "id": 54,
-    "read": false
+    "id": 54
   },
   {
     "es": "hace sol",
@@ -546,8 +492,7 @@
     "it": "c'è sole",
     "ro": "este soare",
     "group": "2",
-    "id": 55,
-    "read": false
+    "id": 55
   },
   {
     "es": "mucha agua",
@@ -556,8 +501,7 @@
     "it": "molta acqua",
     "ro": "multă apă",
     "group": "2",
-    "id": 56,
-    "read": false
+    "id": 56
   },
   {
     "es": "café solo",
@@ -566,8 +510,7 @@
     "it": "caffè nero",
     "ro": "cafea neagră",
     "group": "2",
-    "id": 57,
-    "read": false
+    "id": 57
   },
   {
     "es": "leche fría",
@@ -576,8 +519,7 @@
     "it": "latte freddo",
     "ro": "lapte rece",
     "group": "2",
-    "id": 58,
-    "read": false
+    "id": 58
   },
   {
     "es": "té caliente",
@@ -586,8 +528,7 @@
     "it": "tè caldo",
     "ro": "ceai cald",
     "group": "2",
-    "id": 59,
-    "read": false
+    "id": 59
   },
   {
     "es": "pan blanco",
@@ -596,8 +537,7 @@
     "it": "pane bianco",
     "ro": "pâine albă",
     "group": "2",
-    "id": 60,
-    "read": false
+    "id": 60
   },
   {
     "es": "vino tinto",
@@ -606,8 +546,7 @@
     "it": "vino rosso",
     "ro": "vin roșu",
     "group": "2",
-    "id": 61,
-    "read": false
+    "id": 61
   },
   {
     "es": "fruta fresca",
@@ -616,8 +555,7 @@
     "it": "frutta fresca",
     "ro": "fructe proaspete",
     "group": "2",
-    "id": 62,
-    "read": false
+    "id": 62
   },
   {
     "es": "ciudad vieja",
@@ -626,8 +564,7 @@
     "it": "città vecchia",
     "ro": "oraș vechi",
     "group": "2",
-    "id": 63,
-    "read": false
+    "id": 63
   },
   {
     "es": "calle larga",
@@ -636,8 +573,7 @@
     "it": "via lunga",
     "ro": "stradă lungă",
     "group": "2",
-    "id": 64,
-    "read": false
+    "id": 64
   },
   {
     "es": "mar azul",
@@ -646,8 +582,7 @@
     "it": "mare azzurro",
     "ro": "mare albastră",
     "group": "2",
-    "id": 65,
-    "read": false
+    "id": 65
   },
   {
     "es": "cielo claro",
@@ -656,8 +591,7 @@
     "it": "cielo chiaro",
     "ro": "cer senin",
     "group": "2",
-    "id": 66,
-    "read": false
+    "id": 66
   },
   {
     "es": "película buena",
@@ -666,8 +600,7 @@
     "it": "bel film",
     "ro": "film bun",
     "group": "2",
-    "id": 67,
-    "read": false
+    "id": 67
   },
   {
     "es": "música alta",
@@ -676,8 +609,7 @@
     "it": "musica alta",
     "ro": "muzică tare",
     "group": "2",
-    "id": 68,
-    "read": false
+    "id": 68
   },
   {
     "es": "trabajo duro",
@@ -686,8 +618,7 @@
     "it": "lavoro duro",
     "ro": "muncă grea",
     "group": "2",
-    "id": 69,
-    "read": false
+    "id": 69
   },
   {
     "es": "estudiante joven",
@@ -696,8 +627,7 @@
     "it": "studente giovane",
     "ro": "student tânăr",
     "group": "2",
-    "id": 70,
-    "read": false
+    "id": 70
   },
   {
     "es": "profesor sabio",
@@ -706,8 +636,7 @@
     "it": "professore saggio",
     "ro": "profesor înțelept",
     "group": "2",
-    "id": 71,
-    "read": false
+    "id": 71
   },
   {
     "es": "niño feliz",
@@ -715,8 +644,7 @@
     "de": "glückliches Kind",
     "it": "bambino felice",
     "ro": "copil fericit",
-    "id": 72,
-    "read": false
+    "id": 72
   },
   {
     "es": "mujer guapa",
@@ -725,8 +653,7 @@
     "it": "bella donna",
     "ro": "femeie frumoasă",
     "group": "2",
-    "id": 73,
-    "read": false
+    "id": 73
   },
   {
     "es": "hombre fuerte",
@@ -735,8 +662,7 @@
     "it": "uomo forte",
     "ro": "bărbat puternic",
     "group": "2",
-    "id": 74,
-    "read": false
+    "id": 74
   },
   {
     "es": "comida rápida",
@@ -745,8 +671,7 @@
     "it": "cibo veloce",
     "ro": "mâncare rapidă",
     "group": "2",
-    "id": 75,
-    "read": false
+    "id": 75
   },
   {
     "es": "noche oscura",
@@ -755,8 +680,7 @@
     "it": "notte oscura",
     "ro": "noapte întunecată",
     "group": "2",
-    "id": 76,
-    "read": false
+    "id": 76
   },
   {
     "es": "día libre",
@@ -765,8 +689,7 @@
     "it": "giorno libero",
     "ro": "zi liberă",
     "group": "2",
-    "id": 77,
-    "read": false
+    "id": 77
   },
   {
     "es": "fin semana",
@@ -775,8 +698,7 @@
     "it": "fine settimana",
     "ro": "sfârșit săptămână",
     "group": "2",
-    "id": 78,
-    "read": false
+    "id": 78
   },
   {
     "es": "clase aburrida",
@@ -785,8 +707,7 @@
     "it": "classe noiosa",
     "ro": "curs plictisitor",
     "group": "2",
-    "id": 79,
-    "read": false
+    "id": 79
   },
   {
     "es": "idioma difícil",
@@ -795,8 +716,7 @@
     "it": "lingua difficile",
     "ro": "limbă dificilă",
     "group": "2",
-    "id": 80,
-    "read": false
+    "id": 80
   },
   {
     "es": "pregunta fácil",
@@ -805,8 +725,7 @@
     "it": "domanda facile",
     "ro": "întrebare ușoară",
     "group": "2",
-    "id": 81,
-    "read": false
+    "id": 81
   },
   {
     "es": "respuesta corta",
@@ -815,8 +734,7 @@
     "it": "risposta breve",
     "ro": "răspuns scurt",
     "group": "2",
-    "id": 82,
-    "read": false
+    "id": 82
   },
   {
     "es": "camino corto",
@@ -825,8 +743,7 @@
     "it": "strada corta",
     "ro": "drum scurt",
     "group": "2",
-    "id": 83,
-    "read": false
+    "id": 83
   },
   {
     "es": "ropa limpia",
@@ -835,8 +752,7 @@
     "it": "vestiti puliti",
     "ro": "haine curate",
     "group": "2",
-    "id": 84,
-    "read": false
+    "id": 84
   },
   {
     "es": "manos sucias",
@@ -845,8 +761,7 @@
     "it": "mani sporche",
     "ro": "mâini murdare",
     "group": "2",
-    "id": 85,
-    "read": false
+    "id": 85
   },
   {
     "es": "reloj caro",
@@ -855,8 +770,7 @@
     "it": "orologio caro",
     "ro": "ceas scump",
     "group": "2",
-    "id": 86,
-    "read": false
+    "id": 86
   },
   {
     "es": "bolso barato",
@@ -865,8 +779,7 @@
     "it": "borsa economica",
     "ro": "geantă ieftină",
     "group": "2",
-    "id": 87,
-    "read": false
+    "id": 87
   },
   {
     "es": "llave perdida",
@@ -875,8 +788,7 @@
     "it": "chiave persa",
     "ro": "cheie pierdută",
     "group": "2",
-    "id": 88,
-    "read": false
+    "id": 88
   },
   {
     "es": "puerta abierta",
@@ -885,8 +797,7 @@
     "it": "porta aperta",
     "ro": "ușă deschisă",
     "group": "2",
-    "id": 89,
-    "read": false
+    "id": 89
   },
   {
     "es": "ventana cerrada",
@@ -895,8 +806,7 @@
     "it": "finestra chiusa",
     "ro": "fereastră închisă",
     "group": "2",
-    "id": 90,
-    "read": false
+    "id": 90
   },
   {
     "es": "luz encendida",
@@ -905,8 +815,7 @@
     "it": "luce accesa",
     "ro": "lumină aprinsă",
     "group": "2",
-    "id": 91,
-    "read": false
+    "id": 91
   },
   {
     "es": "fuego apagado",
@@ -915,8 +824,7 @@
     "it": "fuoco spento",
     "ro": "foc stins",
     "group": "2",
-    "id": 92,
-    "read": false
+    "id": 92
   },
   {
     "es": "corazón roto",
@@ -925,8 +833,7 @@
     "it": "cuore infranto",
     "ro": "inimă frântă",
     "group": "2",
-    "id": 93,
-    "read": false
+    "id": 93
   },
   {
     "es": "mente abierta",
@@ -935,8 +842,7 @@
     "it": "mente aperta",
     "ro": "minte deschisă",
     "group": "2",
-    "id": 94,
-    "read": false
+    "id": 94
   },
   {
     "es": "tiempo libre",
@@ -945,8 +851,7 @@
     "it": "tempo libero",
     "ro": "timp liber",
     "group": "2",
-    "id": 95,
-    "read": false
+    "id": 95
   },
   {
     "es": "vida sana",
@@ -955,8 +860,7 @@
     "it": "vita sana",
     "ro": "viață sănătoasă",
     "group": "2",
-    "id": 96,
-    "read": false
+    "id": 96
   },
   {
     "es": "mal tiempo",
@@ -965,8 +869,7 @@
     "it": "brutto tempo",
     "ro": "vreme rea",
     "group": "2",
-    "id": 97,
-    "read": false
+    "id": 97
   },
   {
     "es": "bajo control",
@@ -975,8 +878,7 @@
     "it": "sotto controllo",
     "ro": "sub control",
     "group": "2",
-    "id": 98,
-    "read": false
+    "id": 98
   },
   {
     "es": "sin miedo",
@@ -985,8 +887,7 @@
     "it": "senza paura",
     "ro": "fără frică",
     "group": "2",
-    "id": 99,
-    "read": false
+    "id": 99
   },
   {
     "es": "con cuidado",
@@ -995,8 +896,7 @@
     "it": "con cura",
     "ro": "cu grijă",
     "group": "2",
-    "id": 100,
-    "read": false
+    "id": 100
   },
   {
     "es": "muy rápido",
@@ -1005,8 +905,7 @@
     "it": "molto veloce",
     "ro": "foarte repede",
     "group": "2",
-    "id": 101,
-    "read": false
+    "id": 101
   },
   {
     "es": "bastante lento",
@@ -1015,8 +914,7 @@
     "it": "piuttosto lento",
     "ro": "destul de lent",
     "group": "2",
-    "id": 102,
-    "read": false
+    "id": 102
   },
   {
     "es": "demasiado pronto",
@@ -1025,8 +923,7 @@
     "it": "troppo presto",
     "ro": "prea devreme",
     "group": "2",
-    "id": 103,
-    "read": false
+    "id": 103
   },
   {
     "es": "por fin",
@@ -1035,8 +932,7 @@
     "it": "alla fine",
     "ro": "în sfârșit",
     "group": "2",
-    "id": 104,
-    "read": false
+    "id": 104
   },
   {
     "es": "de repente",
@@ -1045,8 +941,7 @@
     "it": "all'improvviso",
     "ro": "deodată",
     "group": "2",
-    "id": 105,
-    "read": false
+    "id": 105
   },
   {
     "es": "en medio",
@@ -1055,8 +950,7 @@
     "it": "nel mezzo",
     "ro": "în mijloc",
     "group": "2",
-    "id": 106,
-    "read": false
+    "id": 106
   },
   {
     "es": "al lado",
@@ -1065,8 +959,7 @@
     "it": "accanto",
     "ro": "alături",
     "group": "2",
-    "id": 107,
-    "read": false
+    "id": 107
   },
   {
     "es": "hacia arriba",
@@ -1075,8 +968,7 @@
     "it": "verso l'alto",
     "ro": "în sus",
     "group": "2",
-    "id": 108,
-    "read": false
+    "id": 108
   },
   {
     "es": "hacia abajo",
@@ -1085,8 +977,7 @@
     "it": "verso il basso",
     "ro": "în jos",
     "group": "2",
-    "id": 109,
-    "read": false
+    "id": 109
   },
   {
     "es": "dentro de",
@@ -1095,8 +986,7 @@
     "it": "dentro di",
     "ro": "în interior",
     "group": "2",
-    "id": 110,
-    "read": false
+    "id": 110
   },
   {
     "es": "fuera de",
@@ -1105,8 +995,7 @@
     "it": "fuori da",
     "ro": "în afară",
     "group": "2",
-    "id": 111,
-    "read": false
+    "id": 111
   },
   {
     "es": "antes de",
@@ -1115,8 +1004,7 @@
     "it": "prima di",
     "ro": "înainte de",
     "group": "2",
-    "id": 112,
-    "read": false
+    "id": 112
   },
   {
     "es": "después de",
@@ -1125,8 +1013,7 @@
     "it": "dopo di",
     "ro": "după",
     "group": "2",
-    "id": 113,
-    "read": false
+    "id": 113
   },
   {
     "es": "sobre todo",
@@ -1135,8 +1022,7 @@
     "it": "soprattutto",
     "ro": "mai ales",
     "group": "2",
-    "id": 114,
-    "read": false
+    "id": 114
   },
   {
     "es": "tal vez",
@@ -1145,8 +1031,7 @@
     "it": "forse",
     "ro": "poate",
     "group": "2",
-    "id": 115,
-    "read": false
+    "id": 115
   },
   {
     "es": "casi siempre",
@@ -1155,8 +1040,7 @@
     "it": "quasi sempre",
     "ro": "aproape mereu",
     "group": "2",
-    "id": 116,
-    "read": false
+    "id": 116
   },
   {
     "es": "rara vez",
@@ -1165,8 +1049,7 @@
     "it": "raramente",
     "ro": "rareori",
     "group": "2",
-    "id": 117,
-    "read": false
+    "id": 117
   },
   {
     "es": "nunca jamás",
@@ -1175,8 +1058,7 @@
     "it": "mai e poi mai",
     "ro": "niciodată",
     "group": "2",
-    "id": 118,
-    "read": false
+    "id": 118
   },
   {
     "es": "poco a poco",
@@ -1185,8 +1067,7 @@
     "it": "a poco a poco",
     "ro": "puțin câte puțin",
     "group": "2",
-    "id": 119,
-    "read": false
+    "id": 119
   },
   {
     "es": "paso a paso",
@@ -1195,8 +1076,7 @@
     "it": "passo dopo passo",
     "ro": "pas cu pas",
     "group": "2",
-    "id": 120,
-    "read": false
+    "id": 120
   },
   {
     "es": "cara a cara",
@@ -1205,8 +1085,7 @@
     "it": "faccia a faccia",
     "ro": "față în față",
     "group": "2",
-    "id": 121,
-    "read": false
+    "id": 121
   },
   {
     "es": "mano a mano",
@@ -1215,8 +1094,7 @@
     "it": "mano nella mano",
     "ro": "mână în mână",
     "group": "2",
-    "id": 122,
-    "read": false
+    "id": 122
   },
   {
     "es": "de nuevo",
@@ -1225,8 +1103,7 @@
     "it": "di nuovo",
     "ro": "din nou",
     "group": "2",
-    "id": 123,
-    "read": false
+    "id": 123
   },
   {
     "es": "por suerte",
@@ -1235,8 +1112,7 @@
     "it": "per fortuna",
     "ro": "din fericire",
     "group": "2",
-    "id": 124,
-    "read": false
+    "id": 124
   },
   {
     "es": "por desgracia",
@@ -1245,8 +1121,7 @@
     "it": "purtroppo",
     "ro": "din păcate",
     "group": "2",
-    "id": 125,
-    "read": false
+    "id": 125
   },
   {
     "es": "en cambio",
@@ -1255,8 +1130,7 @@
     "it": "invece",
     "ro": "în schimb",
     "group": "2",
-    "id": 126,
-    "read": false
+    "id": 126
   },
   {
     "es": "sin embargo",
@@ -1265,8 +1139,7 @@
     "it": "tuttavia",
     "ro": "totuși",
     "group": "2",
-    "id": 127,
-    "read": false
+    "id": 127
   },
   {
     "es": "al menos",
@@ -1275,8 +1148,7 @@
     "it": "almeno",
     "ro": "cel puțin",
     "group": "2",
-    "id": 128,
-    "read": false
+    "id": 128
   },
   {
     "es": "por ejemplo",
@@ -1285,8 +1157,7 @@
     "it": "per esempio",
     "ro": "de exemplu",
     "group": "2",
-    "id": 129,
-    "read": false
+    "id": 129
   },
   {
     "es": "en total",
@@ -1295,8 +1166,7 @@
     "it": "in totale",
     "ro": "în total",
     "group": "2",
-    "id": 130,
-    "read": false
+    "id": 130
   },
   {
     "es": "de verdad",
@@ -1305,8 +1175,7 @@
     "it": "davvero",
     "ro": "într-adevăr",
     "group": "2",
-    "id": 131,
-    "read": false
+    "id": 131
   },
   {
     "es": "lo mismo",
@@ -1315,8 +1184,7 @@
     "it": "lo stesso",
     "ro": "la fel",
     "group": "2",
-    "id": 132,
-    "read": false
+    "id": 132
   },
   {
     "es": "un momento",
@@ -1325,8 +1193,7 @@
     "it": "un momento",
     "ro": "un moment",
     "group": "2",
-    "id": 133,
-    "read": false
+    "id": 133
   },
   {
     "es": "mucha paz",
@@ -1335,8 +1202,7 @@
     "it": "molta pace",
     "ro": "multă pace",
     "group": "2",
-    "id": 134,
-    "read": false
+    "id": 134
   },
   {
     "es": "primer paso",
@@ -1345,8 +1211,7 @@
     "it": "primo passo",
     "ro": "primul pas",
     "group": "2",
-    "id": 135,
-    "read": false
+    "id": 135
   },
   {
     "es": "última vez",
@@ -1355,8 +1220,7 @@
     "it": "ultima volta",
     "ro": "ultima dată",
     "group": "2",
-    "id": 136,
-    "read": false
+    "id": 136
   },
   {
     "es": "siguiente página",
@@ -1365,8 +1229,7 @@
     "it": "prossima pagina",
     "ro": "pagina următoare",
     "group": "2",
-    "id": 137,
-    "read": false
+    "id": 137
   },
   {
     "es": "buen olor",
@@ -1375,8 +1238,7 @@
     "it": "buon odore",
     "ro": "miros bun",
     "group": "2",
-    "id": 138,
-    "read": false
+    "id": 138
   },
   {
     "es": "mal sabor",
@@ -1385,8 +1247,7 @@
     "it": "cattivo gusto",
     "ro": "gust rău",
     "group": "2",
-    "id": 139,
-    "read": false
+    "id": 139
   },
   {
     "es": "voz baja",
@@ -1395,8 +1256,7 @@
     "it": "voce bassa",
     "ro": "voce joasă",
     "group": "2",
-    "id": 140,
-    "read": false
+    "id": 140
   },
   {
     "es": "brazo derecho",
@@ -1405,8 +1265,7 @@
     "it": "braccio destro",
     "ro": "braț drept",
     "group": "2",
-    "id": 141,
-    "read": false
+    "id": 141
   },
   {
     "es": "ojo izquierdo",
@@ -1415,8 +1274,7 @@
     "it": "occhio sinistro",
     "ro": "ochi stâng",
     "group": "2",
-    "id": 142,
-    "read": false
+    "id": 142
   },
   {
     "es": "pelo largo",
@@ -1425,8 +1283,7 @@
     "it": "capelli lunghi",
     "ro": "păr lung",
     "group": "2",
-    "id": 143,
-    "read": false
+    "id": 143
   },
   {
     "es": "barba corta",
@@ -1435,8 +1292,7 @@
     "it": "barba corta",
     "ro": "barbă scurtă",
     "group": "2",
-    "id": 144,
-    "read": false
+    "id": 144
   },
   {
     "es": "cuerpo sano",
@@ -1445,8 +1301,7 @@
     "it": "corpo sano",
     "ro": "corp sănătos",
     "group": "2",
-    "id": 145,
-    "read": false
+    "id": 145
   },
   {
     "es": "mente clara",
@@ -1455,8 +1310,7 @@
     "it": "mente chiara",
     "ro": "minte clară",
     "group": "2",
-    "id": 146,
-    "read": false
+    "id": 146
   },
   {
     "es": "amor eterno",
@@ -1465,8 +1319,7 @@
     "it": "amore eterno",
     "ro": "iubire eternă",
     "group": "2",
-    "id": 147,
-    "read": false
+    "id": 147
   },
   {
     "es": "odio puro",
@@ -1475,8 +1328,7 @@
     "it": "odio puro",
     "ro": "ură pură",
     "group": "2",
-    "id": 148,
-    "read": false
+    "id": 148
   },
   {
     "es": "gran éxito",
@@ -1485,8 +1337,7 @@
     "it": "grande successo",
     "ro": "mare succes",
     "group": "2",
-    "id": 149,
-    "read": false
+    "id": 149
   },
   {
     "es": "error grave",
@@ -1495,8 +1346,7 @@
     "it": "errore grave",
     "ro": "greșeală gravă",
     "group": "2",
-    "id": 150,
-    "read": false
+    "id": 150
   },
   {
     "es": "vía libre",
@@ -1505,8 +1355,7 @@
     "it": "via libera",
     "ro": "cale liberă",
     "group": "2",
-    "id": 151,
-    "read": false
+    "id": 151
   },
   {
     "es": "pan diario",
@@ -1515,8 +1364,7 @@
     "it": "pane quotidiano",
     "ro": "pâine zilnică",
     "group": "2",
-    "id": 152,
-    "read": false
+    "id": 152
   },
   {
     "es": "agua dulce",
@@ -1525,8 +1373,7 @@
     "it": "acqua dolce",
     "ro": "apă dulce",
     "group": "2",
-    "id": 153,
-    "read": false
+    "id": 153
   },
   {
     "es": "mar salado",
@@ -1535,8 +1382,7 @@
     "it": "mare salato",
     "ro": "mare sărată",
     "group": "2",
-    "id": 154,
-    "read": false
+    "id": 154
   },
   {
     "es": "viento fuerte",
@@ -1545,8 +1391,7 @@
     "it": "vento forte",
     "ro": "vânt puternic",
     "group": "2",
-    "id": 155,
-    "read": false
+    "id": 155
   },
   {
     "es": "tierra firme",
@@ -1555,8 +1400,7 @@
     "it": "terra ferma",
     "ro": "pământ stabil",
     "group": "2",
-    "id": 156,
-    "read": false
+    "id": 156
   },
   {
     "es": "fuego vivo",
@@ -1565,8 +1409,7 @@
     "it": "fuoco vivo",
     "ro": "foc viu",
     "group": "2",
-    "id": 157,
-    "read": false
+    "id": 157
   },
   {
     "es": "aire puro",
@@ -1575,8 +1418,7 @@
     "it": "aria pura",
     "ro": "aer curat",
     "group": "2",
-    "id": 158,
-    "read": false
+    "id": 158
   },
   {
     "es": "sol poniente",
@@ -1585,8 +1427,7 @@
     "it": "sole calante",
     "ro": "soare la apus",
     "group": "2",
-    "id": 159,
-    "read": false
+    "id": 159
   },
   {
     "es": "luna llena",
@@ -1595,8 +1436,7 @@
     "it": "luna piena",
     "ro": "lună plină",
     "group": "2",
-    "id": 160,
-    "read": false
+    "id": 160
   },
   {
     "es": "noche blanca",
@@ -1605,8 +1445,7 @@
     "it": "notte bianca",
     "ro": "noapte albă",
     "group": "2",
-    "id": 161,
-    "read": false
+    "id": 161
   },
   {
     "es": "invierno frío",
@@ -1615,8 +1454,7 @@
     "it": "inverno freddo",
     "ro": "iarnă grea",
     "group": "2",
-    "id": 162,
-    "read": false
+    "id": 162
   },
   {
     "es": "verano largo",
@@ -1625,8 +1463,7 @@
     "it": "estate lunga",
     "ro": "vară lungă",
     "group": "2",
-    "id": 163,
-    "read": false
+    "id": 163
   },
   {
     "es": "otoño gris",
@@ -1635,8 +1472,7 @@
     "it": "autunno grigio",
     "ro": "toamnă gri",
     "group": "2",
-    "id": 164,
-    "read": false
+    "id": 164
   },
   {
     "es": "flor bella",
@@ -1645,8 +1481,7 @@
     "it": "fiore bello",
     "ro": "floare frumoasă",
     "group": "2",
-    "id": 165,
-    "read": false
+    "id": 165
   },
   {
     "es": "bosque verde",
@@ -1655,8 +1490,7 @@
     "it": "bosco verde",
     "ro": "pădure verde",
     "group": "2",
-    "id": 166,
-    "read": false
+    "id": 166
   },
   {
     "es": "montaña alta",
@@ -1665,8 +1499,7 @@
     "it": "montagna alta",
     "ro": "munte înalt",
     "group": "2",
-    "id": 167,
-    "read": false
+    "id": 167
   },
   {
     "es": "río rápido",
@@ -1675,8 +1508,7 @@
     "it": "fiume rapido",
     "ro": "râu rapid",
     "group": "2",
-    "id": 168,
-    "read": false
+    "id": 168
   },
   {
     "es": "puente viejo",
@@ -1685,8 +1517,7 @@
     "it": "ponte vecchio",
     "ro": "pod vechi",
     "group": "2",
-    "id": 169,
-    "read": false
+    "id": 169
   },
   {
     "es": "camino largo",
@@ -1695,8 +1526,7 @@
     "it": "cammino lungo",
     "ro": "drum lung",
     "group": "2",
-    "id": 170,
-    "read": false
+    "id": 170
   },
   {
     "es": "pueblo pequeño",
@@ -1705,8 +1535,7 @@
     "it": "piccolo borgo",
     "ro": "sat mic",
     "group": "2",
-    "id": 171,
-    "read": false
+    "id": 171
   },
   {
     "es": "capital grande",
@@ -1715,8 +1544,7 @@
     "it": "grande capitale",
     "ro": "capitală mare",
     "group": "2",
-    "id": 172,
-    "read": false
+    "id": 172
   },
   {
     "es": "país libre",
@@ -1725,8 +1553,7 @@
     "it": "paese libero",
     "ro": "țară liberă",
     "group": "2",
-    "id": 173,
-    "read": false
+    "id": 173
   },
   {
     "es": "mundo loco",
@@ -1735,8 +1562,7 @@
     "it": "mondo pazzo",
     "ro": "lume nebună",
     "group": "2",
-    "id": 174,
-    "read": false
+    "id": 174
   },
   {
     "es": "gente amable",
@@ -1745,8 +1571,7 @@
     "it": "gente gentile",
     "ro": "oameni amabili",
     "group": "2",
-    "id": 175,
-    "read": false
+    "id": 175
   },
   {
     "es": "niña buena",
@@ -1755,8 +1580,7 @@
     "it": "brava ragazza",
     "ro": "fată bună",
     "group": "2",
-    "id": 176,
-    "read": false
+    "id": 176
   },
   {
     "es": "padre joven",
@@ -1765,8 +1589,7 @@
     "it": "padre giovane",
     "ro": "tată tânăr",
     "group": "2",
-    "id": 177,
-    "read": false
+    "id": 177
   },
   {
     "es": "madre cariñosa",
@@ -1775,8 +1598,7 @@
     "it": "madre affettuosa",
     "ro": "mamă iubitoare",
     "group": "2",
-    "id": 178,
-    "read": false
+    "id": 178
   },
   {
     "es": "hermano mayor",
@@ -1785,8 +1607,7 @@
     "it": "fratello maggiore",
     "ro": "frate mai mare",
     "group": "2",
-    "id": 179,
-    "read": false
+    "id": 179
   },
   {
     "es": "hermana menor",
@@ -1795,8 +1616,7 @@
     "it": "sorella minore",
     "ro": "soră mai mică",
     "group": "2",
-    "id": 180,
-    "read": false
+    "id": 180
   },
   {
     "es": "familia unida",
@@ -1805,8 +1625,7 @@
     "it": "famiglia unita",
     "ro": "familie unită",
     "group": "2",
-    "id": 181,
-    "read": false
+    "id": 181
   },
   {
     "es": "abuelo sabio",
@@ -1815,8 +1634,7 @@
     "it": "nonno saggio",
     "ro": "bunic înțelept",
     "group": "2",
-    "id": 182,
-    "read": false
+    "id": 182
   },
   {
     "es": "amigo fiel",
@@ -1825,8 +1643,7 @@
     "it": "amico fedele",
     "ro": "prieten fidel",
     "group": "2",
-    "id": 183,
-    "read": false
+    "id": 183
   },
   {
     "es": "vecino ruidoso",
@@ -1835,8 +1652,7 @@
     "it": "vicino rumoroso",
     "ro": "vecin zgomotos",
     "group": "2",
-    "id": 184,
-    "read": false
+    "id": 184
   },
   {
     "es": "médico experto",
@@ -1845,8 +1661,7 @@
     "it": "medico esperto",
     "ro": "medic expert",
     "group": "2",
-    "id": 185,
-    "read": false
+    "id": 185
   },
   {
     "es": "policía atento",
@@ -1855,8 +1670,7 @@
     "it": "polizia attenta",
     "ro": "polițist atent",
     "group": "2",
-    "id": 186,
-    "read": false
+    "id": 186
   },
   {
     "es": "clase magistral",
@@ -1865,8 +1679,7 @@
     "it": "lezione magistrale",
     "ro": "lecție magistrală",
     "group": "2",
-    "id": 187,
-    "read": false
+    "id": 187
   },
   {
     "es": "examen final",
@@ -1875,8 +1688,7 @@
     "it": "esame finale",
     "ro": "examen final",
     "group": "2",
-    "id": 188,
-    "read": false
+    "id": 188
   },
   {
     "es": "tarea difícil",
@@ -1885,8 +1697,7 @@
     "it": "compito difficile",
     "ro": "sarcină dificilă",
     "group": "2",
-    "id": 189,
-    "read": false
+    "id": 189
   },
   {
     "es": "libro abierto",
@@ -1895,8 +1706,7 @@
     "it": "libro aperto",
     "ro": "carte deschisă",
     "group": "2",
-    "id": 190,
-    "read": false
+    "id": 190
   },
   {
     "es": "página escrita",
@@ -1905,8 +1715,7 @@
     "it": "pagina scritta",
     "ro": "pagină scrisă",
     "group": "2",
-    "id": 191,
-    "read": false
+    "id": 191
   },
   {
     "es": "pluma negra",
@@ -1915,8 +1724,7 @@
     "it": "penna nera",
     "ro": "stilou negru",
     "group": "2",
-    "id": 192,
-    "read": false
+    "id": 192
   },
   {
     "es": "papel blanco",
@@ -1925,8 +1733,7 @@
     "it": "carta bianca",
     "ro": "hârtie albă",
     "group": "2",
-    "id": 193,
-    "read": false
+    "id": 193
   },
   {
     "es": "mesa redonda",
@@ -1935,8 +1742,7 @@
     "it": "tavola rotonda",
     "ro": "masă rotundă",
     "group": "2",
-    "id": 194,
-    "read": false
+    "id": 194
   },
   {
     "es": "silla cómoda",
@@ -1945,8 +1751,7 @@
     "it": "sedia comoda",
     "ro": "scaun confortabil",
     "group": "2",
-    "id": 195,
-    "read": false
+    "id": 195
   },
   {
     "es": "cama suave",
@@ -1955,8 +1760,7 @@
     "it": "letto morbido",
     "ro": "pat moale",
     "group": "2",
-    "id": 196,
-    "read": false
+    "id": 196
   },
   {
     "es": "ropa sucia",
@@ -1965,8 +1769,7 @@
     "it": "panni sporchi",
     "ro": "haine murdare",
     "group": "2",
-    "id": 197,
-    "read": false
+    "id": 197
   },
   {
     "es": "zapatos nuevos",
@@ -1975,8 +1778,7 @@
     "it": "scarpe nuove",
     "ro": "pantofi noi",
     "group": "2",
-    "id": 198,
-    "read": false
+    "id": 198
   },
   {
     "es": "gafas oscuras",
@@ -1985,8 +1787,7 @@
     "it": "occhiali scuri",
     "ro": "ochelari de soare",
     "group": "2",
-    "id": 199,
-    "read": false
+    "id": 199
   },
   {
     "es": "bolsa llena",
@@ -1995,8 +1796,7 @@
     "it": "borsa piena",
     "ro": "geantă plină",
     "group": "2",
-    "id": 200,
-    "read": false
+    "id": 200
   },
   {
     "es": "dinero rápido",
@@ -2005,8 +1805,7 @@
     "it": "soldi veloci",
     "ro": "bani rapizi",
     "group": "2",
-    "id": 201,
-    "read": false
+    "id": 201
   },
   {
     "es": "precio alto",
@@ -2015,8 +1814,7 @@
     "it": "prezzo alto",
     "ro": "preț mare",
     "group": "2",
-    "id": 202,
-    "read": false
+    "id": 202
   },
   {
     "es": "oferta especial",
@@ -2025,8 +1823,7 @@
     "it": "offerta speciale",
     "ro": "ofertă specială",
     "group": "2",
-    "id": 203,
-    "read": false
+    "id": 203
   },
   {
     "es": "tarjeta crédito",
@@ -2035,8 +1832,7 @@
     "it": "carta credito",
     "ro": "card credit",
     "group": "2",
-    "id": 204,
-    "read": false
+    "id": 204
   },
   {
     "es": "cuenta bancaria",
@@ -2045,8 +1841,7 @@
     "it": "conto bancario",
     "ro": "cont bancar",
     "group": "2",
-    "id": 205,
-    "read": false
+    "id": 205
   },
   {
     "es": "tienda pequeña",
@@ -2055,8 +1850,7 @@
     "it": "negozio piccolo",
     "ro": "magazin mic",
     "group": "2",
-    "id": 206,
-    "read": false
+    "id": 206
   },
   {
     "es": "mercado libre",
@@ -2065,8 +1859,7 @@
     "it": "mercato libero",
     "ro": "piață liberă",
     "group": "2",
-    "id": 207,
-    "read": false
+    "id": 207
   },
   {
     "es": "negocio propio",
@@ -2075,8 +1868,7 @@
     "it": "proprio affare",
     "ro": "afacere proprie",
     "group": "2",
-    "id": 208,
-    "read": false
+    "id": 208
   },
   {
     "es": "empresa grande",
@@ -2085,8 +1877,7 @@
     "it": "grande azienda",
     "ro": "companie mare",
     "group": "2",
-    "id": 209,
-    "read": false
+    "id": 209
   },
   {
     "es": "jefe malo",
@@ -2095,8 +1886,7 @@
     "it": "capo cattivo",
     "ro": "șef rău",
     "group": "2",
-    "id": 210,
-    "read": false
+    "id": 210
   },
   {
     "es": "colega amable",
@@ -2105,8 +1895,7 @@
     "it": "collega gentile",
     "ro": "coleg amabil",
     "group": "2",
-    "id": 211,
-    "read": false
+    "id": 211
   },
   {
     "es": "reunión larga",
@@ -2115,8 +1904,7 @@
     "it": "riunione lunga",
     "ro": "ședință lungă",
     "group": "2",
-    "id": 212,
-    "read": false
+    "id": 212
   },
   {
     "es": "correo urgente",
@@ -2125,8 +1913,7 @@
     "it": "posta urgente",
     "ro": "mesaj urgent",
     "group": "2",
-    "id": 213,
-    "read": false
+    "id": 213
   },
   {
     "es": "llamada perdida",
@@ -2135,8 +1922,7 @@
     "it": "chiamata persa",
     "ro": "apel pierdut",
     "group": "2",
-    "id": 214,
-    "read": false
+    "id": 214
   },
   {
     "es": "computadora lenta",
@@ -2145,8 +1931,7 @@
     "it": "computer lento",
     "ro": "calculator lent",
     "group": "2",
-    "id": 215,
-    "read": false
+    "id": 215
   },
   {
     "es": "teclado nuevo",
@@ -2155,8 +1940,7 @@
     "it": "tastiera nuova",
     "ro": "tastatură nouă",
     "group": "2",
-    "id": 216,
-    "read": false
+    "id": 216
   },
   {
     "es": "pantalla brillante",
@@ -2165,8 +1949,7 @@
     "it": "schermo lucido",
     "ro": "ecran luminos",
     "group": "2",
-    "id": 217,
-    "read": false
+    "id": 217
   },
   {
     "es": "red social",
@@ -2175,8 +1958,7 @@
     "it": "rete sociale",
     "ro": "rețea socială",
     "group": "2",
-    "id": 218,
-    "read": false
+    "id": 218
   },
   {
     "es": "sitio web",
@@ -2185,8 +1967,7 @@
     "it": "sito web",
     "ro": "site web",
     "group": "2",
-    "id": 219,
-    "read": false
+    "id": 219
   },
   {
     "es": "clave secreta",
@@ -2195,8 +1976,7 @@
     "it": "chiave segreta",
     "ro": "cheie secretă",
     "group": "2",
-    "id": 220,
-    "read": false
+    "id": 220
   },
   {
     "es": "viaje corto",
@@ -2205,8 +1985,7 @@
     "it": "viaggio breve",
     "ro": "călătorie scurtă",
     "group": "2",
-    "id": 221,
-    "read": false
+    "id": 221
   },
   {
     "es": "avión rápido",
@@ -2215,8 +1994,7 @@
     "it": "aereo veloce",
     "ro": "avion rapid",
     "group": "2",
-    "id": 222,
-    "read": false
+    "id": 222
   },
   {
     "es": "tren puntual",
@@ -2225,8 +2003,7 @@
     "it": "treno puntuale",
     "ro": "tren punctual",
     "group": "2",
-    "id": 223,
-    "read": false
+    "id": 223
   },
   {
     "es": "hotel caro",
@@ -2235,8 +2012,7 @@
     "it": "hotel caro",
     "ro": "hotel scump",
     "group": "2",
-    "id": 224,
-    "read": false
+    "id": 224
   },
   {
     "es": "habitación doble",
@@ -2245,8 +2021,7 @@
     "it": "camera doppia",
     "ro": "cameră dublă",
     "group": "2",
-    "id": 225,
-    "read": false
+    "id": 225
   },
   {
     "es": "desayuno rico",
@@ -2255,8 +2030,7 @@
     "it": "colazione ricca",
     "ro": "mic dejun gustos",
     "group": "2",
-    "id": 226,
-    "read": false
+    "id": 226
   },
   {
     "es": "cena romántica",
@@ -2265,8 +2039,7 @@
     "it": "cena romantica",
     "ro": "cină romantică",
     "group": "2",
-    "id": 227,
-    "read": false
+    "id": 227
   },
   {
     "es": "comida casera",
@@ -2275,8 +2048,7 @@
     "it": "cibo casalingo",
     "ro": "mâncare de casă",
     "group": "2",
-    "id": 228,
-    "read": false
+    "id": 228
   },
   {
     "es": "fruta dulce",
@@ -2285,8 +2057,7 @@
     "it": "frutta dolce",
     "ro": "fruct dulce",
     "group": "2",
-    "id": 229,
-    "read": false
+    "id": 229
   },
   {
     "es": "carne asada",
@@ -2295,8 +2066,7 @@
     "it": "carne arrosto",
     "ro": "carne friptă",
     "group": "2",
-    "id": 230,
-    "read": false
+    "id": 230
   },
   {
     "es": "pescado fresco",
@@ -2305,8 +2075,7 @@
     "it": "pesce fresco",
     "ro": "pește proaspăt",
     "group": "2",
-    "id": 231,
-    "read": false
+    "id": 231
   },
   {
     "es": "ensalada verde",
@@ -2315,8 +2084,7 @@
     "it": "insalata verde",
     "ro": "salată verde",
     "group": "2",
-    "id": 232,
-    "read": false
+    "id": 232
   },
   {
     "es": "bebida fría",
@@ -2325,8 +2093,7 @@
     "it": "bevanda fredda",
     "ro": "băutură rece",
     "group": "2",
-    "id": 233,
-    "read": false
+    "id": 233
   },
   {
     "es": "vaso vacío",
@@ -2335,8 +2102,7 @@
     "it": "bicchiere vuoto",
     "ro": "pahar gol",
     "group": "2",
-    "id": 234,
-    "read": false
+    "id": 234
   },
   {
     "es": "plato hondo",
@@ -2345,8 +2111,7 @@
     "it": "piatto fondo",
     "ro": "farfurie adâncă",
     "group": "2",
-    "id": 235,
-    "read": false
+    "id": 235
   },
   {
     "es": "cuchillo afilado",
@@ -2355,8 +2120,7 @@
     "it": "coltello affilato",
     "ro": "cuțit ascuțit",
     "group": "2",
-    "id": 236,
-    "read": false
+    "id": 236
   },
   {
     "es": "cuchara grande",
@@ -2365,8 +2129,7 @@
     "it": "cucchiaio grande",
     "ro": "lingură mare",
     "group": "2",
-    "id": 237,
-    "read": false
+    "id": 237
   },
   {
     "es": "servilleta blanca",
@@ -2375,8 +2138,7 @@
     "it": "tovagliolo bianco",
     "ro": "șervețel alb",
     "group": "2",
-    "id": 238,
-    "read": false
+    "id": 238
   },
   {
     "es": "cuerpo joven",
@@ -2385,8 +2147,7 @@
     "it": "corpo giovane",
     "ro": "corp tânăr",
     "group": "2",
-    "id": 239,
-    "read": false
+    "id": 239
   },
   {
     "es": "sangre roja",
@@ -2395,8 +2156,7 @@
     "it": "sangue rosso",
     "ro": "sânge roșu",
     "group": "2",
-    "id": 240,
-    "read": false
+    "id": 240
   },
   {
     "es": "dolor fuerte",
@@ -2405,8 +2165,7 @@
     "it": "dolore forte",
     "ro": "durere puternică",
     "group": "2",
-    "id": 241,
-    "read": false
+    "id": 241
   },
   {
     "es": "salud buena",
@@ -2415,8 +2174,7 @@
     "it": "buona salute",
     "ro": "sănătate bună",
     "group": "2",
-    "id": 242,
-    "read": false
+    "id": 242
   },
   {
     "es": "sueño profundo",
@@ -2425,8 +2183,7 @@
     "it": "sonno profondo",
     "ro": "somn profund",
     "group": "2",
-    "id": 243,
-    "read": false
+    "id": 243
   },
   {
     "es": "alma libre",
@@ -2435,8 +2192,7 @@
     "it": "anima libera",
     "ro": "suflet liber",
     "group": "2",
-    "id": 244,
-    "read": false
+    "id": 244
   },
   {
     "es": "verdad pura",
@@ -2445,8 +2201,7 @@
     "it": "verità pura",
     "ro": "adevăr pur",
     "group": "2",
-    "id": 245,
-    "read": false
+    "id": 245
   },
   {
     "es": "mentira piadosa",
@@ -2455,8 +2210,7 @@
     "it": "bugia pietosa",
     "ro": "minciună nevinovată",
     "group": "2",
-    "id": 246,
-    "read": false
+    "id": 246
   },
   {
     "es": "beso largo",
@@ -2465,8 +2219,7 @@
     "it": "bacio lungo",
     "ro": "sărut lung",
     "group": "2",
-    "id": 247,
-    "read": false
+    "id": 247
   },
   {
     "es": "abrazo fuerte",
@@ -2475,8 +2228,7 @@
     "it": "abbraccio forte",
     "ro": "îmbrățișare strânsă",
     "group": "2",
-    "id": 248,
-    "read": false
+    "id": 248
   },
   {
     "es": "mirada triste",
@@ -2485,8 +2237,7 @@
     "it": "sguardo triste",
     "ro": "privire tristă",
     "group": "2",
-    "id": 249,
-    "read": false
+    "id": 249
   },
   {
     "es": "sonrisa bella",
@@ -2495,8 +2246,7 @@
     "it": "sorriso bello",
     "ro": "zâmbet frumos",
     "group": "2",
-    "id": 250,
-    "read": false
+    "id": 250
   },
   {
     "es": "viento suave",
@@ -2505,8 +2255,7 @@
     "it": "vento leggero",
     "ro": "vânt ușor",
     "group": "2",
-    "id": 251,
-    "read": false
+    "id": 251
   },
   {
     "es": "lluvia fuerte",
@@ -2515,8 +2264,7 @@
     "it": "pioggia forte",
     "ro": "ploaie torențială",
     "group": "2",
-    "id": 252,
-    "read": false
+    "id": 252
   },
   {
     "es": "nieve blanca",
@@ -2525,8 +2273,7 @@
     "it": "neve bianca",
     "ro": "zăpadă albă",
     "group": "2",
-    "id": 253,
-    "read": false
+    "id": 253
   },
   {
     "es": "hielo frío",
@@ -2535,8 +2282,7 @@
     "it": "ghiaccio freddo",
     "ro": "gheață rece",
     "group": "2",
-    "id": 254,
-    "read": false
+    "id": 254
   },
   {
     "es": "bosque oscuro",
@@ -2545,8 +2291,7 @@
     "it": "bosco oscuro",
     "ro": "pădure întunecată",
     "group": "2",
-    "id": 255,
-    "read": false
+    "id": 255
   },
   {
     "es": "árbol alto",
@@ -2555,8 +2300,7 @@
     "it": "albero alto",
     "ro": "copac înalt",
     "group": "2",
-    "id": 256,
-    "read": false
+    "id": 256
   },
   {
     "es": "pájaro pequeño",
@@ -2565,8 +2309,7 @@
     "it": "uccello piccolo",
     "ro": "pasăre mică",
     "group": "2",
-    "id": 257,
-    "read": false
+    "id": 257
   },
   {
     "es": "gato negro",
@@ -2575,8 +2318,7 @@
     "it": "gatto nero",
     "ro": "pisică neagră",
     "group": "2",
-    "id": 258,
-    "read": false
+    "id": 258
   },
   {
     "es": "perro fiel",
@@ -2585,8 +2327,7 @@
     "it": "cane fedele",
     "ro": "câine fidel",
     "group": "2",
-    "id": 259,
-    "read": false
+    "id": 259
   },
   {
     "es": "caballo rápido",
@@ -2595,8 +2336,7 @@
     "it": "cavallo veloce",
     "ro": "cal rapid",
     "group": "2",
-    "id": 260,
-    "read": false
+    "id": 260
   },
   {
     "es": "pez azul",
@@ -2605,8 +2345,7 @@
     "it": "pesce azzurro",
     "ro": "pește albastru",
     "group": "2",
-    "id": 261,
-    "read": false
+    "id": 261
   },
   {
     "es": "león fuerte",
@@ -2615,8 +2354,7 @@
     "it": "leone forte",
     "ro": "leu puternic",
     "group": "2",
-    "id": 262,
-    "read": false
+    "id": 262
   },
   {
     "es": "mar profundo",
@@ -2625,8 +2363,7 @@
     "it": "mare profondo",
     "ro": "mare adâncă",
     "group": "2",
-    "id": 263,
-    "read": false
+    "id": 263
   },
   {
     "es": "ola grande",
@@ -2635,8 +2372,7 @@
     "it": "onda grande",
     "ro": "val mare",
     "group": "2",
-    "id": 264,
-    "read": false
+    "id": 264
   },
   {
     "es": "arena caliente",
@@ -2645,8 +2381,7 @@
     "it": "sabbia calda",
     "ro": "nisip fierbinte",
     "group": "2",
-    "id": 265,
-    "read": false
+    "id": 265
   },
   {
     "es": "piedra dura",
@@ -2655,8 +2390,7 @@
     "it": "pietra dura",
     "ro": "piatră dură",
     "group": "2",
-    "id": 266,
-    "read": false
+    "id": 266
   },
   {
     "es": "oro puro",
@@ -2665,8 +2399,7 @@
     "it": "oro puro",
     "ro": "aur pur",
     "group": "2",
-    "id": 267,
-    "read": false
+    "id": 267
   },
   {
     "es": "plata vieja",
@@ -2675,8 +2408,7 @@
     "it": "argento vecchio",
     "ro": "argint vechi",
     "group": "2",
-    "id": 268,
-    "read": false
+    "id": 268
   },
   {
     "es": "hierro pesado",
@@ -2685,8 +2417,7 @@
     "it": "ferro pesante",
     "ro": "fier greu",
     "group": "2",
-    "id": 269,
-    "read": false
+    "id": 269
   },
   {
     "es": "madera seca",
@@ -2695,8 +2426,7 @@
     "it": "legno secco",
     "ro": "lemn uscat",
     "group": "2",
-    "id": 270,
-    "read": false
+    "id": 270
   },
   {
     "es": "vidrio roto",
@@ -2705,8 +2435,7 @@
     "it": "vetro rotto",
     "ro": "sticlă spartă",
     "group": "2",
-    "id": 271,
-    "read": false
+    "id": 271
   },
   {
     "es": "papel reciclado",
@@ -2715,8 +2444,7 @@
     "it": "carta riciclata",
     "ro": "hârtie reciclată",
     "group": "2",
-    "id": 272,
-    "read": false
+    "id": 272
   },
   {
     "es": "plástico azul",
@@ -2725,8 +2453,7 @@
     "it": "plastica blu",
     "ro": "plastic albastru",
     "group": "2",
-    "id": 273,
-    "read": false
+    "id": 273
   },
   {
     "es": "tela suave",
@@ -2735,8 +2462,7 @@
     "it": "tessuto morbido",
     "ro": "material moale",
     "group": "2",
-    "id": 274,
-    "read": false
+    "id": 274
   },
   {
     "es": "lana caliente",
@@ -2745,8 +2471,7 @@
     "it": "lana calda",
     "ro": "lână călduroasă",
     "group": "2",
-    "id": 275,
-    "read": false
+    "id": 275
   },
   {
     "es": "seda fina",
@@ -2755,8 +2480,7 @@
     "it": "seta fine",
     "ro": "mătase fină",
     "group": "2",
-    "id": 276,
-    "read": false
+    "id": 276
   },
   {
     "es": "cuero negro",
@@ -2765,8 +2489,7 @@
     "it": "pelle nera",
     "ro": "piele neagră",
     "group": "2",
-    "id": 277,
-    "read": false
+    "id": 277
   },
   {
     "es": "color rojo",
@@ -2775,8 +2498,7 @@
     "it": "colore rosso",
     "ro": "culoare roșie",
     "group": "2",
-    "id": 278,
-    "read": false
+    "id": 278
   },
   {
     "es": "verde claro",
@@ -2785,8 +2507,7 @@
     "it": "verde chiaro",
     "ro": "verde deschis",
     "group": "2",
-    "id": 279,
-    "read": false
+    "id": 279
   },
   {
     "es": "azul oscuro",
@@ -2795,8 +2516,7 @@
     "it": "blu scuro",
     "ro": "albastru închis",
     "group": "2",
-    "id": 280,
-    "read": false
+    "id": 280
   },
   {
     "es": "amarillo sol",
@@ -2805,8 +2525,7 @@
     "it": "giallo sole",
     "ro": "galben solar",
     "group": "2",
-    "id": 281,
-    "read": false
+    "id": 281
   },
   {
     "es": "blanco puro",
@@ -2815,8 +2534,7 @@
     "it": "bianco puro",
     "ro": "alb pur",
     "group": "2",
-    "id": 282,
-    "read": false
+    "id": 282
   },
   {
     "es": "negro total",
@@ -2825,8 +2543,7 @@
     "it": "nero totale",
     "ro": "negru total",
     "group": "2",
-    "id": 283,
-    "read": false
+    "id": 283
   },
   {
     "es": "gris plata",
@@ -2835,8 +2552,7 @@
     "it": "grigio argento",
     "ro": "gri argintiu",
     "group": "2",
-    "id": 284,
-    "read": false
+    "id": 284
   },
   {
     "es": "marrón tierra",
@@ -2845,8 +2561,7 @@
     "it": "marrone terra",
     "ro": "maro pământiu",
     "group": "2",
-    "id": 285,
-    "read": false
+    "id": 285
   },
   {
     "es": "rosa pastel",
@@ -2855,8 +2570,7 @@
     "it": "rosa pastello",
     "ro": "roz pastel",
     "group": "2",
-    "id": 286,
-    "read": false
+    "id": 286
   },
   {
     "es": "naranja brillante",
@@ -2865,8 +2579,7 @@
     "it": "arancione brillante",
     "ro": "portocaliu aprins",
     "group": "2",
-    "id": 287,
-    "read": false
+    "id": 287
   },
   {
     "es": "violeta suave",
@@ -2875,8 +2588,7 @@
     "it": "viola tenue",
     "ro": "violet suav",
     "group": "2",
-    "id": 288,
-    "read": false
+    "id": 288
   },
   {
     "es": "mucho trabajo",
@@ -2885,8 +2597,7 @@
     "it": "molto lavoro",
     "ro": "multă muncă",
     "group": "2",
-    "id": 289,
-    "read": false
+    "id": 289
   },
   {
     "es": "poca gente",
@@ -2895,8 +2606,7 @@
     "it": "poca gente",
     "ro": "puțini oameni",
     "group": "2",
-    "id": 290,
-    "read": false
+    "id": 290
   },
   {
     "es": "varias veces",
@@ -2905,8 +2615,7 @@
     "it": "varie volte",
     "ro": "de mai multe ori",
     "group": "2",
-    "id": 291,
-    "read": false
+    "id": 291
   },
   {
     "es": "algunos días",
@@ -2915,8 +2624,7 @@
     "it": "alcuni giorni",
     "ro": "unele zile",
     "group": "2",
-    "id": 292,
-    "read": false
+    "id": 292
   },
   {
     "es": "ninguna parte",
@@ -2925,8 +2633,7 @@
     "it": "nessuna parte",
     "ro": "nicio parte",
     "group": "2",
-    "id": 293,
-    "read": false
+    "id": 293
   },
   {
     "es": "cualquier cosa",
@@ -2935,8 +2642,7 @@
     "it": "qualsiasi cosa",
     "ro": "orice",
     "group": "2",
-    "id": 294,
-    "read": false
+    "id": 294
   },
   {
     "es": "todo mundo",
@@ -2945,8 +2651,7 @@
     "it": "tutti quanti",
     "ro": "toată lumea",
     "group": "2",
-    "id": 295,
-    "read": false
+    "id": 295
   },
   {
     "es": "cada uno",
@@ -2955,8 +2660,7 @@
     "it": "ognuno",
     "ro": "fiecare",
     "group": "2",
-    "id": 296,
-    "read": false
+    "id": 296
   },
   {
     "es": "mismo lugar",
@@ -2965,8 +2669,7 @@
     "it": "stesso posto",
     "ro": "același loc",
     "group": "2",
-    "id": 297,
-    "read": false
+    "id": 297
   },
   {
     "es": "otro camino",
@@ -2975,8 +2678,7 @@
     "it": "un'altra via",
     "ro": "alt drum",
     "group": "2",
-    "id": 298,
-    "read": false
+    "id": 298
   },
   {
     "es": "mitad precio",
@@ -2985,8 +2687,7 @@
     "it": "metà prezzo",
     "ro": "jumătate de preț",
     "group": "2",
-    "id": 299,
-    "read": false
+    "id": 299
   },
   {
     "es": "doble ración",
@@ -2995,8 +2696,7 @@
     "it": "doppia razione",
     "ro": "porție dublă",
     "group": "2",
-    "id": 300,
-    "read": false
+    "id": 300
   },
   {
     "es": "triple salto",
@@ -3005,8 +2705,7 @@
     "it": "salto triplo",
     "ro": "triplu salt",
     "group": "2",
-    "id": 301,
-    "read": false
+    "id": 301
   },
   {
     "es": "primer amor",
@@ -3015,8 +2714,7 @@
     "it": "primo amore",
     "ro": "prima iubire",
     "group": "2",
-    "id": 302,
-    "read": false
+    "id": 302
   },
   {
     "es": "segunda mano",
@@ -3025,8 +2723,7 @@
     "it": "seconda mano",
     "ro": "la mâna a doua",
     "group": "2",
-    "id": 303,
-    "read": false
+    "id": 303
   },
   {
     "es": "tercer piso",
@@ -3035,8 +2732,7 @@
     "it": "terzo piano",
     "ro": "etajul trei",
     "group": "2",
-    "id": 304,
-    "read": false
+    "id": 304
   },
   {
     "es": "cuarta pared",
@@ -3045,8 +2741,7 @@
     "it": "quarta parete",
     "ro": "al patrulea perete",
     "group": "2",
-    "id": 305,
-    "read": false
+    "id": 305
   },
   {
     "es": "quinto elemento",
@@ -3055,8 +2750,7 @@
     "it": "quinto elemento",
     "ro": "al cincilea element",
     "group": "2",
-    "id": 306,
-    "read": false
+    "id": 306
   },
   {
     "es": "último aviso",
@@ -3065,8 +2759,7 @@
     "it": "ultimo avviso",
     "ro": "ultimul avertisment",
     "group": "2",
-    "id": 307,
-    "read": false
+    "id": 307
   },
   {
     "es": "siglo veinte",
@@ -3075,8 +2768,7 @@
     "it": "ventesimo secolo",
     "ro": "secolul douăzeci",
     "group": "2",
-    "id": 308,
-    "read": false
+    "id": 308
   },
   {
     "es": "año bisiesto",
@@ -3085,8 +2777,7 @@
     "it": "anno bisestile",
     "ro": "an bisect",
     "group": "2",
-    "id": 309,
-    "read": false
+    "id": 309
   },
   {
     "es": "semana santa",
@@ -3095,8 +2786,7 @@
     "it": "settimana santa",
     "ro": "săptămâna mare",
     "group": "2",
-    "id": 310,
-    "read": false
+    "id": 310
   },
   {
     "es": "lunes mañana",
@@ -3105,8 +2795,7 @@
     "it": "lunedì mattina",
     "ro": "luni dimineața",
     "group": "2",
-    "id": 311,
-    "read": false
+    "id": 311
   },
   {
     "es": "viernes noche",
@@ -3115,8 +2804,7 @@
     "it": "venerdì notte",
     "ro": "vineri noapte",
     "group": "2",
-    "id": 312,
-    "read": false
+    "id": 312
   },
   {
     "es": "fin ciclo",
@@ -3125,8 +2813,7 @@
     "it": "fine ciclo",
     "ro": "sfârșit de ciclu",
     "group": "2",
-    "id": 313,
-    "read": false
+    "id": 313
   },
   {
     "es": "clima tropical",
@@ -3135,8 +2822,7 @@
     "it": "clima tropicale",
     "ro": "climat tropical",
     "group": "2",
-    "id": 314,
-    "read": false
+    "id": 314
   },
   {
     "es": "tormenta eléctrica",
@@ -3145,8 +2831,7 @@
     "it": "temporale",
     "ro": "furtună electrică",
     "group": "2",
-    "id": 315,
-    "read": false
+    "id": 315
   },
   {
     "es": "viento norte",
@@ -3155,8 +2840,7 @@
     "it": "tramontana",
     "ro": "vânt de nord",
     "group": "2",
-    "id": 316,
-    "read": false
+    "id": 316
   },
   {
     "es": "calor sofocante",
@@ -3165,8 +2849,7 @@
     "it": "caldo soffocante",
     "ro": "căldură sufocantă",
     "group": "2",
-    "id": 317,
-    "read": false
+    "id": 317
   },
   {
     "es": "frio polar",
@@ -3175,8 +2858,7 @@
     "it": "freddo polare",
     "ro": "frig polar",
     "group": "2",
-    "id": 318,
-    "read": false
+    "id": 318
   },
   {
     "es": "niebla espesa",
@@ -3185,8 +2867,7 @@
     "it": "nebbia fitta",
     "ro": "ceață deasă",
     "group": "2",
-    "id": 319,
-    "read": false
+    "id": 319
   },
   {
     "es": "luz solar",
@@ -3195,8 +2876,7 @@
     "it": "luce solare",
     "ro": "lumină solară",
     "group": "2",
-    "id": 320,
-    "read": false
+    "id": 320
   },
   {
     "es": "sombra larga",
@@ -3205,8 +2885,7 @@
     "it": "ombra lunga",
     "ro": "umbră lungă",
     "group": "2",
-    "id": 321,
-    "read": false
+    "id": 321
   },
   {
     "es": "ruido blanco",
@@ -3215,8 +2894,7 @@
     "it": "rumore bianco",
     "ro": "zgomot alb",
     "group": "2",
-    "id": 322,
-    "read": false
+    "id": 322
   },
   {
     "es": "silencio absoluto",
@@ -3225,8 +2903,7 @@
     "it": "silenzio assoluto",
     "ro": "liniște absolută",
     "group": "2",
-    "id": 323,
-    "read": false
+    "id": 323
   },
   {
     "es": "voz dulce",
@@ -3235,8 +2912,7 @@
     "it": "voce dolce",
     "ro": "voce dulce",
     "group": "2",
-    "id": 324,
-    "read": false
+    "id": 324
   },
   {
     "es": "grito fuerte",
@@ -3245,8 +2921,7 @@
     "it": "grido forte",
     "ro": "strigăt puternic",
     "group": "2",
-    "id": 325,
-    "read": false
+    "id": 325
   },
   {
     "es": "paso ligero",
@@ -3255,8 +2930,7 @@
     "it": "passo leggero",
     "ro": "pas ușor",
     "group": "2",
-    "id": 326,
-    "read": false
+    "id": 326
   },
   {
     "es": "salto alto",
@@ -3265,8 +2939,7 @@
     "it": "salto in alto",
     "ro": "săritură în înălțime",
     "group": "2",
-    "id": 327,
-    "read": false
+    "id": 327
   },
   {
     "es": "carrera rápida",
@@ -3275,8 +2948,7 @@
     "it": "corsa veloce",
     "ro": "cursă rapidă",
     "group": "2",
-    "id": 328,
-    "read": false
+    "id": 328
   },
   {
     "es": "lucha libre",
@@ -3285,8 +2957,7 @@
     "it": "lotta libera",
     "ro": "lupte libere",
     "group": "2",
-    "id": 329,
-    "read": false
+    "id": 329
   },
   {
     "es": "juego limpio",
@@ -3295,8 +2966,7 @@
     "it": "gioco pulito",
     "ro": "joc curat",
     "group": "2",
-    "id": 330,
-    "read": false
+    "id": 330
   },
   {
     "es": "pelota roja",
@@ -3305,8 +2975,7 @@
     "it": "palla rossa",
     "ro": "minge roșie",
     "group": "2",
-    "id": 331,
-    "read": false
+    "id": 331
   },
   {
     "es": "equipo ganador",
@@ -3315,8 +2984,7 @@
     "it": "squadra vincente",
     "ro": "echipă câștigătoare",
     "group": "2",
-    "id": 332,
-    "read": false
+    "id": 332
   },
   {
     "es": "premio mayor",
@@ -3325,8 +2993,7 @@
     "it": "primo premio",
     "ro": "marele premiu",
     "group": "2",
-    "id": 333,
-    "read": false
+    "id": 333
   },
   {
     "es": "derrota amarga",
@@ -3335,8 +3002,7 @@
     "it": "sconfitta amara",
     "ro": "înfrângere amară",
     "group": "2",
-    "id": 334,
-    "read": false
+    "id": 334
   },
   {
     "es": "esfuerzo máximo",
@@ -3345,8 +3011,7 @@
     "it": "massimo sforzo",
     "ro": "efort maxim",
     "group": "2",
-    "id": 335,
-    "read": false
+    "id": 335
   },
   {
     "es": "meta clara",
@@ -3355,8 +3020,7 @@
     "it": "meta chiara",
     "ro": "țel clar",
     "group": "2",
-    "id": 336,
-    "read": false
+    "id": 336
   },
   {
     "es": "sueño cumplido",
@@ -3365,8 +3029,7 @@
     "it": "sogno avverato",
     "ro": "vis împlinit",
     "group": "2",
-    "id": 337,
-    "read": false
+    "id": 337
   },
   {
     "es": "camino difícil",
@@ -3375,8 +3038,7 @@
     "it": "strada difficile",
     "ro": "drum dificil",
     "group": "2",
-    "id": 338,
-    "read": false
+    "id": 338
   },
   {
     "es": "ayuda mutua",
@@ -3385,8 +3047,7 @@
     "it": "aiuto reciproco",
     "ro": "ajutor reciproc",
     "group": "2",
-    "id": 339,
-    "read": false
+    "id": 339
   },
   {
     "es": "unión fuerte",
@@ -3395,8 +3056,7 @@
     "it": "unione forte",
     "ro": "uniune puternică",
     "group": "2",
-    "id": 340,
-    "read": false
+    "id": 340
   },
   {
     "es": "paz interior",
@@ -3405,8 +3065,7 @@
     "it": "pace interiore",
     "ro": "liniște interioară",
     "group": "2",
-    "id": 341,
-    "read": false
+    "id": 341
   },
   {
     "es": "odio eterno",
@@ -3415,8 +3074,7 @@
     "it": "odio eterno",
     "ro": "ură eternă",
     "group": "2",
-    "id": 342,
-    "read": false
+    "id": 342
   },
   {
     "es": "duda razonable",
@@ -3425,8 +3083,7 @@
     "it": "dubbio ragionevole",
     "ro": "dubiu rezonabil",
     "group": "2",
-    "id": 343,
-    "read": false
+    "id": 343
   },
   {
     "es": "fe ciega",
@@ -3435,8 +3092,7 @@
     "it": "fede cieca",
     "ro": "credință oarbă",
     "group": "2",
-    "id": 344,
-    "read": false
+    "id": 344
   },
   {
     "es": "esperanza viva",
@@ -3445,8 +3101,7 @@
     "it": "speranza viva",
     "ro": "speranță vie",
     "group": "2",
-    "id": 345,
-    "read": false
+    "id": 345
   },
   {
     "es": "miedo profundo",
@@ -3455,8 +3110,7 @@
     "it": "paura profonda",
     "ro": "frică profundă",
     "group": "2",
-    "id": 346,
-    "read": false
+    "id": 346
   },
   {
     "es": "valor real",
@@ -3465,8 +3119,7 @@
     "it": "valore reale",
     "ro": "valoare reală",
     "group": "2",
-    "id": 347,
-    "read": false
+    "id": 347
   },
   {
     "es": "justicia social",
@@ -3475,8 +3128,7 @@
     "it": "giustizia sociale",
     "ro": "justiție socială",
     "group": "2",
-    "id": 348,
-    "read": false
+    "id": 348
   },
   {
     "es": "ley seca",
@@ -3485,8 +3137,7 @@
     "it": "proibizionismo",
     "ro": "prohibiție",
     "group": "2",
-    "id": 349,
-    "read": false
+    "id": 349
   },
   {
     "es": "orden público",
@@ -3495,7 +3146,1806 @@
     "it": "ordine pubblico",
     "ro": "ordine publică",
     "group": "2",
-    "id": 350,
-    "read": false
+    "id": 350
+  },
+  {
+    "es": "derechos humanos",
+    "en": "human rights",
+    "de": "Menschenrechte",
+    "it": "diritti umani",
+    "ro": "drepturile omului",
+    "group": "2",
+    "id": 351
+  },
+  {
+    "es": "seguridad ciudadana",
+    "en": "public safety",
+    "de": "öffentliche Sicherheit",
+    "it": "sicurezza pubblica",
+    "ro": "siguranță publică",
+    "group": "2",
+    "id": 352
+  },
+  {
+    "es": "estado de derecho",
+    "en": "rule of law",
+    "de": "Rechtsstaatlichkeit",
+    "it": "stato di diritto",
+    "ro": "stat de drept",
+    "group": "2",
+    "id": 353
+  },
+  {
+    "es": "justicia social",
+    "en": "social justice",
+    "de": "soziale Gerechtigkeit",
+    "it": "giustizia sociale",
+    "ro": "justiție socială",
+    "group": "2",
+    "id": 354
+  },
+  {
+    "es": "bienestar público",
+    "en": "public welfare",
+    "de": "öffentliches Wohl",
+    "it": "benessere pubblico",
+    "ro": "bunăstare publică",
+    "group": "2",
+    "id": 355
+  },
+  {
+    "es": "libertad de prensa",
+    "en": "freedom of the press",
+    "de": "Pressefreiheit",
+    "it": "libertà di stampa",
+    "ro": "libertatea presei",
+    "group": "2",
+    "id": 356
+  },
+  {
+    "es": "propiedad privada",
+    "en": "private property",
+    "de": "Privateigentum",
+    "it": "proprietà privata",
+    "ro": "proprietate privată",
+    "group": "2",
+    "id": 357
+  },
+  {
+    "es": "derecho civil",
+    "en": "civil law",
+    "de": "Zivilrecht",
+    "it": "diritto civile",
+    "ro": "drept civil",
+    "group": "2",
+    "id": 358
+  },
+  {
+    "es": "derecho penal",
+    "en": "criminal law",
+    "de": "Strafrecht",
+    "it": "diritto penale",
+    "ro": "drept penal",
+    "group": "2",
+    "id": 359
+  },
+  {
+    "es": "tribunal supremo",
+    "en": "supreme court",
+    "de": "oberster Gerichtshof",
+    "it": "corte suprema",
+    "ro": "curte supremă",
+    "group": "2",
+    "id": 360
+  },
+  {
+    "es": "procedimiento legal",
+    "en": "legal procedure",
+    "de": "Rechtsverfahren",
+    "it": "procedura legale",
+    "ro": "procedură legală",
+    "group": "2",
+    "id": 361
+  },
+  {
+    "es": "administración pública",
+    "en": "public administration",
+    "de": "öffentliche Verwaltung",
+    "it": "pubblica amministrazione",
+    "ro": "administrație publică",
+    "group": "2",
+    "id": 362
+  },
+  {
+    "es": "política fiscal",
+    "en": "fiscal policy",
+    "de": "Fiskalpolitik",
+    "it": "politica fiscale",
+    "ro": "politică fiscală",
+    "group": "2",
+    "id": 363
+  },
+  {
+    "es": "asistencia sanitaria",
+    "en": "healthcare",
+    "de": "Gesundheitswesen",
+    "it": "assistenza sanitaria",
+    "ro": "asistență medicală",
+    "group": "2",
+    "id": 364
+  },
+  {
+    "es": "seguro social",
+    "en": "social security",
+    "de": "Sozialversicherung",
+    "it": "previdenza sociale",
+    "ro": "asigurări sociale",
+    "group": "2",
+    "id": 365
+  },
+  {
+    "es": "educación pública",
+    "en": "public education",
+    "de": "öffentliche Bildung",
+    "it": "istruzione pubblica",
+    "ro": "educație publică",
+    "group": "2",
+    "id": 366
+  },
+  {
+    "es": "medio ambiente",
+    "en": "environment",
+    "de": "Umwelt",
+    "it": "ambiente",
+    "ro": "mediu înconjurător",
+    "group": "2",
+    "id": 367
+  },
+  {
+    "es": "cambio climático",
+    "en": "climate change",
+    "de": "Klimawandel",
+    "it": "cambiamento climatico",
+    "ro": "schimbări climatice",
+    "group": "2",
+    "id": 368
+  },
+  {
+    "es": "desarrollo sostenible",
+    "en": "sustainable development",
+    "de": "nachhaltige Entwicklung",
+    "it": "sviluppo sostenibile",
+    "ro": "dezvoltare durabilă",
+    "group": "2",
+    "id": 369
+  },
+  {
+    "es": "comercio exterior",
+    "en": "foreign trade",
+    "de": "Außenhandel",
+    "it": "commercio estero",
+    "ro": "comerț exterior",
+    "group": "2",
+    "id": 370
+  },
+  {
+    "es": "relaciones internacionales",
+    "en": "international relations",
+    "de": "internationale Beziehungen",
+    "it": "relazioni internazionali",
+    "ro": "relații internaționale",
+    "group": "2",
+    "id": 371
+  },
+  {
+    "es": "soberanía nacional",
+    "en": "national sovereignty",
+    "de": "nationale Souveränität",
+    "it": "sovranità nazionale",
+    "ro": "suveranitate națională",
+    "group": "2",
+    "id": 372
+  },
+  {
+    "es": "democracia parlamentaria",
+    "en": "parliamentary democracy",
+    "de": "parlamentarische Demokratie",
+    "it": "democrazia parlamentare",
+    "ro": "democrație parlamentară",
+    "group": "2",
+    "id": 373
+  },
+  {
+    "es": "sistema electoral",
+    "en": "electoral system",
+    "de": "Wahlsystem",
+    "it": "sistema elettorale",
+    "ro": "sistem electoral",
+    "group": "2",
+    "id": 374
+  },
+  {
+    "es": "partido político",
+    "en": "political party",
+    "de": "politische Partei",
+    "it": "partito politico",
+    "ro": "partid politic",
+    "group": "2",
+    "id": 375
+  },
+  {
+    "es": "libertad de expresión",
+    "en": "freedom of speech",
+    "de": "Meinungsfreiheit",
+    "it": "libertà di espressione",
+    "ro": "libertatea de exprimare",
+    "group": "2",
+    "id": 376
+  },
+  {
+    "es": "derecho al voto",
+    "en": "right to vote",
+    "de": "Wahlrecht",
+    "it": "diritto di voto",
+    "ro": "drept de vot",
+    "group": "2",
+    "id": 377
+  },
+  {
+    "es": "asamblea general",
+    "en": "general assembly",
+    "de": "Generalversammlung",
+    "it": "assemblea generale",
+    "ro": "adunare generală",
+    "group": "2",
+    "id": 378
+  },
+  {
+    "es": "constitución",
+    "en": "constitution",
+    "de": "Verfassung",
+    "it": "costituzione",
+    "ro": "constituție",
+    "group": "2",
+    "id": 379
+  },
+  {
+    "es": "separación de poderes",
+    "en": "separation of powers",
+    "de": "Gewaltenteilung",
+    "it": "separazione dei poteri",
+    "ro": "separarea puterilor",
+    "group": "2",
+    "id": 380
+  },
+  {
+    "es": "gobierno local",
+    "en": "local government",
+    "de": "Lokalregierung",
+    "it": "governo locale",
+    "ro": "guvern local",
+    "group": "2",
+    "id": 381
+  },
+  {
+    "es": "presupuesto estatal",
+    "en": "state budget",
+    "de": "Staatshaushalt",
+    "it": "bilancio dello Stato",
+    "ro": "buget de stat",
+    "group": "2",
+    "id": 382
+  },
+  {
+    "es": "deuda pública",
+    "en": "public debt",
+    "de": "Staatsschulden",
+    "it": "debito pubblico",
+    "ro": "datorie publică",
+    "group": "2",
+    "id": 383
+  },
+  {
+    "es": "inflación",
+    "en": "inflation",
+    "de": "Inflation",
+    "it": "inflazione",
+    "ro": "inflație",
+    "group": "2",
+    "id": 384
+  },
+  {
+    "es": "mercado laboral",
+    "en": "labor market",
+    "de": "Arbeitsmarkt",
+    "it": "mercato del lavoro",
+    "ro": "piața muncii",
+    "group": "2",
+    "id": 385
+  },
+  {
+    "es": "sindicato",
+    "en": "trade union",
+    "de": "Gewerkschaft",
+    "it": "sindacato",
+    "ro": "sindicat",
+    "group": "2",
+    "id": 386
+  },
+  {
+    "es": "salario mínimo",
+    "en": "minimum wage",
+    "de": "Mindestlohn",
+    "it": "salario minimo",
+    "ro": "salariu minim",
+    "group": "2",
+    "id": 387
+  },
+  {
+    "es": "crecimiento económico",
+    "en": "economic growth",
+    "de": "Wirtschaftswachstum",
+    "it": "crescita economica",
+    "ro": "creștere economică",
+    "group": "2",
+    "id": 388
+  },
+  {
+    "es": "globalización",
+    "en": "globalization",
+    "de": "Globalisierung",
+    "it": "globalizzazione",
+    "ro": "globalizare",
+    "group": "2",
+    "id": 389
+  },
+  {
+    "es": "patrimonio cultural",
+    "en": "cultural heritage",
+    "de": "Kulturerbe",
+    "it": "patrimonio culturale",
+    "ro": "patrimoniu cultural",
+    "group": "2",
+    "id": 390
+  },
+  {
+    "es": "identidad nacional",
+    "en": "national identity",
+    "de": "nationale Identität",
+    "it": "identità nazionale",
+    "ro": "identitate națională",
+    "group": "2",
+    "id": 391
+  },
+  {
+    "es": "minoría étnica",
+    "en": "ethnic minority",
+    "de": "ethnische Minderheit",
+    "it": "minoranza etnica",
+    "ro": "minoritate etnică",
+    "group": "2",
+    "id": 392
+  },
+  {
+    "es": "migración",
+    "en": "migration",
+    "de": "Migration",
+    "it": "migrazione",
+    "ro": "migrație",
+    "group": "2",
+    "id": 393
+  },
+  {
+    "es": "asilo político",
+    "en": "political asylum",
+    "de": "politisches Asyl",
+    "it": "asilo politico",
+    "ro": "azil politic",
+    "group": "2",
+    "id": 394
+  },
+  {
+    "es": "integración social",
+    "en": "social integration",
+    "de": "soziale Integration",
+    "it": "integrazione sociale",
+    "ro": "integrare socială",
+    "group": "2",
+    "id": 395
+  },
+  {
+    "es": "pobreza",
+    "en": "poverty",
+    "de": "Armut",
+    "it": "povertà",
+    "ro": "sărăcie",
+    "group": "2",
+    "id": 396
+  },
+  {
+    "es": "desigualdad",
+    "en": "inequality",
+    "de": "Ungleichheit",
+    "it": "disuguaglianza",
+    "ro": "inegalitate",
+    "group": "2",
+    "id": 397
+  },
+  {
+    "es": "derechos de autor",
+    "en": "copyright",
+    "de": "Urheberrecht",
+    "it": "diritto d'autore",
+    "ro": "drept de autor",
+    "group": "2",
+    "id": 398
+  },
+  {
+    "es": "propiedad intelectual",
+    "en": "intellectual property",
+    "de": "geistiges Eigentum",
+    "it": "proprietà intellettuale",
+    "ro": "proprietate intelectuală",
+    "group": "2",
+    "id": 399
+  },
+  {
+    "es": "protección de datos",
+    "en": "data protection",
+    "de": "Datenschutz",
+    "it": "protezione dei dati",
+    "ro": "protecția datelor",
+    "group": "2",
+    "id": 400
+  },
+  {
+    "es": "infraestructura",
+    "en": "infrastructure",
+    "de": "Infrastruktur",
+    "it": "infrastruttura",
+    "ro": "infrastructură",
+    "group": "2",
+    "id": 401
+  },
+  {
+    "es": "transporte público",
+    "en": "public transport",
+    "de": "öffentlicher Verkehr",
+    "it": "trasporto pubblico",
+    "ro": "transport public",
+    "group": "2",
+    "id": 402
+  },
+  {
+    "es": "energía renovable",
+    "en": "renewable energy",
+    "de": "erneuerbare Energie",
+    "it": "energia rinnovabile",
+    "ro": "energie regenerabilă",
+    "group": "2",
+    "id": 403
+  },
+  {
+    "es": "innovación",
+    "en": "innovation",
+    "de": "Innovation",
+    "it": "innovazione",
+    "ro": "inovare",
+    "group": "2",
+    "id": 404
+  },
+  {
+    "es": "investigación científica",
+    "en": "scientific research",
+    "de": "wissenschaftliche Forschung",
+    "it": "ricerca scientifica",
+    "ro": "cercetare științifică",
+    "group": "2",
+    "id": 405
+  },
+  {
+    "es": "propiedad pública",
+    "en": "public property",
+    "de": "öffentliches Eigentum",
+    "it": "proprietà pubblica",
+    "ro": "proprietate publică",
+    "group": "2",
+    "id": 406
+  },
+  {
+    "es": "servicios públicos",
+    "en": "public services",
+    "de": "öffentliche Dienstleistungen",
+    "it": "servizi pubblici",
+    "ro": "servicii publice",
+    "group": "2",
+    "id": 407
+  },
+  {
+    "es": "ordenanza",
+    "en": "ordinance",
+    "de": "Verordnung",
+    "it": "ordinanza",
+    "ro": "ordonanță",
+    "group": "2",
+    "id": 408
+  },
+  {
+    "es": "decreto legislativo",
+    "en": "legislative decree",
+    "de": "Gesetzesdekret",
+    "it": "decreto legislativo",
+    "ro": "decret legislativ",
+    "group": "2",
+    "id": 409
+  },
+  {
+    "es": "jurisprudencia",
+    "en": "jurisprudence",
+    "de": "Rechtsprechung",
+    "it": "giurisprudenza",
+    "ro": "jurisprudență",
+    "group": "2",
+    "id": 410
+  },
+  {
+    "es": "corrupción",
+    "en": "corruption",
+    "de": "Korruption",
+    "it": "corruzione",
+    "ro": "corupție",
+    "group": "2",
+    "id": 411
+  },
+  {
+    "es": "transparencia",
+    "en": "transparency",
+    "de": "Transparenz",
+    "it": "trasparenza",
+    "ro": "transparență",
+    "group": "2",
+    "id": 412
+  },
+  {
+    "es": "rendición de cuentas",
+    "en": "accountability",
+    "de": "Rechenschaftspflicht",
+    "it": "responsabilità",
+    "ro": "răspundere",
+    "group": "2",
+    "id": 413
+  },
+  {
+    "es": "ética profesional",
+    "en": "professional ethics",
+    "de": "Berufsethik",
+    "it": "etica professionale",
+    "ro": "etică profesională",
+    "group": "2",
+    "id": 414
+  },
+  {
+    "es": "conflicto de intereses",
+    "en": "conflict of interest",
+    "de": "Interessenkonflikt",
+    "it": "conflitto di interessi",
+    "ro": "conflict de interese",
+    "group": "2",
+    "id": 415
+  },
+  {
+    "es": "soborno",
+    "en": "bribery",
+    "de": "Bestechung",
+    "it": "corruzione (bustarella)",
+    "ro": "mită",
+    "group": "2",
+    "id": 416
+  },
+  {
+    "es": "fraude",
+    "en": "fraud",
+    "de": "Betrug",
+    "it": "frode",
+    "ro": "fraudă",
+    "group": "2",
+    "id": 417
+  },
+  {
+    "es": "evasión fiscal",
+    "en": "tax evasion",
+    "de": "Steuerhinterziehung",
+    "it": "evasione fiscale",
+    "ro": "evaziune fiscală",
+    "group": "2",
+    "id": 418
+  },
+  {
+    "es": "lavado de dinero",
+    "en": "money laundering",
+    "de": "Geldwäsche",
+    "it": "riciclaggio di denaro",
+    "ro": "spălare de bani",
+    "group": "2",
+    "id": 419
+  },
+  {
+    "es": "delincuencia organizada",
+    "en": "organized crime",
+    "de": "organisierte Kriminalität",
+    "it": "criminalità organizzata",
+    "ro": "crimă organizată",
+    "group": "2",
+    "id": 420
+  },
+  {
+    "es": "derecho de asilo",
+    "en": "right of asylum",
+    "de": "Asylrecht",
+    "it": "diritto di asilo",
+    "ro": "drept de azil",
+    "group": "2",
+    "id": 421
+  },
+  {
+    "es": "soberanía popular",
+    "en": "popular sovereignty",
+    "de": "Volkssouveränität",
+    "it": "sovranità popolare",
+    "ro": "suveranitate populară",
+    "group": "2",
+    "id": 422
+  },
+  {
+    "es": "sufragio universal",
+    "en": "universal suffrage",
+    "de": "allgemeines Wahlrecht",
+    "it": "suffragio universale",
+    "ro": "sufragiu universal",
+    "group": "2",
+    "id": 423
+  },
+  {
+    "es": "plebiscito",
+    "en": "plebiscite",
+    "de": "Volksabstimmung",
+    "it": "plebiscito",
+    "ro": "plebiscit",
+    "group": "2",
+    "id": 424
+  },
+  {
+    "es": "referéndum",
+    "en": "referendum",
+    "de": "Referendum",
+    "it": "referendum",
+    "ro": "referendum",
+    "group": "2",
+    "id": 425
+  },
+  {
+    "es": "inmunidad diplomática",
+    "en": "diplomatic immunity",
+    "de": "diplomatische Immunität",
+    "it": "immunità diplomatica",
+    "ro": "imunitate diplomatică",
+    "group": "2",
+    "id": 426
+  },
+  {
+    "es": "tratado de paz",
+    "en": "peace treaty",
+    "de": "Friedensvertrag",
+    "it": "trattato di pace",
+    "ro": "tratat de pace",
+    "group": "2",
+    "id": 427
+  },
+  {
+    "es": "organización internacional",
+    "en": "international organization",
+    "de": "internationale Organisation",
+    "it": "organizzazione internazionale",
+    "ro": "organizație internațională",
+    "group": "2",
+    "id": 428
+  },
+  {
+    "es": "ayuda humanitaria",
+    "en": "humanitarian aid",
+    "de": "humanitäre Hilfe",
+    "it": "aiuto umanitario",
+    "ro": "ajutor umanitar",
+    "group": "2",
+    "id": 429
+  },
+  {
+    "es": "derecho internacional",
+    "en": "international law",
+    "de": "Völkerrecht",
+    "it": "diritto internazionale",
+    "ro": "drept internațional",
+    "group": "2",
+    "id": 430
+  },
+  {
+    "es": "seguridad nacional",
+    "en": "national security",
+    "de": "nationale Sicherheit",
+    "it": "sicurezza nazionale",
+    "ro": "securitate națională",
+    "group": "2",
+    "id": 431
+  },
+  {
+    "es": "fuerzas armadas",
+    "en": "armed forces",
+    "de": "Streitkräfte",
+    "it": "forze armate",
+    "ro": "forțe armate",
+    "group": "2",
+    "id": 432
+  },
+  {
+    "es": "servicio militar",
+    "en": "military service",
+    "de": "Militärdienst",
+    "it": "servizio militare",
+    "ro": "serviciu militar",
+    "group": "2",
+    "id": 433
+  },
+  {
+    "es": "desarme",
+    "en": "disarmament",
+    "de": "Abrüstung",
+    "it": "disarmo",
+    "ro": "dezarmare",
+    "group": "2",
+    "id": 434
+  },
+  {
+    "es": "crimen de guerra",
+    "en": "war crime",
+    "de": "Kriegsverbrechen",
+    "it": "crimine di guerra",
+    "ro": "crimă de război",
+    "group": "2",
+    "id": 435
+  },
+  {
+    "es": "genocidio",
+    "en": "genocide",
+    "de": "Genozid",
+    "it": "genocidio",
+    "ro": "genocid",
+    "group": "2",
+    "id": 436
+  },
+  {
+    "es": "derechos civiles",
+    "en": "civil rights",
+    "de": "Bürgerrechte",
+    "it": "diritti civili",
+    "ro": "drepturi civile",
+    "group": "2",
+    "id": 437
+  },
+  {
+    "es": "libertad de culto",
+    "en": "freedom of worship",
+    "de": "Religionsfreiheit",
+    "it": "libertà di culto",
+    "ro": "libertatea cultului",
+    "group": "2",
+    "id": 438
+  },
+  {
+    "es": "igualdad de género",
+    "en": "gender equality",
+    "de": "Gleichberechtigung",
+    "it": "parità di genere",
+    "ro": "egalitate de gen",
+    "group": "2",
+    "id": 439
+  },
+  {
+    "es": "discriminación",
+    "en": "discrimination",
+    "de": "Diskriminierung",
+    "it": "discriminazione",
+    "ro": "discriminare",
+    "group": "2",
+    "id": 440
+  },
+  {
+    "es": "justicia penal",
+    "en": "criminal justice",
+    "de": "Strafjustiz",
+    "it": "giustizia penale",
+    "ro": "justiție penală",
+    "group": "2",
+    "id": 441
+  },
+  {
+    "es": "presunción de inocencia",
+    "en": "presumption of innocence",
+    "de": "Unschuldsvermutung",
+    "it": "presunzione di innocenza",
+    "ro": "prezumția de nevinovăție",
+    "group": "2",
+    "id": 442
+  },
+  {
+    "es": "debido proceso",
+    "en": "due process",
+    "de": "ordentliches Verfahren",
+    "it": "giusto processo",
+    "ro": "proces echitabil",
+    "group": "2",
+    "id": 443
+  },
+  {
+    "es": "derecho a la defensa",
+    "en": "right to defense",
+    "de": "Recht auf Verteidigung",
+    "it": "diritto alla difesa",
+    "ro": "drept la apărare",
+    "group": "2",
+    "id": 444
+  },
+  {
+    "es": "sentencia judicial",
+    "en": "court ruling",
+    "de": "Gerichtsurteil",
+    "it": "sentenza giudiziaria",
+    "ro": "sentință judecătorească",
+    "group": "2",
+    "id": 445
+  },
+  {
+    "es": "apelación",
+    "en": "appeal",
+    "de": "Berufung",
+    "it": "appello",
+    "ro": "apel",
+    "group": "2",
+    "id": 446
+  },
+  {
+    "es": "indulto",
+    "en": "pardon",
+    "de": "Begnadigung",
+    "it": "indulto",
+    "ro": "grațiere",
+    "group": "2",
+    "id": 447
+  },
+  {
+    "es": "extradición",
+    "en": "extradition",
+    "de": "Auslieferung",
+    "it": "estradizione",
+    "ro": "extrădare",
+    "group": "2",
+    "id": 448
+  },
+  {
+    "es": "asistencia jurídica",
+    "en": "legal aid",
+    "de": "Rechtshilfe",
+    "it": "assistenza legale",
+    "ro": "asistență juridică",
+    "group": "2",
+    "id": 449
+  },
+  {
+    "es": "seguridad jurídica",
+    "en": "legal certainty",
+    "de": "Rechtssicherheit",
+    "it": "certezza del diritto",
+    "ro": "securitate juridică",
+    "group": "2",
+    "id": 450
+  },
+    {
+    "es": "mercado de capitales",
+    "en": "capital market",
+    "de": "Kapitalmarkt",
+    "it": "mercato dei capitali",
+    "ro": "piață de capital",
+    "group": "2",
+    "id": 451
+  },
+  {
+    "es": "acción",
+    "en": "share",
+    "de": "Aktie",
+    "it": "azione",
+    "ro": "acțiune",
+    "group": "2",
+    "id": 452
+  },
+  {
+    "es": "bono",
+    "en": "bond",
+    "de": "Anleihe",
+    "it": "obbligazione",
+    "ro": "obligațiune",
+    "group": "2",
+    "id": 453
+  },
+  {
+    "es": "tipo de interés",
+    "en": "interest rate",
+    "de": "Zinssatz",
+    "it": "tasso di interesse",
+    "ro": "rată a dobânzii",
+    "group": "2",
+    "id": 454
+  },
+  {
+    "es": "banco central",
+    "en": "central bank",
+    "de": "Zentralbank",
+    "it": "banca centrale",
+    "ro": "bancă centrală",
+    "group": "2",
+    "id": 455
+  },
+  {
+    "es": "reserva federal",
+    "en": "federal reserve",
+    "de": "Bundesreserve",
+    "it": "riserva federale",
+    "ro": "rezervă federală",
+    "group": "2",
+    "id": 456
+  },
+  {
+    "es": "producto interno bruto",
+    "en": "gross domestic product",
+    "de": "Bruttoinlandsprodukt",
+    "it": "prodotto interno lordo",
+    "ro": "produs intern brut",
+    "group": "2",
+    "id": 457
+  },
+  {
+    "es": "poder adquisitivo",
+    "en": "purchasing power",
+    "de": "Kaufkraft",
+    "it": "potere d'acquisto",
+    "ro": "putere de cumpărare",
+    "group": "2",
+    "id": 458
+  },
+  {
+    "es": "balanza comercial",
+    "en": "trade balance",
+    "de": "Handelsbilanz",
+    "it": "bilancia commerciale",
+    "ro": "balanță comercială",
+    "group": "2",
+    "id": 459
+  },
+  {
+    "es": "déficit",
+    "en": "deficit",
+    "de": "Defizit",
+    "it": "deficit",
+    "ro": "deficit",
+    "group": "2",
+    "id": 460
+  },
+  {
+    "es": "superávit",
+    "en": "surplus",
+    "de": "Überschuss",
+    "it": "surplus",
+    "ro": "excedent",
+    "group": "2",
+    "id": 461
+  },
+  {
+    "es": "inversión extranjera",
+    "en": "foreign investment",
+    "de": "Auslandsinvestition",
+    "it": "investimento estero",
+    "ro": "investiție străină",
+    "group": "2",
+    "id": 462
+  },
+  {
+    "es": "capital riesgo",
+    "en": "venture capital",
+    "de": "Risikokapital",
+    "it": "capitale di rischio",
+    "ro": "capital de risc",
+    "group": "2",
+    "id": 463
+  },
+  {
+    "es": "fusión y adquisición",
+    "en": "merger and acquisition",
+    "de": "Fusion und Übernahme",
+    "it": "fusione e acquisizione",
+    "ro": "fuziuni și achiziții",
+    "group": "2",
+    "id": 464
+  },
+  {
+    "es": "quiebra",
+    "en": "bankruptcy",
+    "de": "Insolvenz",
+    "it": "bancarotta",
+    "ro": "faliment",
+    "group": "2",
+    "id": 465
+  },
+  {
+    "es": "monopolio",
+    "en": "monopoly",
+    "de": "Monopol",
+    "it": "monopolio",
+    "ro": "monopol",
+    "group": "2",
+    "id": 466
+  },
+  {
+    "es": "competencia leal",
+    "en": "fair competition",
+    "de": "fairer Wettbewerb",
+    "it": "concorrenza leale",
+    "ro": "concurență loială",
+    "group": "2",
+    "id": 467
+  },
+  {
+    "es": "oferta y demanda",
+    "en": "supply and demand",
+    "de": "Angebot und Nachfrage",
+    "it": "offerta e domanda",
+    "ro": "cerere și ofertă",
+    "group": "2",
+    "id": 468
+  },
+  {
+    "es": "cadena de suministro",
+    "en": "supply chain",
+    "de": "Lieferkette",
+    "it": "catena di approvvigionamento",
+    "ro": "lanț de aprovizionare",
+    "group": "2",
+    "id": 469
+  },
+  {
+    "es": "materia prima",
+    "en": "raw material",
+    "de": "Rohstoff",
+    "it": "materia prima",
+    "ro": "materie primă",
+    "group": "2",
+    "id": 470
+  },
+  {
+    "es": "valor añadido",
+    "en": "added value",
+    "de": "Mehrwert",
+    "it": "valore aggiunto",
+    "ro": "valoare adăugată",
+    "group": "2",
+    "id": 471
+  },
+  {
+    "es": "productividad",
+    "en": "productivity",
+    "de": "Produktivität",
+    "it": "produttività",
+    "ro": "productivitate",
+    "group": "2",
+    "id": 472
+  },
+  {
+    "es": "recursos humanos",
+    "en": "human resources",
+    "de": "Personalwesen",
+    "it": "risorse umane",
+    "ro": "resurse umane",
+    "group": "2",
+    "id": 473
+  },
+  {
+    "es": "contrato laboral",
+    "en": "employment contract",
+    "de": "Arbeitsvertrag",
+    "it": "contratto di lavoro",
+    "ro": "contract de muncă",
+    "group": "2",
+    "id": 474
+  },
+  {
+    "es": "despido",
+    "en": "dismissal",
+    "de": "Entlassung",
+    "it": "licenziamento",
+    "ro": "concediere",
+    "group": "2",
+    "id": 475
+  },
+  {
+    "es": "jubilación",
+    "en": "retirement",
+    "de": "Ruhestand",
+    "it": "pensionamento",
+    "ro": "pensionare",
+    "group": "2",
+    "id": 476
+  },
+  {
+    "es": "seguro de desempleo",
+    "en": "unemployment insurance",
+    "de": "Arbeitslosenversicherung",
+    "it": "indennità di disoccupazione",
+    "ro": "ajutor de șomaj",
+    "group": "2",
+    "id": 477
+  },
+  {
+    "es": "negociación colectiva",
+    "en": "collective bargaining",
+    "de": "Tarifverhandlungen",
+    "it": "contrattazione collettiva",
+    "ro": "negociere colectivă",
+    "group": "2",
+    "id": 478
+  },
+  {
+    "es": "huelga",
+    "en": "strike",
+    "de": "Streik",
+    "it": "sciopero",
+    "ro": "grevă",
+    "group": "2",
+    "id": 479
+  },
+  {
+    "es": "subvención",
+    "en": "subsidy",
+    "de": "Subvention",
+    "it": "sussidio",
+    "ro": "subvenție",
+    "group": "2",
+    "id": 480
+  },
+  {
+    "es": "arancel",
+    "en": "tariff",
+    "de": "Zoll",
+    "it": "tariffa doganale",
+    "ro": "tarif vamal",
+    "group": "2",
+    "id": 481
+  },
+  {
+    "es": "zona de libre comercio",
+    "en": "free trade zone",
+    "de": "Freihandelszone",
+    "it": "zona di libero scambio",
+    "ro": "zonă de liber schimb",
+    "group": "2",
+    "id": 482
+  },
+  {
+    "es": "aduana",
+    "en": "customs",
+    "de": "Zollamt",
+    "it": "dogana",
+    "ro": "vamă",
+    "group": "2",
+    "id": 483
+  },
+  {
+    "es": "logística",
+    "en": "logistics",
+    "de": "Logistik",
+    "it": "logistica",
+    "ro": "logistică",
+    "group": "2",
+    "id": 484
+  },
+  {
+    "es": "almacenamiento",
+    "en": "storage",
+    "de": "Lagerung",
+    "it": "stoccaggio",
+    "ro": "depozitare",
+    "group": "2",
+    "id": 485
+  },
+  {
+    "es": "distribución",
+    "en": "distribution",
+    "de": "Vertrieb",
+    "it": "distribuzione",
+    "ro": "distribuție",
+    "group": "2",
+    "id": 486
+  },
+  {
+    "es": "comercio electrónico",
+    "en": "e-commerce",
+    "de": "E-Commerce",
+    "it": "commercio elettronico",
+    "ro": "comerț electronic",
+    "group": "2",
+    "id": 487
+  },
+  {
+    "es": "marketing digital",
+    "en": "digital marketing",
+    "de": "Digitales Marketing",
+    "it": "marketing digitale",
+    "ro": "marketing digital",
+    "group": "2",
+    "id": 488
+  },
+  {
+    "es": "investigación de mercado",
+    "en": "market research",
+    "de": "Marktforschung",
+    "it": "ricerca di mercato",
+    "ro": "cercetare de piață",
+    "group": "2",
+    "id": 489
+  },
+  {
+    "es": "segmentación",
+    "en": "segmentation",
+    "de": "Segmentierung",
+    "it": "segmentazione",
+    "ro": "segmentare",
+    "group": "2",
+    "id": 490
+  },
+  {
+    "es": "fidelización",
+    "en": "customer loyalty",
+    "de": "Kundenbindung",
+    "it": "fidelizzazione",
+    "ro": "fidelizarea clienților",
+    "group": "2",
+    "id": 491
+  },
+  {
+    "es": "ventaja competitiva",
+    "en": "competitive advantage",
+    "de": "Wettbewerbsvorteil",
+    "it": "vantaggio competitivo",
+    "ro": "avantaj competitiv",
+    "group": "2",
+    "id": 492
+  },
+  {
+    "es": "plan de negocio",
+    "en": "business plan",
+    "de": "Businessplan",
+    "it": "piano aziendale",
+    "ro": "plan de afaceri",
+    "group": "2",
+    "id": 493
+  },
+  {
+    "es": "estrategia corporativa",
+    "en": "corporate strategy",
+    "de": "Unternehmensstrategie",
+    "it": "strategia aziendale",
+    "ro": "strategie corporativă",
+    "group": "2",
+    "id": 494
+  },
+  {
+    "es": "gobierno corporativo",
+    "en": "corporate governance",
+    "de": "Unternehmensführung",
+    "it": "governo societario",
+    "ro": "guvernanță corporativă",
+    "group": "2",
+    "id": 495
+  },
+  {
+    "es": "accionista",
+    "en": "shareholder",
+    "de": "Aktionär",
+    "it": "azionista",
+    "ro": "acționar",
+    "group": "2",
+    "id": 496
+  },
+  {
+    "es": "junta directiva",
+    "en": "board of directors",
+    "de": "Vorstand",
+    "it": "consiglio di amministrazione",
+    "ro": "consiliu de administrație",
+    "group": "2",
+    "id": 497
+  },
+  {
+    "es": "director ejecutivo",
+    "en": "CEO",
+    "de": "Geschäftsführer",
+    "it": "amministratore delegato",
+    "ro": "director executiv",
+    "group": "2",
+    "id": 498
+  },
+  {
+    "es": "contabilidad",
+    "en": "accounting",
+    "de": "Buchhaltung",
+    "it": "contabilità",
+    "ro": "contabilitate",
+    "group": "2",
+    "id": 499
+  },
+  {
+    "es": "auditoría",
+    "en": "audit",
+    "de": "Prüfung",
+    "it": "audit",
+    "ro": "audit",
+    "group": "2",
+    "id": 500
+  },
+  {
+    "es": "balance general",
+    "en": "balance sheet",
+    "de": "Bilanz",
+    "it": "stato patrimoniale",
+    "ro": "bilanț",
+    "group": "2",
+    "id": 501
+  },
+  {
+    "es": "flujo de caja",
+    "en": "cash flow",
+    "de": "Cashflow",
+    "it": "flusso di cassa",
+    "ro": "flux de numerar",
+    "group": "2",
+    "id": 502
+  },
+  {
+    "es": "cuenta de resultados",
+    "en": "income statement",
+    "de": "Gewinn- und Verlustrechnung",
+    "it": "conto economico",
+    "ro": "contul de profit și pierdere",
+    "group": "2",
+    "id": 503
+  },
+  {
+    "es": "activos",
+    "en": "assets",
+    "de": "Vermögenswerte",
+    "it": "attività",
+    "ro": "active",
+    "group": "2",
+    "id": 504
+  },
+  {
+    "es": "pasivos",
+    "en": "liabilities",
+    "de": "Verbindlichkeiten",
+    "it": "passività",
+    "ro": "pasive",
+    "group": "2",
+    "id": 505
+  },
+  {
+    "es": "patrimonio neto",
+    "en": "equity",
+    "de": "Eigenkapital",
+    "it": "patrimonio netto",
+    "ro": "capitaluri proprii",
+    "group": "2",
+    "id": 506
+  },
+  {
+    "es": "amortización",
+    "en": "amortization",
+    "de": "Abschreibung",
+    "it": "ammortamento",
+    "ro": "amortizare",
+    "group": "2",
+    "id": 507
+  },
+  {
+    "es": "rentabilidad",
+    "en": "profitability",
+    "de": "Rentabilität",
+    "it": "redditività",
+    "ro": "rentabilitate",
+    "group": "2",
+    "id": 508
+  },
+  {
+    "es": "umbral de rentabilidad",
+    "en": "break-even point",
+    "de": "Gewinnschwelle",
+    "it": "punto di pareggio",
+    "ro": "punct de echilibru",
+    "group": "2",
+    "id": 509
+  },
+  {
+    "es": "liquidez",
+    "en": "liquidity",
+    "de": "Liquidität",
+    "it": "liquidità",
+    "ro": "lichiditate",
+    "group": "2",
+    "id": 510
+  },
+  {
+    "es": "solvencia",
+    "en": "solvency",
+    "de": "Solvenz",
+    "it": "solvibilità",
+    "ro": "solvabilitate",
+    "group": "2",
+    "id": 511
+  },
+  {
+    "es": "impuesto sobre la renta",
+    "en": "income tax",
+    "de": "Einkommensteuer",
+    "it": "imposta sul reddito",
+    "ro": "impozit pe venit",
+    "group": "2",
+    "id": 512
+  },
+  {
+    "es": "impuesto sobre el valor añadido",
+    "en": "value added tax",
+    "de": "Mehrwertsteuer",
+    "it": "IVA",
+    "ro": "TVA",
+    "group": "2",
+    "id": 513
+  },
+  {
+    "es": "paraíso fiscal",
+    "en": "tax haven",
+    "de": "Steueroase",
+    "it": "paradiso fiscale",
+    "ro": "paradis fiscal",
+    "group": "2",
+    "id": 514
+  },
+  {
+    "es": "exención fiscal",
+    "en": "tax exemption",
+    "de": "Steuerbefreiung",
+    "it": "esenzione fiscale",
+    "ro": "scutire de taxe",
+    "group": "2",
+    "id": 515
+  },
+  {
+    "es": "crédito hipotecario",
+    "en": "mortgage loan",
+    "de": "Hypothekendarlehen",
+    "it": "mutuo ipotecario",
+    "ro": "credit ipotecar",
+    "group": "2",
+    "id": 516
+  },
+  {
+    "es": "préstamo bancario",
+    "en": "bank loan",
+    "de": "Bankdarlehen",
+    "it": "prestito bancario",
+    "ro": "împrumut bancar",
+    "group": "2",
+    "id": 517
+  },
+  {
+    "es": "tasa de cambio",
+    "en": "exchange rate",
+    "de": "Wechselkurs",
+    "it": "tasso di cambio",
+    "ro": "curs de schimb",
+    "group": "2",
+    "id": 518
+  },
+  {
+    "es": "divisa",
+    "en": "currency",
+    "de": "Währung",
+    "it": "valuta",
+    "ro": "valută",
+    "group": "2",
+    "id": 519
+  },
+  {
+    "es": "criptomoneda",
+    "en": "cryptocurrency",
+    "de": "Kryptowährung",
+    "it": "criptovaluta",
+    "ro": "criptomonedă",
+    "group": "2",
+    "id": 520
+  },
+  {
+    "es": "billetera digital",
+    "en": "digital wallet",
+    "de": "digitale Brieftasche",
+    "it": "portafoglio digitale",
+    "ro": "portofel digital",
+    "group": "2",
+    "id": 521
+  },
+  {
+    "es": "cadena de bloques",
+    "en": "blockchain",
+    "de": "Blockchain",
+    "it": "blockchain",
+    "ro": "blockchain",
+    "group": "2",
+    "id": 522
+  },
+  {
+    "es": "inteligencia artificial",
+    "en": "artificial intelligence",
+    "de": "künstliche Intelligenz",
+    "it": "intelligenza artificiale",
+    "ro": "inteligență artificială",
+    "group": "2",
+    "id": 523
+  },
+  {
+    "es": "automatización",
+    "en": "automation",
+    "de": "Automatisierung",
+    "it": "automazione",
+    "ro": "automatizare",
+    "group": "2",
+    "id": 524
+  },
+  {
+    "es": "transformación digital",
+    "en": "digital transformation",
+    "de": "digitale Transformation",
+    "it": "trasformazione digitale",
+    "ro": "transformare digitală",
+    "group": "2",
+    "id": 525
+  },
+  {
+    "es": "teletrabajo",
+    "en": "teleworking",
+    "de": "Telearbeit",
+    "it": "telelavoro",
+    "ro": "telemuncă",
+    "group": "2",
+    "id": 526
+  },
+  {
+    "es": "nómada digital",
+    "en": "digital nomad",
+    "de": "digitaler Nomade",
+    "it": "nomade digitale",
+    "ro": "nomad digital",
+    "group": "2",
+    "id": 527
+  },
+  {
+    "es": "espacio de cotrabajo",
+    "en": "coworking space",
+    "de": "Coworking-Space",
+    "it": "spazio di coworking",
+    "ro": "spațiu de coworking",
+    "group": "2",
+    "id": 528
+  },
+  {
+    "es": "economía colaborativa",
+    "en": "sharing economy",
+    "de": "Share Economy",
+    "it": "economia collaborativa",
+    "ro": "economie colaborativă",
+    "group": "2",
+    "id": 529
+  },
+  {
+    "es": "economía circular",
+    "en": "circular economy",
+    "de": "Kreislaufwirtschaft",
+    "it": "economia circolare",
+    "ro": "economie circulară",
+    "group": "2",
+    "id": 530
+  },
+  {
+    "es": "huella de carbono",
+    "en": "carbon footprint",
+    "de": "CO2-Fußabdruck",
+    "it": "impronta di carbonio",
+    "ro": "amprentă de carbon",
+    "group": "2",
+    "id": 531
+  },
+  {
+    "es": "energía solar",
+    "en": "solar energy",
+    "de": "Solarenergie",
+    "it": "energia solare",
+    "ro": "energie solară",
+    "group": "2",
+    "id": 532
+  },
+  {
+    "es": "energía eólica",
+    "en": "wind energy",
+    "de": "Windenergie",
+    "it": "energia eolica",
+    "ro": "energie eoliană",
+    "group": "2",
+    "id": 533
+  },
+  {
+    "es": "biocombustible",
+    "en": "biofuel",
+    "de": "Biokraftstoff",
+    "it": "biocombustibile",
+    "ro": "biocombustibil",
+    "group": "2",
+    "id": 534
+  },
+  {
+    "es": "responsabilidad social",
+    "en": "social responsibility",
+    "de": "soziale Verantwortung",
+    "it": "responsabilità sociale",
+    "ro": "responsabilitate socială",
+    "group": "2",
+    "id": 535
+  },
+  {
+    "es": "filantropía",
+    "en": "philanthropy",
+    "de": "Philanthropie",
+    "it": "filantropia",
+    "ro": "filantropie",
+    "group": "2",
+    "id": 536
+  },
+  {
+    "es": "sin fines de lucro",
+    "en": "non-profit",
+    "de": "gemeinnützig",
+    "it": "senza scopo di lucro",
+    "ro": "fără scop lucrativ",
+    "group": "2",
+    "id": 537
+  },
+  {
+    "es": "emprendimiento",
+    "en": "entrepreneurship",
+    "de": "Unternehmertum",
+    "it": "imprenditoria",
+    "ro": "antreprenoriat",
+    "group": "2",
+    "id": 538
+  },
+  {
+    "es": "empresa emergente",
+    "en": "startup",
+    "de": "Startup",
+    "it": "startup",
+    "ro": "startup",
+    "group": "2",
+    "id": 539
+  },
+  {
+    "es": "incubadora de empresas",
+    "en": "business incubator",
+    "de": "Inkubator",
+    "it": "incubatore d'imprese",
+    "ro": "incubator de afaceri",
+    "group": "2",
+    "id": 540
+  },
+  {
+    "es": "aceleradora",
+    "en": "accelerator",
+    "de": "Akzelerator",
+    "it": "acceleratore",
+    "ro": "accelerator",
+    "group": "2",
+    "id": 541
+  },
+  {
+    "es": "propuesta de valor",
+    "en": "value proposition",
+    "de": "Wertversprechen",
+    "it": "proposta di valore",
+    "ro": "propunere de valoare",
+    "group": "2",
+    "id": 542
+  },
+  {
+    "es": "modelo de negocio",
+    "en": "business model",
+    "de": "Geschäftsmodell",
+    "it": "modello di business",
+    "ro": "model de afaceri",
+    "group": "2",
+    "id": 543
+  },
+  {
+    "es": "viabilidad",
+    "en": "feasibility",
+    "de": "Machbarkeit",
+    "it": "fattibilità",
+    "ro": "fezabilitate",
+    "group": "2",
+    "id": 544
+  },
+  {
+    "es": "escalabilidad",
+    "en": "scalability",
+    "de": "Skalierbarkeit",
+    "it": "scalabilità",
+    "ro": "scalabilitate",
+    "group": "2",
+    "id": 545
+  },
+  {
+    "es": "tercerización",
+    "en": "outsourcing",
+    "de": "Outsourcing",
+    "it": "esternalizzazione",
+    "ro": "externalizare",
+    "group": "2",
+    "id": 546
+  },
+  {
+    "es": "franquicia",
+    "en": "franchise",
+    "de": "Franchise",
+    "it": "franchising",
+    "ro": "franciză",
+    "group": "2",
+    "id": 547
+  },
+  {
+    "es": "patente",
+    "en": "patent",
+    "de": "Patent",
+    "it": "brevetto",
+    "ro": "brevet",
+    "group": "2",
+    "id": 548
+  },
+  {
+    "es": "marca registrada",
+    "en": "trademark",
+    "de": "Markenzeichen",
+    "it": "marchio registrato",
+    "ro": "marcă înregistrată",
+    "group": "2",
+    "id": 549
+  },
+  {
+    "es": "secreto comercial",
+    "en": "trade secret",
+    "de": "Geschäftsgeheimnis",
+    "it": "segreto commerciale",
+    "ro": "secret comercial",
+    "group": "2",
+    "id": 550
   }
 ]
