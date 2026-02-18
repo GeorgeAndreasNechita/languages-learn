@@ -26,7 +26,7 @@ function App() {
     localStorage.getItem("vocab-lang2") || "de",
   );
   const [wordsLevel, setWordsLevel] = useState(
-    localStorage.getItem("vocab-level") || "1",
+    localStorage.getItem("vocab-words-level") || "1",
   );
 
   // Fetch when level changes
@@ -54,10 +54,10 @@ function App() {
     }
   }
 
-  function saveSettings(src: string, lang2: string, level: string) {
-    localStorage.setItem("vocab-lang1", src);
+  function saveSettings(lang1: string, lang2: string, words_level: string) {
+    localStorage.setItem("vocab-lang1", lang1);
     localStorage.setItem("vocab-lang2", lang2);
-    localStorage.setItem("vocab-level", level);
+    localStorage.setItem("vocab-words-level", words_level);
   }
 
   function swapLanguages() {

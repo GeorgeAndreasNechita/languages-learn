@@ -21,7 +21,11 @@ export default defineConfig({
     '/words': {
       target: 'http://backend:5000',
       changeOrigin: true
-    }
+    },
+    '/articles': {
+      target: 'http://backend:5000',
+      changeOrigin: true
+    },
   }
   }
 })

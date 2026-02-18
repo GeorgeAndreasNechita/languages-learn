@@ -26,15 +26,11 @@ app.get("/words", (req, res) => {
       if (!Array.isArray(words)) {
         return res.status(500).json({ error: "JSON ist kein Array" });
       }
-
-      // Array mischen (Fisher-Yates Shuffle)
       const shuffled = [...words];
       for (let i = shuffled.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
       }
-
-      // Erste 10 zurückgeben (oder weniger, falls < 10 existieren)
       const randomWords = shuffled.slice(0, 30);
 
       res.json(randomWords);
@@ -59,15 +55,11 @@ app.get("/articles", (req, res) => {
       if (!Array.isArray(words)) {
         return res.status(500).json({ error: "JSON ist kein Array" });
       }
-
-      // Array mischen (Fisher-Yates Shuffle)
       const shuffled = [...words];
       for (let i = shuffled.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
       }
-
-      // Erste 10 zurückgeben (oder weniger, falls < 10 existieren)
       const randomWords = shuffled.slice(0, 30);
 
       res.json(randomWords);

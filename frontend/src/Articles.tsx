@@ -19,20 +19,20 @@ function App() {
   const [theme, setTheme] = useState(
     localStorage.getItem("vocab-theme") || "dark",
   );
-  const [srcLang, setSrcLang] = useState(
-    localStorage.getItem("vocab-src") || "es",
+  const [lang1, setLang1] = useState(
+    localStorage.getItem("vocab-lang1") || "es",
   );
-  const [targetLang, setTargetLang] = useState(
-    localStorage.getItem("vocab-target") || "de",
+  const [lang2, setLang2] = useState(
+    localStorage.getItem("vocab-lang2") || "de",
   );
-  const [levelFilter, setLevelFilter] = useState(
-    localStorage.getItem("vocab-level") || "1",
+  const [articlesLevel, setArticlesLevel] = useState(
+    localStorage.getItem("vocab-articles-level") || "1",
   );
 
   // Fetch when level changes
   useEffect(() => {
     fetchData();
-  }, [levelFilter]);
+  }, [articlesLevel]);
 
   useEffect(() => {
     document.documentElement.setAttribute("data-theme", theme);
@@ -43,9 +43,8 @@ function App() {
     try {
       setLoading(true);
 
-      const res = await fetch(`/articles?group=${levelFilter}`);
+      const res = await fetch(`/articles?group=${articlesLevel}`);
       const data = await res.json();
-
       setWords(data);
     } catch (err) {
       console.error("Fehler beim Laden:", err);
@@ -54,25 +53,23 @@ function App() {
     }
   }
 
-  function saveSettings(src: string, target: string, level: string) {
-    localStorage.setItem("vocab-src", src);
-    localStorage.setItem("vocab-target", target);
-    localStorage.setItem("vocab-level", level);
+  function saveSettings(src: string, lang2: string, level: string) {
+    localStorage.setItem("vocab-lang1", src);
+    localStorage.setItem("vocab-lang2", lang2);
+    localStorage.setItem("vocab-articles-level", level);
   }
 
   function swapLanguages() {
-    const newSrc = targetLang;
-    const newTarget = srcLang;
-    setSrcLang(newSrc);
-    setTargetLang(newTarget);
-    saveSettings(newSrc, newTarget, levelFilter);
+    const newSrc = lang2;
+    const newTarget = lang1;
+    setLang1(newSrc);
+    setLang2(newTarget);
+    saveSettings(newSrc, newTarget, articlesLevel);
   }
 
   function removeWord(id: number) {
     setWords((prev) => {
       const updated = prev.filter((word) => word.id !== id);
-
-      // Wenn keine Wörter mehr da sind → neu laden
       if (updated.length === 0) {
         fetchData();
       }
@@ -92,10 +89,10 @@ function App() {
 
       <div className="controls">
         <select
-          value={srcLang}
+          value={lang1}
           onChange={(e) => {
-            setSrcLang(e.target.value);
-            saveSettings(e.target.value, targetLang, levelFilter);
+            setLang1(e.target.value);
+            saveSettings(e.target.value, lang2, articlesLevel);
           }}
         >
           <option value="es">🇪🇸 Spanish</option>
@@ -108,10 +105,10 @@ function App() {
         <button className="swap-btn" onClick={swapLanguages}>⇄</button>
 
         <select
-          value={targetLang}
+          value={lang2}
           onChange={(e) => {
-            setTargetLang(e.target.value);
-            saveSettings(srcLang, e.target.value, levelFilter);
+            setLang2(e.target.value);
+            saveSettings(lang1, e.target.value, articlesLevel);
           }}
         >
           <option value="es">🇪🇸 Spanish</option>
@@ -123,13 +120,13 @@ function App() {
 
         <select
         className="words-select"
-          value={levelFilter}
+          value={articlesLevel}
           onChange={(e) => {
-            setLevelFilter(e.target.value);
-            saveSettings(srcLang, targetLang, e.target.value);
+            setArticlesLevel(e.target.value);
+            saveSettings(lang1, lang2, e.target.value);
           }}
         >
-          <option value="1">First Article</option>
+          <option value="1">Article 1</option>
         </select>
       </div>
 
@@ -137,9 +134,9 @@ function App() {
 
       {words.map((item) => (
         <div key={item.id} className="table-row">
-          <div className="word-src">{(item as any)[srcLang] || "---"}</div>
-          <div className="word-target">
-            {(item as any)[targetLang] || "---"}
+          <div className="word-lang1">{(item as any)[lang1] || "---"}</div>
+          <div className="word-lang2">
+            {(item as any)[lang2] || "---"}
           </div>
           <button onClick={() => removeWord(item.id)}>🗑️</button>
         </div>
