@@ -20,7 +20,7 @@ function App() {
     localStorage.getItem("vocab-theme") || "dark",
   );
   const [srcLang, setSrcLang] = useState(
-    localStorage.getItem("vocab-src") || "es",
+    localStorage.getItem("vocab-lang1") || "es",
   );
   const [targetLang, setTargetLang] = useState(
     localStorage.getItem("vocab-target") || "de",
@@ -55,7 +55,7 @@ function App() {
   }
 
   function saveSettings(src: string, target: string, level: string) {
-    localStorage.setItem("vocab-src", src);
+    localStorage.setItem("vocab-lang1", src);
     localStorage.setItem("vocab-target", target);
     localStorage.setItem("vocab-level", level);
   }
