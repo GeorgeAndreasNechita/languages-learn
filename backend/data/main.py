@@ -2,57 +2,59 @@ import json
 import re
 import os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
-def create_incremental_json(input_file, output_file):
+def process_story(input_file):
     try:
-        # 1. Datei einlesen
         with open(input_file, 'r', encoding='utf-8') as f:
             text = f.read()
 
-        # 2. Text an den Zeichen . , : ; ? ! splitten
-        # Wir behalten die Satzzeichen hier nicht im Split, 
-        # außer du möchtest sie explizit dabei haben.
-        raw_segments = re.split(r'[.,:;?!]', text)
-        
-        # Leere Segmente entfernen und Leerzeichen trimmen
-        segments = [s.strip() for s in raw_segments if s.strip()]
+        # Trennen an . , : ; ? !
+        # re.split mit [] findet jedes dieser Zeichen
+        segments = [s.strip() for s in re.split(r'[.,:;?!]', text) if s.strip()]
 
-        json_data = []
-        current_id = 5  # Start-ID laut deinem Beispiel
+        simple_list = []
+        incremental_list = []
+        
+        # Counter für IDs
+        id_simple = 1
+        id_incr = 1
         group_id = "2"
 
-        # 3. Den "Incremental"-Strukturaufbau für jedes Segment (Satz) erstellen
         for segment in segments:
+            # --- Version 1: Einfach (Nur der ganze Satz) ---
+            simple_list.append({
+                "es": segment,
+                "en": "", "de": "", "it": "", "ro": "",
+                "group": group_id,
+                "id": id_simple
+            })
+            id_simple += 1
+
+            # --- Version 2: Inkrementell (Wort für Wort) ---
             words = segment.split()
-            cumulative_phrase = ""
-            
-            for i in range(len(words)):
-                if i == 0:
-                    cumulative_phrase = words[i]
-                else:
-                    cumulative_phrase += " " + words[i]
-                
-                # Hier setzen wir vorerst Platzhalter für die Übersetzungen
-                entry = {
-                    "es": cumulative_phrase, # Hier steht aktuell der Originaltext
-                    "en": "TODO",
-                    "de": "TODO",
-                    "it": "TODO",
-                    "ro": "TODO",
+            for i in range(1, len(words) + 1):
+                phrase = " ".join(words[:i])
+                incremental_list.append({
+                    "es": phrase,
+                    "en": "", "de": "", "it": "", "ro": "",
                     "group": group_id,
-                    "id": current_id
-                }
-                json_data.append(entry)
-                current_id += 1
+                    "id": id_incr
+                })
+                id_incr += 1
 
-        # 4. Als JSON speichern
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(json_data, f, ensure_ascii=False, indent=2)
+        # Speichern der einfachen Version
+        with open('story_simple.json', 'w', encoding='utf-8') as f:
+            json.dump(simple_list, f, ensure_ascii=False, indent=2)
 
-        print(f"Erfolgreich! {len(json_data)} Einträge in {output_file} gespeichert.")
+        # Speichern der inkrementellen Version
+        with open('story_incremental.json', 'w', encoding='utf-8') as f:
+            json.dump(incremental_list, f, ensure_ascii=False, indent=2)
+
+        print(f"Erfolg!")
+        print(f"- Einfache Version: {len(simple_list)} Einträge")
+        print(f"- Inkrementelle Version: {len(incremental_list)} Einträge")
 
     except FileNotFoundError:
-        print("Fehler: story1.txt wurde nicht gefunden.")
+        print("Datei story1.txt nicht gefunden.")
 
-# Skript ausführen
 if __name__ == "__main__":
-    create_incremental_json('story1.txt', 'story_incremental.json')
+    process_story('story2.txt')
