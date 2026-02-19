@@ -55,14 +55,7 @@ app.get("/api/articles", (req, res) => {
       if (!Array.isArray(words)) {
         return res.status(500).json({ error: "JSON ist kein Array" });
       }
-      const shuffled = [...words];
-      for (let i = shuffled.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-      }
-      const randomWords = shuffled.slice(0, 30);
-
-      res.json(randomWords);
+      res.json(words);
 
     } catch (parseErr) {
       res.status(500).json({ error: "Ungültiges JSON" });

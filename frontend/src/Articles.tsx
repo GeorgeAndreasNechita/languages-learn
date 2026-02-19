@@ -127,6 +127,8 @@ function App() {
           }}
         >
           <option value="1">Article 1</option>
+          <option value="2">Article 2</option>
+          <option value="3">Article 3</option>
         </select>
       </div>
 

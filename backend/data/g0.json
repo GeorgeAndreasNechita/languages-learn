@@ -1,0 +1,587 @@
+[
+  {
+    "es": "Tú",
+    "en": "You",
+    "de": "Du",
+    "it": "Tu",
+    "ro": "Tu",
+    "group": "2",
+    "id": 5
+  },
+  {
+    "es": "Tú eres",
+    "en": "You are",
+    "de": "Du bist",
+    "it": "Tu sei",
+    "ro": "Tu ești",
+    "group": "2",
+    "id": 6
+  },
+  {
+    "es": "Tú eres mi",
+    "en": "You are my",
+    "de": "Du bist mein",
+    "it": "Tu sei il mio",
+    "ro": "Tu ești al meu",
+    "group": "2",
+    "id": 7
+  },
+  {
+    "es": "Tú eres mi mejor",
+    "en": "You are my best",
+    "de": "Du bist mein bester",
+    "it": "Tu sei il mio migliore",
+    "ro": "Tu ești cel mai bun",
+    "group": "2",
+    "id": 8
+  },
+  {
+    "es": "Tú eres mi mejor amigo",
+    "en": "You are my best friend",
+    "de": "Du bist mein bester Freund",
+    "it": "Tu sei il mio migliore amico",
+    "ro": "Tu ești cel mai bun prieten",
+    "group": "2",
+    "id": 9
+  },
+  {
+    "es": "Tú eres mi mejor amigo ahora",
+    "en": "You are my best friend now",
+    "de": "Du bist jetzt mein bester Freund",
+    "it": "Tu sei il mio migliore amico ora",
+    "ro": "Tu ești cel mai bun prieten acum",
+    "group": "2",
+    "id": 10
+  },
+
+  {
+    "es": "Él",
+    "en": "He",
+    "de": "Er",
+    "it": "Lui",
+    "ro": "El",
+    "group": "3",
+    "id": 11
+  },
+  {
+    "es": "Él tiene",
+    "en": "He has",
+    "de": "Er hat",
+    "it": "Lui ha",
+    "ro": "El are",
+    "group": "3",
+    "id": 12
+  },
+  {
+    "es": "Él tiene un",
+    "en": "He has a",
+    "de": "Er hat ein",
+    "it": "Lui ha un",
+    "ro": "El are un",
+    "group": "3",
+    "id": 13
+  },
+  {
+    "es": "Él tiene un coche",
+    "en": "He has a car",
+    "de": "Er hat ein Auto",
+    "it": "Lui ha un'auto",
+    "ro": "El are o mașină",
+    "group": "3",
+    "id": 14
+  },
+  {
+    "es": "Él tiene un coche rojo",
+    "en": "He has a red car",
+    "de": "Er hat ein rotes Auto",
+    "it": "Lui ha un'auto rossa",
+    "ro": "El are o mașină roșie",
+    "group": "3",
+    "id": 15
+  },
+  {
+    "es": "Él tiene un coche rojo nuevo",
+    "en": "He has a new red car",
+    "de": "Er hat ein neues rotes Auto",
+    "it": "Lui ha un'auto rossa nuova",
+    "ro": "El are o mașină roșie nouă",
+    "group": "3",
+    "id": 16
+  },
+
+  {
+    "es": "Nosotros",
+    "en": "We",
+    "de": "Wir",
+    "it": "Noi",
+    "ro": "Noi",
+    "group": "4",
+    "id": 17
+  },
+  {
+    "es": "Nosotros queremos",
+    "en": "We want",
+    "de": "Wir wollen",
+    "it": "Noi vogliamo",
+    "ro": "Noi vrem",
+    "group": "4",
+    "id": 18
+  },
+  {
+    "es": "Nosotros queremos comer",
+    "en": "We want to eat",
+    "de": "Wir wollen essen",
+    "it": "Noi vogliamo mangiare",
+    "ro": "Noi vrem să mâncăm",
+    "group": "4",
+    "id": 19
+  },
+  {
+    "es": "Nosotros queremos comer una",
+    "en": "We want to eat a",
+    "de": "Wir wollen eine essen",
+    "it": "Noi vogliamo mangiare una",
+    "ro": "Noi vrem să mâncăm o",
+    "group": "4",
+    "id": 20
+  },
+  {
+    "es": "Nosotros queremos comer una pizza",
+    "en": "We want to eat a pizza",
+    "de": "Wir wollen eine Pizza essen",
+    "it": "Noi vogliamo mangiare una pizza",
+    "ro": "Noi vrem să mâncăm o pizza",
+    "group": "4",
+    "id": 21
+  },
+  {
+    "es": "Nosotros queremos comer una pizza grande",
+    "en": "We want to eat a large pizza",
+    "de": "Wir wollen eine große Pizza essen",
+    "it": "Noi vogliamo mangiare una pizza grande",
+    "ro": "Noi vrem să mâncăm o pizza mare",
+    "group": "4",
+    "id": 22
+  },
+
+  {
+    "es": "Ella",
+    "en": "She",
+    "de": "Sie",
+    "it": "Lei",
+    "ro": "Ea",
+    "group": "5",
+    "id": 23
+  },
+  {
+    "es": "Ella habla",
+    "en": "She speaks",
+    "de": "Sie spricht",
+    "it": "Lei parla",
+    "ro": "Ea vorbește",
+    "group": "5",
+    "id": 24
+  },
+  {
+    "es": "Ella habla muy",
+    "en": "She speaks very",
+    "de": "Sie spricht sehr",
+    "it": "Lei parla molto",
+    "ro": "Ea vorbește foarte",
+    "group": "5",
+    "id": 25
+  },
+  {
+    "es": "Ella habla muy bien",
+    "en": "She speaks very well",
+    "de": "Sie spricht sehr gut",
+    "it": "Lei parla molto bene",
+    "ro": "Ea vorbește foarte bine",
+    "group": "5",
+    "id": 26
+  },
+  {
+    "es": "Ella habla muy bien español",
+    "en": "She speaks Spanish very well",
+    "de": "Sie spricht sehr gut Spanisch",
+    "it": "Lei parla molto bene lo spagnolo",
+    "ro": "Ea vorbește foarte bine spaniola",
+    "group": "5",
+    "id": 27
+  },
+  {
+    "es": "Ella habla muy bien español hoy",
+    "en": "She speaks Spanish very well today",
+    "de": "Sie spricht heute sehr gut Spanisch",
+    "it": "Lei parla molto bene lo spagnolo oggi",
+    "ro": "Ea vorbește foarte bine spaniola astăzi",
+    "group": "5",
+    "id": 28
+  },
+
+  {
+    "es": "Esto",
+    "en": "This",
+    "de": "Dies",
+    "it": "Questo",
+    "ro": "Aceasta",
+    "group": "6",
+    "id": 29
+  },
+  {
+    "es": "Esto es",
+    "en": "This is",
+    "de": "Dies ist",
+    "it": "Questo è",
+    "ro": "Aceasta este",
+    "group": "6",
+    "id": 30
+  },
+  {
+    "es": "Esto es un",
+    "en": "This is a",
+    "de": "Dies ist ein",
+    "it": "Questo è un",
+    "ro": "Aceasta este un",
+    "group": "6",
+    "id": 31
+  },
+  {
+    "es": "Esto es un libro",
+    "en": "This is a book",
+    "de": "Dies ist ein Buch",
+    "it": "Questo è un libro",
+    "ro": "Aceasta este o carte",
+    "group": "6",
+    "id": 32
+  },
+  {
+    "es": "Esto es un libro interesante",
+    "en": "This is an interesting book",
+    "de": "Dies ist ein interessantes Buch",
+    "it": "Questo è un libro interessante",
+    "ro": "Aceasta este o carte interesantă",
+    "group": "6",
+    "id": 33
+  },
+  {
+    "es": "Esto es un libro interesante para",
+    "en": "This is an interesting book for",
+    "de": "Dies ist ein interessantes Buch für",
+    "it": "Questo è un libro interessante per",
+    "ro": "Aceasta este o carte interesantă pentru",
+    "group": "6",
+    "id": 34
+  },
+  {
+    "es": "Esto es un libro interesante para leer",
+    "en": "This is an interesting book to read",
+    "de": "Dies ist ein interessantes Buch zum Lesen",
+    "it": "Questo è un libro interessante da leggere",
+    "ro": "Aceasta este o carte interesantă de citit",
+    "group": "6",
+    "id": 35
+  },
+
+  {
+    "es": "Ellos",
+    "en": "They",
+    "de": "Sie",
+    "it": "Loro",
+    "ro": "Ei",
+    "group": "7",
+    "id": 36
+  },
+  {
+    "es": "Ellos viven",
+    "en": "They live",
+    "de": "Sie wohnen",
+    "it": "Loro vivono",
+    "ro": "Ei locuiesc",
+    "group": "7",
+    "id": 37
+  },
+  {
+    "es": "Ellos viven en",
+    "en": "They live in",
+    "de": "Sie wohnen in",
+    "it": "Loro vivono in",
+    "ro": "Ei locuiesc în",
+    "group": "7",
+    "id": 38
+  },
+  {
+    "es": "Ellos viven en una",
+    "en": "They live in a",
+    "de": "Sie wohnen in einer",
+    "it": "Loro vivono in una",
+    "ro": "Ei locuiesc într-o",
+    "group": "7",
+    "id": 39
+  },
+  {
+    "es": "Ellos viven en una casa",
+    "en": "They live in a house",
+    "de": "Sie wohnen in einem Haus",
+    "it": "Loro vivono in una casa",
+    "ro": "Ei locuiesc într-o casă",
+    "group": "7",
+    "id": 40
+  },
+  {
+    "es": "Ellos viven en una casa blanca",
+    "en": "They live in a white house",
+    "de": "Sie wohnen in einem weißen Haus",
+    "it": "Loro vivono in una casa bianca",
+    "ro": "Ei locuiesc într-o casă albă",
+    "group": "7",
+    "id": 41
+  },
+
+  {
+    "es": "Yo",
+    "en": "I",
+    "de": "Ich",
+    "it": "Io",
+    "ro": "Eu",
+    "group": "8",
+    "id": 42
+  },
+  {
+    "es": "Yo voy",
+    "en": "I go",
+    "de": "Ich gehe",
+    "it": "Io vado",
+    "ro": "Eu merg",
+    "group": "8",
+    "id": 43
+  },
+  {
+    "es": "Yo voy a",
+    "en": "I go to",
+    "de": "Ich gehe zum",
+    "it": "Io vado al",
+    "ro": "Eu merg la",
+    "group": "8",
+    "id": 44
+  },
+  {
+    "es": "Yo voy a la",
+    "en": "I go to the",
+    "de": "Ich gehe zur",
+    "it": "Io vado alla",
+    "ro": "Eu merg la",
+    "group": "8",
+    "id": 45
+  },
+  {
+    "es": "Yo voy a la playa",
+    "en": "I go to the beach",
+    "de": "Ich gehe zum Strand",
+    "it": "Io vado in spiaggia",
+    "ro": "Eu merg la plajă",
+    "group": "8",
+    "id": 46
+  },
+  {
+    "es": "Yo voy a la playa con",
+    "en": "I go to the beach with",
+    "de": "Ich gehe mit zum Strand",
+    "it": "Io vado in spiaggia con",
+    "ro": "Eu merg la plajă cu",
+    "group": "8",
+    "id": 47
+  },
+  {
+    "es": "Yo voy a la playa con mi",
+    "en": "I go to the beach with my",
+    "de": "Ich gehe mit meiner zum Strand",
+    "it": "Io vado in spiaggia con la mia",
+    "ro": "Eu merg la plajă cu a mea",
+    "group": "8",
+    "id": 48
+  },
+  {
+    "es": "Yo voy a la playa con mi familia",
+    "en": "I go to the beach with my family",
+    "de": "Ich gehe mit meiner Familie zum Strand",
+    "it": "Io vado in spiaggia con la mia famiglia",
+    "ro": "Eu merg la plajă cu familia mea",
+    "group": "8",
+    "id": 49
+  },
+
+  {
+    "es": "El",
+    "en": "The",
+    "de": "Der",
+    "it": "Il",
+    "ro": "Cel",
+    "group": "9",
+    "id": 50
+  },
+  {
+    "es": "El agua",
+    "en": "The water",
+    "de": "Das Wasser",
+    "it": "L'acqua",
+    "ro": "Apa",
+    "group": "9",
+    "id": 51
+  },
+  {
+    "es": "El agua está",
+    "en": "The water is",
+    "de": "Das Wasser ist",
+    "it": "L'acqua è",
+    "ro": "Apa este",
+    "group": "9",
+    "id": 52
+  },
+  {
+    "es": "El agua está muy",
+    "en": "The water is very",
+    "de": "Das Wasser ist sehr",
+    "it": "L'acqua è molto",
+    "ro": "Apa este foarte",
+    "group": "9",
+    "id": 53
+  },
+  {
+    "es": "El agua está muy fría",
+    "en": "The water is very cold",
+    "de": "Das Wasser ist sehr kalt",
+    "it": "L'acqua è molto fredda",
+    "ro": "Apa este foarte rece",
+    "group": "9",
+    "id": 54
+  },
+  {
+    "es": "El agua está muy fría aquí",
+    "en": "The water is very cold here",
+    "de": "Das Wasser ist hier sehr kalt",
+    "it": "L'acqua è molto fredda qui",
+    "ro": "Apa este foarte rece aici",
+    "group": "9",
+    "id": 55
+  },
+
+  {
+    "es": "Mi",
+    "en": "My",
+    "de": "Mein",
+    "it": "Il mio",
+    "ro": "Meu",
+    "group": "10",
+    "id": 56
+  },
+  {
+    "es": "Mi padre",
+    "en": "My father",
+    "de": "Mein Vater",
+    "it": "Mio padre",
+    "ro": "Tatăl meu",
+    "group": "10",
+    "id": 57
+  },
+  {
+    "es": "Mi padre trabaja",
+    "en": "My father works",
+    "de": "Mein Vater arbeitet",
+    "it": "Mio padre lavora",
+    "ro": "Tatăl meu lucrează",
+    "group": "10",
+    "id": 58
+  },
+  {
+    "es": "Mi padre trabaja en",
+    "en": "My father works in",
+    "de": "Mein Vater arbeitet in",
+    "it": "Mio padre lavora in",
+    "ro": "Tatăl meu lucrează într-o",
+    "group": "10",
+    "id": 59
+  },
+  {
+    "es": "Mi padre trabaja en una",
+    "en": "My father works in a",
+    "de": "Mein Vater arbeitet in einer",
+    "it": "Mio padre lavora in un'",
+    "ro": "Tatăl meu lucrează într-o",
+    "group": "10",
+    "id": 60
+  },
+  {
+    "es": "Mi padre trabaja en una oficina",
+    "en": "My father works in an office",
+    "de": "Mein Vater arbeitet in einem Büro",
+    "it": "Mio padre lavora in un ufficio",
+    "ro": "Tatăl meu lucrează într-un birou",
+    "group": "10",
+    "id": 61
+  },
+
+  {
+    "es": "Hoy",
+    "en": "Today",
+    "de": "Heute",
+    "it": "Oggi",
+    "ro": "Astăzi",
+    "group": "11",
+    "id": 62
+  },
+  {
+    "es": "Hoy hace",
+    "en": "Today it is",
+    "de": "Heute ist es",
+    "it": "Oggi fa",
+    "ro": "Astăzi este",
+    "group": "11",
+    "id": 63
+  },
+  {
+    "es": "Hoy hace un",
+    "en": "Today it is a",
+    "de": "Heute ist ein",
+    "it": "Oggi è una",
+    "ro": "Astăzi este o",
+    "group": "11",
+    "id": 64
+  },
+  {
+    "es": "Hoy hace un buen",
+    "en": "Today it is a good",
+    "de": "Heute ist ein schöner",
+    "it": "Oggi è una bella",
+    "ro": "Astăzi este o zi",
+    "group": "11",
+    "id": 65
+  },
+  {
+    "es": "Hoy hace un buen día",
+    "en": "Today is a good day",
+    "de": "Heute ist ein schöner Tag",
+    "it": "Oggi è una bella giornata",
+    "ro": "Astăzi este o zi bună",
+    "group": "11",
+    "id": 66
+  },
+  {
+    "es": "Hoy hace un buen día para",
+    "en": "Today is a good day to",
+    "de": "Heute ist ein schöner Tag zum",
+    "it": "Oggi è una bella giornata per",
+    "ro": "Astăzi este o zi bună pentru",
+    "group": "11",
+    "id": 67
+  },
+  {
+    "es": "Hoy hace un buen día para caminar",
+    "en": "Today is a good day for walking",
+    "de": "Heute ist ein schöner Tag zum Wandern",
+    "it": "Oggi è una bella giornata per camminare",
+    "ro": "Astăzi este o zi bună pentru plimbare",
+    "group": "11",
+    "id": 68
+  }
+]

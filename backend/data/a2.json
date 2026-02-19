@@ -1,0 +1,272 @@
+[
+  {
+    "es": "El sueño de la humanidad",
+    "en": "The dream of humanity",
+    "de": "Der Traum der Menschheit",
+    "it": "Il sogno dell'umanità",
+    "ro": "Visul omenirii",
+    "group": "1",
+    "id": 1
+  },
+  {
+    "es": "de pisar otro planeta",
+    "en": "to set foot on another planet",
+    "de": "einen anderen Planeten zu betreten",
+    "it": "di calpestare un altro pianeta",
+    "ro": "de a păși pe o altă planetă",
+    "group": "1",
+    "id": 2
+  },
+  {
+    "es": "está más cerca que nunca.",
+    "en": "is closer than ever.",
+    "de": "ist näher als je zuvor.",
+    "it": "è più vicino che mai.",
+    "ro": "este mai aproape ca niciodată.",
+    "group": "1",
+    "id": 3
+  },
+  {
+    "es": "Marte",
+    "en": "Mars",
+    "de": "Mars",
+    "it": "Marte",
+    "ro": "Marte",
+    "group": "1",
+    "id": 4
+  },
+  {
+    "es": "el planeta rojo",
+    "en": "the red planet",
+    "de": "der rote Planet",
+    "it": "il pianeta rosso",
+    "ro": "planeta roșie",
+    "group": "1",
+    "id": 5
+  },
+  {
+    "es": "fascina a científicos y visionarios:",
+    "en": "fascinates scientists and visionaries:",
+    "de": "fasziniert Wissenschaftler und Visionäre:",
+    "it": "affascina scienziati e visionari:",
+    "ro": "fascininează cercetătorii și vizionarii:",
+    "group": "1",
+    "id": 6
+  },
+  {
+    "es": "es nuestro vecino más hospitalario",
+    "en": "it is our most hospitable neighbor",
+    "de": "er ist unser gastfreundlichster Nachbar",
+    "it": "è il nostro vicino più ospitale",
+    "ro": "este cel mai ospitalier vecin al nostru",
+    "group": "1",
+    "id": 7
+  },
+  {
+    "es": "en el sistema solar.",
+    "en": "in the solar system.",
+    "de": "im Sonnensystem.",
+    "it": "nel sistema solare.",
+    "ro": "în sistemul solar.",
+    "group": "1",
+    "id": 8
+  },
+  {
+    "es": "Sin embargo",
+    "en": "However",
+    "de": "Doch",
+    "it": "Tuttavia",
+    "ro": "Totuși",
+    "group": "1",
+    "id": 9
+  },
+  {
+    "es": "el camino es largo",
+    "en": "the path is long",
+    "de": "der Weg ist weit",
+    "it": "il cammino è lungo",
+    "ro": "drumul este lung",
+    "group": "1",
+    "id": 10
+  },
+  {
+    "es": "y los peligros sind reales.",
+    "en": "and the dangers are real.",
+    "de": "und die Gefahren sind real.",
+    "it": "e i pericoli sono reali.",
+    "ro": "iar pericolele sunt reale.",
+    "group": "1",
+    "id": 11
+  },
+  {
+    "es": "¿Por qué queremos ir allí?",
+    "en": "Why do we want to go there?",
+    "de": "Warum wollen wir dorthin?",
+    "it": "Perché vogliamo andarci?",
+    "ro": "De ce vrem să mergem acolo?",
+    "group": "1",
+    "id": 12
+  },
+  {
+    "es": "La respuesta es compleja;",
+    "en": "The answer is complex;",
+    "de": "Die Antwort ist komplex;",
+    "it": "La risposta è complessa;",
+    "ro": "Răspunsul este complex;",
+    "group": "1",
+    "id": 13
+  },
+  {
+    "es": "se trata de curiosidad",
+    "en": "it is about curiosity",
+    "de": "es geht um Neugier",
+    "it": "si tratta di curiosità",
+    "ro": "este vorba despre curiozitate",
+    "group": "1",
+    "id": 14
+  },
+  {
+    "es": "pero auch de supervivencia.",
+    "en": "but also about survival.",
+    "de": "aber auch um Überleben.",
+    "it": "ma anche di sopravvivenza.",
+    "ro": "dar și despre supraviețuire.",
+    "group": "1",
+    "id": 15
+  },
+  {
+    "es": "Si la Tierra sufriera una catástrofe",
+    "en": "If the Earth suffered a catastrophe",
+    "de": "Sollte die Erde eine Katastrophe erleiden",
+    "it": "Se la Terra subisse una catastrofe",
+    "ro": "Dacă Pământul ar suferi o catastrofă",
+    "group": "1",
+    "id": 16
+  },
+  {
+    "es": "necesitaríamos un plan B.",
+    "en": "we would need a plan B.",
+    "de": "bräuchten wir einen Plan B.",
+    "it": "avremmo bisogno di un piano B.",
+    "ro": "am avea nevoie de un plan B.",
+    "group": "1",
+    "id": 17
+  },
+  {
+    "es": "Elon Musk",
+    "en": "Elon Musk",
+    "de": "Elon Musk",
+    "it": "Elon Musk",
+    "ro": "Elon Musk",
+    "group": "1",
+    "id": 18
+  },
+  {
+    "es": "el fundador de SpaceX",
+    "en": "the founder of SpaceX",
+    "de": "der Gründer von SpaceX",
+    "it": "il fondatore di SpaceX",
+    "ro": "fondatorul SpaceX",
+    "group": "1",
+    "id": 19
+  },
+  {
+    "es": "trabaja febrilmente en cohetes",
+    "en": "works feverishly on rockets",
+    "de": "arbeitet fieberhaft an Raketen",
+    "it": "lavora febbrilmente ai razzi",
+    "ro": "lucrează febril la rachete",
+    "group": "1",
+    "id": 20
+  },
+  {
+    "es": "que puedan transportar a cientos de personas.",
+    "en": "that can transport hundreds of people.",
+    "de": "die hunderte Menschen transportieren können.",
+    "it": "che possano trasportare centinaia di persone.",
+    "ro": "care pot transporta sute de persoane.",
+    "group": "1",
+    "id": 21
+  },
+  {
+    "es": "Pero el viaje dura meses!",
+    "en": "But the journey lasts months!",
+    "de": "Aber die Reise dauert Monate!",
+    "it": "Ma il viaggio dura mesi!",
+    "ro": "Dar călătoria durează luni de zile!",
+    "group": "1",
+    "id": 22
+  },
+  {
+    "es": "Durante este tiempo",
+    "en": "During this time",
+    "de": "Während dieser Zeit",
+    "it": "Durante questo tempo",
+    "ro": "În acest timp",
+    "group": "1",
+    "id": 23
+  },
+  {
+    "es": "los astronautas están expuestos a la radiación",
+    "en": "the astronauts are exposed to radiation",
+    "de": "sind die Astronauten Strahlung ausgesetzt",
+    "it": "gli astronauti sono esposti alle radiazioni",
+    "ro": "astronauții sunt expuși la radiații",
+    "group": "1",
+    "id": 24
+  },
+  {
+    "es": "lo cual es extremadamente peligroso.",
+    "en": "which is extremely dangerous.",
+    "de": "was extrem gefährlich ist.",
+    "it": "il che è estremamente pericoloso.",
+    "ro": "ceea ce este extrem de periculos.",
+    "group": "1",
+    "id": 25
+  },
+  {
+    "es": "Una vez llegados allí",
+    "en": "Once arrived there",
+    "de": "Dort angekommen",
+    "it": "Una volta arrivati lì",
+    "ro": "Odată ajunși acolo",
+    "group": "1",
+    "id": 26
+  },
+  {
+    "es": "no hay aire para respirar.",
+    "en": "there is no air to breathe.",
+    "de": "gibt es keine Luft zum Atmen.",
+    "it": "non c'è aria per respirare.",
+    "ro": "nu există aer pentru respirat.",
+    "group": "1",
+    "id": 27
+  },
+  {
+    "es": "La atmósfera es delgada",
+    "en": "The atmosphere is thin",
+    "de": "Die Atmosphäre ist dünn",
+    "it": "L'atmosfera è sottile",
+    "ro": "Atmosfera este rarefiată",
+    "group": "1",
+    "id": 28
+  },
+  {
+    "es": "y consiste principalmente en CO2.",
+    "en": "and consists mainly of CO2.",
+    "de": "und besteht hauptsächlich aus CO2.",
+    "it": "e consiste principalmente di CO2.",
+    "ro": "și constă în principal din CO2.",
+    "group": "1",
+    "id": 29
+  },
+  {
+    "es": "Tendríamos que vivir bajo tierra.",
+    "en": "We would have to live underground.",
+    "de": "Wir müssten unter der Erde leben.",
+    "it": "Dovremmo vivere sottoterra.",
+    "ro": "Ar trebui să trăim sub pământ.",
+    "group": "1",
+    "id": 30
+  }
+]
