@@ -1,0 +1,227 @@
+[
+  {
+    "es": "El aroma de las manzanas cocidas",
+    "en": "The aroma of cooked apples",
+    "de": "Der Duft von gekochten Äpfeln",
+    "it": "L'aroma delle mele cotte",
+    "ro": "Aroma merelor gătite",
+    "group": "1",
+    "id": 1
+  },
+  {
+    "es": "trae recuerdos de la infancia",
+    "en": "brings back childhood memories",
+    "de": "weckt Kindheitserinnerungen",
+    "it": "porta alla mente ricordi d'infanzia",
+    "ro": "trezește amintiri din copilărie",
+    "group": "1",
+    "id": 2
+  },
+  {
+    "es": "en muchas culturas diferentes.",
+    "en": "in many different cultures.",
+    "de": "in vielen verschiedenen Kulturen.",
+    "it": "in molte culture diverse.",
+    "ro": "în multe culturi diferite.",
+    "group": "1",
+    "id": 3
+  },
+  {
+    "es": "Cocinar manzanas es una técnica antigua",
+    "en": "Cooking apples is an ancient technique",
+    "de": "Äpfel zu kochen ist eine alte Technik",
+    "it": "Cucinare le mele è una tecnica antica",
+    "ro": "Gătirea merelor este o tehnică veche",
+    "group": "1",
+    "id": 4
+  },
+  {
+    "es": "para conservar la fruta",
+    "en": "to preserve the fruit",
+    "de": "um die Frucht haltbar zu machen",
+    "it": "per conservare la frutta",
+    "ro": "pentru a conserva fructele",
+    "group": "1",
+    "id": 5
+  },
+  {
+    "es": "durante los meses de invierno.",
+    "en": "during the winter months.",
+    "de": "während der Wintermonate.",
+    "it": "durante i mesi invernali.",
+    "ro": "în timpul lunilor de iarnă.",
+    "group": "1",
+    "id": 6
+  },
+  {
+    "es": "Cuando se calientan,",
+    "en": "When they are heated,",
+    "de": "Wenn sie erhitzt werden,",
+    "it": "Quando vengono riscaldate,",
+    "ro": "Când sunt încălzite,",
+    "group": "1",
+    "id": 7
+  },
+  {
+    "es": "la estructura celular se rompe",
+    "en": "the cellular structure breaks down",
+    "de": "bricht die Zellstruktur auf",
+    "it": "la struttura cellulare si rompe",
+    "ro": "structura celulară se destramă",
+    "group": "1",
+    "id": 8
+  },
+  {
+    "es": "y la pulpa se vuelve suave.",
+    "en": "and the pulp becomes soft.",
+    "de": "und das Fruchtfleisch wird weich.",
+    "it": "e la polpa diventa morbida.",
+    "ro": "iar pulpa devine moale.",
+    "group": "1",
+    "id": 9
+  },
+  {
+    "es": "Este proceso libera azúcares naturales",
+    "en": "This process releases natural sugars",
+    "de": "Dieser Prozess setzt natürlichen Zucker frei",
+    "it": "Questo processo rilascia zuccheri naturali",
+    "ro": "Acest proces eliberează zaharuri naturale",
+    "group": "1",
+    "id": 10
+  },
+  {
+    "es": "que intensifican el sabor dulce.",
+    "en": "that intensify the sweet flavor.",
+    "de": "die den süßen Geschmack intensivieren.",
+    "it": "che intensificano il sapore dolce.",
+    "ro": "care intensifică aroma dulce.",
+    "group": "1",
+    "id": 11
+  },
+  {
+    "es": "A menudo se añade canela,",
+    "en": "Cinnamon is often added,",
+    "de": "Oft wird Zimt hinzugefügt,",
+    "it": "Spesso viene aggiunta la cannella,",
+    "ro": "Adesea se adaugă scorțișoară,",
+    "group": "1",
+    "id": 12
+  },
+  {
+    "es": "que tiene propiedades antiinflamatorias.",
+    "en": "which has anti-inflammatory properties.",
+    "de": "die entzündungshemmende Eigenschaften hat.",
+    "it": "che ha proprietà antinfiammatorie.",
+    "ro": "care are proprietăți antiinflamatoare.",
+    "group": "1",
+    "id": 13
+  },
+  {
+    "es": "La compota de manzana es fácil de digerir",
+    "en": "Applesauce is easy to digest",
+    "de": "Apfelmus ist leicht verdaulich",
+    "it": "La passata di mele è facile da digerire",
+    "ro": "Piureul de mere este ușor de digerat",
+    "group": "1",
+    "id": 14
+  },
+  {
+    "es": "y se recomienda para estómagos sensibles.",
+    "en": "and is recommended for sensitive stomachs.",
+    "de": "und wird für empfindliche Mägen empfohlen.",
+    "it": "ed è raccomandata per stomaci sensibili.",
+    "ro": "și este recomandat pentru stomacuri sensibile.",
+    "group": "1",
+    "id": 15
+  },
+  {
+    "es": "Además, la pectina cocida",
+    "en": "Furthermore, cooked pectin",
+    "de": "Zudem ist die gekochte Pektin",
+    "it": "Inoltre, la pectina cotta",
+    "ro": "În plus, pectina gătită",
+    "group": "1",
+    "id": 16
+  },
+  {
+    "es": "es excelente para la salud intestinal.",
+    "en": "is excellent for gut health.",
+    "de": "hervorragend für die Darmgesundheit.",
+    "it": "è eccellente per la salute intestinale.",
+    "ro": "este excelentă pentru sănătatea intestinală.",
+    "group": "1",
+    "id": 17
+  },
+  {
+    "es": "Existen cientos de variedades,",
+    "en": "There are hundreds of varieties,",
+    "de": "Es gibt hunderte von Sorten,",
+    "it": "Esistono centinaia di varietà,",
+    "ro": "Există sute de varietăți,",
+    "group": "1",
+    "id": 18
+  },
+  {
+    "es": "pero algunas son mejores para cocinar.",
+    "en": "but some are better for cooking.",
+    "de": "aber einige eignen sich besser zum Kochen.",
+    "it": "ma alcune sono migliori per cucinare.",
+    "ro": "dar unele sunt mai bune pentru gătit.",
+    "group": "1",
+    "id": 19
+  },
+  {
+    "es": "Las manzanas ácidas mantienen su forma",
+    "en": "Tart apples keep their shape",
+    "de": "Säuerliche Äpfel behalten ihre Form",
+    "it": "Le mele aspre mantengono la forma",
+    "ro": "Merele acrișoare își păstrează forma",
+    "group": "1",
+    "id": 20
+  },
+  {
+    "es": "incluso bajo altas temperaturas.",
+    "en": "even under high temperatures.",
+    "de": "selbst unter hohen Temperaturen.",
+    "it": "anche ad alte temperature.",
+    "ro": "chiar și la temperaturi ridicate.",
+    "group": "1",
+    "id": 21
+  },
+  {
+    "es": "En la cocina moderna,",
+    "en": "In modern cooking,",
+    "de": "In der modernen Küche",
+    "it": "Nella cucina moderna,",
+    "ro": "În bucătăria modernă,",
+    "group": "1",
+    "id": 22
+  },
+  {
+    "es": "se sirven con platos salados",
+    "en": "they are served with savory dishes",
+    "de": "werden sie zu herzhaften Gerichten serviert",
+    "it": "vengono servite con piatti salati",
+    "ro": "sunt servite alături de mâncăruri sărate",
+    "group": "1",
+    "id": 23
+  },
+  {
+    "es": "como el cerdo o el ganso.",
+    "en": "such as pork or goose.",
+    "de": "wie Schweinefleisch oder Gans.",
+    "it": "come maiale o oca.",
+    "ro": "cum ar fi porcul sau gâsca.",
+    "group": "1",
+    "id": 24
+  },
+  {
+    "es": "Es un ingrediente versátil y eterno.",
+    "en": "It is a versatile and timeless ingredient.",
+    "de": "Es ist eine vielseitige und zeitlose Zutat.",
+    "it": "È un ingrediente versatile e senza tempo.",
+    "ro": "Este un ingredient versatil și etern.",
+    "group": "1",
+    "id": 25
+  }
+]

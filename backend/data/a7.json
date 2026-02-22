@@ -1,0 +1,272 @@
+[
+  {
+    "es": "¿Es mejor comer con las manos o con cubiertos?",
+    "en": "Is it better to eat with your hands or with cutlery?",
+    "de": "Ist es besser, mit den Händen oder mit Besteck zu essen?",
+    "it": "È meglio mangiare con le mani o con le posate?",
+    "ro": "Este mai bine să mănânci cu mâinile sau cu tacâmurile?",
+    "group": "1",
+    "id": 1
+  },
+  {
+    "es": "Esta pregunta divide a las culturas del mundo.",
+    "en": "This question divides the cultures of the world.",
+    "de": "Diese Frage spaltet die Kulturen der Welt.",
+    "it": "Questa domanda divide le culture del mondo.",
+    "ro": "Această întrebare divizează culturile lumii.",
+    "group": "1",
+    "id": 2
+  },
+  {
+    "es": "En muchas partes de Asia y África,",
+    "en": "In many parts of Asia and Africa,",
+    "de": "In vielen Teilen Asiens und Afrikas",
+    "it": "In molte parti dell'Asia e dell'Africa,",
+    "ro": "În multe părți ale Asiei și Africii,",
+    "group": "1",
+    "id": 3
+  },
+  {
+    "es": "comer con las manos es una tradición milenaria.",
+    "en": "eating with your hands is a millenary tradition.",
+    "de": "ist das Essen mit den Händen eine jahrtausendealte Tradition.",
+    "it": "mangiare con le mani è una tradizione millenaria.",
+    "ro": "mâncatul cu mâinile este o tradiție milenară.",
+    "group": "1",
+    "id": 4
+  },
+  {
+    "es": "Se considera una conexión directa con la comida.",
+    "en": "It is considered a direct connection with food.",
+    "de": "Es gilt als eine direkte Verbindung zum Essen.",
+    "it": "È considerata una connessione diretta con il cibo.",
+    "ro": "Este considerată o conexiune directă cu mâncarea.",
+    "group": "1",
+    "id": 5
+  },
+  {
+    "es": "El tacto nos permite sentir la temperatura",
+    "en": "Touch allows us to feel the temperature",
+    "de": "Der Tastsinn erlaubt uns, die Temperatur zu spüren",
+    "it": "Il tatto ci permette di sentire la temperatura",
+    "ro": "Simțul tactil ne permite să simțim temperatura",
+    "group": "1",
+    "id": 6
+  },
+  {
+    "es": "y la textura antes de dar el primer bocado.",
+    "en": "and the texture before taking the first bite.",
+    "de": "und die Textur zu fühlen, bevor wir den ersten Bissen nehmen.",
+    "it": "e la consistenza prima di dare il primo morso.",
+    "ro": "și textura înainte de a lua prima înghițitură.",
+    "group": "1",
+    "id": 7
+  },
+  {
+    "es": "Muchos creen que esto mejora la digestión.",
+    "en": "Many believe that this improves digestion.",
+    "de": "Viele glauben, dass dies die Verdauung verbessert.",
+    "it": "Molti credono che questo migliori la digestione.",
+    "ro": "Mulți cred că acest lucru îmbunătățește digestia.",
+    "group": "1",
+    "id": 8
+  },
+  {
+    "es": "En Occidente, sin embargo,",
+    "en": "In the West, however,",
+    "de": "Im Westen hingegen",
+    "it": "In Occidente, tuttavia,",
+    "ro": "În Occident, totuși,",
+    "group": "1",
+    "id": 9
+  },
+  {
+    "es": "el uso del tenedor y el cuchillo es la norma.",
+    "en": "the use of the fork and knife is the norm.",
+    "de": "ist der Gebrauch von Gabel und Messer die Norm.",
+    "it": "l'uso della forchetta e del coltello è la norma.",
+    "ro": "utilizarea furculiței și a cuțitului este norma.",
+    "group": "1",
+    "id": 10
+  },
+  {
+    "es": "Históricamente, los cubiertos eran un signo de estatus.",
+    "en": "Historically, cutlery was a sign of status.",
+    "de": "Historisch gesehen war Besteck ein Zeichen von Status.",
+    "it": "Storicamente, le posate erano un segno di status.",
+    "ro": "Istoric, tacâmurile au fost un semn de statut.",
+    "group": "1",
+    "id": 11
+  },
+  {
+    "es": "El tenedor tardó siglos en ser aceptado",
+    "en": "The fork took centuries to be accepted",
+    "de": "Die Gabel brauchte Jahrhunderte, um akzeptiert zu werden,",
+    "it": "La forchetta ha impiegato secoli per essere accettata",
+    "ro": "Furculiței i-au luat secole să fie acceptată",
+    "group": "1",
+    "id": 12
+  },
+  {
+    "es": "en las mesas de toda Europa.",
+    "en": "on tables across Europe.",
+    "de": "auf den Tischen in ganz Europa.",
+    "it": "sulle tavole di tutta Europa.",
+    "ro": "pe mesele din întreaga Europă.",
+    "group": "1",
+    "id": 13
+  },
+  {
+    "es": "Hoy los usamos por higiene y precisión.",
+    "en": "Today we use them for hygiene and precision.",
+    "de": "Heute benutzen wir sie aus Hygiene und Präzision.",
+    "it": "Oggi le usiamo per igiene e precisione.",
+    "ro": "Astăzi le folosim pentru igienă și precizie.",
+    "group": "1",
+    "id": 14
+  },
+  {
+    "es": "Pero incluso en Europa hay excepciones.",
+    "en": "But even in Europe there are exceptions.",
+    "de": "Aber selbst in Europa gibt es Ausnahmen.",
+    "it": "Ma anche in Europa ci sono eccezioni.",
+    "ro": "Dar chiar și în Europa există excepții.",
+    "group": "1",
+    "id": 15
+  },
+  {
+    "es": "La pizza, el pan o los espárragos",
+    "en": "Pizza, bread, or asparagus",
+    "de": "Pizza, Brot oder Spargel",
+    "it": "La pizza, il pane o gli asparagi",
+    "ro": "Pizza, pâinea sau sparanghelul",
+    "group": "1",
+    "id": 16
+  },
+  {
+    "es": "se comen a menudo con la mano.",
+    "en": "are often eaten by hand.",
+    "de": "werden oft mit der Hand gegessen.",
+    "it": "vengono spesso mangiati con le mani.",
+    "ro": "se mănâncă adesea cu mâna.",
+    "group": "1",
+    "id": 17
+  },
+  {
+    "es": "En la India, se usa la mano derecha",
+    "en": "In India, the right hand is used",
+    "de": "In Indien wird die rechte Hand benutzt,",
+    "it": "In India, si usa la mano destra",
+    "ro": "În India, se folosește mâna dreaptă",
+    "group": "1",
+    "id": 18
+  },
+  {
+    "es": "porque la izquierda se considera impura.",
+    "en": "because the left is considered impure.",
+    "de": "da die linke als unrein gilt.",
+    "it": "perché la sinistra è considerata impura.",
+    "ro": "deoarece stânga este considerată impură.",
+    "group": "1",
+    "id": 19
+  },
+  {
+    "es": "Existen reglas estrictas de etiqueta",
+    "en": "There are strict rules of etiquette",
+    "de": "Es gibt strenge Etikette-Regeln",
+    "it": "Esistono regole rigorose di etichetta",
+    "ro": "Există reguli stricte de etichetă",
+    "group": "1",
+    "id": 20
+  },
+  {
+    "es": "para ambos métodos de alimentación.",
+    "en": "for both methods of eating.",
+    "de": "für beide Methoden der Nahrungsaufnahme.",
+    "it": "per entrambi i metodi di alimentazione.",
+    "ro": "pentru ambele metode de a mânca.",
+    "group": "1",
+    "id": 21
+  },
+  {
+    "es": "El uso de palillos en Asia Oriental",
+    "en": "The use of chopsticks in East Asia",
+    "de": "Der Gebrauch von Stäbchen in Ostasien",
+    "it": "L'uso delle bacchette nell'Asia orientale",
+    "ro": "Utilizarea bețișoarelor în Asia de Est",
+    "group": "1",
+    "id": 22
+  },
+  {
+    "es": "es una tercera vía fascinante.",
+    "en": "is a fascinating third way.",
+    "de": "ist ein faszinierender dritter Weg.",
+    "it": "è una terza via affascinante.",
+    "ro": "este o a treia cale fascinantă.",
+    "group": "1",
+    "id": 23
+  },
+  {
+    "es": "Requieren una gran destreza motriz.",
+    "en": "They require great motor skills.",
+    "de": "Sie erfordern eine große motorische Geschicklichkeit.",
+    "it": "Richiedono una grande destrezza motoria.",
+    "ro": "Necesită o mare dexteritate motorie.",
+    "group": "1",
+    "id": 24
+  },
+  {
+    "es": "Al final, el objetivo es el mismo:",
+    "en": "In the end, the goal is the same:",
+    "de": "Letztendlich ist das Ziel dasselbe:",
+    "it": "In definitiva, l'obiettivo è lo stesso:",
+    "ro": "În final, obiectivul este același:",
+    "group": "1",
+    "id": 25
+  },
+  {
+    "es": "disfrutar de la comida con respeto.",
+    "en": "to enjoy food with respect.",
+    "de": "das Essen mit Respekt zu genießen.",
+    "it": "godersi il cibo con rispetto.",
+    "ro": "să te bucuri de mâncare cu respect.",
+    "group": "1",
+    "id": 26
+  },
+  {
+    "es": "Ya sea con plata o con los dedos,",
+    "en": "Whether with silver or with fingers,",
+    "de": "Ob mit Silber oder mit den Fingern,",
+    "it": "Che sia con l'argento o con le dita,",
+    "ro": "Fie că este cu argint sau cu degetele,",
+    "group": "1",
+    "id": 27
+  },
+  {
+    "es": "el ritual define nuestra identidad.",
+    "en": "the ritual defines our identity.",
+    "de": "das Ritual definiert unsere Identität.",
+    "it": "il rituale definisce la nostra identità.",
+    "ro": "ritualul ne definește identitatea.",
+    "group": "1",
+    "id": 28
+  },
+  {
+    "es": "La diversidad en la mesa",
+    "en": "Diversity at the table",
+    "de": "Die Vielfalt am Tisch",
+    "it": "La diversità a tavola",
+    "ro": "Diversitatea la masă",
+    "group": "1",
+    "id": 29
+  },
+  {
+    "es": "hace que el mundo sea más rico.",
+    "en": "makes the world richer.",
+    "de": "macht die Welt reicher.",
+    "it": "rende il mondo più ricco.",
+    "ro": "face lumea mai bogată.",
+    "group": "1",
+    "id": 30
+  }
+]

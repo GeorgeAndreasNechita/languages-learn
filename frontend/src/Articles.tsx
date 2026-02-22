@@ -126,9 +126,14 @@ function App() {
             saveSettings(lang1, lang2, e.target.value);
           }}
         >
-          <option value="1">Article 1</option>
-          <option value="2">Article 2</option>
-          <option value="3">Article 3</option>
+          <option value="1">AI: Between Threat and Opportunity</option>
+          <option value="2">Interplanetary Ambition: The Journey to the Red Planet</option>
+          <option value="3">Closer Than the Stars: The Hidden World Beneath Us</option>
+          <option value="4">From Ethiopia to the World: The Future of Our Favorite Bean</option>
+          <option value="5">Take a Seat: The Evolution of the Chair</option>
+          <option value="6">Beyond the Crunch: The Culinary Magic of Cooked Apples</option>
+          <option value="7">The Ritual of Eating: Sensory Connection vs. Refined Etiquette</option>
+          <option value="8">The Global Wardrobe: How Climate Shapes What We Wear</option>
         </select>
       </div>
 

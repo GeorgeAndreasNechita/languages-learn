@@ -1,0 +1,317 @@
+[
+  {
+    "es": "La vestimenta es una respuesta al clima,",
+    "en": "Clothing is a response to the climate,",
+    "de": "Kleidung ist eine Antwort auf das Klima,",
+    "it": "L'abbigliamento è una risposta al clima,",
+    "ro": "Îmbrăcămintea este un răspuns la climă,",
+    "group": "1",
+    "id": 1
+  },
+  {
+    "es": "pero también un reflejo de la cultura.",
+    "en": "but also a reflection of culture.",
+    "de": "aber auch ein Spiegelbild der Kultur.",
+    "it": "ma anche un riflesso della cultura.",
+    "ro": "dar și o reflectare a culturii.",
+    "group": "1",
+    "id": 2
+  },
+  {
+    "es": "En los países cálidos,",
+    "en": "In warm countries,",
+    "de": "In warmen Ländern",
+    "it": "Nei paesi caldi,",
+    "ro": "În țările calde,",
+    "group": "1",
+    "id": 3
+  },
+  {
+    "es": "las telas deben ser ligeras y transpirables.",
+    "en": "fabrics must be light and breathable.",
+    "de": "müssen Stoffe leicht und atmungsaktiv sein.",
+    "it": "i tessuti devono essere leggeri e traspiranti.",
+    "ro": "țesăturile trebuie să fie ușoare și respirabile.",
+    "group": "1",
+    "id": 4
+  },
+  {
+    "es": "El lino y el algodón son esenciales",
+    "en": "Linen and cotton are essential",
+    "de": "Leinen und Baumwolle sind essenziell,",
+    "it": "Il lino e il cotone sono essenziali",
+    "ro": "Inul și bumbacul sunt esențiale",
+    "group": "1",
+    "id": 5
+  },
+  {
+    "es": "para permitir que el aire circule.",
+    "en": "to allow air to circulate.",
+    "de": "um die Luft zirkulieren zu lassen.",
+    "it": "per permettere all'aria di circolare.",
+    "ro": "pentru a permite aerului să circule.",
+    "group": "1",
+    "id": 6
+  },
+  {
+    "es": "Los colores claros reflejan la luz solar,",
+    "en": "Light colors reflect sunlight,",
+    "de": "Helle Farben reflektieren das Sonnenlicht,",
+    "it": "I colori chiari riflettono la luce solare,",
+    "ro": "Culorile deschise reflectă lumina soarelui,",
+    "group": "1",
+    "id": 7
+  },
+  {
+    "es": "evitando que el cuerpo se sobrecaliente.",
+    "en": "preventing the body from overheating.",
+    "de": "und verhindern, dass der Körper überhitzt.",
+    "it": "evitando che il corpo si surriscaldi.",
+    "ro": "prevenind supraîncălzirea corpului.",
+    "group": "1",
+    "id": 8
+  },
+  {
+    "es": "En el desierto, la ropa suele ser holgada.",
+    "en": "In the desert, clothes are usually loose.",
+    "de": "In der Wüste ist die Kleidung meist weit geschnitten.",
+    "it": "Nel deserto, i vestiti sono solitamente ampi.",
+    "ro": "În deșert, hainele sunt de obicei largi.",
+    "group": "1",
+    "id": 9
+  },
+  {
+    "es": "Esto crea una capa de aire aislante.",
+    "en": "This creates an insulating layer of air.",
+    "de": "Dies erzeugt eine isolierende Luftschicht.",
+    "it": "Questo crea uno strato d'aria isolante.",
+    "ro": "Acest lucru creează un strat de aer izolator.",
+    "group": "1",
+    "id": 10
+  },
+  {
+    "es": "Por el contrario, en los países fríos,",
+    "en": "Conversely, in cold countries,",
+    "de": "Im Gegensatz dazu in kalten Ländern",
+    "it": "Al contrario, nei paesi freddi,",
+    "ro": "Dimpotrivă, în țările reci,",
+    "group": "1",
+    "id": 11
+  },
+  {
+    "es": "la clave es el sistema de capas.",
+    "en": "the key is the layering system.",
+    "de": "ist das Schichtprinzip der Schlüssel.",
+    "it": "la chiave è il sistema a strati.",
+    "ro": "cheia este sistemul de straturi.",
+    "group": "1",
+    "id": 12
+  },
+  {
+    "es": "La lana es valorada por su calidez.",
+    "en": "Wool is valued for its warmth.",
+    "de": "Wolle wird für ihre Wärme geschätzt.",
+    "it": "La lana è apprezzata per il suo calore.",
+    "ro": "Lâna este prețuită pentru căldura sa.",
+    "group": "1",
+    "id": 13
+  },
+  {
+    "es": "Incluso cuando está húmeda,",
+    "en": "Even when it is wet,",
+    "de": "Selbst wenn sie feucht ist,",
+    "it": "Anche quando è umida,",
+    "ro": "Chiar și atunci când este umedă,",
+    "group": "1",
+    "id": 14
+  },
+  {
+    "es": "mantiene la temperatura corporal.",
+    "en": "it maintains body temperature.",
+    "de": "hält sie die Körpertemperatur.",
+    "it": "mantiene la temperatura corporea.",
+    "ro": "menține temperatura corpului.",
+    "group": "1",
+    "id": 15
+  },
+  {
+    "es": "Las fibras sintéticas modernas",
+    "en": "Modern synthetic fibers",
+    "de": "Moderne synthetische Fasern",
+    "it": "Le fibre sintetiche moderne",
+    "ro": "Fibrele sintetice moderne",
+    "group": "1",
+    "id": 16
+  },
+  {
+    "es": "ofrecen protección contra el viento y la nieve.",
+    "en": "offer protection against wind and snow.",
+    "de": "bieten Schutz vor Wind und Schnee.",
+    "it": "offrono protezione contro il vento e la neve.",
+    "ro": "oferă protecție împotriva vântului și a zăpezii.",
+    "group": "1",
+    "id": 17
+  },
+  {
+    "es": "Los accesorios también cambian.",
+    "en": "Accessories also change.",
+    "de": "Auch die Accessoires ändern sich.",
+    "it": "Anche gli accessori cambiano.",
+    "ro": "Accesoriile se schimbă de asemenea.",
+    "group": "1",
+    "id": 18
+  },
+  {
+    "es": "En el norte, los gorros evitan la pérdida de calor.",
+    "en": "In the north, hats prevent heat loss.",
+    "de": "Im Norden verhindern Mützen Wärmeverlust.",
+    "it": "Al nord, i cappelli prevengono la perdita di calore.",
+    "ro": "În nord, căciulile previn pierderea de căldură.",
+    "group": "1",
+    "id": 19
+  },
+  {
+    "es": "En los trópicos, los sombreros protegen los ojos.",
+    "en": "In the tropics, hats protect the eyes.",
+    "de": "In den Tropen schützen Hüte die Augen.",
+    "it": "Nei tropici, i cappelli proteggono gli occhi.",
+    "ro": "În tropice, pălăriile protejează ochii.",
+    "group": "1",
+    "id": 20
+  },
+  {
+    "es": "La moda globalizada mezcla estos estilos.",
+    "en": "Globalized fashion mixes these styles.",
+    "de": "Globalisierte Mode mischt diese Stile.",
+    "it": "La moda globalizzata mescola questi stili.",
+    "ro": "Moda globalizată amestecă aceste stiluri.",
+    "group": "1",
+    "id": 21
+  },
+  {
+    "es": "Hoy usamos seda en invierno",
+    "en": "Today we use silk in winter",
+    "de": "Heute tragen wir Seide im Winter",
+    "it": "Oggi usiamo la seta in inverno",
+    "ro": "Astăzi folosim mătasea iarna",
+    "group": "1",
+    "id": 22
+  },
+  {
+    "es": "y parkas técnicas en la ciudad.",
+    "en": "and technical parkas in the city.",
+    "de": "und technische Parkas in der Stadt.",
+    "it": "e parka tecnici in città.",
+    "ro": "și parca tehnice în oraș.",
+    "group": "1",
+    "id": 23
+  },
+  {
+    "es": "La cultura influye en el decoro.",
+    "en": "Culture influences decorum.",
+    "de": "Die Kultur beeinflusst den Anstand.",
+    "it": "La cultura influenza il decoro.",
+    "ro": "Cultura influențează decența.",
+    "group": "1",
+    "id": 24
+  },
+  {
+    "es": "En algunos países cálidos,",
+    "en": "In some warm countries,",
+    "de": "In einigen warmen Ländern",
+    "it": "In alcuni paesi caldi,",
+    "ro": "În unele țări calde,",
+    "group": "1",
+    "id": 25
+  },
+  {
+    "es": "cubrirse es una muestra de respeto.",
+    "en": "covering up is a sign of respect.",
+    "de": "ist Bedeckung ein Zeichen von Respekt.",
+    "it": "coprirsi è un segno di rispetto.",
+    "ro": "a te acoperi este un semn de respect.",
+    "group": "1",
+    "id": 26
+  },
+  {
+    "es": "En el Ártico, la funcionalidad es vital.",
+    "en": "In the Arctic, functionality is vital.",
+    "de": "In der Arktis ist Funktionalität überlebenswichtig.",
+    "it": "Nell'Artico, la funzionalità è vitale.",
+    "ro": "În Arctica, funcționalitatea este vitală.",
+    "group": "1",
+    "id": 27
+  },
+  {
+    "es": "La piel animal fue el primer aislante.",
+    "en": "Animal fur was the first insulator.",
+    "de": "Tierfell war der erste Isolator.",
+    "it": "La pelliccia animale è stata il primo isolante.",
+    "ro": "Blana animală a fost primul izolator.",
+    "group": "1",
+    "id": 28
+  },
+  {
+    "es": "Hoy, la tecnología imita a la naturaleza.",
+    "en": "Today, technology mimics nature.",
+    "de": "Heute ahmt die Technik die Natur nach.",
+    "it": "Oggi la tecnologia imita la natura.",
+    "ro": "Astăzi, tehnologia imită natura.",
+    "group": "1",
+    "id": 29
+  },
+  {
+    "es": "El calzado también se adapta.",
+    "en": "Footwear also adapts.",
+    "de": "Auch das Schuhwerk passt sich an.",
+    "it": "Anche le calzature si adattano.",
+    "ro": "Încălțămintea se adaptează de asemenea.",
+    "group": "1",
+    "id": 30
+  },
+  {
+    "es": "Sandalias para el calor,",
+    "en": "Sandals for the heat,",
+    "de": "Sandalen für die Hitze,",
+    "it": "Sandali per il caldo,",
+    "ro": "Sandale pentru căldură,",
+    "group": "1",
+    "id": 31
+  },
+  {
+    "es": "botas gruesas para el hielo.",
+    "en": "thick boots for the ice.",
+    "de": "dicke Stiefel für das Eis.",
+    "it": "stivali spessi per il ghiaccio.",
+    "ro": "cizme groase pentru gheață.",
+    "group": "1",
+    "id": 32
+  },
+  {
+    "es": "Nuestra piel es frágil,",
+    "en": "Our skin is fragile,",
+    "de": "Unsere Haut ist zerbrechlich,",
+    "it": "La nostra pelle è fragile,",
+    "ro": "Pielea noastră este fragilă,",
+    "group": "1",
+    "id": 33
+  },
+  {
+    "es": "pero nuestra ropa nos permite habitar",
+    "en": "but our clothes allow us to inhabit",
+    "de": "aber unsere Kleidung erlaubt uns zu bewohnen",
+    "it": "ma i nostri vestiti ci permettono di abitare",
+    "ro": "dar hainele noastre ne permit să locuim",
+    "group": "1",
+    "id": 34
+  },
+  {
+    "es": "cualquier rincón del planeta.",
+    "en": "any corner of the planet.",
+    "de": "jeden Winkel des Planeten.",
+    "it": "qualsiasi angolo del pianeta.",
+    "ro": "orice colț al planetei.",
+    "group": "1",
+    "id": 35
+  }
+]
