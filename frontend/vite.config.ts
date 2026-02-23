@@ -18,18 +18,10 @@ export default defineConfig({
       interval: 100,
     },
     proxy: {
-      "/api/words": {
+      "/api": {
         target: "http://backend:5000",
         changeOrigin: true,
-      },
-      "/api/articles": {
-        target: "http://backend:5000",
-        changeOrigin: true,
-      },
-      "/api/feedback": {
-        target: "http://backend:5000",
-        changeOrigin: true,
-      },
+      }
     },
   },
 });
