@@ -13,7 +13,7 @@ const __dirname = path.dirname(__filename);
 // /words Route liest die JSON-Datei
 app.get("/api/words", (req, res) => {
   const group = req.query.group;
-  const filePath = path.join(__dirname, "data", `g${group}.json`);
+  const filePath = path.join(__dirname, "data","words", `w${group}.json`);
 
   fs.readFile(filePath, "utf8", (err, data) => {
     if (err) {
@@ -42,7 +42,7 @@ app.get("/api/words", (req, res) => {
 });
 app.get("/api/articles", (req, res) => {
   const group = req.query.group;
-  const filePath = path.join(__dirname, "data", `a${group}.json`);
+  const filePath = path.join(__dirname, "data","articles", `a${group}.json`);
 
   fs.readFile(filePath, "utf8", (err, data) => {
     if (err) {
