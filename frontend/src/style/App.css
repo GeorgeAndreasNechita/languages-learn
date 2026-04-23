@@ -118,3 +118,74 @@
   color: var(--accent-color);
   border-bottom: 2px solid var(--bg-color); /* trennt aktiv von Inhalt */
 }
+
+.thematics-page {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.thematics-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.topics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+}
+
+.topic-card {
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--row-bg);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.04);
+  display: flex;
+  flex-direction: column;
+}
+
+.topic-image {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  background-color: #f0f0f0;
+}
+
+.topic-content {
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.topic-card h3 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.topic-description {
+  margin: 0;
+  color: var(--text-color);
+  opacity: 0.85;
+  line-height: 1.4;
+}
+
+.topic-card button {
+  margin-top: auto;
+  padding: 10px 14px;
+  border: none;
+  border-radius: 8px;
+  background: var(--accent-color);
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.topic-card button:hover {
+  opacity: 0.95;
+}

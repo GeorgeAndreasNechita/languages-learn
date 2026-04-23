@@ -11,13 +11,14 @@ export default function App() {
       <nav className="tab-nav">
         <Link to="/">Words</Link>
         <Link to="/articles">Articles</Link>
-        <Link to="/articles">Articles</Link>
+        <Link to="/thematics">Themen</Link>
         <Link to="/settings">Settings</Link>
       </nav>
 
       <Routes>
         <Route path="/" element={<Words />} />
         <Route path="/articles" element={<Articles />} />
+        <Route path="/thematics" element={<Thematics />} />
         <Route path="/settings" element={<Settings />} />
       </Routes>
     </Router>
