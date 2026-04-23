@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Words from "./Words";
 import Articles from "./Articles";
 import Settings from "./Settings";
-import "./App.css";
+// import "./App.css";
 
 export default function App() {
   return (
