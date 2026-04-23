@@ -158,8 +158,8 @@
 
 .topic-content {
   padding: 14px;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-rows: auto 70px auto;
   gap: 10px;
 }
 

@@ -11,86 +11,86 @@ export default function Thematics() {
   const topics: Topic[] = useMemo(
     () => [
       {
-        id: "zahlen",
-        title: "Zahlen",
+        id: "numbers",
+        title: "Numbers",
         description: "Learning numbers and quantities for everyday life.",
-        image: "vite1.svg",
+        image: "numbers.png",
       },
       {
-        id: "schule",
-        title: "Schule",
+        id: "school",
+        title: "School",
         description: "Vocabulary for lessons, subjects, and everyday school life.",
         image: "https://via.placeholder.com/360x220.png?text=Schule",
       },
       {
-        id: "arbeit",
-        title: "Arbeit",
+        id: "work",
+        title: "Work",
         description: "Work-related topics, the workplace, and conversations at work.",
         image: "https://via.placeholder.com/360x220.png?text=Arbeit",
       },
       {
-        id: "familie",
-        title: "Familie",
+        id: "family",
+        title: "Family",
         description: "Family relationships and personal conversations.",
         image: "https://via.placeholder.com/360x220.png?text=Familie",
       },
       {
-        id: "reisen",
-        title: "Reisen",
+        id: "travel",
+        title: "Travel",
         description: "Vocabulary for when you're on the go, on the train, at the airport, and at the hotel.",
         image: "https://via.placeholder.com/360x220.png?text=Reisen",
       },
       {
-        id: "essen",
-        title: "Essen",
+        id: "food",
+        title: "Food",
         description: "Dining out, groceries, and favorite dishes.",
         image: "https://via.placeholder.com/360x220.png?text=Essen",
       },
       {
-        id: "gesundheit",
-        title: "Gesundheit",
+        id: "health",
+        title: "Health",
         description: "The Body, Illness, and Medical Terms.",
         image: "https://via.placeholder.com/360x220.png?text=Gesundheit",
       },
       {
-        id: "einkaufen",
-        title: "Einkaufen",
+        id: "shopping",
+        title: "Shopping",
         description: "Stores, prices, and grocery shopping.",
         image: "https://via.placeholder.com/360x220.png?text=Einkaufen",
       },
       {
         id: "hobbys",
         title: "Hobbys",
-        description: "Freizeit, Sport und Interessen sprechen.",
+        description: "Hobbies, sports, and interests.",
         image: "https://via.placeholder.com/360x220.png?text=Hobbys",
       },
       {
-        id: "natur",
-        title: "Natur",
-        description: "Landschaften, Wetter und Umweltthemen.",
+        id: "nature",
+        title: "Nature",
+        description: "Landscapes, weather, and environmental issues.",
         image: "https://via.placeholder.com/360x220.png?text=Natur",
       },
       {
-        id: "technik",
-        title: "Technik",
-        description: "Geräte, Internet und moderne Technologie.",
+        id: "technology",
+        title: "Technology",
+        description: "Devices, the Internet, and modern technology.",
         image: "https://via.placeholder.com/360x220.png?text=Technik",
       },
       {
-        id: "tiere",
-        title: "Tiere",
-        description: "Tierwelt, Haustiere und Zoo-Besuche.",
+        id: "animals",
+        title: "Animals",
+        description: "Wildlife, pets, and visits to the zoo.",
         image: "https://via.placeholder.com/360x220.png?text=Tiere",
       },
       {
-        id: "zuhause",
-        title: "Zuhause",
-        description: "Wohnung, Möbel und tägliche Routinen zuhause.",
+        id: "at_home",
+        title: "At home",
+        description: "Home, furniture, and daily routines at home.",
         image: "https://via.placeholder.com/360x220.png?text=Zuhause",
       },
       {
-        id: "verkehr",
-        title: "Verkehr",
+        id: "traffic",
+        title: "Traffic",
         description: "Transportmittel, Wegbeschreibungen und Mobilität.",
         image: "https://via.placeholder.com/360x220.png?text=Verkehr",
       },
@@ -114,7 +114,7 @@ export default function Thematics() {
             <div className="topic-content">
               <h3>{topic.title}</h3>
               <p className="topic-description">{topic.description}</p>
-              <button type="button">Choose topics</button>
+              <button type="button">Choose topic</button>
             </div>
           </article>
         ))}
