@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Words from "./Words";
 import Articles from "./Articles";
 import Settings from "./Settings";
+import Thematics from "./Thematics";
 // import "./App.css";
 
 export default function App() {
@@ -10,7 +11,8 @@ export default function App() {
       <nav className="tab-nav">
         <Link to="/">Words</Link>
         <Link to="/articles">Articles</Link>
-        {/* <Link to="/settings">Einstellungen</Link> */}
+        <Link to="/articles">Articles</Link>
+        <Link to="/settings">Settings</Link>
       </nav>
 
       <Routes>
