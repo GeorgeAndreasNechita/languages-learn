@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, NavLink } from "react-router-dom";
 import Words from "./Words";
 import Articles from "./Articles";
 import Settings from "./Settings";
@@ -9,10 +9,10 @@ export default function App() {
   return (
     <Router>
       <nav className="tab-nav">
-        <Link to="/">Words</Link>
-        <Link to="/articles">Articles</Link>
-        <Link to="/thematics">Themen</Link>
-        <Link to="/settings">Settings</Link>
+        <NavLink to="/" className={({ isActive }) => (isActive ? "active" : "")}>Words</NavLink>
+        <NavLink to="/articles" className={({ isActive }) => (isActive ? "active" : "")}>Articles</NavLink>
+        <NavLink to="/thematics" className={({ isActive }) => (isActive ? "active" : "")}>Themen</NavLink>
+        <NavLink to="/settings" className={({ isActive }) => (isActive ? "active" : "")}>Settings</NavLink>
       </nav>
 
       <Routes>
