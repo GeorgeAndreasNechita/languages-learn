@@ -13,49 +13,49 @@ export default function Thematics() {
       {
         id: "zahlen",
         title: "Zahlen",
-        description: "Zahlen und Mengen lernen – ideal für Alltag und Einkaufen.",
-        image: "https://via.placeholder.com/360x220.png?text=Zahlen",
+        description: "Learning numbers and quantities for everyday life.",
+        image: "vite1.svg",
       },
       {
         id: "schule",
         title: "Schule",
-        description: "Wörter für Unterricht, Fächer und Schulalltag.",
+        description: "Vocabulary for lessons, subjects, and everyday school life.",
         image: "https://via.placeholder.com/360x220.png?text=Schule",
       },
       {
         id: "arbeit",
         title: "Arbeit",
-        description: "Berufliche Themen, Arbeitsplatz und Gespräche im Job.",
+        description: "Work-related topics, the workplace, and conversations at work.",
         image: "https://via.placeholder.com/360x220.png?text=Arbeit",
       },
       {
         id: "familie",
         title: "Familie",
-        description: "Beziehungen im Familienkreis und persönliche Gespräche.",
+        description: "Family relationships and personal conversations.",
         image: "https://via.placeholder.com/360x220.png?text=Familie",
       },
       {
         id: "reisen",
         title: "Reisen",
-        description: "Vokabeln für unterwegs, im Zug, am Flughafen und im Hotel.",
+        description: "Vocabulary for when you're on the go, on the train, at the airport, and at the hotel.",
         image: "https://via.placeholder.com/360x220.png?text=Reisen",
       },
       {
         id: "essen",
         title: "Essen",
-        description: "Restaurantbesuche, Lebensmittel und Lieblingsgerichte.",
+        description: "Dining out, groceries, and favorite dishes.",
         image: "https://via.placeholder.com/360x220.png?text=Essen",
       },
       {
         id: "gesundheit",
         title: "Gesundheit",
-        description: "Körper, Krankheit und medizinische Begriffe.",
+        description: "The Body, Illness, and Medical Terms.",
         image: "https://via.placeholder.com/360x220.png?text=Gesundheit",
       },
       {
         id: "einkaufen",
         title: "Einkaufen",
-        description: "Läden, Preise und Einkaufen im Supermarkt.",
+        description: "Stores, prices, and grocery shopping.",
         image: "https://via.placeholder.com/360x220.png?text=Einkaufen",
       },
       {
@@ -102,8 +102,8 @@ export default function Thematics() {
     <main className="thematics-page">
       <section className="thematics-header">
         <div>
-          <h1>Themen für Sprachenlernen</h1>
-          <p>Wähle ein Thema aus, um deinen Wortschatz gezielt aufzubauen.</p>
+          <h1>Topics for Language Learning</h1>
+          <p>Select a topic to build your vocabulary in a targeted way.</p>
         </div>
       </section>
 
@@ -114,7 +114,7 @@ export default function Thematics() {
             <div className="topic-content">
               <h3>{topic.title}</h3>
               <p className="topic-description">{topic.description}</p>
-              <button type="button">Thema wählen</button>
+              <button type="button">Choose topics</button>
             </div>
           </article>
         ))}
