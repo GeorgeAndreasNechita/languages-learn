@@ -1,4 +1,5 @@
 ﻿import { useMemo } from "react";
+import { useNavigate } from "react-router-dom";
 
 interface Topic {
   id: string;
@@ -8,6 +9,7 @@ interface Topic {
 }
 
 export default function Thematics() {
+  const navigate = useNavigate();
   const topics: Topic[] = useMemo(
     () => [
       {
@@ -114,7 +116,9 @@ export default function Thematics() {
             <div className="topic-content">
               <h3>{topic.title}</h3>
               <p className="topic-description">{topic.description}</p>
-              <button type="button">Choose topic</button>
+              <button type="button" onClick={() => navigate(`/topic/${topic.id}`)}>
+                Choose topic
+              </button>
             </div>
           </article>
         ))}

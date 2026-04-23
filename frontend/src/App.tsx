@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, NavLink } from "react-router-dom";
 import Words from "./Words";
 import Articles from "./Articles";
+import SingleTopic from "./SingleTopic";
 // import Settings from "./Settings";
 import Topics from "./Topics";
 import "./style/App.css";
@@ -17,6 +18,7 @@ export default function App() {
 
       <Routes>
         <Route path="/" element={<Topics />} />
+        <Route path="/topic/:id" element={<SingleTopic />} />
         <Route path="/words" element={<Words />} />
         <Route path="/articles" element={<Articles />} />
         {/* <Route path="/settings" element={<Settings />} /> */}
